@@ -1,0 +1,6 @@
+# Ignore finder files
+.DS_store
+
+# Ignore virtual environment folder
+.venv/
+
