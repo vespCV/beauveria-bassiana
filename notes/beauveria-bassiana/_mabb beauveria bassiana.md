@@ -4,6 +4,8 @@ rsync -av --delete \
   "/Users/md/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/400 computer vision/beauveria-bassiana" \
   "/Users/md/Developer/beauveria-bassiana/notes/"
 ```
+[[mabb push to notes]]
+
 [[mabb inbox]]
 # Conventional meta-analysis documentation
 
@@ -23,6 +25,7 @@ rsync -av --delete \
 5. [[mabb literature search and setup database]]
 	1. [[mabb search string]]
 	2. [[mabb databases]]
+		1. [[mabb consensus]]
 	3. [[mabb references from reviews]]
 	4. [[mabb duplicates removed]] with rayyan (import RIS, CSV, pubmed xml, nbib, ciw file)
 6. [[mabb screening studies]]

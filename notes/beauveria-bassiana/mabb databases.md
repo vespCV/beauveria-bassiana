@@ -1,3 +1,4 @@
+
 ## Database template (all pillars)
 
 Run and log for every pillar:

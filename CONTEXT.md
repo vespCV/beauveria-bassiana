@@ -71,3 +71,7 @@ _Avoid_: Committing `temp/`; treating research scratch as the search strategy so
 **Raw search export**:
 A tracked file under `search-results/raw/` (optionally per database) holding a database export used for import into Rayyan or later screening (RIS, PubMed XML, NBIB, CSV, and similar).
 _Avoid_: Leaving exports only outside the repo when reproducibility in-repo is required; storing raw exports under `temp/`
+
+**Consensus coverage check**:
+A Consensus.app pass that returns the most important papers per review pillar so categories, research questions, and search strings can be gap-checked against the applied motivation before database runs are locked. Hits are triaged: theme gaps revise questions or categories; missing synonyms, strain codes, or product names revise strings; out-of-scope papers are ignored. Each Copilot asks for a ranked paper list (title, year, DOI/PMID when available, one-line relevance) plus a separate vocabulary list of strain codes, product names, and delivery terms for string edits.
+_Avoid_: Treating Consensus hits as the systematic corpus; using Consensus as a substitute for logged database searches; Consensus as primary PRISMA evidence; rewriting pillars for every citation; Yes/No or Relationship modes for this pass
