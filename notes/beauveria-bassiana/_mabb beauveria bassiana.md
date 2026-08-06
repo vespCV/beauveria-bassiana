@@ -11,7 +11,15 @@ rsync -av --delete \
 2. [[mabb documentation]] timeline
 3. [[mabb PRISMA reporting standards]]
 4. [[mabb research questions]]
-	1. 
+	1. existing-products
+	2. efficacy-mechanics-delivery
+		1. 01a_efficacy
+		2. 01b_strains_traits
+		3. 01c_formulation_delivery
+	3. 02-autodissemination-social
+	4. 03-nontarget-ecotox
+	5. 04-regulatory-policy
+	6. 05-background-proxies
 5. [[mabb literature search and setup database]]
 	1. [[mabb search string]]
 	2. [[mabb databases]]
