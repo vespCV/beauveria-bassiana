@@ -1,0 +1,61 @@
+# Security Audit (rpi-yolo26-sandbox)
+
+Invoke with `@security-audit`. Run checks; report pass/fail. Skip generic web auth.
+
+**Scope:** repo hygiene before push to GitHub
+
+## Repo (run these)
+
+```sh
+# Deps (skip if no .venv or no requirements yet)
+test -f .venv/bin/activate && test -f requirements.txt -o -f requirements/ -o -f pyproject.toml && \
+  . .venv/bin/activate && pip-audit
+
+git status --short
+git diff --cached --name-only
+git ls-files
+
+# Secrets and credential-shaped strings (ignore local-only trees)
+rg -i 'BEGIN (RSA |OPENSSH |EC |DSA )?PRIVATE KEY|api[_-]?key|secret[_-]?key|password\s*[=:]|smtp[_-]?pass|app[_-]?password|AKIA[0-9A-Z]{16}|ghp_[A-Za-z0-9]{20,}|hf_[A-Za-z0-9]{20,}|xox[baprs]-' \
+  --glob '!notes/**' --glob '!.venv/**' --glob '!.git/**' .
+
+# Email / SMTP wiring must use env or placeholders, not live secrets
+rg -i 'smtp|mail_|sendgrid|ses_|email.*(pass|user|host)|MAIL_' \
+  --glob '!notes/**' --glob '!.venv/**' --glob '!.git/**' \
+  -g '*.py' -g '*.yaml' -g '*.yml' -g '*.env*' -g '*.service' -g '*.md'
+```
+
+**Staged or tracked files must not include:**
+
+| Path / pattern | Why |
+|---|---|
+| `.env`, `.env.*` (except `.env.example` with placeholders) | SMTP, API, local secrets |
+| `credentials*.md`, `*secret*`, `*password*` | Credential dumps |
+| `*.pem`, `*.key`, `id_rsa*`, `*.ppk`, `otp.bin` | Keys / tokens |
+| `notes/` | Local-only research and host details |
+| Capture images (`*.jpg`, `*.jpeg`, `*.png`, `*.webp`) | Field/trap imagery |
+| `logs/`, `*.log`, `*.jsonl` | Runtime paths, system info |
+| Model binaries (`*.pt`, `*.pth`, `*.onnx`, `*.tflite`, `*.engine`, `*_ncnn_model/`, `*_openvino_model/`) | Large / proprietary weights |
+| `.venv/` | Local env |
+
+Confirm `.gitignore` still covers the rows above. Fail if a forbidden path is staged or already tracked (`git ls-files`).
+
+## Project-specific (confirm; no shell unless asked)
+
+- **Email alerts:** SMTP user/password, app passwords, and API mail tokens live in `.env` or Pi-local config only. Committed `config.yaml` / examples use placeholders.
+- **Recipient addresses:** OK in examples if non-sensitive; do not commit personal inboxes with credentials.
+- **Pi access:** no SSH private keys, `authorized_keys` private material, WiFi PSK, or LAN host/IP inventory in git.
+- **systemd units:** no `Environment=` lines with live passwords; reference env files outside the repo or `.env` (gitignored).
+- **Dashboard / bind:** if a local review server exists, bind `127.0.0.1` only unless the user explicitly wants LAN exposure.
+- **Absolute Mac/Pi home paths** in committed docs: prefer relative or generic paths; strip personal usernames when avoidable.
+
+## Pass / fail
+
+| Fail | Action |
+|---|---|
+| Secret or credential hit in staged/tracked content | Stop; do not push |
+| Forbidden path staged or tracked | Unstage / untrack; stop |
+| Live SMTP/SSH/WiFi secret in config or unit file | Stop; move to `.env` |
+| `pip-audit` critical unmitigated (when run) | Stop or document accepted exception |
+
+On **pass**, state: *Security audit passed this session.*

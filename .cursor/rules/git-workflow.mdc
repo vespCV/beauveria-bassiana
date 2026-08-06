@@ -1,0 +1,24 @@
+---
+description: Git workflow constraints; agent instructs only, never push/pull.
+alwaysApply: true
+---
+
+# Git Workflow
+
+## Agent boundary (mandatory)
+
+- **Instruct only for remote sync:** The agent must never run `git push`, `git pull`, or `git fetch` that updates refs from a remote. Tell the user the exact commands to run; they execute them.
+- Local read-only git inspection (`git status`, `git diff`, `git log`, `git show`) is allowed when needed to draft those instructions or a commit the user requested.
+- Commits: only when the user explicitly asks; follow the user git commit protocol.
+
+## Never do
+
+- **No rebase:** Never run `git rebase`, `git pull --rebase`, or set `pull.rebase true`. Do not rewrite published history.
+- **No force push** (`--force`, `--force-with-lease`) to `main` / shared branches unless the user explicitly requests it and accepts the risk.
+- **No history rewrite on shared commits:** no `reset --hard` of published commits, no `commit --amend` of already-pushed commits (unless the user explicitly asks and amend rules are fully met).
+- **No skipping hooks:** never `--no-verify`, `--no-gpg-sign`, or equivalent unless the user explicitly requests it.
+- **No interactive git:** never `-i` forms (`rebase -i`, `add -i`, etc.).
+- **No updating git config** (`git config`, including `--global`) unless the user explicitly asks.
+- **No empty commits** and no committing secrets (`.env`, credentials, keys, PEM files).
+- **No blind `git add .`** when secrets or large binaries may be present; stage intentionally.
+- **Integrate remote changes with merge only:** `git pull --no-rebase` or `git fetch` then `git merge`. Prefer `pull.ff only` so divergent histories require an explicit merge choice.

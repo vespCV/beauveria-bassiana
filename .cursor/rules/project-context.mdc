@@ -1,0 +1,45 @@
+---
+description: Project mission, constraints, and agent priorities for velutina-pathogens
+alwaysApply: true
+---
+
+# Project Context
+
+## Mission
+
+- Assess the evidence for Beauveria bassiana as a biological control agent against target insects, focusing on:
+  - Efficacy
+  - Strain traits
+  - Formulation and delivery methods (selective traps, bait stations, autodissemination devices)
+  - Horizontal transmission potential
+  - Non-target risk
+  - Regulatory readiness
+- Emphasize scenarios where B. bassiana is delivered via fluid or protein carriers designed so that primarily the target insect acquires and vectors the pathogen.
+- A systematic review with quantitative synthesis where data permit
+
+**Primary question**
+- Begin by identifying relevant commercial products (pillar 0: market/products) using authoritative sources:
+  - EPA Biopesticide lists
+  - EU Pesticide Database
+  - CABI
+  - Patent databases (Espacenet, Google Patents)
+- Many products will be oil-based or wettable powders that may work for selective delivery.
+- For all searches, use both full species names and common commercial strain codes (e.g., GHA, ATCC 74040) as soon as identified.
+- When focusing on social insects, add the precise target genus/species to queries to increase the relevance of results.
+- Include grey literature (e.g., FAO reports, national plant protection organizations, conference abstracts) for trap/bait trial data often absent from peer-reviewed literature.
+
+Purpose: Align searches and data extraction with the end goal—identifying B. bassiana products and strategies for selective fluid/protein delivery to target insects—using terminology that maximizes retrieval of practical and commercial evidence.
+
+## Done when
+- Data Extraction & Risk of Bias Assessment
+- Publication Bias Is Evaluated: Funnel plots inspected and statistical tests for asymmetry (e.g., Egger's test or Begg's test) to check for small-study effects.
+- PRISMA Protocol Requirements: The standard PRISMA flow diagram (records identified, screened, included/excluded with reasons) is fully generated and populated.
+- README is finalized
+
+
+## Layout
+
+| path | role |
+|------|------|
+| `notes/beauveria-bassiana/` | Read-only. Maintained in Obsidian; agents must not create, edit, or delete here. |
+| `temp/handoff/` | Session handoff files. Start here for the next session. |
