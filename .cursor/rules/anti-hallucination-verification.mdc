@@ -1,5 +1,5 @@
 ---
-description: Anti-hallucination, verification, traceability, and provenance enforcement. Complements interaction-style.mdc.
+description: Anti-hallucination, verification, traceability, and provenance enforcement. Complements interaction-style.mdc. Paths and phase live in project-context.mdc.
 alwaysApply: true
 ---
 
@@ -12,30 +12,18 @@ alwaysApply: true
 - If something cannot be verified with full provenance, mark it `[to be verified]` or state "I don't know" and refuse to proceed.
 - **Neutrality:** If a user claim conflicts with file contents, verify against source material before agreeing.
 
-## 2. Source of truth (this project)
+## 2. What counts as fact
 
-| Path | Role |
-|------|------|
-| `notes/beauveria-bassiana/` | Search strategy (questions, databases, strings, inclusion intent). Agent read-only. Wins on conflict with summaries. |
-| `.cursor/rules/project-context.mdc` | Always-on agent summary; must stay aligned with notes. |
-| `CONTEXT.md` | Domain glossary. |
-| `docs/adr/` | Locked workflow decisions (phase gate, categories, temp, research scope). |
-| `search-results/raw/` | Tracked raw database exports. |
-| `search-results/screening-phase2/` | Phase 2 records and missing-PDF list when present. |
-| `pdfs/` | Filed and inbox full-text PDFs by category `01`–`06`. |
-| `README.md` | Study selection, inventory, PRISMA counts when present. |
-| `temp/research/`, `temp/handoff/` | Gitignored scratch; not the systematic search log. |
+Treat as fact only:
 
-## 3. Whitelist (treat as fact only)
-
-- Paths and ids that exist on disk or are named in the sources of truth above.
-- Screening category ids: `01-existing-products`, `02-efficacy-mechanics-delivery` (`02a_efficacy`, `02b_strains_traits`, `02c_formulation_delivery`), `03-autodissemination-social`, `04-nontarget-ecotox`, `05-regulatory-policy`, `06-background-proxies`.
-- Phase 2 gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `search-results/screening-phase2/relevant_articles_categorized.csv`, `search-results/screening-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton.
+- Paths and ids that exist on disk, or that are named in `project-context.mdc` (Layout / Current phase), `CONTEXT.md`, or `docs/adr/`.
+- Screening category ids defined under **Screening category** in `CONTEXT.md`.
+- Phase gate artifacts named under **Current phase** in `project-context.mdc` (all required before `@file-pdfs` / inventory / PRISMA E updates).
 - Claims cited to a concrete `(path)` or URL you opened.
 
-## 4. Strict prohibitions
+## 3. Strict prohibitions
 
-- **notes/:** Never create, modify, or delete anything under `notes/`.
+- **notes/:** Edit or create under `notes/` only when the user explicitly allows it for that work; otherwise read-only. Never delete note files unless the user explicitly asks (see Layout in `project-context.mdc`). Notes must stay human-readable without Cursor: no ADRs, `docs/adr/` links, `.cursor/` paths, `@skill` names, or `temp/` agent scratch paths inside notes.
 - Do not invent search strings, databases, hit counts, or screening outcomes.
 - Do not invent Phase 2 CSVs, missing-PDF lists, README inventory rows, or PRISMA numbers.
 - Do not create placeholder gate artifacts to unblock `@file-pdfs`.
@@ -43,18 +31,18 @@ alwaysApply: true
 - Do not use foreign-project paths (`knowledge/`, `program/`, coach workflows, unrelated validators) as if they belonged here.
 - New files and ids: human-readable names that convey why the file exists and how it is used.
 
-## 5. Traceability
+## 4. Traceability
 
 - Cite data as `(path)` when describing provenance in chat.
 - Low-confidence OCR, incomplete PDFs, or bilingual (English/Dutch) items: flag for human review; do not guess.
 
-## 6. Destructive commands
+## 5. Destructive commands
 
 Never suggest `git push --force`, `rm -rf`, or wholesale schema drops without a clear, bold warning:
 
 **WARNING: Irreversible operation. This risks data loss, broken lineage, or loss of auditability.**
 
-## 7. Tool and read failures
+## 6. Tool and read failures
 
 If you cannot read a required file or run a needed check:
 

@@ -2,38 +2,40 @@
 
 Two logged runs per bibliographic database. Registry sources (EPA, EU, CABI) use the catalogue concept only.
 
+Strain/product OR-group updated 2026-08-06 from EPA/EU registry pass. Bare numeric strain ids (447, 203, 147) stay out of Boolean OR-groups (high false-positive risk); use `"strain 447"` only if a run needs them. Do not use bare `OD` or `ES` tokens (noise).
+
 #### Market catalogue (broad)
 
-No trap/bait requirement. Add named commercial strain codes (e.g. GHA, ATCC 74040) to the OR-group once identified from registry hits.
+No trap/bait requirement.
 
 **Google Scholar**
 
 ```
-"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR formulation OR "wettable powder" OR "oil dispersion" OR strain OR GHA OR "ATCC 74040")
+"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR LALGUARD OR Aprehend OR balEnce OR Phoemyc)
 ```
 
 **PubMed** (same string on Europe PMC)
 
 ```
-"Beauveria bassiana"[Title/Abstract] AND (product OR commercial OR registered OR biopesticide OR formulation OR "wettable powder" OR strain OR GHA OR "ATCC 74040")
+"Beauveria bassiana"[Title/Abstract] AND (product OR commercial OR registered OR biopesticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR Aprehend)
 ```
 
 **Dimensions** (publications + patents)
 
 ```
-"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR formulation OR GHA OR "ATCC 74040")
+"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR formulation OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BotaniGard OR Mycotrol OR Naturalis OR Velifer)
 ```
 
 **Lens.org**
 
 ```
-"Beauveria bassiana" (product OR biopesticide OR formulation OR GHA OR "ATCC 74040")
+"Beauveria bassiana" (product OR biopesticide OR formulation OR GHA OR "ATCC 74040" OR BotaniGard OR Mycotrol OR Naturalis)
 ```
 
 **Google Patents / Espacenet**
 
 ```
-"Beauveria bassiana" (biopesticide OR formulation OR product OR strain)
+"Beauveria bassiana" (biopesticide OR formulation OR product OR strain OR GHA OR "wettable powder" OR "oil dispersion" OR bait)
 ```
 
 **EPA Biopesticide** (`epa.gov`)
@@ -59,19 +61,19 @@ No trap/bait requirement. Add named commercial strain codes (e.g. GHA, ATCC 7404
 **Google Scholar**
 
 ```
-"Beauveria bassiana" (trap OR "bait station" OR bait OR autodissemination OR "auto-dissemination" OR "inoculum station" OR "contamination device")
+"Beauveria bassiana" (trap OR "bait station" OR bait OR autodissemination OR "auto-dissemination" OR "inoculum station" OR "contamination device" OR "attract and infect")
 ```
 
 **PubMed** (same string on Europe PMC)
 
 ```
-"Beauveria bassiana"[Title/Abstract] AND (trap OR bait OR autodissemination OR "auto-dissemination" OR "bait station")
+"Beauveria bassiana"[Title/Abstract] AND (trap OR bait OR autodissemination OR "auto-dissemination" OR "bait station" OR "attract and infect")
 ```
 
 **Dimensions**
 
 ```
-"Beauveria bassiana" (trap OR bait OR autodissemination OR "bait station")
+"Beauveria bassiana" (trap OR bait OR autodissemination OR "bait station" OR "attract and infect")
 ```
 
 **Lens.org / Google Patents / Espacenet**

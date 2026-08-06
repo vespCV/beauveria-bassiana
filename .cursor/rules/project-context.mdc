@@ -36,9 +36,9 @@ Purpose: Align searches and data extraction with the end goal—identifying B. b
 
 - Log each planned database run: date, exact string, filters, hit counts (`notes/beauveria-bassiana/mabb literature search and setup database.md`).
 - Store raw exports under `search-results/raw/`.
-- Do not run Phase 2 PDF filing, inventory, or PRISMA E recounts until the phase gate artifacts exist (see Layout and `docs/adr/0001-phase-gated-agent-workflows.md`).
+- Phase gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `search-results/screening-phase2/relevant_articles_categorized.csv`, `search-results/screening-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton (`docs/adr/0001-phase-gated-agent-workflows.md`).
 
-Search strategy authority: `notes/beauveria-bassiana/` (read-only for agents). This rule must stay aligned with those notes; on conflict, notes win. Domain terms: `CONTEXT.md`.
+Search strategy authority: `notes/beauveria-bassiana/` (agents edit only when the user explicitly allows). This rule must stay aligned with those notes; on conflict, notes win. Domain terms: `CONTEXT.md`. Category ids: **Screening category** in `CONTEXT.md`.
 
 ## Done when
 
@@ -50,7 +50,7 @@ Search strategy authority: `notes/beauveria-bassiana/` (read-only for agents). T
 
 | path | role |
 |------|------|
-| `notes/beauveria-bassiana/` | Search strategy source. Read-only. Maintained in Obsidian; agents must not create, edit, or delete here. |
+| `notes/beauveria-bassiana/` | Search strategy source. Maintained in Obsidian; human-readable without Cursor (no ADRs / `.cursor` / `@skills` / `temp/` in note text). Agents edit only when the user explicitly allows. |
 | `CONTEXT.md` | Domain glossary for this review. |
 | `docs/adr/` | Architecture / workflow decisions. |
 | `search-results/raw/` | Tracked raw database exports (RIS, XML, NBIB, CSV, etc.). |

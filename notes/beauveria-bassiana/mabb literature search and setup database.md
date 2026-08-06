@@ -4,6 +4,9 @@
 3. exacte zoek string voor iedere database
 4. filters indien gebruikt
 5. aantal items gevonden in die database
+
+Raw exports: `search-results/raw/{subquestion}_{YYYY-MM-DD}_{database}_{run-label}.{ext}` (see [[mabb databases]]).
+
 # Database-zoekstrategie-aantal items
 
 | Database and Search Strategy                                                       | Number of Research Items |
