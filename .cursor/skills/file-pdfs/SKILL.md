@@ -12,6 +12,16 @@ description: >-
 
 Process new full-text PDFs from `pdfs/inbox/` into the phase 2 library and keep the missing-PDF list and README inventory in sync.
 
+## Phase gate (hard stop)
+
+Before any other step, verify all three exist on disk:
+
+1. `search-results/screening-phase2/relevant_articles_categorized.csv`
+2. `search-results/screening-phase2/pdfs_not_downloaded.md`
+3. `README.md` with study-selection / PRISMA skeleton
+
+If any are missing: refuse, name the missing path(s), and stop. Do not invent stubs or placeholders. See `docs/adr/0001-phase-gated-agent-workflows.md` and `docs/adr/0006-file-pdfs-hard-stop-on-phase-gate.md`.
+
 ## Sources of truth
 
 | Path | Role |
@@ -24,7 +34,7 @@ Process new full-text PDFs from `pdfs/inbox/` into the phase 2 library and keep 
 
 Category folder names must match CSV `category` and the `## {category} (N)` headers in `pdfs_not_downloaded.md`:
 
-pdf/
+pdfs/
 01-existing-products/
 02-efficacy-mechanics-delivery/
     02a_efficacy/

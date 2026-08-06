@@ -7,33 +7,46 @@ alwaysApply: true
 
 ## 1. Core Mandate
 
-- **Zero hallucinations:** Do not invent file paths, slugs, dependencies, or values not in the codebase or `knowledge/`.
-- **Answer only from:** the current conversation, files you have actually opened and read this session, or verified validator/script output from this repo.
+- **Zero hallucinations:** Do not invent file paths, slugs, categories, hit counts, DOIs, or study outcomes not present in files you have read this session.
+- **Answer only from:** the current conversation, files you have actually opened and read this session, or verified command/script output from this repo.
 - If something cannot be verified with full provenance, mark it `[to be verified]` or state "I don't know" and refuse to proceed.
 - **Neutrality:** If a user claim conflicts with file contents, verify against source material before agreeing.
 
 ## 2. Source of truth (this project)
 
+| Path | Role |
+|------|------|
+| `notes/beauveria-bassiana/` | Search strategy (questions, databases, strings, inclusion intent). Agent read-only. Wins on conflict with summaries. |
+| `.cursor/rules/project-context.mdc` | Always-on agent summary; must stay aligned with notes. |
+| `CONTEXT.md` | Domain glossary. |
+| `docs/adr/` | Locked workflow decisions (phase gate, categories, temp, research scope). |
+| `search-results/raw/` | Tracked raw database exports. |
+| `search-results/screening-phase2/` | Phase 2 records and missing-PDF list when present. |
+| `pdfs/` | Filed and inbox full-text PDFs by category `01`–`06`. |
+| `README.md` | Study selection, inventory, PRISMA counts when present. |
+| `temp/research/`, `temp/handoff/` | Gitignored scratch; not the systematic search log. |
 
 ## 3. Whitelist (treat as fact only)
 
+- Paths and ids that exist on disk or are named in the sources of truth above.
+- Screening category ids: `01-existing-products`, `02-efficacy-mechanics-delivery` (`02a_efficacy`, `02b_strains_traits`, `02c_formulation_delivery`), `03-autodissemination-social`, `04-nontarget-ecotox`, `05-regulatory-policy`, `06-background-proxies`.
+- Phase 2 gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `search-results/screening-phase2/relevant_articles_categorized.csv`, `search-results/screening-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton.
+- Claims cited to a concrete `(path)` or URL you opened.
 
 ## 4. Strict prohibitions
 
-- Never invent or alter session or knowledge content without a KB entry, cited `notes/` path, or coach confirmation.
-- Do not use `knowledge/draft/` in generation.
-- Do not assume ingest corrections, loads, units, or exercise semantics without KB entry, cited `notes/` example, or validator pass.
-- Do not invent file paths, slugs, dependencies, or values not in the codebase or `knowledge/`.
-
-- New files and ids: human-readable names that convey **why** the file exists and **how** it is used (`compose-simplicity.mdc`).
-- **Environment:** Do not assume packages or tooling beyond `requirements/`.
 - **notes/:** Never create, modify, or delete anything under `notes/`.
+- Do not invent search strings, databases, hit counts, or screening outcomes.
+- Do not invent Phase 2 CSVs, missing-PDF lists, README inventory rows, or PRISMA numbers.
+- Do not create placeholder gate artifacts to unblock `@file-pdfs`.
+- Do not treat `temp/research/` as a substitute for search documentation in notes.
+- Do not use foreign-project paths (`knowledge/`, `program/`, coach workflows, unrelated validators) as if they belonged here.
+- New files and ids: human-readable names that convey why the file exists and how it is used.
 
 ## 5. Traceability
 
 - Cite data as `(path)` when describing provenance in chat.
-- Low-confidence ingest, OCR, or bilingual (English/Dutch) items: flag for human review; do not guess.
-- Approved sessions: write under `program/{group_id}/sessions/` only after user **approve** (`knowledge/session-rules/strength.json` notes).
+- Low-confidence OCR, incomplete PDFs, or bilingual (English/Dutch) items: flag for human review; do not guess.
 
 ## 6. Destructive commands
 
@@ -43,9 +56,8 @@ Never suggest `git push --force`, `rm -rf`, or wholesale schema drops without a 
 
 ## 7. Tool and read failures
 
-If you cannot read a required file or run the validator:
+If you cannot read a required file or run a needed check:
 
 - Report the failure plainly in English.
 - Do not substitute generic or guessed information.
 - Ask the user for the correct path or clarification before proceeding.
-

@@ -10,6 +10,12 @@ description: >-
 
 Answer **one focused question** from primary sources and leave a citable Markdown file. Do not lock architecture or project decisions here.
 
+## Scope (this project)
+
+- **Allowed:** tooling/docs side questions; optional pillar `01-existing-products` registry/product/patent lookups from authoritative first-party sources.
+- **Not allowed:** substituting for systematic database runs, hit-count logging, or Rayyan dedup documented in `notes/beauveria-bassiana/`. Those stay in notes (and raw exports under `search-results/raw/`).
+- See `docs/adr/0008-research-skill-scope.md`.
+
 ## Execution
 
 - **Prefer a background agent** for multi-source or long reads so the parent session can continue.

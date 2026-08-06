@@ -4,3 +4,6 @@
 # Ignore virtual environment folder
 .venv/
 
+# Ephemeral agent scratch (research findings, handoffs)
+temp/
+
