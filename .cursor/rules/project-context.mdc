@@ -31,8 +31,7 @@ alwaysApply: true
 Purpose: Align searches and data extraction with the end goal—identifying B. bassiana products and strategies for selective fluid/protein delivery to target insects—using terminology that maximizes retrieval of practical and commercial evidence.
 
 ## Done when
-- Data Extraction & Risk of Bias Assessment
-- Publication Bias Is Evaluated: Funnel plots inspected and statistical tests for asymmetry (e.g., Egger's test or Begg's test) to check for small-study effects.
+- Data Extraction is ready
 - PRISMA Protocol Requirements: The standard PRISMA flow diagram (records identified, screened, included/excluded with reasons) is fully generated and populated.
 - README is finalized
 

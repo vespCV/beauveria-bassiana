@@ -24,7 +24,13 @@ Process new full-text PDFs from `pdfs/inbox/` into the phase 2 library and keep 
 
 Category folder names must match CSV `category` and the `## {category} (N)` headers in `pdfs_not_downloaded.md`:
 
-`vvel-fungus`, `vvel-other`, `other-vesp-fungus`, `other-vesp-non-fungus`, `nontarget-epf`, `trap-bait-delivery`, `backgroundinformation`
+pdfs/
+├── 01-efficacy-mechanics/
+01a_efficacy, 01b_strains_traits, 01c_formulation_delivery
+├── 02-autodissemination-social/
+├── 03-nontarget-ecotox/
+├── 04-regulatory-policy/
+└── 05-background-proxies/ # strictly for papers that are not directly about B. bassiana + traps/baits/autodissemination, so the other four folders stay focused.
 
 ## Workflow
 
