@@ -1,1 +1,1 @@
-Beauveria bassiana for selective trap and bait delivery against invasive exotic insects: a literature review
+Beauveria bassiana for selective trap, bait, and autodissemination delivery: a systematic review

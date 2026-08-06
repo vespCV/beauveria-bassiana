@@ -1,0 +1,3 @@
+# Applied motivation is not inclusion scope
+
+The review is motivated by control of _Vespa velutina_, but primary literature on that species with _B. bassiana_ trap/bait/autodissemination delivery is sparse. Inclusion therefore stays broad: commercial strains/products and transferable evidence from other insects under selective trap, bait, autodissemination, and fluid/protein-carrier delivery. Title and search strings name the intervention, not the motivation taxon. A V. velutina supplementary string is not used here because a separate Vespidae–entomopathogen literature search was already completed. Rejected alternative: narrowing inclusion to V. velutina or "invasive exotic insects" only, which would miss market strains and delivery evidence needed for the end goal.

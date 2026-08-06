@@ -4,6 +4,28 @@ Domain language for the systematic review of _Beauveria bassiana_ as a selective
 
 ## Language
 
+### Review scope
+
+**Applied motivation**:
+The end-use pest that motivates the review (_Vespa velutina_ / Asian hornet). Sparse species-specific literature does not narrow inclusion. A separate Vespidae–entomopathogen search already covers that taxon lane; this review does not re-run a V. velutina supplementary string.
+_Avoid_: Treating V. velutina as a hard inclusion filter; requiring the target taxon in every search string; duplicating the prior Vespidae–entomopathogen search here
+
+**Inclusion scope**:
+Evidence eligible for screening: _B. bassiana_ (including commercial strains and products) used with selective traps, bait stations, autodissemination devices, and/or fluid or protein carriers, plus transferable mechanisms (strain traits, formulation, horizontal transmission, non-target risk, regulation) from other insects when the intervention or pathway is relevant to that delivery model.
+_Avoid_: Restricting the corpus to invasive exotic insects only; equating title pest wording with eligibility
+
+**Transferable evidence**:
+Studies on non-motivation taxa kept because strain, formulation, delivery, social transmission, or risk findings can inform the applied motivation.
+_Avoid_: Proxy as a synonym for out-of-scope noise; background-only papers without a clear transfer path (those belong in screening category `06-background-proxies` with explicit rationale)
+
+**Market catalogue search**:
+The broad `01-existing-products` run that retrieves registered/commercial _B. bassiana_ products and strains without requiring trap or bait terms.
+_Avoid_: Single products string that ANDs trap/bait and drops registry-only hits
+
+**Delivery systems search**:
+The narrow `01-existing-products` run that retrieves trap, bait station, and autodissemination device literature for _B. bassiana_.
+_Avoid_: Using this run alone as the product/strain inventory
+
 ### Review workflow
 
 **Search documentation**:
