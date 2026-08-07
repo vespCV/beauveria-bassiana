@@ -41,10 +41,19 @@ Purpose: Align searches and data extraction with the end goal—identifying B. b
 Search strategy authority: `notes/beauveria-bassiana/` (agents edit only when the user explicitly allows). This rule must stay aligned with those notes; on conflict, notes win. Domain terms: `CONTEXT.md`. Category ids: **Screening category** in `CONTEXT.md`.
 
 ## Done when
+Deliverables are done
+- existing products
+  - strain
+  - seller/producer
+  - patent
+  - references in scientific literature
+- efficacy
+- strains-traits
+- formulation-delivery
+- autodissemination-social
+- nontarget-ecotox
+- regulatory-policy
 
-- Data Extraction is ready
-- PRISMA Protocol Requirements: The standard PRISMA flow diagram (records identified, screened, included/excluded with reasons) is fully generated and populated.
-- README is finalized
 
 ## Layout
 

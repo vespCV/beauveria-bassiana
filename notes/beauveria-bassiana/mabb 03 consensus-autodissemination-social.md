@@ -1,159 +1,153 @@
-1. Bioprocess and genetic advances enhancing Beauveria bassiana biocontrol efficacy.
+1. Horizontal transmission of Beauveria bassiana spores using infected males and inoculation device: impact on survival and fecundity of Ceratitis capitata (Diptera: Tephritidae)
     
-    Kolanchi
+    Gálvez
     
-    2025
+    2023
     
-2. Preparation, characterization, and insecticidal activity evaluation of three different formulations of Beauveria bassiana against Musca domestica
+2. Simultaneous use of SIT plus disseminator devices of Beauveria bassiana enhances horizontal transmission in Anastrepha ludens
     
-    Mishra
-    
-    2013
-    
-3. Encapsulation of B. bassiana in Biopolymers: Improving Microbiology of Insect Pest Control
-    
-    Felizatti
-    
-    2021
-    
-4. Increased Attraction and Stability of Beauveria bassiana-Formulated Microgranules for Aedes aegypti Biocontrol
-    
-    Zamora-Avilés
-    
-    2022
-    
-5. Carrier Formulations to Enhance Conidial Viability and Pathogenicity of Beauveria bassiana against Spodoptera frugiperda Larvae
-    
-    Azurah
-    
-    2026
-    
-6. Beauveria bassiana associated with a novel biomimetic hydrogel to control Aedes albopictus through lure and kill ovitraps
-    
-    Friuli
-    
-    2024
-    
-7. New Beauveria bassiana aerial conidia-based bioinsecticide obtained by spray-dried microencapsulation of the entomopathogenic fungi in biopolymers for crop protection
-    
-    De Jesus Seabra
-    
-    2024
-    
-8. Selection of surfactants for enhancing the wettability of powder formulations of Beauveria bassiana (bals.-criv.) vuill. (1912) (ascomycota: Cordycipitaceae)
-    
-    Melo
+    Montoya
     
     2020
     
-9. Encapsulation of Beauveria bassiana in Polysaccharide-Based Microparticles: A Promising Carrier System for Biological Control Applications
+3. Horizontal Transmission of the Entomopathogenic Fungal Isolate INRS-242 of Beauveria bassiana (Hypocreales: Cordycipitaceae) in Emerald Ash Borer, Agrilus planipennis (Coleoptera: Buprestidae)
     
-    De Oliveira
-    
-    2023
-    
-10. Pathogenicity of three formulations of Beauveria bassiana and efficacy of autoinoculation devices and sterile fruit fly males for dissemination of conidia for the control of Ceratitis capitata
-    
-    Toledo
-    
-    2017
-    
-11. Development of Metarhizium anisopliae and Beauveria bassiana formulations for control of malaria mosquito larvae
-    
-    Bukhari
-    
-    2011
-    
-12. The effect of different formulations of Beauveria bassiana on Sitophilus zeamais in stored maize
-    
-    Hidalgo
-    
-    1998
-    
-13. The production and uses of Beauveria bassiana as a microbial insecticide
-    
-    Mascarin
-    
-    2016
-    
-14. Influence of two formulation types and moisture levels on the storage stability and insecticidal activity of Beauveria bassiana
-    
-    Lopes
+    Srei
     
     2019
     
-15. Shelf-life study of oil-based formulations of Beauveria bassiana enriched with osmoprotectants: effect on conidia germination and efficacy on Diatraea saccharalis
+4. Physiological and Pathogenical Characterization of Beauveria bassiana and Metarhizium anisopliae Isolates for Management of Adult Spodoptera frugiperda1
     
-    García Riaño
+    Gutiérrez-Cárdenas
     
-    2022
+    2019
     
-16. Mortality effect of wettable powder formulations containing entomopathogenic fungal spores against some stored-product pests
+5. Epidemiology of Beauveria bassiana in Controlled Populations of Bactericera cockerelli1
     
-    Barış
+    Suárez-Núñez
     
-    2025
+    2017
     
-17. Assessment of Beauveria bassiana Sprays for Control of Diamondback Moth (Lepidoptera: Plutellidae) on Crucifers
+6. Microbial Control of the Emerald Ash Borer (Coleoptera: Buprestidae) Using Beauveria bassiana (Hypocreales: Cordycipitaceae) by the Means of an Autodissemination Device
     
-    Vandenberg
+    Srei
     
-    1998
+    2020
     
-18. Encapsulation of Beauveria bassiana conidia as a new strategy for the biological control of Aedes aegypti larvae
+7. Horizontal Transmission of the Entomopathogenic Fungus Beauveria bassiana among the Spruce Bark Beetle, Ips typographus (Col., Scolytidae) in the Laboratory and under Field Conditions
     
-    Bitencourt
+    Kreutz
+    
+    2004
+    
+8. Horizontal transmission of the entomopathogenic fungal isolate INRS-242 of Beauveria bassiana in emerald ash borer, Agrilus planipennis Fairmaire
+    
+    Srei
+    
+    2019
+    
+9. Autodissemination of Beauveria bassiana by Sap Beetles (Coleoptera: Nitidulidae) to Overwintering Sites
+    
+    Dowd
+    
+    2003
+    
+10. Horizontal transmission of the entomopathogenic fungal isolate 1 INRS-242 of Beauveria bassiana in emerald ash borer , 2 Agrilus planipennis
+    
+    Fairmaire
+    
+11. Horizontal transmission of the entomopathogenic fungus Beauveria bassiana (Unioeste 76 strain) among adults of Euschistus heros (Fabricius, 1798) (Hemiptera: Pentatomidae)
+    
+    Bento
     
     2024
     
-19. Isolation and Assessment of Stability of Six Formulations of Entomopathogenic Beauveria bassiana.
+12. Transmission of Metarhizium anisopliae and Beauveria bassiana to adults of Kuschelorhynchus macadamiae (Coleoptera: Curculionidae) from infected adults and conidiated cadavers
     
-    Mwamburi
+    Khun
+    
+    2021
+    
+13. Metarhizium anisopliae and Beauveria bassiana: Pathogenicity, Horizontal Transmission, and Their Effects on Reproductive Potential of Thaumatotibia leucotreta (Lepidoptera: Tortricidae)
+    
+    Mkiga
+    
+    2020
+    
+14. Contribution of the horizontal transmission of the entomopathogenic fungus Beauveria bassiana to the overall performance of a fungal powder formulation against Triatoma infestans.
+    
+    Forlani
+    
+    2011
+    
+15. The use of fluorescent powders to track autocontamination of emerald ash borer (Coleoptera: Buprestidae) by the entomopathogen Beauveria bassiana (Ascomycota: Hypocreales)
+    
+    Lyons
     
     2016
     
-20. Technology of a novel conidia-tablet formulation and packaging type to increase Beauveria bassiana (Hypocreales: Ophiocordycipitaceae) shelf life at room temperature
+16. Horizontal transmission of entomopathogenic fungi by the diamondback moth
     
-    Almeida
+    Furlong
+    
+    2001
+    
+17. Towards the Development of an Autocontamination Trap System to Manage Populations of Emerald Ash Borer (Coleoptera: Buprestidae) with the Native Entomopathogenic Fungus, Beauveria bassiana
+    
+    Lyons
+    
+    2012
+    
+18. An auto-contamination trap-strips system for biological control of Hyphantria cunea (Lepidoptera: Noctuidae), an invasive pest in China
+    
+    Bi
+    
+    2018
+    
+19. Evaluation of In2Care mosquito stations for suppression of the Australian backyard mosquito, Aedes notoscriptus (Diptera: Culicidae)
+    
+    Paris
     
     2023
     
+20. Sterile males of Ceratitis capitata (Diptera: Tephritidae) as disseminators of Beauveria bassiana conidia for IPM strategies
+    
+    Flores
+    
+    2013
+    
 
-# **Carrier formulations** modulate _B. bassiana_ viability, germination, persistence, and autodissemination across traps and devices
+# **Auto-dissemination** of _B. bassiana_ is well-documented in non-social insects but **largely untested in social insects**.
 
-Formulation carriers — oil, microencapsulated biopolymers, wettable powders, hydrogels, and bait matrices — differentially affect _Beauveria bassiana_ conidial viability, germination, persistence, and transfer from traps, bait stations, and autodissemination devices. The evidence spans five carrier types and multiple delivery platforms, with oil-based and microencapsulated formulations showing the strongest gains in spore stability and field persistence.
+Auto-dissemination and horizontal transmission of _Beauveria bassiana_ have been demonstrated across numerous insect taxa using trap-based and inoculation-device strategies, but the supplied literature documents no studies in eusocial insects where foragers acquire spores from traps or bait stations and carry them back to a nest. The evidence instead comes from solitary or aggregation-forming species — fruit flies, beetles, moths, true bugs, and triatomine bugs — where contaminated individuals transfer conidia to conspecifics through mating, physical contact, or shared resting sites [Gálvez2023](https://consensus.app/papers/horizontal-transmission-of-beauveria-bassiana-spores-g%C3%A1lvez-flores/e33b267d8417525fbb8d0654008edf30/)[Kreutz2004](https://consensus.app/papers/horizontal-transmission-of-the-entomopathogenic-fungus-kreutz-zimmermann/bc2584ab5ac95e7b933f103edbcc712c/)[Forlani2011](https://consensus.app/papers/contribution-of-the-horizontal-transmission-of-the-forlani-pedrini/46ff82c00da75eb1833eb344db83d866/).
 
-## Oil-Based Carriers: Viability and Persistence
+## Trap and Device-Based Auto-Dissemination
 
-Virgin coconut oil preserved the highest conidial viability after 35 days of storage (69.2% germination), outperforming paraffin oil (55.4%), soybean oil (47.6%), and glycerol (41.4%), while water-only controls dropped to 25.0% [Azurah2026](https://consensus.app/papers/carrier-formulations-to-enhance-conidial-viability-and-azurah-daud/e0fe866f96cf5b6190e77a195313b800/). Both virgin coconut oil and paraffin oil formulations achieved 100% larval mortality by day seven, compared with 98% mortality by day ten for unformulated controls [Azurah2026](https://consensus.app/papers/carrier-formulations-to-enhance-conidial-viability-and-azurah-daud/e0fe866f96cf5b6190e77a195313b800/). Linseed oil emulsions showed 94% conidial germination when freshly prepared, though shelf life declined sharply to 28% germination after 12 months [Mishra2013](https://consensus.app/papers/preparation-characterization-and-insecticidal-activity-mishra-kumar/eb169185f2925e12a698514ee9b91d22/).
+Autocontamination traps lure target insects to a fungal source, contaminate them with conidia, and allow them to return to the population carrying the pathogen. The FraxiProtec autodissemination device loaded with _B. bassiana_ isolate CFL-A infected ~40% of emerald ash borer adults at treated sites over two years and produced a 40% reduction in population growth per tree, with infected beetles recovered up to 125 m from treated areas [Srei2020](https://consensus.app/papers/microbial-control-of-the-emerald-ash-borer-coleoptera-srei-guertin/61afc4fcc5105f7e8f680dd08357f34e/). An autocontamination trap system for emerald ash borer using green multifunnel traps retained fungal pathogenicity for up to 43 days of outdoor exposure, with conidia germination exceeding 69% at 57 days [Lyons2012](https://consensus.app/papers/towards-the-development-of-an-autocontamination-trap-lyons-lavalle%CC%81e/205975c7ffa15e4dbceac35554cb1358/). A separate field study using fluorescent powders to track autocontamination found that ~8% of captured beetles carried powder markers, and viable conidia appeared on ~10% of beetles showing no visible powder — potential evidence of secondary horizontal transmission from beetles that had visited the traps [Lyons2016](https://consensus.app/papers/the-use-of-fluorescent-powders-to-track-autocontamination-lyons-frankenhuyzen/01f3335868bb5d368800b4db0a5b71b3/).
 
-A hydrogenated rapeseed oil pellet maintained 84.7% germination after 45 days at 25°C, compared with 55.3% for an oil suspension formulation [Hidalgo1998](https://consensus.app/papers/the-effect-of-different-formulations-of-beauveria-hidalgo-moore/85309af3aef85dbb88651349bf69e691/). Synthetic oil (ShellSol T) improved spore persistence on water surfaces and significantly reduced anopheline pupation by 39–50% under field conditions in Kenya, outperforming aqueous Tween 80, dry powders, and mineral oil [Bukhari2011](https://consensus.app/papers/development-of-metarhizium-anisopliae-and-beauveria-bukhari-takken/e9241eb605ba5dc89ec1147ed4866447/). Oil-based formulations enriched with trehalose as an osmoprotectant retained over 90% efficacy when stored at 6°C and 18°C, with a modeled shelf life of 36.6 months at 6°C [García Riaño2022](https://consensus.app/papers/shelflife-study-of-oilbased-formulations-of-beauveria-ria%C3%B1o-quiroga-cubides/cc43c37297b659d6b4fc3593063a14e8/). Residual water content in oil dispersion formulations negatively influenced conidial survival, and pre-drying the oil before formulation improved storage stability [Lopes2019](https://consensus.app/papers/influence-of-two-formulation-types-and-moisture-levels-on-lopes-faria/561143dc41a052b4923d185674dd5509/).
-
-## Microencapsulated Carriers: Thermal and UV Protection
-
-|Carrier Matrix|Key Finding|Viability/Outcome|
+|System|Target Pest|Key Outcome|
 |---|---|---|
-|Sodium alginate/maltodextrin (spray-dried)|Retained 89.5% viability; thermal protection at 45°C|83.1% mortality vs. 64.8% non-encapsulated [De Jesus Seabra2024](https://consensus.app/papers/new-beauveria-bassiana-aerial-conidiabased-seabra-santos/32334f35bf2654b298803e7828c5af46/)|
-|Lignin, cellulose, starch, alginate (spray-dried)|Smaller particles, better aqueous dispersion|Up to 90% mortality; UV/temperature stability [Felizatti2021](https://consensus.app/papers/encapsulation-of-b-bassiana-in-biopolymers-improving-felizatti-manzano/003fd13f1c905df49a83403551c98619/)|
-|Skimmed milk/PVP/glucose encapsulation|100% germination fresh; 78% viability at 12 months/30°C|54.8% fresh, 30.6% stored larval mortality [Mishra2013](https://consensus.app/papers/preparation-characterization-and-insecticidal-activity-mishra-kumar/eb169185f2925e12a698514ee9b91d22/)|
-|Alginate capsules (0.65%, ionic gelation)|Fungus-only capsules most effective; 0.008M CaCl₂ optimal|7% larval survival at 10⁸ conidia/mL [Bitencourt2024](https://consensus.app/papers/encapsulation-of-beauveria-bassiana-conidia-as-a-new-bitencourt-queiroz/753fab551be254fb9e094ef21e1b1932/)|
+|FraxiProtec device|Emerald ash borer|~40% infection, 40% population reduction [Srei2020](https://consensus.app/papers/microbial-control-of-the-emerald-ash-borer-coleoptera-srei-guertin/61afc4fcc5105f7e8f680dd08357f34e/)|
+|Autocontamination multifunnel trap|Emerald ash borer|Pathogenicity retained 43 d outdoors [Lyons2012](https://consensus.app/papers/towards-the-development-of-an-autocontamination-trap-lyons-lavalle%CC%81e/205975c7ffa15e4dbceac35554cb1358/)|
+|Auto-contamination trap-strips|Fall webworm|>90% infection rate [Bi2018](https://consensus.app/papers/an-autocontamination-trapstrips-system-for-biological-bi-qin/2e14176e23055d379b5609f01ce05045/)|
+|In2Care station|_Aedes_ mosquitoes|50% adult eclosion reduction via pyriproxyfen autodissemination [Paris2023](https://consensus.app/papers/evaluation-of-in2care-mosquito-stations-for-suppression-paris-bell/7bb76659d86454fa9ebe29851963ba04/)|
+|DBb disseminator device|Mexican fruit fly|Higher wild-fly infection with SIT + DBb combined [Montoya2020](https://consensus.app/papers/simultaneous-use-of-sit-plus-disseminator-devices-of-montoya-flores/0016105f9dc6596cb3d045f6e7898eb9/)|
 
-Both spray-drying and ionic gelation produced conidia more stable under temperature and UV stress than non-formulated controls [Felizatti2021](https://consensus.app/papers/encapsulation-of-b-bassiana-in-biopolymers-improving-felizatti-manzano/003fd13f1c905df49a83403551c98619/). Spray-dried microparticles released loaded conidia completely within 30 minutes under stirring and enhanced pathogenicity against _Plutella xylostella_ [De Jesus Seabra2024](https://consensus.app/papers/new-beauveria-bassiana-aerial-conidiabased-seabra-santos/32334f35bf2654b298803e7828c5af46/). Matrix mixing of polysaccharides was the most promising strategy for stable formulations, with particle sizes of 8–30 µm suitable for biocontrol [De Oliveira2023](https://consensus.app/papers/encapsulation-of-beauveria-bassiana-in-oliveira-oliveira/d03742695045574fae835c1a5a236cfb/).
+Figure 1 Comparison of auto-dissemination device systems and their field outcomes across non-social insect targets
 
-## Wettable Powder and Tablet Formulations
+## Mechanisms of Horizontal Transfer
 
-Wettable powder formulations of _B. bassiana_ provided significant reductions in diamondback moth larval counts in field trials, with persistence on foliage ratedependent and declining over 3–4 days post-application [Vandenberg1998](https://consensus.app/papers/assessment-of-beauveria-bassiana-sprays-for-control-of-vandenberg-shelton/3756381c9831544bb10666d9e6d5e4f6/). Two applications of wettable powder at the higher rate yielded lower larval counts than a single application [Vandenberg1998](https://consensus.app/papers/assessment-of-beauveria-bassiana-sprays-for-control-of-vandenberg-shelton/3756381c9831544bb10666d9e6d5e4f6/). Surfactant selection critically modulated wettable powder performance: Surfom D increased germination to 55% after three months (vs. 0% for unsurfactanted controls), while Emulsogen TS 200 reduced surface tension most effectively but decreased viability [Melo2020](https://consensus.app/papers/selection-of-surfactants-for-enhancing-the-wettability-of-melo-zotarelli/71c18322be7d5d81844a30a6d5a481d5/).
+Horizontal transmission occurs through direct physical contact between contaminated and healthy individuals, with mating being a primary route in several species. In emerald ash borer, males carrying _B. bassiana_ were significantly more effective vectors than females, transmitting mycosis to partners during copulation [Srei2019](https://consensus.app/papers/horizontal-transmission-of-the-entomopathogenic-fungal-srei-lavalle%CC%81e/1305cfd9bf2f562e95ec2c3d04012f46/). A single contact between one treated male spruce bark beetle and an untreated female transmitted a lethal dose of ~1.2 × 10⁴ conidia, producing 96% mortality at a 1:1 ratio [Kreutz2004](https://consensus.app/papers/horizontal-transmission-of-the-entomopathogenic-fungus-kreutz-zimmermann/bc2584ab5ac95e7b933f103edbcc712c/). In _Spodoptera frugiperda_, a single infected male transmitted the fungus to 15 healthy females within 11 days [Gutiérrez-Cárdenas2019](https://consensus.app/papers/physiological-and-pathogenical-characterization-of-guti%C3%A9rrez-c%C3%A1rdenas-cortez-madrigal/42c6ab12cf8155728dd0f87e1799467c/).
 
-Wettable powder formulations applied to concrete surfaces showed higher efficacy against stored-product pests than applications directly on wheat [Barış2025](https://consensus.app/papers/mortality-effect-of-wettable-powder-formulations-bar%C4%B1%C5%9F-er/70623088fbda5116a928f58cf8177241/). A conidia-tablet formulation (30% conidia, 70% cornstarch) disintegrated in water within two minutes and maintained ≥80% viability for 180 days at room temperature when stored in polyethylene with polymerized silica [Almeida2023](https://consensus.app/papers/technology-of-a-novel-conidiatablet-formulation-and-almeida-varize/4d659df92a94519cb6eaaa549106e757/).
+Sporulated cadavers serve as a secondary reservoir, producing at least 10-fold more conidia than live infected adults [Khun2021](https://consensus.app/papers/transmission-of-metarhizium-anisopliae-and-beauveria-khun-ash/d29af5b1528b54a9aa1173681077d745/). Healthy macadamia weevils showed no avoidance behavior toward _B. bassiana_-conidiated cadavers and acquired conidia on all body parts, achieving up to 100% mortality in confined settings [Khun2021](https://consensus.app/papers/transmission-of-metarhizium-anisopliae-and-beauveria-khun-ash/d29af5b1528b54a9aa1173681077d745/). In the brown stink bug, mortality increased with the proportion of contaminated insects in the population, confirming density-dependent transmission in both laboratory and greenhouse [Bento2024](https://consensus.app/papers/horizontal-transmission-of-the-entomopathogenic-fungus-bento-alves/3a1868ba02535e328dcf46f1172ea7d6/).
 
-## Hydrogel, Bait, and Trap-Mediated Delivery
+## Relevance to Social Insects: Gaps and Analogies
 
-Hydrogel systems based on hydroxyethylcellulose and sodium alginate extended _B. bassiana_ longevity up to 24 days, outperforming standard liquid conidial suspensions and maintaining biocompatibility [Friuli2024](https://consensus.app/papers/beauveria-bassiana-associated-with-a-novel-biomimetic-friuli-lia/1d7ed52a270a5900bae8202294da057f/). The hydroxyethylcellulose-based gel achieved over 90% mortality of _Aedes albopictus_ eggs through combined mechanical and fungal action [Friuli2024](https://consensus.app/papers/beauveria-bassiana-associated-with-a-novel-biomimetic-friuli-lia/1d7ed52a270a5900bae8202294da057f/). Tea waste-based bait formulations in traps achieved 65% relative entrapment and 100% mortality of entrapped houseflies within 60 hours, though storage ability was limited [Mishra2013](https://consensus.app/papers/preparation-characterization-and-insecticidal-activity-mishra-kumar/eb169185f2925e12a698514ee9b91d22/).
+No study in the supplied literature directly tests auto-dissemination of _B. bassiana_ in eusocial insects via forager-to-nest transfer. The closest analog is _Triatoma infestans_, which exhibits aggregation behavior in small nests — facilitating conidia transfer through sustained close contact rather than mating alone [Forlani2011](https://consensus.app/papers/contribution-of-the-horizontal-transmission-of-the-forlani-pedrini/46ff82c00da75eb1833eb344db83d866/). In that system, horizontal transmission was density-dependent and persisted for one week post-contamination, suggesting that nest-aggregation behavior could amplify fungal spread [Forlani2011](https://consensus.app/papers/contribution-of-the-horizontal-transmission-of-the-forlani-pedrini/46ff82c00da75eb1833eb344db83d866/). _B. bassiana_ is known to infect ants and termites [Paris2023](https://consensus.app/papers/evaluation-of-in2care-mosquito-stations-for-suppression-paris-bell/7bb76659d86454fa9ebe29851963ba04/), and the In2Care station — which combines _B. bassiana_ with autodisseminated pyriproxyfen — demonstrates that contaminated insects can carry active agents to surrounding breeding sites, though this was validated only in mosquitoes [Paris2023](https://consensus.app/papers/evaluation-of-in2care-mosquito-stations-for-suppression-paris-bell/7bb76659d86454fa9ebe29851963ba04/).
 
-Microgranular formulations with sugar increased _Aedes aegypti_ adult attraction and achieved 42.2% mortality in home-made traps, with conidial stability higher on microgranules than on additives alone regardless of storage temperature [Zamora-Avilés2022](https://consensus.app/papers/increased-attraction-and-stability-of-beauveria-zamora-avil%C3%A9s-orozco-flores/8ee74d40edef5868a89450a04e6baa60/). Autoinoculation devices — panel-type and cylinder-type — achieved 44.3–57.3% sporulation of wild _Ceratitis capitata_ flies, with total population reduction exceeding 90% across all dissemination treatments [Toledo2017](https://consensus.app/papers/pathogenicity-of-three-formulations-of-beauveria-toledo-flores/d0d14583a46b5ad7864592d1c0ca8751/). Sterile males used as fungal vectors showed median survival times of 3.8–4.2 days, considered adequate for inoculum dissemination [Toledo2017](https://consensus.app/papers/pathogenicity-of-three-formulations-of-beauveria-toledo-flores/d0d14583a46b5ad7864592d1c0ca8751/).
+- **No direct evidence** exists for forager-mediated nest introduction of _B. bassiana_ in ants, termites, or other eusocial insects in the supplied corpus.
+- **Aggregation behavior** in _T. infestans_ parallels nest crowding in social insects and enhances horizontal transmission [Forlani2011](https://consensus.app/papers/contribution-of-the-horizontal-transmission-of-the-forlani-pedrini/46ff82c00da75eb1833eb344db83d866/).
+- **High humidity** in enclosed nest microenvironments could favor _B. bassiana_ sporulation and infection, as transmission efficiency in fruit flies increased during the rainy season [Montoya2020](https://consensus.app/papers/simultaneous-use-of-sit-plus-disseminator-devices-of-montoya-flores/0016105f9dc6596cb3d045f6e7898eb9/) and the fungus requires ≥93% relative humidity to sporulate [Suárez-Núñez2017](https://consensus.app/papers/epidemiology-of-beauveria-bassiana-in-controlled-su%C3%A1rez-n%C3%BA%C3%B1ez-cortez-madrigal/f6263b6be1c15565a54de160266bf3c9/).
+- **Grooming and social behaviors** unique to eusocial colonies may remove conidia from contaminated foragers before nestmates are exposed, a mechanism no supplied study evaluates.
 
-## Adhesion, Germination, and Aquatic Transfer Dynamics
-
-Conidial surface hydrophobicity causes clumping in aquatic environments, reducing effective coverage and requiring massive spore quantities when applied as dry formulations [Bukhari2011](https://consensus.app/papers/development-of-metarhizium-anisopliae-and-beauveria-bukhari-takken/e9241eb605ba5dc89ec1147ed4866447/). Water contact triggers premature germination, rupturing the outer rodlet layer and reducing the chance of host attachment [Bukhari2011](https://consensus.app/papers/development-of-metarhizium-anisopliae-and-beauveria-bukhari-takken/e9241eb605ba5dc89ec1147ed4866447/). Oil-based carriers such as ShellSol T mitigate this by facilitating spore spread across water surfaces and improving persistence of pathogenicity [Bukhari2011](https://consensus.app/papers/development-of-metarhizium-anisopliae-and-beauveria-bukhari-takken/e9241eb605ba5dc89ec1147ed4866447/). Encapsulated alginate capsules enabled _B. bassiana_ to reach the larval digestive tract, causing visible enterocyte damage — a delivery route distinct from cuticular attachment [Bitencourt2024](https://consensus.app/papers/encapsulation-of-beauveria-bassiana-conidia-as-a-new-bitencourt-queiroz/753fab551be254fb9e094ef21e1b1932/).
-
-Carrier formulation remains a bottleneck for commercial _B. bassiana_ products, with dry formulations (mostly wettable powders) comprising approximately 37% and liquid oil dispersions 24% of commercial products [Lopes2019](https://consensus.app/papers/influence-of-two-formulation-types-and-moisture-levels-on-lopes-faria/561143dc41a052b4923d185674dd5509/)[Mascarin2016](https://consensus.app/papers/the-production-and-uses-of-beauveria-bassiana-as-a-mascarin-jaronski/df48205aac1e5111ba8906e34634882f/). Strain-dependent efficacy, variable field performance, and slower speed of action relative to chemical insecticides continue to constrain broader adoption despite formulation advances [Kolanchi2025](https://consensus.app/papers/bioprocess-and-genetic-advances-enhancing-beauveria-kolanchi-saminathan/0d6733aa5f765583982ceb952deadedb/).
+The supplied literature establishes that trap-based auto-dissemination and horizontal transmission of _B. bassiana_ are effective in non-social insects through mating contact, physical proximity, and cadaver-based conidial reservoirs, but whether social-insect foragers can serve as analogous vectors carrying spores from bait stations into the nest remains untested.

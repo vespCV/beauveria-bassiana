@@ -23,10 +23,10 @@ Which Beauveria bassiana strain traits (Pr1/Pr2 proteases, chitinases, hydrophob
 How do fluid, protein, oil, wettable powder or microencapsulated carriers affect Beauveria bassiana spore viability, adhesion, germination, persistence and transfer from traps, bait stations or autodissemination devices?
 ```
 
-## 03-autodissemination-social
+## [[mabb 03 consensus-autodissemination-social]]
 
 ```
-What are the most important experimental papers on auto-dissemination and horizontal transmission of Beauveria bassiana in social insects, especially when foragers acquire spores from traps, bait stations, or autodissemination devices and return to the nest? Focus on effects of allogrooming, necrophoresis, trophallaxis, and nest hygiene on spore spread to nestmates and queens. Include Vespidae, Formicidae, and other social taxa when the delivery pathway is relevant.
+What is known about auto-dissemination or horizontal transmission of Beauveria bassiana in social insects when foragers acquire spores from traps or bait stations and return to the nest?
 ```
 
 ## [[mabb 04 consensus-nontarget-ecotox]]

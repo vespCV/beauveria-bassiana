@@ -12,6 +12,8 @@ Also:
 
 Do **not** treat Semantic Scholar as a separate logged database unless a run is actually performed and documented.
 
+**PubMed and Google Scholar:** Match term-for-term unless a subquestion note documents deliberate asymmetry (e.g. PubMed broader, no delivery AND, with Phase 1 narrowing). Europe PMC reuses the PubMed string. Wildcards: PubMed may use truncations (`encapsulat*`, `thermotoleran*`) where Scholar uses spelled-out synonyms.
+
 **Citation chaining:** ResearchRabbit (or equivalent) from seed papers; not a substitute for the database runs above.
 
 ## Raw export filenames (locked 2026-08-06)

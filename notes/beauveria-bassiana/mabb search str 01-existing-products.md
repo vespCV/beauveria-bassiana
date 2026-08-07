@@ -2,7 +2,7 @@
 
 Two logged runs per bibliographic database. Registry sources (EPA, EU, CABI) use the catalogue concept only.
 
-Strain/product OR-group updated 2026-08-06 from EPA/EU registry pass; formulation/product terms updated 2026-08-07 from Consensus `01-existing-products` pass. Bare numeric strain ids (447, 203, 147) stay out of Boolean OR-groups (high false-positive risk); use `"strain 447"` only if a run needs them. Do not use bare `OD` or `ES` tokens (noise). Skip bare `Bb` or `TBb` (high false-positive risk).
+Strain/product OR-group updated 2026-08-06 from EPA/EU registry pass; formulation/product terms updated 2026-08-07 from Consensus `01-existing-products` pass; PubMed/Scholar parity and catalogue formulation terms updated 2026-08-07 from free-database string audit. Bare numeric strain ids (447, 203, 147) stay out of Boolean OR-groups (high false-positive risk); use `"strain 447"` only if a run needs them. Do not use bare `OD` or `ES` tokens (noise). Skip bare `Bb` or `TBb` (high false-positive risk).
 
 #### Market catalogue (broad)
 
@@ -11,13 +11,13 @@ No trap/bait requirement.
 **Google Scholar**
 
 ```
-"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR mycoinsecticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR "emulsifiable oil" OR "technical concentrate" OR "aqueous suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR KTU-24 OR Pa-4 OR BKN20 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR LALGUARD OR Aprehend OR balEnce OR Phoemyc)
+"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR mycoinsecticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR "emulsifiable oil" OR "technical concentrate" OR "aqueous suspension" OR granular OR encapsulat* OR "seed coat*" OR nanoemulsion OR biopolymer OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR KTU-24 OR Pa-4 OR BKN20 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR LALGUARD OR Aprehend OR balEnce OR Phoemyc)
 ```
 
 **PubMed** (same string on Europe PMC)
 
 ```
-"Beauveria bassiana"[Title/Abstract] AND (product OR commercial OR registered OR biopesticide OR mycoinsecticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR "emulsifiable oil" OR "technical concentrate" OR "aqueous suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR KTU-24 OR Pa-4 OR BKN20 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR Aprehend)
+"Beauveria bassiana"[Title/Abstract] AND (product OR commercial OR registered OR biopesticide OR mycoinsecticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR "emulsifiable oil" OR "technical concentrate" OR "aqueous suspension" OR granular OR encapsulat* OR "seed coat*" OR nanoemulsion OR biopolymer OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR KTU-24 OR Pa-4 OR BKN20 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR LALGUARD OR Aprehend OR balEnce OR Phoemyc)
 ```
 
 **Dimensions** (publications + patents)
@@ -67,7 +67,7 @@ No trap/bait requirement.
 **PubMed** (same string on Europe PMC)
 
 ```
-"Beauveria bassiana"[Title/Abstract] AND (trap OR bait OR autodissemination OR "auto-dissemination" OR "bait station" OR "attract and infect")
+"Beauveria bassiana"[Title/Abstract] AND (trap OR bait OR autodissemination OR "auto-dissemination" OR "bait station" OR "inoculum station" OR "contamination device" OR "attract and infect")
 ```
 
 **Dimensions**

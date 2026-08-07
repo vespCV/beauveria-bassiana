@@ -4,7 +4,7 @@ rsync -av --delete \
   "/Users/md/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/400 computer vision/beauveria-bassiana" \
   "/Users/md/Developer/beauveria-bassiana/notes/"
 ```
-[[mabb push to notes]]
+[[mabb notes comparison and update]]
 
 [[mabb inbox]]
 # Conventional meta-analysis documentation

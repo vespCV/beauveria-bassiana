@@ -1,6 +1,6 @@
 ### 02c_formulation_delivery
 
-Formulation, outcome, and delivery/field AND-groups updated 2026-08-07 from Consensus `02c` pass.
+Formulation, outcome, and delivery/field AND-groups updated 2026-08-07 from Consensus `02c` pass; PubMed parity updated 2026-08-07 from free-database string audit.
 
 **Google Scholar**
 
@@ -11,5 +11,5 @@ Formulation, outcome, and delivery/field AND-groups updated 2026-08-07 from Cons
 **PubMed** (same string on Europe PMC)
 
 ```
-"Beauveria bassiana"[Title/Abstract] AND (formulation OR "wettable powder" OR "oil suspension" OR "oil dispersion" OR emulsion OR "emulsifiable concentrate" OR microencapsulat* OR hydrogel OR microgranule OR biopolymer OR adjuvant OR surfactant OR protein OR carrier OR bait) AND (viability OR persistence OR storage OR adhesion OR germination OR transfer) AND (trap OR bait OR "bait station" OR autodissemination OR autoinoculation OR "attract and infect" OR ovitrap OR field)
+"Beauveria bassiana"[Title/Abstract] AND (formulation OR "wettable powder" OR "oil suspension" OR "oil dispersion" OR emulsion OR "emulsifiable concentrate" OR "water dispersible" OR microencapsulat* OR hydrogel OR microgranule OR biopolymer OR adjuvant OR surfactant OR protein OR fluid OR carrier OR bait) AND (viability OR persistence OR "shelf life" OR storage OR adhesion OR germination OR transfer OR "horizontal transmission") AND (trap OR bait OR "bait station" OR autodissemination OR autoinoculation OR "attract and infect" OR ovitrap OR "lure and kill" OR field)
 ```

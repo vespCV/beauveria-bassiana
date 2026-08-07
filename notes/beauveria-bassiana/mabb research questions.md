@@ -18,7 +18,7 @@ What evidence exists for the efficacy, strain traits, formulation/delivery, hori
 - **02b_strains_traits** Which strain traits (Pr1/Pr2 proteases, chitinases, hydrophobins, thermotolerance, UV tolerance, adhesion) enable effective cuticle breach and survival after transfer from fluid/protein carriers or trap surfaces?
 - **02c_formulation_delivery** How do fluid, proteinaceous, oil, wettable powder, granular, microgranular, hydrogel, or microencapsulated carriers affect spore viability, adhesion, germination, persistence, and transfer efficiency from traps, bait stations, autodissemination devices, baits, or contaminated surfaces under field conditions?
 
-**03-autodissemination-social** How do social behaviours (allogrooming, necrophoresis, trophallaxis) and nest hygiene affect horizontal spore transfer from foragers that contacted a treated trap or bait to nestmates and the queen?
+**03-autodissemination-social** How do social behaviours (allogrooming, necrophoresis, trophallaxis) and nest hygiene affect horizontal spore transfer from foragers that contacted a treated trap or bait to nestmates and the queen, and what transferable evidence exists from aggregation-forming non-eusocial analogs or sterile-insect dissemination pathways when direct eusocial nest-introduction data are absent?
 
 **04-nontarget-ecotox**
 
