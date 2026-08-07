@@ -2,7 +2,7 @@
 
 Two logged runs per bibliographic database. Registry sources (EPA, EU, CABI) use the catalogue concept only.
 
-Strain/product OR-group updated 2026-08-06 from EPA/EU registry pass. Bare numeric strain ids (447, 203, 147) stay out of Boolean OR-groups (high false-positive risk); use `"strain 447"` only if a run needs them. Do not use bare `OD` or `ES` tokens (noise).
+Strain/product OR-group updated 2026-08-06 from EPA/EU registry pass; formulation/product terms updated 2026-08-07 from Consensus `01-existing-products` pass. Bare numeric strain ids (447, 203, 147) stay out of Boolean OR-groups (high false-positive risk); use `"strain 447"` only if a run needs them. Do not use bare `OD` or `ES` tokens (noise). Skip bare `Bb` or `TBb` (high false-positive risk).
 
 #### Market catalogue (broad)
 
@@ -11,31 +11,31 @@ No trap/bait requirement.
 **Google Scholar**
 
 ```
-"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR LALGUARD OR Aprehend OR balEnce OR Phoemyc)
+"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR mycoinsecticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR "emulsifiable oil" OR "technical concentrate" OR "aqueous suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR KTU-24 OR Pa-4 OR BKN20 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR LALGUARD OR Aprehend OR balEnce OR Phoemyc)
 ```
 
 **PubMed** (same string on Europe PMC)
 
 ```
-"Beauveria bassiana"[Title/Abstract] AND (product OR commercial OR registered OR biopesticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR Aprehend)
+"Beauveria bassiana"[Title/Abstract] AND (product OR commercial OR registered OR biopesticide OR mycoinsecticide OR formulation OR "wettable powder" OR "oil dispersion" OR "emulsifiable suspension" OR "emulsifiable oil" OR "technical concentrate" OR "aqueous suspension" OR strain OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BW149 OR IMI389521 OR NPP111B005 OR KTU-24 OR Pa-4 OR BKN20 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer OR Bioceres OR Aprehend)
 ```
 
 **Dimensions** (publications + patents)
 
 ```
-"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR formulation OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR BotaniGard OR Mycotrol OR Naturalis OR Velifer)
+"Beauveria bassiana" (product OR commercial OR registered OR biopesticide OR mycoinsecticide OR formulation OR GHA OR "ATCC 74040" OR HF23 OR ANT-03 OR "PPRI 5339" OR KTU-24 OR Pa-4 OR BKN20 OR BotaniGard OR Mycotrol OR Naturalis OR Velifer)
 ```
 
 **Lens.org**
 
 ```
-"Beauveria bassiana" (product OR biopesticide OR formulation OR GHA OR "ATCC 74040" OR BotaniGard OR Mycotrol OR Naturalis)
+"Beauveria bassiana" (product OR biopesticide OR mycoinsecticide OR formulation OR GHA OR "ATCC 74040" OR KTU-24 OR Pa-4 OR BotaniGard OR Mycotrol OR Naturalis)
 ```
 
 **Google Patents / Espacenet**
 
 ```
-"Beauveria bassiana" (biopesticide OR formulation OR product OR strain OR GHA OR "wettable powder" OR "oil dispersion" OR bait)
+"Beauveria bassiana" (biopesticide OR mycoinsecticide OR formulation OR product OR strain OR GHA OR "wettable powder" OR "oil dispersion" OR "technical concentrate" OR "aqueous suspension" OR bait)
 ```
 
 **EPA Biopesticide** (`epa.gov`)
@@ -53,7 +53,7 @@ No trap/bait requirement.
 **CABI**
 
 ```
-"Beauveria bassiana" (biopesticide OR product OR formulation OR strain)
+"Beauveria bassiana" (biopesticide OR mycoinsecticide OR product OR formulation OR strain)
 ```
 
 #### Delivery systems (narrow)
