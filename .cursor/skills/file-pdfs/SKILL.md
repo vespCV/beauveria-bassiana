@@ -35,6 +35,7 @@ If any are missing: refuse, name the missing path(s), and stop. Do not invent st
 Category folder names must match CSV `category` and the `## {category} (N)` headers in `pdfs_not_downloaded.md`:
 
 pdfs/
+00-key-papers/
 01-existing-products/
 02-efficacy-mechanics-delivery/
     02a_efficacy/
@@ -44,6 +45,7 @@ pdfs/
 04-nontarget-ecotox/
 05-regulatory-policy/
 06-background-proxies/
+07-vespideae-biocontrol/
 
 ## Workflow
 

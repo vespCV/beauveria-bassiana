@@ -1,0 +1,24 @@
+strain,status,n_abstracts,products_mentioned,example_links,evidence
+ANT-03,commercial,3,"BioCeres, BotaniGard, Velifer",https://doi.org/10.3390/insects14090726 | http://europepmc.org/abstract/PMC/PMC7702525 | https://doi.org/10.1016/j.jip.2022.107789,abstract
+ATCC 74040,commercial,21,"Botanigard, Met52, Mycotal, NATURALIS, Naturalis",https://doi.org/10.1016/s1049-9644(02)00123-8 | http://europepmc.org/theses/ETH/820217 | https://doi.org/10.1016/j.jip.2011.05.018,abstract
+GHA,commercial,53,"Aprehend, BioCeres, BotaniGard, Botanigard, MET52, Met52, Mycotrol, Naturalis, Velifer",https://doi.org/10.1111/mve.12201 | https://doi.org/10.1093/jisesa/iew032 | https://doi.org/10.1093/jme/tjac084,abstract
+PPRI 5339,commercial,3,"Botanigard, BroadBand, Met52, Velifer",https://doi.org/10.1080/09583157.2011.608907 | https://doi.org/10.1093/jisesa/iev029 | https://doi.org/10.3390/microorganisms10112306,abstract
+AP0101,experimental,1,"Botanigard, Velifer",https://doi.org/10.3390/microorganisms10112306,abstract
+GxABT-1,experimental,1,BotaniGard,https://doi.org/10.3390/insects15090697,abstract
+AL1,unknown,1,Naturalis,https://doi.org/10.1016/j.biocontrol.2016.05.011,abstract
+ARSEF 2879,unknown,1,Mycotrol,http://europepmc.org/theses/ETH/523877,abstract
+ARSEF 7152,unknown,1,"BotaniGard, Mycotrol",https://doi.org/10.1603/0022-0493-99.4.1096,abstract
+ARSEF 7234,unknown,1,"BotaniGard, Mycotrol",https://doi.org/10.1603/0022-0493-99.4.1096,abstract
+ARSEF 7404,unknown,1,BotaniGard,https://doi.org/10.1016/j.biocontrol.2013.02.001,abstract
+BIPESCO5,unknown,2,NATURALIS,https://doi.org/10.1016/j.biocontrol.2017.11.009 | https://doi.org/10.1016/j.biocontrol.2018.08.007,abstract
+Bb-18,unknown,1,Botanigard,http://europepmc.org/abstract/AGR/IND607115348,abstract
+Bb25,unknown,1,Mycotrol,http://europepmc.org/abstract/AGR/IND606486035,abstract
+CHG20,unknown,1,Mycotrol,http://europepmc.org/abstract/AGR/IND606486035,abstract
+EA2,unknown,1,Broadband,http://europepmc.org/abstract/AGR/IND606976509,abstract
+ECS1/BRIP,unknown,1,Velifer,https://doi.org/10.1016/j.jip.2020.107437,abstract
+F52,unknown,3,"BroadBand, Met52, Mycotrol",https://doi.org/10.1007/s10493-020-00547-6 | https://doi.org/10.1093/jisesa/iev029 | https://doi.org/10.1002/ps.2297,abstract
+KRL-AG2,unknown,1,Naturalis,https://doi.org/10.1016/j.biocontrol.2013.07.015,abstract
+La90,unknown,1,Mycotrol,http://europepmc.org/abstract/AGR/IND606486035,abstract
+Ma42,unknown,1,Mycotrol,http://europepmc.org/abstract/AGR/IND606486035,abstract
+P10,unknown,1,Mycotrol,http://europepmc.org/abstract/AGR/IND606486035,abstract
+SC4,unknown,1,"Met52, Naturalis",http://europepmc.org/abstract/AGR/IND609406866,abstract

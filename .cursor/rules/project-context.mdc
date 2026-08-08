@@ -67,7 +67,7 @@ Deliverables are done
 | `input-phase0/input-cc-rr/` | CitationChaser and ResearchRabbit seed inputs. |
 | `input-phase1/` | Deduplicated articles for ASReview / title-abstract selection. |
 | `input-phase2/` | Relevant-article list and missing-PDF gate artifacts for full-text/PDF work. |
-| `pdfs/` | Full-text library by screening category `01`–`06` (and `02a`/`02b`/`02c`). Inbox for unfiled drops. |
+| `pdfs/` | Full-text library by screening category `01`–`06` (and `02a`/`02b`/`02c`), plus supplemental `00-key-papers` and `07-vespideae-biocontrol`. Inbox for unfiled drops. |
 | `temp/research/` | Gitignored cited findings from `@research` (side questions; optional `01-existing-products` lookups). |
 | `temp/handoff/` | Gitignored session handoffs. Start here for the next session. |
 | `README.md` | End-state study selection / PRISMA / inventory (required for Phase 2 gate). |

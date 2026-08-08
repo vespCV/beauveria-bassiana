@@ -57,8 +57,8 @@ A research subquestion id used for Consensus asks, search-string notes, and logg
 _Avoid_: pillar; collapsing `02a`/`02b`/`02c` into a single logged run without the sub-ids
 
 **Screening category**:
-A Phase 2 full-text bucket whose folder id matches `pdfs/{category}/` and `@file-pdfs`: `01-existing-products`, `02-efficacy-mechanics-delivery` (with `02a_efficacy`, `02b_strains_traits`, `02c_formulation_delivery`), `03-autodissemination-social`, `04-nontarget-ecotox`, `05-regulatory-policy`, `06-background-proxies`. Aligns with subquestion ids (parent `02` holds the three `02*` subquestions).
-_Avoid_: `00-existing-products`; zero-based subquestion ids in agent-facing paths; dual id schemes without a mapping table; calling these pillars
+A Phase 2 full-text bucket whose folder id matches `pdfs/{category}/` and `@file-pdfs`: systematic review ids `01-existing-products`, `02-efficacy-mechanics-delivery` (with `02a_efficacy`, `02b_strains_traits`, `02c_formulation_delivery`), `03-autodissemination-social`, `04-nontarget-ecotox`, `05-regulatory-policy`, `06-background-proxies`, plus supplemental lanes `00-key-papers` (Beauveria on *V. velutina* / other Vespidae) and `07-vespideae-biocontrol` (Vespidae non-Bb microbes and chemical trap/bait proxies). Aligns with subquestion ids for `01`–`06` (parent `02` holds the three `02*` subquestions).
+_Avoid_: Renaming systematic ids to a parallel zero-based scheme (for example `00-existing-products`); dual id schemes without a mapping table; calling these pillars
 
 ### Agent scratch
 
