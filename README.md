@@ -22,17 +22,17 @@
 
 | Category folder | PDF have | PDF missing (list) | Phase 2 records (primary) |
 |---|---:|---:|---:|
-| 00-key-papers | 10 | 0 | 5 |
-| 01-existing-products | 35 | 55 | 89 |
+| 00-key-papers | 11 | 0 | 5 |
+| 01-existing-products | 37 | 55 | 89 |
 | 02a_efficacy | 0 | 0 | 0 |
 | 02b_strains_traits | 3 | 4 | 7 |
-| 02c_formulation_delivery | 33 | 32 | 62 |
+| 02c_formulation_delivery | 35 | 32 | 62 |
 | 03-autodissemination-social | 28 | 29 | 56 |
-| 04-nontarget-ecotox | 15 | 13 | 31 |
+| 04-nontarget-ecotox | 16 | 13 | 31 |
 | 05-regulatory-policy | 4 | 0 | 4 |
-| 06-background-proxies | 11 | 0 | 0 |
+| 06-background-proxies | 12 | 0 | 0 |
 | inbox (`pdfs/inbox/`) | 0 |  |  |
-| Total (excl. 07 supplemental) | 139 | 133 | 254 |
+| Total (excl. 07 supplemental) | 146 | 133 | 254 |
 
 Note: `00-key-papers` disk count includes supplemental Vespidae PDFs beyond the 5 Phase 2 primaries. `06-background-proxies` holds non-Phase-2 PDFs filed from the drop folder. Missing counts follow `pdfs_download_links.md` section `(N)` values.
 
@@ -40,7 +40,7 @@ Supplemental extract libraries (prior velutina project triage; not all rows are 
 
 | Lane | PDFs filed | Extract rows |
 |---|---:|---:|
-| 00-key-papers (Beauveria + Vespidae) | 10 | 11 |
+| 00-key-papers (Beauveria + Vespidae) | 11 | 11 |
 | 07-vespideae-biocontrol (non-Bb microbes + chemical bait/trap) | 17 | 18 |
 
 ## 1 existing-products
