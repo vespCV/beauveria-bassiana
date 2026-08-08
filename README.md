@@ -14,12 +14,33 @@
 | 05-regulatory-policy (primary) | 4 |
 | 06-background-proxies (primary) | 0 |
 | Rows co-tagged `02a_efficacy` in `screening_categories_all` | 75 |
+| Phase 2 includes with PDF on hand | 121 |
+| Listed without PDF (`pdfs_download_links.md`) | 133 |
+| Have + missing | 254 (no gap) |
+
+### Phase 2 full-text inventory (2026-08-08)
+
+| Category folder | PDF have | PDF missing (list) | Phase 2 records (primary) |
+|---|---:|---:|---:|
+| 00-key-papers | 10 | 0 | 5 |
+| 01-existing-products | 35 | 55 | 89 |
+| 02a_efficacy | 0 | 0 | 0 |
+| 02b_strains_traits | 3 | 4 | 7 |
+| 02c_formulation_delivery | 33 | 32 | 62 |
+| 03-autodissemination-social | 28 | 29 | 56 |
+| 04-nontarget-ecotox | 15 | 13 | 31 |
+| 05-regulatory-policy | 4 | 0 | 4 |
+| 06-background-proxies | 11 | 0 | 0 |
+| inbox (`pdfs/inbox/`) | 0 |  |  |
+| Total (excl. 07 supplemental) | 139 | 133 | 254 |
+
+Note: `00-key-papers` disk count includes supplemental Vespidae PDFs beyond the 5 Phase 2 primaries. `06-background-proxies` holds non-Phase-2 PDFs filed from the drop folder. Missing counts follow `pdfs_download_links.md` section `(N)` values.
 
 Supplemental extract libraries (prior velutina project triage; not all rows are Phase 2 includes):
 
 | Lane | PDFs filed | Extract rows |
 |---|---:|---:|
-| 00-key-papers (Beauveria + Vespidae) | 8 | 11 |
+| 00-key-papers (Beauveria + Vespidae) | 10 | 11 |
 | 07-vespideae-biocontrol (non-Bb microbes + chemical bait/trap) | 17 | 18 |
 
 ## 1 existing-products
@@ -302,7 +323,7 @@ Note: 12 further rows with abstract endpoints are in the extract CSV only.
 
 ## 6 background-proxies
 
-n = 0 (narrow screen did not park background/keratitis here; Vespidae proxy PDFs moved to `00-key-papers` and `07-vespideae-biocontrol`).
+Phase 2 primary n = 0. Disk: 11 non-include PDFs filed from drop-folder leftovers (`Singh_2015`, `Mascarin_2016`, `Pedrini_2013`, `Ortiz-Urquiza_2013`, `Pedrini_2022`, `Ma_2024`, `Morandin_2001`, `ElKichaoui_2017`, `Geremew_2024`, `Dlamini_2019`, `Aristizabal_2012`).
 
 ## 0 key-papers (Beauveria + Vespidae)
 
@@ -317,8 +338,8 @@ n = 0 (narrow screen did not park background/keratitis here; Vespidae proxy PDFs
 | Brownbridge2009 | Vespidae | beauveria_vespidae | yes |
 | deSouza2023 | Vespidae | beauveria_vespidae | yes |
 | MayorgaCh2021 | Vespidae | beauveria_vespidae | no (CSV-only) |
-| Cappa2024 | Vespidae | beauveria_vespidae | no (Phase 2 include; PDF not filed) |
-| DeFazi2025 | Vespidae | beauveria_vespidae | no (Phase 2 include; PDF not filed) |
+| Cappa2024 | Vespidae | beauveria_vespidae | yes |
+| DeFazi2025 | Vespidae | beauveria_vespidae | yes |
 
 ## 7 vespideae-biocontrol
 

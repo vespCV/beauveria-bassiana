@@ -37,7 +37,7 @@ Full-text screening of records sought after Phase 1, including location failures
 _Avoid_: Phase II; full-text review when screening criteria are meant
 
 **Phase gate**:
-A concrete artifact boundary: Phase 2 agent workflows (PDF filing, inventory, PRISMA E counts) run only after all three named inputs exist on disk: `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton. `@file-pdfs` hard-stops at start if any are missing and does not invent stubs.
+A concrete artifact boundary: Phase 2 agent workflows (PDF filing, inventory, PRISMA E counts) run only after all three named inputs exist on disk: `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_download_links.md`, and a README with study-selection / PRISMA skeleton. `@file-pdfs` hard-stops at start if any are missing and does not invent stubs.
 _Avoid_: Soft "when ready"; implied progress from chat memory; gating on the CSV alone; creating placeholder gate files to unblock the skill
 
 ### Sources of truth
@@ -77,7 +77,7 @@ Deduplicated bibliographic records under `input-phase1/` used as input for ASRev
 _Avoid_: Screening from undeduplicated raw exports; treating Phase 1 as full-text PDF work
 
 **Input phase 2**:
-Relevant-article list and related gate files under `input-phase2/` used to select and file PDFs for extraction (`relevant_articles_categorized.csv`, `pdfs_not_downloaded.md`).
+Relevant-article list and related gate files under `input-phase2/` used to select and file PDFs for extraction (`relevant_articles_categorized.csv`, `pdfs_download_links.md`).
 _Avoid_: `search-results/screening-phase2`; inventing gate stubs before screening is done
 
 **Raw search export**:

@@ -2,7 +2,7 @@
 
 Agent skills cover both search documentation and Phase 2 PDF/inventory work, but Phase 2 workflows may run only after named on-disk inputs exist. Chosen over search-only or Phase-2-only guidance so early sessions stay on databases/strings/hit counts while later filing skills remain available without premature invocation.
 
-**Gate (all required):** `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton.
+**Gate (all required):** `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_download_links.md`, and a README with study-selection / PRISMA skeleton.
 
 ## Considered Options
 

@@ -37,7 +37,7 @@ Purpose: Align searches and data extraction with the end goal—identifying B. b
 - Log each planned database run: date, exact string, filters, hit counts (`notes/beauveria-bassiana/mabb literature search and setup database.md`).
 - Store raw exports under `input-phase0/input-rayyan/` (Rayyan unduplication input); CitationChaser / ResearchRabbit seeds under `input-phase0/input-cc-rr/`.
 - Deduplicated corpus for ASReview / title-abstract selection: `input-phase1/`.
-- Phase gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton (`docs/adr/0001-phase-gated-agent-workflows.md`).
+- Phase gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_download_links.md`, and a README with study-selection / PRISMA skeleton (`docs/adr/0001-phase-gated-agent-workflows.md`).
 
 Search strategy authority: `notes/beauveria-bassiana/` (agents edit only when the user explicitly allows). This rule must stay aligned with those notes; on conflict, notes win. Domain terms: `CONTEXT.md`. Category ids: **Screening category** in `CONTEXT.md`.
 
