@@ -66,7 +66,7 @@ Supplemental extract libraries (prior velutina project triage; not all rows are 
 
 ### Bb targets relative to *Vespa velutina*
 
-Phylogenetic distance among arthropods named as Bb control targets in Phase 2 extracts (`host_pest` in 02a/03, plus Vespidae in 00-key-papers). Top = closest shared ancestry with *V. velutina*.
+Phylogenetic distance among arthropods named in Phase 2 Bb extracts relative to *V. velutina*. Top of Hymenoptera = closest shared ancestry with *V. velutina*. Species lists: all named insects and Acari found in Phase 2 extract/include titles and host fields (n = 120).
 
 ```
 Arthropoda
@@ -75,12 +75,16 @@ Arthropoda
     ├── Orthoptera (locusts, grasshoppers)
     ├── Blattodea (termites)
     ├── Thysanoptera (thrips)
-    ├── Hemiptera (true bugs, whiteflies, bed bugs)
+    ├── Hemiptera (true bugs, whiteflies, aphids, bed bugs)
     └── Holometabola
         ├── Hymenoptera
-        │   ├── Vespa velutina (Asian hornet)
+        │   ├── Vespa (V. velutina, V. analis)
         │   ├── Other Vespidae (Vespula, Polistes, Mischocyttarus)
-        │   └── Other Hymenoptera (ants, sawflies)
+        │   ├── Apidae (Apis, Bombus, Meliponula)
+        │   ├── Formicidae (ants)
+        │   ├── Tenthredinidae (sawflies)
+        │   └── Aphelinidae (Encarsia, Eretmocerus)
+        ├── Neuroptera (antlions)
         ├── Coleoptera (beetles)
         ├── Lepidoptera (moths)
         └── Diptera (flies, mosquitoes)
@@ -88,13 +92,19 @@ Arthropoda
 
 | Rank | Band | Taxa |
 |---:|---|---|
-| 1 | Same genus (*Vespa*) | *Vespa velutina* |
-| 2 | Same family (Vespidae) | *Vespula germanica*, *Vespula* spp., *Polistes dominula*, *Polistes chinensis*, *Polistes myersi*, *Mischocyttarus metathoracicus* |
-| 3 | Other Hymenoptera | *Solenopsis invicta*, *Camponotus*, *Pristiphora abietina* |
-| 4 | Other Holometabola | Coleoptera, Lepidoptera, Diptera (see 2a/03 host lists) |
-| 5 | Condylognatha | *Frankliniella occidentalis*, *Scirtothrips aurantii*, *Lycorma delicatula*, *Lygus lineolaris*, *Trialeurodes vaporariorum*, *Cimex lectularius*, *Triatoma infestans* |
-| 6 | Polyneoptera | *Schistocerca gregaria*, *Melanoplus sanguinipes*, *Odontotermes formosanus*, *Reticulitermes chinensis* |
-| 7 | Acari | *Dermanyssus gallinae*, *Psoroptes ovis*, *Ixodes ricinus*, *Hyalomma anatolicum*, *Rhipicephalus microplus*, *Rhipicephalus sanguineus* |
+| 1 | Same genus (*Vespa*) | *Vespa velutina*, *Vespa analis* |
+| 2 | Same family (Vespidae) | *Vespula germanica*, *Vespula vulgaris*, *Vespula maculifrons*, *Polistes dominula*, *Polistes chinensis*, *Polistes myersi*, *Polistes hebraeus*, *Mischocyttarus metathoracicus* |
+| 3 | Apidae | *Apis mellifera*, *Apis cerana*, *Bombus terrestris*, *Bombus impatiens*, *Meliponula ferruginea* |
+| 4 | Other Hymenoptera | *Solenopsis invicta*, *Atta cephalotes*, *Camponotus*, *Pristiphora abietina*, *Hoplocampa testudinea*, *Encarsia formosa*, *Eretmocerus eremicus* |
+| 5 | Neuroptera | *Myrmeleon timidus* |
+| 6 | Coleoptera | *Rhynchophorus ferrugineus*, *Hypothenemus hampei*, *Leptinotarsa decemlineata*, *Agrilus planipennis*, *Monochamus alternatus*, *Enaphalodes rufulus*, *Alphitobius diaperinus*, *Tenebrio molitor*, *Tribolium castaneum*, *Sitophilus oryzae*, *Otiorhynchus sulcatus*, *Hylobius abietis*, *Cosmopolites sordidus*, *Kuschelorhynchus macadamiae*, *Listronotus maculicollis*, *Phlyctinus callosus*, *Blosyrus asellus*, *Carpophilus lugubris*, *Cryptolestes ferrugineus*, *Oryzaephilus surinamensis*, *Rhyzopertha dominica*, *Dendroctonus simplex*, *Dendroctonus ponderosae*, *Ips typographus*, *Ips duplicatus*, *Pityophthorus juglandis*, *Xylosandrus crassiusculus*, *Xylosandrus germanus*, *Euwallacea perbrevis*, *Microtheca ochroloma*, *Dastarcus helophoroides* |
+| 7 | Lepidoptera | *Spodoptera frugiperda*, *Dargida diffusa*, *Tuta absoluta*, *Ostrinia nubilalis*, *Galleria mellonella*, *Thaumatotibia leucotreta*, *Cameraria ohridella*, *Plutella xylostella* |
+| 8 | Diptera | *Musca domestica*, *Stomoxys calcitrans*, *Lucilia sericata*, *Aedes aegypti*, *Aedes albopictus*, *Aedes notoscriptus*, *Culex quinquefasciatus*, *Ceratitis capitata*, *Anastrepha ludens*, *Bactrocera dorsalis*, *Bactrocera zonata*, *Zeugodacus cucurbitae*, *Rhagoletis cerasi*, *Glossina pallidipes*, *Liriomyza sativae*, *Liriomyza huidobrensis*, *Contarinia nasturtii*, *Sitodiplosis mosellana*, *Lycoriella ingenua*, *Drosophila* |
+| 9 | Thysanoptera | *Frankliniella occidentalis*, *Scirtothrips aurantii*, *Scirtothrips dorsalis*, *Thrips parvispinus* |
+| 10 | Hemiptera | *Lycorma delicatula*, *Lygus lineolaris*, *Macrolophus pygmaeus*, *Trialeurodes vaporariorum*, *Bemisia tabaci*, *Aleyrodes proletella*, *Cimex lectularius*, *Triatoma infestans*, *Halyomorpha halys*, *Megacopta cribraria*, *Diaphorina citri*, *Myzus persicae*, *Brevicoryne brassicae*, *Nasonovia ribisnigri*, *Rhopalosiphum padi*, *Acanthococcus lagerstroemiae* |
+| 11 | Orthoptera | *Schistocerca gregaria*, *Schistocerca americana*, *Melanoplus sanguinipes* |
+| 12 | Blattodea | *Odontotermes formosanus*, *Reticulitermes chinensis* |
+| 13 | Acari | *Dermanyssus gallinae*, *Psoroptes ovis*, *Ixodes ricinus*, *Hyalomma anatolicum*, *Rhipicephalus microplus*, *Rhipicephalus sanguineus*, *Dermacentor albipictus*, *Dermacentor reticulatus*, *Varroa destructor*, *Tetranychus urticae*, *Aculops lycopersici*, *Phytoseiulus persimilis*, *Pneumolaelaps niutirani* |
 
 ### 2a efficacy
 
