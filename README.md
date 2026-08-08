@@ -64,6 +64,38 @@ Supplemental extract libraries (prior velutina project triage; not all rows are 
 
 ## 2 efficacy-mechanics-delivery
 
+### Bb targets relative to *Vespa velutina*
+
+Phylogenetic distance among arthropods named as Bb control targets in Phase 2 extracts (`host_pest` in 02a/03, plus Vespidae in 00-key-papers). Top = closest shared ancestry with *V. velutina*.
+
+```
+Arthropoda
+├── Acari (mites and ticks)
+└── Insecta
+    ├── Orthoptera (locusts, grasshoppers)
+    ├── Blattodea (termites)
+    ├── Thysanoptera (thrips)
+    ├── Hemiptera (true bugs, whiteflies, bed bugs)
+    └── Holometabola
+        ├── Hymenoptera
+        │   ├── Vespa velutina (Asian hornet)
+        │   ├── Other Vespidae (Vespula, Polistes, Mischocyttarus)
+        │   └── Other Hymenoptera (ants, sawflies)
+        ├── Coleoptera (beetles)
+        ├── Lepidoptera (moths)
+        └── Diptera (flies, mosquitoes)
+```
+
+| Rank | Band | Taxa |
+|---:|---|---|
+| 1 | Same genus (*Vespa*) | *Vespa velutina* |
+| 2 | Same family (Vespidae) | *Vespula germanica*, *Vespula* spp., *Polistes dominula*, *Polistes chinensis*, *Polistes myersi*, *Mischocyttarus metathoracicus* |
+| 3 | Other Hymenoptera | *Solenopsis invicta*, *Camponotus*, *Pristiphora abietina* |
+| 4 | Other Holometabola | Coleoptera, Lepidoptera, Diptera (see 2a/03 host lists) |
+| 5 | Condylognatha | *Frankliniella occidentalis*, *Scirtothrips aurantii*, *Lycorma delicatula*, *Lygus lineolaris*, *Trialeurodes vaporariorum*, *Cimex lectularius*, *Triatoma infestans* |
+| 6 | Polyneoptera | *Schistocerca gregaria*, *Melanoplus sanguinipes*, *Odontotermes formosanus*, *Reticulitermes chinensis* |
+| 7 | Acari | *Dermanyssus gallinae*, *Psoroptes ovis*, *Ixodes ricinus*, *Hyalomma anatolicum*, *Rhipicephalus microplus*, *Rhipicephalus sanguineus* |
+
 ### 2a efficacy
 
 | Host / pest (from abstract) | Delivery (detected) | Mortality | LT/LC | Colony / nest | Study |
