@@ -1,0 +1,3876 @@
+PMID- 39017922
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240717
+LR  - 20240803
+IS  - 1432-1955 (Electronic)
+IS  - 0932-0113 (Linking)
+VI  - 123
+IP  - 7
+DP  - 2024 Jul 17
+TI  - Microbial agents for the control of ticks Rhipicephalus microplus.
+PG  - 275
+LID - 10.1007/s00436-024-08291-1 [doi]
+AB  - Ticks are ectoparasites responsible for the transmission of various pathogens to vertebrates. They represent one of the major threats to livestock production worldwide due to their impact on the health, production and welfare of livestock destined for human consumption. The development of resistance to the main families of ixodicides used for their control has led to the search for new alternatives, where microbial control is an option. The use of microbial control agents against the tick Rhipicephalus microplus is reviewed in this paper. Bacteria such as Bacillus thuringiensis, Serratia marcescens and Staphylococcus spp. the nematodes Steinernema spp. and Heterorhabditis spp. as well as the fungi Metarhizium anisopliae and Beauveria bassiana are the most studied organisms for use as biological control agents against ticks. Laboratory, stable and field trials with free-living and parasitised ticks have shown that microbial agents can control both susceptible and ixodicide-resistant tick populations. However, multidisciplinary studies using novel tools like genomics, transcriptomics and proteomics should be carried out to understand the virulence factors which microbial agents use to induce pathogenesis and virulence in ticks. In addition, applied research will be carried out with the aim of improving techniques for large-scale application, as well as the improvement of cultivation, storage, formulation and application methods.
+CI  - 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.
+FAU - Castro-Saines, Edgar
+AU  - Castro-Saines E
+AUID- ORCID: 0000-0001-5289-8025
+FAU - Lagunes-Quintanilla, Rodolfo
+AU  - Lagunes-Quintanilla R
+AUID- ORCID: 0000-0001-5474-9816
+FAU - Hernandez-Ortiz, Ruben
+AU  - Hernandez-Ortiz R
+AUID- ORCID: 0000-0001-8363-9923
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240717
+PL  - Germany
+TA  - Parasitol Res
+JT  - Parasitology research
+JID - 8703571
+RN  - 0 (Biological Control Agents)
+SB  - IM
+MH  - Animals
+MH  - *Rhipicephalus/microbiology
+MH  - Bacteria/drug effects
+MH  - Pest Control, Biological/methods
+MH  - Biological Control Agents
+MH  - Tick Infestations/veterinary/prevention & control/parasitology
+MH  - Tick Control/methods
+MH  - Fungi/drug effects
+OTO - NOTNLM
+OT  - Bacteria
+OT  - Fungi
+OT  - Nematodes
+OT  - Ticks
+EDAT- 2024/07/17 12:44
+MHDA- 2024/07/17 12:45
+CRDT- 2024/07/17 11:13
+PHST- 2024/05/02 00:00 [received]
+PHST- 2024/07/07 00:00 [accepted]
+PHST- 2024/07/17 12:45 [medline]
+PHST- 2024/07/17 12:44 [pubmed]
+PHST- 2024/07/17 11:13 [entrez]
+AID - 10.1007/s00436-024-08291-1 [pii]
+AID - 10.1007/s00436-024-08291-1 [doi]
+PST - epublish
+SO  - Parasitol Res. 2024 Jul 17;123(7):275. doi: 10.1007/s00436-024-08291-1.
+
+PMID- 41475278
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260110
+LR  - 20260110
+IS  - 1096-1208 (Electronic)
+IS  - 0882-4010 (Linking)
+VI  - 211
+DP  - 2026 Feb
+TI  - Bioprocess and genetic advances enhancing Beauveria bassiana biocontrol efficacy.
+PG  - 108272
+LID - S0882-4010(25)00997-0 [pii]
+LID - 10.1016/j.micpath.2025.108272 [doi]
+AB  - Beauveria bassiana is a widely exploited entomopathogenic fungus that has emerged as a central component of ecologically sustainable pest management. Recent years have witnessed rapid progress across its biological understanding, technological development, and application potential. This review synthesizes contemporary advances spanning infection biology, secondary metabolite biosynthesis, strain development, bioprocess engineering, formulation science, and genetic improvement. At the molecular level, multi-omics studies have elucidated the coordinated regulation of surface adhesion, cuticular penetration, host immune modulation, dimorphic transitions, and toxin production, revealing gene networks that govern virulence, stress tolerance, and ecological adaptation. These insights have informed improved strategies for strain isolation and high-throughput phenotypic screening, enabling the selection of isolates with enhanced pathogenicity, environmental robustness, and endophytic competence. Parallel advances in solid-state and submerged fermentation, supported by agro-industrial substrates and data-driven optimization, have strengthened large-scale production of infective propagules with consistent quality. Such gains are further reinforced by modern formulation approaches, including oil-based dispersions, encapsulation systems, nanoemulsions, and seed-coating technologies, which collectively improve spore stability, persistence, and delivery under heterogeneous field conditio
+CI  - Copyright 2025 Elsevier Ltd. All rights reserved.
+FAU - Kolanchi, Prakash
+AU  - Kolanchi P
+FAU - Saminathan, Nandha
+AU  - Saminathan N
+FAU - Selvaraj, Dineshkumar
+AU  - Selvaraj D
+FAU - Krishnamoorthy, Aravinthraju
+AU  - Krishnamoorthy A
+FAU - Palanivelu, Kavin
+AU  - Palanivelu K
+FAU - Aruchalam, Annamalai
+AU  - Aruchalam A
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20251230
+PL  - England
+TA  - Microb Pathog
+JT  - Microbial pathogenesis
+JID - 8606191
+RN  - 0 (Biological Control Agents)
+SB  - IM
+MH  - *Beauveria/genetics/pathogenicity/metabolism/physiology
+MH  - *Pest Control, Biological/methods
+MH  - Virulence
+MH  - Animals
+MH  - Insecta/microbiology
+MH  - *Biological Control Agents
+MH  - Gene Editing
+MH  - Secondary Metabolism
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - CRISPR-Cas9
+OT  - Formulation technology
+OT  - Mass production
+OT  - Sustainable agriculture
+OT  - Virulence mechanisms
+COIS- Declaration of competing interest The authors declare that they have no competing  interests.
+EDAT- 2026/01/01 00:35
+MHDA- 2026/01/11 00:34
+CRDT- 2025/12/31 18:08
+PHST- 2025/10/12 00:00 [received]
+PHST- 2025/12/22 00:00 [revised]
+PHST- 2025/12/29 00:00 [accepted]
+PHST- 2026/01/11 00:34 [medline]
+PHST- 2026/01/01 00:35 [pubmed]
+PHST- 2025/12/31 18:08 [entrez]
+AID - S0882-4010(25)00997-0 [pii]
+AID - 10.1016/j.micpath.2025.108272 [doi]
+PST - ppublish
+SO  - Microb Pathog. 2026 Feb;211:108272. doi: 10.1016/j.micpath.2025.108272. Epub 2025  Dec 30.
+
+PMID- 37017732
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230508
+LR  - 20230508
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Linking)
+VI  - 107
+IP  - 10
+DP  - 2023 May
+TI  - Beauveria bassiana exhibits strong virulence against Dendroctonus ponderosae in greenhouse and field experiments.
+PG  - 3341-3352
+LID - 10.1007/s00253-023-12499-z [doi]
+AB  - The mountain pine beetle (MPB) has infested over 16 million hectares of pine forests in western Canada, killing over 50% of mature lodgepole pine, Pinus contorta, in British Columbia alone. There are few tools available to manage irruptive bark beetle populations and to mitigate tree mortality. Beauveria bassiana is an entomopathogenic fungus that causes mortality to several bark beetle species. However, the potential for B. bassiana as a biocontrol agent against pine beetle populations is unknown. We selected three strains of B. bassiana from several culture collections and evaluated their conidial stability under cold storage, in planta (greenhouse, and pine bolts) and in natura (forest stand, pine bolts, and live pines) conditions. The stability assays showed that all fungal strains maintained a minimum effective conidial yield through the assay durations (3-12 weeks). In addition, we adapted a biphasic liquid-solid fermentation approach for the large-scale production of conidial biomass, yielding up to a 100-fold increase in production. In greenhouse virulence assays, the mean lethal time of MPBs was reduced to 3-4 days upon treatment with B. bassiana, where high B. bassiana-associated mycosis was also observed. Furthermore, the application of B. bassiana formulation substantially affected the gallery network of MPBs in bolts in the field, resulting in shorter larval galleries and significantly reduced offspring production. Indeed, high titer treatments reduced the mean
+CI  - 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.
+FAU - Fernandez, Kleinberg X
+AU  - Fernandez KX
+AUID- ORCID: 0000-0003-1836-0162
+FAU - Pokorny, Stanley
+AU  - Pokorny S
+FAU - Ishangulyeva, Guncha
+AU  - Ishangulyeva G
+AUID- ORCID: 0000-0003-1898-7125
+FAU - Ullah, Aziz
+AU  - Ullah A
+AUID- ORCID: 0000-0001-6155-8874
+FAU - Todorova, Silvia I
+AU  - Todorova SI
+FAU - Erbilgin, Nadir
+AU  - Erbilgin N
+AUID- ORCID: 0000-0001-9912-8095
+FAU - Carroll, Allan L
+AU  - Carroll AL
+AUID- ORCID: 0000-0003-1820-0759
+FAU - Vederas, John C
+AU  - Vederas JC
+AUID- ORCID: 0000-0002-2996-0326
+LA  - eng
+PT  - Journal Article
+DEP - 20230405
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+SB  - IM
+MH  - Animals
+MH  - *Beauveria
+MH  - Virulence
+MH  - *Pinus/microbiology
+MH  - *Coleoptera
+MH  - Forests
+MH  - Larva
+MH  - Spores, Fungal
+OTO - NOTNLM
+OT  - Bark beetles
+OT  - Entomopathogens
+OT  - Forest entomology
+OT  - Microbial biocontrol agents
+OT  - Mountain pine beetle
+EDAT- 2023/04/06 06:00
+MHDA- 2023/05/08 06:42
+CRDT- 2023/04/05 11:14
+PHST- 2023/01/12 00:00 [received]
+PHST- 2023/03/22 00:00 [accepted]
+PHST- 2023/03/16 00:00 [revised]
+PHST- 2023/05/08 06:42 [medline]
+PHST- 2023/04/06 06:00 [pubmed]
+PHST- 2023/04/05 11:14 [entrez]
+AID - 10.1007/s00253-023-12499-z [pii]
+AID - 10.1007/s00253-023-12499-z [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2023 May;107(10):3341-3352. doi:  10.1007/s00253-023-12499-z. Epub 2023 Apr 5.
+
+PMID- 38199517
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240313
+LR  - 20241216
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 203
+DP  - 2024 Mar
+TI  - Bbhox2 is a key regulator for conidiation and virulence in Beauveria bassiana.
+PG  - 108059
+LID - S0022-2011(24)00002-8 [pii]
+LID - 10.1016/j.jip.2024.108059 [doi]
+AB  - Beauveria bassiana, a well-known filamentous biocontrol fungus, is the main pathogen of numerous field and forest pests. To explore the potential factors involved in the fungal pathogenicity, Bbhox2, an important and conserved functional transcription factor containing homeodomain was carried out by functional analysis. Homologous recombination was used to disrupt the Bbhox2 gene in B.bassiana. The conidia yield of the deletant fungal strain was significantly reduced. The conidial germination was faster, and stress tolerance to Congo red and high osmotic agents were decreased compared with that in the wildtype. Additionally, Bbhox2 showed a dramatic reduction in virulence no matter in topical inoculations or in intra-hemolymph injections against Galleria mellonella larvae, which is likely due to the failure of appressorium formation and the defect in producing hyphal body. These results indicate that the Bbhox2 gene markedly contributes to conidiation and pathogenicity in B. bassiana.
+CI  - Copyright 2024 Elsevier Inc. All rights reserved.
+FAU - Li, Juanjuan
+AU  - Li J
+FAU - Zhang, Yan
+AU  - Zhang Y
+FAU - Jiao, Shouhao
+AU  - Jiao S
+FAU - He, Lian
+AU  - He L
+FAU - Fan, Yanhua
+AU  - Fan Y
+FAU - Han, Xuemeng
+AU  - Han X
+FAU - Sun, Binda
+AU  - Sun B
+FAU - Zhao, Wenqi
+AU  - Zhao W
+FAU - Mei, Yanlin
+AU  - Mei Y
+FAU - Wei, Ning
+AU  - Wei N
+FAU - Zeng, Haiyue
+AU  - Zeng H
+FAU - Jin, Dan
+AU  - Jin D
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240109
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+RN  - 0 (Fungal Proteins)
+SB  - IM
+MH  - Animals
+MH  - Virulence
+MH  - *Beauveria/genetics
+MH  - *Moths/microbiology
+MH  - Larva/microbiology
+MH  - Spores, Fungal/genetics
+MH  - Fungal Proteins/genetics
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Conidiation
+OT  - Homeobox TF
+OT  - Hyphal body
+OT  - Virulence
+COIS- Declaration of competing interest The authors declare that they have no known  competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+EDAT- 2024/01/11 00:42
+MHDA- 2024/03/13 06:46
+CRDT- 2024/01/10 20:18
+PHST- 2023/09/23 00:00 [received]
+PHST- 2024/01/03 00:00 [revised]
+PHST- 2024/01/07 00:00 [accepted]
+PHST- 2024/03/13 06:46 [medline]
+PHST- 2024/01/11 00:42 [pubmed]
+PHST- 2024/01/10 20:18 [entrez]
+AID - S0022-2011(24)00002-8 [pii]
+AID - 10.1016/j.jip.2024.108059 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2024 Mar;203:108059. doi: 10.1016/j.jip.2024.108059. Epub  2024 Jan 9.
+
+PMID- 42228545
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260604
+LR  - 20260726
+IS  - 1938-2928 (Electronic)
+IS  - 0022-2585 (Print)
+IS  - 0022-2585 (Linking)
+VI  - 63
+IP  - 3
+DP  - 2026 May 5
+TI  - Semifield evaluation of autodissemination systems in Aedes notoscriptus and Culex quinquefasciatus and laboratory analysis of In2Care formulation effects.
+LID - 10.1093/jme/tjag078 [doi]
+LID - tjag078
+AB  - Urban mosquito control needs targeted tools that suppress population breeding in cryptic container habitats while reducing reliance on broad-spectrum insecticides. Autodissemination devices exploit oviposition behavior to transfer the insect growth regulator pyriproxyfen to larval sites and may be enhanced by adulticidal agents such as the entomopathogenic fungus Beauveria bassiana. We compared semifield efficacy of In2Care(R) Mosquito Stations and INZECTO Mosquito OviTraps + INZECTO pyriproxyfen chips against Aedes notoscriptus and Culex quinquefasciatus. We subsequently quantified the adult survival effects of pyriproxyfen, B. bassiana, and their combined formulation (In2Mix) in Ae. notoscriptus. Semifield trials used 4 4 m mesh tents in replicate blocks; 50 females per tent were exposed to In2Care stations, INZECTO OviTraps + INZECTO pyriproxyfen chips, or untreated controls with four surrounding oviposition cups. Cup water was bioassayed for emergence inhibition and analyzed with beta-binomial GLMMs. Adult females were force-exposed to treated nettings (pyriproxyfen-only, B. bassiana-only, In2Mix, control) and survival was analyzed with Cox regression. In semifield trials, In2Care reduced adult emergence relative to controls (logit estimate = 1.892, P 0.0001) and was more effective than INZECTO (estimate = -0.990, P = 0.024); INZECTO also reduced adult emergence compared to controls (estimate = 0.902, P = 0.041). In laboratory assays, B. bassiana substantially increase
+CI  - The Author(s) 2026. Published by Oxford University Press on behalf of Entomological Society of America.
+FAU - Paris, Veronique
+AU  - Paris V
+AUID- ORCID: 0000-0002-3667-685X
+FAU - Bell, Nicholas
+AU  - Bell N
+AUID- ORCID: 0000-0002-2420-6682
+FAU - Hoffmann, Ary A
+AU  - Hoffmann AA
+AUID- ORCID: 0000-0001-9497-7645
+LA  - eng
+GR  - 226166/Z/22/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PL  - England
+TA  - J Med Entomol
+JT  - Journal of medical entomology
+JID - 0375400
+RN  - 0 (Pyridines)
+RN  - 3Q9VOR705O (pyriproxyfen)
+RN  - 0 (Insecticides)
+RN  - 0 (Juvenile Hormones)
+RN  - Culex quinquefasciatus
+SB  - IM
+MH  - Animals
+MH  - *Culex/growth & development
+MH  - *Mosquito Control/methods/instrumentation
+MH  - *Pyridines
+MH  - *Aedes/growth & development
+MH  - *Insecticides
+MH  - Female
+MH  - *Beauveria
+MH  - Oviposition
+MH  - *Juvenile Hormones
+PMC - PMC13228129
+OTO - NOTNLM
+OT  - Autodissemination
+OT  - Mosquito control
+OT  - Pyriproxyfen
+COIS- None declared.
+EDAT- 2026/06/02 18:43
+MHDA- 2026/06/04 18:40
+PMCR- 2026/06/02
+CRDT- 2026/06/02 12:23
+PHST- 2026/04/01 00:00 [received]
+PHST- 2026/05/04 00:00 [revised]
+PHST- 2026/05/05 00:00 [accepted]
+PHST- 2026/06/04 18:40 [medline]
+PHST- 2026/06/02 18:43 [pubmed]
+PHST- 2026/06/02 12:23 [entrez]
+PHST- 2026/06/02 00:00 [pmc-release]
+AID - 8699956 [pii]
+AID - tjag078 [pii]
+AID - 10.1093/jme/tjag078 [doi]
+PST - ppublish
+SO  - J Med Entomol. 2026 May 5;63(3):tjag078. doi: 10.1093/jme/tjag078.
+
+PMID- 36012816
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230308
+IS  - 2309-608X (Electronic)
+IS  - 2309-608X (Linking)
+VI  - 8
+IP  - 8
+DP  - 2022 Aug 8
+TI  - Increased Attraction and Stability of Beauveria bassiana-Formulated Microgranules for Aedes aegypti Biocontrol.
+LID - 10.3390/jof8080828 [doi]
+LID - 828
+AB  - Aedes aegypti (Linn.) incidence has increased in recent years, causing human viral diseases such as dengue, which are often fatal. Beauveria bassiana (Bals., Vuillemin) efficacy for Ae. aegypti biological control has been evidenced but it relies on host susceptibility and strain virulence. We hypothesized that B. bassiana conidia microgranular formulations (MGF) with the additives acetone, lactic acid, and sugar increase Ae. aegypti adult exposure, thus improving their biocontrol effectiveness. Beauveria bassiana strain four (BBPTG4) conidia stability was assessed after 0 d, 5 d, and 30 d storage at 25 C 2 C with additives or in MGF after 91 d of storage at 25 C 2 C or 4 C 1 C, whereas mortality was evaluated after adult exposure to MGF + conidia, using home-made traps. Additives did not show toxicity to conidia. In addition, we observed that sugar in MGF increased Ae. aegypti adults' attraction and their viability resulted in a 3-fold reduction after 5 d and 1- to 4-fold decrease after 30 d of storage, and formulations were less attractive (p 0.05). Conidia stability was higher on MGF regardless of the storage temperature, losing up to 2.5-fold viability after 91 d. In conclusion, BBPTG4 infected and killed Ae. aegypti, whereas MGF attracting adults resulted in 42.2% mortality, increasing fungus auto dissemination potential among infected surviving adults. It is necessary to further evaluate MGF against Ae. aegypti in the field.
+FAU - Zamora-Aviles, Norma
+AU  - Zamora-Aviles N
+FAU - Orozco-Flores, Alonso A
+AU  - Orozco-Flores AA
+FAU - Gomez-Flores, Ricardo
+AU  - Gomez-Flores R
+FAU - Dominguez-Gamez, Maribel
+AU  - Dominguez-Gamez M
+FAU - Rodriguez-Perez, Mario A
+AU  - Rodriguez-Perez MA
+AUID- ORCID: 0000-0002-0905-6073
+FAU - Tamez-Guerra, Patricia
+AU  - Tamez-Guerra P
+AUID- ORCID: 0000-0002-4831-2340
+LA  - eng
+GR  - SIP No. 20201972/Instituto Politecnico Nacional/
+GR  - scholarships 419747 to AAOF and 957310 to MDG, and 00495 to NZA, and grant # 5109 to PTG/Consejo Nacional de Ciencia y Tecnologia/
+GR  - 79460 to NZA, 236891 to AAOF, 9942 to RGF, 9029 to MARP, and 16614 to PTG/Conacyt  -Sistema Nacional de Investig/
+PT  - Journal Article
+DEP - 20220808
+PL  - Switzerland
+TA  - J Fungi (Basel)
+JT  - Journal of fungi (Basel, Switzerland)
+JID - 101671827
+PMC - PMC9409880
+OTO - NOTNLM
+OT  - conidia viability
+OT  - mosquito control
+OT  - propagules stabilizers
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/08/27 06:00
+MHDA- 2022/08/27 06:01
+PMCR- 2022/08/08
+CRDT- 2022/08/26 01:26
+PHST- 2022/07/04 00:00 [received]
+PHST- 2022/07/30 00:00 [revised]
+PHST- 2022/08/03 00:00 [accepted]
+PHST- 2022/08/26 01:26 [entrez]
+PHST- 2022/08/27 06:00 [pubmed]
+PHST- 2022/08/27 06:01 [medline]
+PHST- 2022/08/08 00:00 [pmc-release]
+AID - jof8080828 [pii]
+AID - jof-08-00828 [pii]
+AID - 10.3390/jof8080828 [doi]
+PST - epublish
+SO  - J Fungi (Basel). 2022 Aug 8;8(8):828. doi: 10.3390/jof8080828.
+
+PMID- 29704043
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181010
+LR  - 20181010
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Linking)
+VI  - 102
+IP  - 12
+DP  - 2018 Jun
+TI  - Antioxidant enzymes and their contributions to biological control potential of fungal insect pathogens.
+PG  - 4995-5004
+LID - 10.1007/s00253-018-9033-2 [doi]
+AB  - Filamentous fungal insect pathogens represent a source of biological insecticides and acaricides formulated using intact cells, such as conidia or other spores. These mycoinsecticides infect arthropod pests through cuticular penetration. In field application, formulated fungal cells are exposed to environmental stresses, including solar UV irradiation, high temperature, and applied chemical herbicides and fungicides, as well as stress from host immune defenses. These stresses often result in accumulation of toxic reactive oxygen species (ROS), generating oxidative stress to the fungal cells and hence affecting the efficacy and persistency of fungi formulated for pest control. In response, fungi have evolved effective antioxidant mechanisms that include enzyme families that act as ROS scavengers, e.g., superoxide dismutases, catalases, peroxidases, thioredoxins /thioredoxin reductases, and glutaredoxins/glutathione reductases. Over two dozen antioxidant enzymes dispersed in different families have been characterized in Beauveria bassiana in recent years. This mini-review focuses on the progress detailed in the studies of these enzymes and provides an overview of their antioxidant activities and contributions to conidial thermotolerance, UV resistance and virulence. These activities are crucial for the biological control potential of mycoinsecticide formulation and have significantly advanced our understanding of how these organisms work. Several potent antioxidant genes have
+FAU - Zhang, Long-Bin
+AU  - Zhang LB
+FAU - Feng, Ming-Guang
+AU  - Feng MG
+AUID- ORCID: 0000-0002-2657-0293
+LA  - eng
+GR  - 2017YFD0201202/Ministry of Science and Technology of the People's Republic of  China/
+GR  - 31772218/National Natural Science Foundation of China/
+PT  - Journal Article
+PT  - Review
+DEP - 20180428
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - EC 1.- (Oxidoreductases)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*enzymology
+MH  - Insecta/*microbiology
+MH  - Oxidoreductases/genetics/*metabolism
+MH  - *Pest Control, Biological
+MH  - Spores, Fungal/*enzymology/pathogenicity
+MH  - Thermotolerance/*physiology
+MH  - Virulence/genetics
+OTO - NOTNLM
+OT  - Antioxidant machinery
+OT  - Entomopathogenic fungi
+OT  - ROS decomposition
+OT  - Stress tolerance
+OT  - Virulence
+EDAT- 2018/04/29 06:00
+MHDA- 2018/10/12 06:00
+CRDT- 2018/04/29 06:00
+PHST- 2018/03/05 00:00 [received]
+PHST- 2018/04/16 00:00 [accepted]
+PHST- 2018/04/15 00:00 [revised]
+PHST- 2018/04/29 06:00 [pubmed]
+PHST- 2018/10/12 06:00 [medline]
+PHST- 2018/04/29 06:00 [entrez]
+AID - 10.1007/s00253-018-9033-2 [pii]
+AID - 10.1007/s00253-018-9033-2 [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2018 Jun;102(12):4995-5004. doi:  10.1007/s00253-018-9033-2. Epub 2018 Apr 28.
+
+PMID- 38434644
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250714
+LR  - 20250714
+IS  - 2046-1402 (Electronic)
+IS  - 2046-1402 (Linking)
+VI  - 12
+DP  - 2023
+TI  - Isolation, morphological characterization, and screening virulence of Beauveria bassiana and Metarhizium robertsii fungal isolates on Galleria mellonella.
+PG  - 827
+LID - 10.12688/f1000research.134020.5 [doi]
+LID - 827
+AB  - BACKGROUND: Entomopathogenic fungi exists naturally in plants as an asymptote and have the potential to reduce the population of insect pests through indirect interactions. This study was conducted to detect and characterize the endophytic fungi Beauveria bassiana and Metarhizium robertsii from the rhizosphere soil of tomato plants and their virulence effect on Galleria melonella. METHODS: From the rhizosphere soil of 40 tomato fields, three Beauveria bassiana and seven Metarhizium robertsii isolates were isolated using the galleria bait method. All fungi isolate were morphologically characterized by their colony color, shape, and surface texture. Isolates with the highest percentages of germination, conidial yield, and radial growth were selected, and their virulence was evaluated on second instar larvae of Galleria melonella under laboratory conditions. RESULTS: In this study, Beauveria bassiana showed white colony color and aseptate hyphae, whereas Metarhizium robertsii showed dark green to light green colony color and septate hyphal structures. Maximum spore production and conidial length were obtained by Beauveria bassiana isolate APPRC-27 with 2.67x10 (7) spores ml (-1) and 3.24 m, respectively. Colony radial growth rates ranged from 1.73 to 3.24 mm day (-1). The results revealed that the highest mortality rate of Galleria melonella (100%) was obtained by Metarhizium robertsii isolates K-61 and K-102 at a concentration of 1x10 (8) conidial ml (-1) at 7 days post-inocu
+CI  - Copyright: 2024 Geremew D et al.
+FAU - Geremew, Dereje
+AU  - Geremew D
+AUID- ORCID: 0009-0000-5638-4005
+FAU - Shiberu, Tadale
+AU  - Shiberu T
+AUID- ORCID: 0000-0002-7870-2374
+FAU - Leta, Ararsa
+AU  - Leta A
+AUID- ORCID: 0009-0008-7001-3719
+LA  - eng
+PT  - Journal Article
+DEP - 20240911
+PL  - England
+TA  - F1000Res
+JT  - F1000Research
+JID - 101594320
+RN  - Metarhizium robertsii
+SB  - IM
+MH  - *Beauveria/pathogenicity/isolation & purification/cytology
+MH  - Animals
+MH  - *Metarhizium/pathogenicity/isolation & purification
+MH  - Virulence
+MH  - *Moths/microbiology
+MH  - Larva/microbiology
+MH  - Pest Control, Biological
+MH  - Soil Microbiology
+MH  - Solanum lycopersicum/microbiology
+MH  - Spores, Fungal
+MH  - Rhizosphere
+PMC - PMC10905152
+OTO - NOTNLM
+OT  - Conidia
+OT  - Galleria melonella
+OT  - colony color
+OT  - endophytic
+OT  - entomopathogenic fungi
+OT  - isolates
+COIS- No competing interests were disclosed.
+EDAT- 2024/03/04 06:46
+MHDA- 2024/03/05 06:44
+PMCR- 2024/09/11
+CRDT- 2024/03/04 04:48
+PHST- 2024/08/06 00:00 [accepted]
+PHST- 2024/03/04 06:46 [pubmed]
+PHST- 2024/03/05 06:44 [medline]
+PHST- 2024/03/04 04:48 [entrez]
+PHST- 2024/09/11 00:00 [pmc-release]
+AID - 10.12688/f1000research.134020.5 [doi]
+PST - epublish
+SO  - F1000Res. 2024 Sep 11;12:827. doi: 10.12688/f1000research.134020.5. eCollection  2023.
+
+PMID- 28066976
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180214
+LR  - 20180214
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+VI  - 73
+IP  - 8
+DP  - 2017 Aug
+TI  - Delivering Beauveria bassiana with electrostatic powder for the control of stored-product beetles.
+PG  - 1725-1736
+LID - 10.1002/ps.4522 [doi]
+AB  - BACKGROUND: The efficacy of a Beauveria bassiana-based formulation (Bb38) with Entostat, an electrostatically charged powder, was investigated as a surface treatment against Cryptolestes ferrugineus, Oryzaephilus surinamensis and Sitophilus granarius adults. In lab bioassays, the efficacy of Bb38 against the aforementioned species was examined on concrete, plywood, steel and ceramic, whereas its residual efficacy against the same species was assessed on concrete and steel in the presence or absence of illumination. Finally, the efficacy of Bb38 against O. surinamensis and S. granarius adults was assessed in a commercial grain storage facility under realistic field conditions. RESULTS: In the lab trials, O. surinamensis and C. ferrugineus were much more susceptible to Bb38 than S. granarius on all types of surfaces. Moreover, Bb38 was, at least for O. surinamensis and C. ferrugineus, as effective as the chemical standard (deltamethrin) for at least 2 months after the application, regardless of the presence or absence of illumination. Finally, in the field trial Bb38 provided a satisfactory level of control against O. surinamensis. CONCLUSION: Bb38 is an effective surface treatment, but its efficacy varies according to the target species, the type of surface and the time post-application. This is the first published report that examines the efficacy of Bb38 as a surface treatment for wider uses in empty warehouses and related storage facilities. 2017 Society of Chemical Indu
+CI  - 2017 Society of Chemical Industry.
+FAU - Athanassiou, Christos G
+AU  - Athanassiou CG
+FAU - Rumbos, Christos I
+AU  - Rumbos CI
+FAU - Sakka, Maria
+AU  - Sakka M
+FAU - Potin, Olivier
+AU  - Potin O
+FAU - Storm, Clare
+AU  - Storm C
+FAU - Dillon, Aoife B
+AU  - Dillon AB
+LA  - eng
+PT  - Journal Article
+DEP - 20170222
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+RN  - 0 (Powders)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*physiology
+MH  - Biological Assay
+MH  - Coleoptera/*microbiology
+MH  - *Food Storage
+MH  - Pest Control, Biological/*methods
+MH  - Powders
+MH  - *Static Electricity
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Cryptolestes ferrugineus
+OT  - Entostat
+OT  - Oryzaephilus surinamensis
+OT  - Sitophilus granarius
+OT  - surface treatment
+EDAT- 2017/01/10 06:00
+MHDA- 2018/02/15 06:00
+CRDT- 2017/01/10 06:00
+PHST- 2016/10/26 00:00 [received]
+PHST- 2016/12/18 00:00 [revised]
+PHST- 2017/01/02 00:00 [accepted]
+PHST- 2017/01/10 06:00 [pubmed]
+PHST- 2018/02/15 06:00 [medline]
+PHST- 2017/01/10 06:00 [entrez]
+AID - 10.1002/ps.4522 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2017 Aug;73(8):1725-1736. doi: 10.1002/ps.4522. Epub 2017 Feb 22.
+
+PMID- 36914429
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230703
+LR  - 20230703
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+VI  - 79
+IP  - 8
+DP  - 2023 Aug
+TI  - UV-induced mutagenesis of Beauveria bassiana (Hypocreales: Clavicipitaceae) yields two hypervirulent isolates with different transcriptomic profiles.
+PG  - 2762-2779
+LID - 10.1002/ps.7452 [doi]
+AB  - BACKGROUND: The fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae) can infest over 300 plant species and cause huge economic losses. Beauveria bassiana (Hypocreales: Clavicipitaceae) is one of the most widely used entomopathogenic fungi (EPF). Unfortunately, the efficacy of B. bassiana against S. frugiperda is quite low. Hypervirulent EPF isolates can be obtained by ultraviolet (UV)-irradiation. Here we report on the UV-induced mutagenesis and transcriptomic analysis of B. bassiana. RESULTS: The wild-type (WT) B. bassiana (ARSEF2860) was exposed to UV light to induce mutagenesis. Two mutants (named 6M and 8M) showed higher growth rates, conidial yields, and germination rates compared to the WT strain. The mutants showed higher levels of tolerance to osmotic, oxidative, and UV stresses. The mutants showed higher protease, chitinase, cellulose, and chitinase activities than WT. Both WT and mutants were compatible with the insecticides matrine, spinetoram, and chlorantraniliprole, but incompatible with emamectin benzoate. Insect bioassays showed that both mutants were more virulent against S. frugiperda and the greater wax moth Galleria mellonella. Transcriptomic profiles of the WT and mutants were determined by RNA-sequencing. The differentially expressed genes (DEGs) were identified. The gene set enrichment analysis (GSEA), protein-protein interaction (PPI) network, and hub gene analysis revealed virulence-related genes. CONCLUSION: Our data demonstrate that UV-irr
+CI  - 2023 Society of Chemical Industry.
+FAU - Sun, Yan-Xia
+AU  - Sun YX
+FAU - Zhang, Bang-Xian
+AU  - Zhang BX
+FAU - Zhang, Wen-Ting
+AU  - Zhang WT
+FAU - Wang, Qian
+AU  - Wang Q
+FAU - Toufeeq, Shahzad
+AU  - Toufeeq S
+FAU - Rao, Xiang-Jun
+AU  - Rao XJ
+AUID- ORCID: 0000-0002-3591-6698
+LA  - eng
+GR  - Anhui Agricultural University/
+GR  - National Natural Science Foundation of China/
+GR  - Natural Science Foundation of Anhui Province/
+PT  - Journal Article
+DEP - 20230323
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+SB  - IM
+MH  - Animals
+MH  - *Hypocreales/genetics
+MH  - *Beauveria/genetics
+MH  - Transcriptome
+MH  - *Moths/genetics
+MH  - Mutagenesis
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Spodoptera frugiperda
+OT  - entomopathogenic fungus
+OT  - mutagenesis
+OT  - ultraviolet
+EDAT- 2023/03/14 06:00
+MHDA- 2023/07/03 06:41
+CRDT- 2023/03/13 22:52
+PHST- 2023/01/31 00:00 [revised]
+PHST- 2022/09/26 00:00 [received]
+PHST- 2023/03/13 00:00 [accepted]
+PHST- 2023/07/03 06:41 [medline]
+PHST- 2023/03/14 06:00 [pubmed]
+PHST- 2023/03/13 22:52 [entrez]
+AID - 10.1002/ps.7452 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2023 Aug;79(8):2762-2779. doi: 10.1002/ps.7452. Epub 2023 Mar 23.
+
+PMID- 16160769
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20051209
+LR  - 20181113
+IS  - 0301-486X (Print)
+IS  - 0301-486X (Linking)
+VI  - 160
+IP  - 1
+DP  - 2005 Aug
+TI  - Potential of oil-based formulations of Beauveria bassiana to control Triatoma infestans.
+PG  - 51-62
+AB  - The in vitro development of Beauveria bassiana conidia was monitored when immersed in six concentrations of seven non-ionic (MP 6400, MP 600, Renex 60, Renex 95, Span 80, Tween 20 and Tween 80) and three anionic (DOS 75, Hostapaval BVQ 9 and Surfax 220) surfactants and 11 vegetable oils (linseed, soybean, groundnut, rapeseed, thistle, sunflower, olive, sesame, corn, castor, and babassu). The influence of the oils on the settling behavior of Triatoma infestans nymphs and the activity of an oil-water formulation of the fungus against this vector under laboratory and simulated field conditions were also determined. With exception of DOS 75 and Surfax 220 germination of conidia on complete medium was 98% at 24 h after exposure to surfactants up to 10%. Elevated rates of germination ( 25%) were observed in 10% corn, thistle and linseed oil 8 days after incubation. Pure oils had a significant repellent effect to T. infestans. Repellency decreased generally at 10% of the oil and some oils showed some attractiveness for nymphs when tested at 1%. Nymphs were highly susceptible to oil-water formulated conidia, even at unfavorable moisture for extra-tegumental development of the fungus on the insect cuticle.
+FAU - Luz, C
+AU  - Luz C
+FAU - Batagin, I
+AU  - Batagin I
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Netherlands
+TA  - Mycopathologia
+JT  - Mycopathologia
+JID - 7505689
+RN  - 0 (Plant Oils)
+SB  - IM
+MH  - Animals
+MH  - Insect Vectors/*microbiology
+MH  - *Mitosporic Fungi
+MH  - *Pest Control, Biological
+MH  - *Plant Oils
+MH  - Triatoma/*microbiology
+EDAT- 2005/09/15 09:00
+MHDA- 2005/12/13 09:00
+CRDT- 2005/09/15 09:00
+PHST- 2004/07/13 00:00 [received]
+PHST- 2005/01/01 00:00 [accepted]
+PHST- 2005/09/15 09:00 [pubmed]
+PHST- 2005/12/13 09:00 [medline]
+PHST- 2005/09/15 09:00 [entrez]
+AID - 10.1007/s11046-005-0210-3 [doi]
+PST - ppublish
+SO  - Mycopathologia. 2005 Aug;160(1):51-62. doi: 10.1007/s11046-005-0210-3.
+
+PMID- 42198650
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260717
+LR  - 20260717
+IS  - 2076-0817 (Electronic)
+IS  - 2076-0817 (Linking)
+VI  - 15
+IP  - 5
+DP  - 2026 May 13
+TI  - Biopolymer-Based Formulations of Beauveria bassiana for Biological Control of the Cabbage Whitefly (Aleyrodes proletella).
+LID - 10.3390/pathogens15050524 [doi]
+LID - 524
+AB  - Whiteflies, including Aleyrodes proletella, are major agricultural pests which cause significant yield losses through direct feeding damage and virus transmission. The entomopathogenic fungus Beauveria bassiana is a promising alternative to synthetic insecticides. However, its field performance is often constrained by environmental sensitivity and limited formulation stability. In this study, biopolymer-based suspensions incorporating B. bassiana strain 730 were developed using chitooligosaccharide (COS) and 2-hydroxyethyl cellulose (HEC) as biodegradable carriers. Rheological analysis showed increased viscosity upon fungal incorporation (from 75 to 226 cP for COS and from 250 to 354 cP for HEC), indicating effective interaction between the polymer matrices and fungal conidia. Scanning electron microscopy confirmed uniform dispersion and physical entrapment of fungal structures, while microbiological assays demonstrated preserved viability and sporulation capacity. Bioassays against eggs and nymphs of A. proletella revealed a clear time-dependent response, with limited efficacy after 24 h but substantial increases by day 3. The unformulated fungal suspension achieved 93.0% efficacy, while COS/B. bassiana and HEC/B. bassiana formulations reached 84.6% and 76.1%, respectively, comparable to the commercial product Naturalis((R)) (87.2%). Polymer solutions applied alone exhibited significantly lower activity. These results demonstrate that biopolymer-based formulations, particular
+FAU - Spasova, Mariya
+AU  - Spasova M
+AUID- ORCID: 0000-0002-1603-4294
+FAU - Chervenkova, Emiliya
+AU  - Chervenkova E
+AUID- ORCID: 0009-0008-3341-0205
+FAU - Stoeva, Atanaska
+AU  - Stoeva A
+AUID- ORCID: 0000-0002-9429-0664
+FAU - Petkova, Mariana
+AU  - Petkova M
+AUID- ORCID: 0000-0001-5122-9575
+FAU - Stoilova, Olya
+AU  - Stoilova O
+AUID- ORCID: 0000-0001-6903-0396
+LA  - eng
+GR  - BG-RRP-2.011-0005-C01/European Union-NextGenerationEU/
+PT  - Journal Article
+DEP - 20260513
+PL  - Switzerland
+TA  - Pathogens
+JT  - Pathogens (Basel, Switzerland)
+JID - 101596317
+RN  - 0 (Biopolymers)
+RN  - 1398-61-4 (Chitin)
+SB  - IM
+MH  - Animals
+MH  - *Beauveria/physiology
+MH  - *Pest Control, Biological/methods
+MH  - *Hemiptera/microbiology
+MH  - Spores, Fungal
+MH  - Biopolymers/chemistry
+MH  - Chitin/analogs & derivatives
+PMC - PMC13210045
+OTO - NOTNLM
+OT  - 2-hydroxyethyl cellulose
+OT  - Aleyrodes proletella
+OT  - Beauveria bassiana
+OT  - biological control
+OT  - biopolymer formulation
+OT  - chitooligosaccharide
+OT  - integrated pest management
+COIS- The authors declare no conflicts of interest.
+EDAT- 2026/05/27 06:34
+MHDA- 2026/05/27 06:35
+PMCR- 2026/05/13
+CRDT- 2026/05/27 01:25
+PHST- 2026/03/20 00:00 [received]
+PHST- 2026/05/01 00:00 [revised]
+PHST- 2026/05/11 00:00 [accepted]
+PHST- 2026/05/27 06:35 [medline]
+PHST- 2026/05/27 06:34 [pubmed]
+PHST- 2026/05/27 01:25 [entrez]
+PHST- 2026/05/13 00:00 [pmc-release]
+AID - pathogens15050524 [pii]
+AID - pathogens-15-00524 [pii]
+AID - 10.3390/pathogens15050524 [doi]
+PST - epublish
+SO  - Pathogens. 2026 May 13;15(5):524. doi: 10.3390/pathogens15050524.
+
+PMID- 37364245
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230811
+LR  - 20260127
+IS  - 1938-291X (Electronic)
+IS  - 0022-0493 (Linking)
+VI  - 116
+IP  - 4
+DP  - 2023 Aug 10
+TI  - Efficacy and nontarget effects of broadcast treatments to manage spotted lanternfly (Hemiptera: Fulgoridae) nymphs.
+PG  - 1211-1224
+LID - 10.1093/jee/toad121 [doi]
+AB  - Management to control the spotted lanternfly, Lycorma delicatula (White), would ideally achieve managers' goals while limiting impacts on nontarget organisms. In a large-scale field study with 45 plots at least 711 m2, we tested foliar applications of dinotefuran and 2 formulations of Beauveria bassiana (Balsamo) Vuillemin, each applied from the ground and separately by helicopter. Applications targeted early instar nymphs. For both application methods, a single treatment with dinotefuran significantly reduced L. delicatula numbers, as measured by catch on sticky bands (91% reduction by air and 84% reduction by ground 19 days after application) and by timed counts (89% reduction by air and 72% reduction by ground 17 days after application). None of the B. bassiana treatments significantly reduced L. delicatula numbers, even after 3 applications. Beauveria bassiana infection in field-collected nymphs ranged from 0.4% to 39.7%, with higher mortality and infection among nymphs collected from ground application plots. Beauveria bassiana conidia did not persist for long on foliage which probably contributed to low population reduction. Nontarget effects were not observed among arthropods captured in blue vane flight intercept traps, San Jose Scale pheromone sticky traps or pitfall traps, but power analysis revealed that small reductions of less than 40% may not be detected despite extensive sampling of 48,804 specimens. These results demonstrate that dinotefuran can markedly redu
+CI  - The Author(s) 2023. Published by Oxford University Press on behalf of Entomological Society of America. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+FAU - Keller, Joseph A
+AU  - Keller JA
+AUID- ORCID: 0000-0001-7395-0582
+FAU - Walsh, Brian
+AU  - Walsh B
+FAU - Johnson, Anne
+AU  - Johnson A
+FAU - Jenkins, Nina
+AU  - Jenkins N
+FAU - Rost, John
+AU  - Rost J
+FAU - Treichler, Brianna
+AU  - Treichler B
+FAU - Biddinger, David
+AU  - Biddinger D
+FAU - Calvin, Dennis D
+AU  - Calvin DD
+FAU - Hoover, Kelli
+AU  - Hoover K
+AUID- ORCID: 0000-0002-9888-585X
+FAU - Urban, Julie
+AU  - Urban J
+AUID- ORCID: 0000-0003-3775-2452
+FAU - Roush, Richard T
+AU  - Roush RT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - England
+TA  - J Econ Entomol
+JT  - Journal of economic entomology
+JID - 2985127R
+RN  - 0 (Guanidines)
+RN  - 1W509710WF (dinotefuran)
+RN  - 0 (Nitro Compounds)
+RN  - 0 (Neonicotinoids)
+RN  - Lycorma delicatula
+SB  - IM
+MH  - Animals
+MH  - *Hemiptera
+MH  - Insecta
+MH  - Guanidines
+MH  - *Beauveria
+MH  - Nymph
+MH  - Nitro Compounds
+MH  - Neonicotinoids
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Lycorma delicatula
+OT  - aerial spray
+OT  - dinotefuran
+OT  - invasive species
+OT  - power analysis
+EDAT- 2023/06/26 19:07
+MHDA- 2023/08/11 06:43
+CRDT- 2023/06/26 16:23
+PHST- 2023/02/15 00:00 [received]
+PHST- 2023/05/23 00:00 [revised]
+PHST- 2023/06/16 00:00 [accepted]
+PHST- 2023/08/11 06:43 [medline]
+PHST- 2023/06/26 19:07 [pubmed]
+PHST- 2023/06/26 16:23 [entrez]
+AID - 7207923 [pii]
+AID - 10.1093/jee/toad121 [doi]
+PST - ppublish
+SO  - J Econ Entomol. 2023 Aug 10;116(4):1211-1224. doi: 10.1093/jee/toad121.
+
+PMID- 32389292
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210820
+LR  - 20210820
+IS  - 1878-6146 (Print)
+VI  - 124
+IP  - 5
+DP  - 2020 May
+TI  - UV sensitivity of Beauveria bassiana and Metarhizium anisopliae isolates under investigation as potential biological control agents in South African citrus orchards.
+PG  - 304-310
+LID - S1878-6146(19)30112-6 [pii]
+LID - 10.1016/j.funbio.2019.08.009 [doi]
+AB  - Seven indigenous entomopathogenic fungal isolates were identified as promising biocontrol agents of key citrus pests including false codling moth, Thaumatotibia leucotreta Meyrick (Lepidoptera: Tortricidae), citrus thrips, Scirtothrips aurantii Faure (Thysanoptera: Thripidae) and citrus mealybug, Planococcus citri (Risso) (Hemiptera: Pseudococcidae) under laboratory conditions. Even though field trials using the two most virulent isolates (Beauveria bassiana G Ar 17 B3 and Metarhizium anisopliae FCM Ar 23 B3) against soil-dwelling life stages of T. leucotreta were positive, foliar application against citrus mealybugs and thrips, has been disappointing. Thus, the UV sensitivity of the seven initial promising isolates (four B. bassiana and three M. anisopliae) in comparison with two commercial isolates (M. anisopliae ICIPE 69 and B. bassiana PPRI 5339) and their formulated products were investigated in this study. All isolates investigated were highly sensitive to UV radiation, and a 2 h exposure to simulated full-spectrum solar radiation at 0.3 W/m(2) killed conidia of all tested isolates. Nonetheless, variability in susceptibility was found amongst isolates after exposure for 1 h. The most virulent M. anisopliae isolate, FCM Ar 23 B3, was the most susceptible to UV radiation with 3 % relative germination, 48-51 h post-exposure. Whilst isolates of the two mycoinsecticides showed similar susceptibility to UV radiation, their formulated products (vegetable oil and emulsifiable
+CI  - Copyright 2019 British Mycological Society. Published by Elsevier Ltd. All rights reserved.
+FAU - Acheampong, M A
+AU  - Acheampong MA
+FAU - Hill, M P
+AU  - Hill MP
+FAU - Moore, S D
+AU  - Moore SD
+FAU - Coombes, C A
+AU  - Coombes CA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190906
+PL  - Netherlands
+TA  - Fungal Biol
+JT  - Fungal biology
+JID - 101524465
+RN  - 0 (Biological Control Agents)
+SB  - IM
+MH  - Animals
+MH  - *Beauveria/radiation effects
+MH  - Biological Control Agents/radiation effects
+MH  - Citrus/microbiology
+MH  - *Metarhizium/radiation effects
+MH  - *Ultraviolet Rays
+OTO - NOTNLM
+OT  - Entomopathogenic fungi
+OT  - Microbial control
+OT  - Simulated solar radiation
+OT  - UV tolerance
+EDAT- 2020/05/12 06:00
+MHDA- 2021/08/21 06:00
+CRDT- 2020/05/12 06:00
+PHST- 2019/06/13 00:00 [received]
+PHST- 2019/08/27 00:00 [revised]
+PHST- 2019/08/28 00:00 [accepted]
+PHST- 2020/05/12 06:00 [entrez]
+PHST- 2020/05/12 06:00 [pubmed]
+PHST- 2021/08/21 06:00 [medline]
+AID - S1878-6146(19)30112-6 [pii]
+AID - 10.1016/j.funbio.2019.08.009 [doi]
+PST - ppublish
+SO  - Fungal Biol. 2020 May;124(5):304-310. doi: 10.1016/j.funbio.2019.08.009. Epub  2019 Sep 6.
+
+PMID- 38097324
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20240517
+IS  - 1878-6146 (Print)
+VI  - 127
+IP  - 12
+DP  - 2023 Dec
+TI  - The use of Beauveria bassiana for the control of the larger grain borer, Prostephanus truncatus, in stored maize: Semi-field trials in Ghana.
+PG  - 1505-1511
+LID - S1878-6146(23)00091-0 [pii]
+LID - 10.1016/j.funbio.2023.08.004 [doi]
+AB  - Laboratory research in Ghana demonstrated the effectiveness of an isolate of Beauveria bassiana (IMI 389521) from the United Kingdom against the larger grain borer Prostephanus truncatus (Horn) (Coleoptera: Bostrichidae), a major pest of stored maize. The minimum effective concentration, following artificial infestation trials on maize, was between 10(9) and 10(10) cfu/kg maize. Before moving out to village-level control, a major requirement was to determine if the product could effect control in artificially infested maize held under real environmental conditions in several locations in Ghana. Therefore, this study investigated the efficacy of formulated conidia of B. bassiana, IMI 389521, at two concentrations (1 10(9) and 3.16 10(9) cfu/kg maize) to control P. truncatus on stored maize kernels under semi-field conditions in Ghana. Maize ('Obatanpa' cultivar) kernels were treated with the formulated B. bassiana product and stored in polypropylene woven bags in cribs in Southern Ghana. After 24 h, one hundred adults of P. truncatus were placed into each bag containing the treated maize. Mortality and the percent of weight loss of kernels were assessed every two weeks for three months. The semi-field trials revealed the possibility of successfully controlling adult P. truncatus on maize kernels treated with B. bassiana at 3.16 10(9) cfu/kg maize. However, due to the minimal protection of kernels after four weeks, re-treating maize kernels after this period is recommend
+CI  - Copyright 2023. Published by Elsevier Ltd.
+FAU - Luke, Belinda
+AU  - Luke B
+FAU - Acheampong, Mavis A
+AU  - Acheampong MA
+FAU - Rangel, Drauzio E N
+AU  - Rangel DEN
+FAU - Cornelius, Eric W
+AU  - Cornelius EW
+FAU - Asante, Stephen K
+AU  - Asante SK
+FAU - Nboyine, Jerry A
+AU  - Nboyine JA
+FAU - Eziah, Vincent Y
+AU  - Eziah VY
+FAU - Fening, Ken O
+AU  - Fening KO
+FAU - Storm, Clare
+AU  - Storm C
+FAU - Jessop, Nick
+AU  - Jessop N
+FAU - Clottey, Victor A
+AU  - Clottey VA
+FAU - Potin, Olivier
+AU  - Potin O
+FAU - Tyson, Clara
+AU  - Tyson C
+FAU - Moore, David
+AU  - Moore D
+FAU - Mikaelyan, Aram
+AU  - Mikaelyan A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20230821
+PL  - Netherlands
+TA  - Fungal Biol
+JT  - Fungal biology
+JID - 101524465
+SB  - IM
+MH  - Animals
+MH  - Zea mays
+MH  - *Beauveria
+MH  - Ghana
+MH  - *Coleoptera
+MH  - Edible Grain
+MH  - Pest Control, Biological
+COIS- Declaration of competing interest The authors declare no conflict of interest.
+EDAT- 2023/12/15 00:43
+MHDA- 2023/12/17 10:19
+CRDT- 2023/12/14 20:58
+PHST- 2022/12/10 00:00 [received]
+PHST- 2023/08/14 00:00 [revised]
+PHST- 2023/08/16 00:00 [accepted]
+PHST- 2023/12/17 10:19 [medline]
+PHST- 2023/12/15 00:43 [pubmed]
+PHST- 2023/12/14 20:58 [entrez]
+AID - S1878-6146(23)00091-0 [pii]
+AID - 10.1016/j.funbio.2023.08.004 [doi]
+PST - ppublish
+SO  - Fungal Biol. 2023 Dec;127(12):1505-1511. doi: 10.1016/j.funbio.2023.08.004. Epub  2023 Aug 21.
+
+PMID- 30003920
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191025
+LR  - 20191025
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 156
+DP  - 2018 Jul
+TI  - Non-host larvae negatively impact persistence of the entomopathogen Beauveria bassiana in soil.
+PG  - 19-28
+LID - S0022-2011(17)30416-0 [pii]
+LID - 10.1016/j.jip.2018.07.001 [doi]
+AB  - A better understanding of the ecology of the insect pathogenic fungus, Beauveria bassiana, in soil is needed to identify reasons behind the variable efficacy often seen after field application. A transformed strain of a candidate commercial strain of B. bassiana (F418 gfp tr3), expressing the green fluorescent protein and the hygromycin B resistance gene, was used to assess the effects of the larvae of a host insect, Tenebrio molitor L. (Coleoptera: Tenebrionidae), a non-host, Costelytra zealandica (Coleoptera: Scarabaeidae) and the absence of larvae on the persistence of F418 gfp tr3 in pasteurised and non-sterile soil over 4 months. In the presence of a T. molitor larvae, F418 gfp tr3 populations increased significantly in pasteurised and non-sterile soil; however, populations increased less in non-sterile soil than in pasteurised soil. Lower populations of F418 gfp tr3 were recovered in pasteurised soil in the presence of C. zealandica larvae than in pasteurised soil without larvae. No difference was observed between F418 gfp tr3 populations in non-sterile soil with a non-host larvae or without larvae. Accompanying studies showed that F418 gfp tr3 conidia germinated and produced appressoria on live and excised cuticle of non-host (C. zealandica) larvae but infection did not occur, leading to a net loss of viable conidia in the soil. Conidia administrated orally to C. zealandica larvae were viable on recovery from faecal samples, suggesting that ingestion of the fungus by
+CI  - Copyright 2018 Elsevier Inc. All rights reserved.
+FAU - Blond, Celine L H
+AU  - Blond CLH
+FAU - Ridgway, Hayley J
+AU  - Ridgway HJ
+FAU - Brownbridge, Michael
+AU  - Brownbridge M
+FAU - Chapman, R Bruce
+AU  - Chapman RB
+FAU - Condron, Leo M
+AU  - Condron LM
+FAU - Saville, David J
+AU  - Saville DJ
+FAU - Glare, Travis R
+AU  - Glare TR
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180709
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*pathogenicity
+MH  - Coleoptera/*parasitology
+MH  - Larva/*parasitology
+MH  - *Soil Microbiology
+MH  - Spores, Fungal/*pathogenicity
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Costelytra zealandica
+OT  - Non-host insect
+OT  - Persistence
+OT  - Soil
+EDAT- 2018/07/14 06:00
+MHDA- 2019/10/28 06:00
+CRDT- 2018/07/14 06:00
+PHST- 2017/09/29 00:00 [received]
+PHST- 2018/06/29 00:00 [revised]
+PHST- 2018/07/07 00:00 [accepted]
+PHST- 2018/07/14 06:00 [pubmed]
+PHST- 2019/10/28 06:00 [medline]
+PHST- 2018/07/14 06:00 [entrez]
+AID - S0022-2011(17)30416-0 [pii]
+AID - 10.1016/j.jip.2018.07.001 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2018 Jul;156:19-28. doi: 10.1016/j.jip.2018.07.001. Epub 2018  Jul 9.
+
+PMID- 23098323
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130429
+LR  - 20211021
+IS  - 1475-2875 (Electronic)
+IS  - 1475-2875 (Linking)
+VI  - 11
+DP  - 2012 Oct 25
+TI  - Storage and persistence of a candidate fungal biopesticide for use against adult malaria vectors.
+PG  - 354
+LID - 10.1186/1475-2875-11-354 [doi]
+AB  - BACKGROUND: New products aimed at augmenting or replacing chemical insecticides must have operational profiles that include both high efficacy in reducing vector numbers and/or blocking parasite transmission and be long lasting following application. Research aimed at developing fungal spores as a biopesticide for vector control have shown considerable potential yet have not been directly assessed for their viability after long-term storage or following application in the field. METHODS: Spores from a single production run of the entomopathogenic fungi Beauveria bassiana were dried and then stored under refrigeration at 7C. After 585 days these spores were sub-sampled and placed at either 22C, 26C or 32C still sealed in packaging (closed storage) or in open beakers and exposed to the 80% relative humidity of the incubator they were kept in. Samples were subsequently taken from these treatments over a further 165 days to assess viability. Spores from the same production run were also used to test their persistence following application to three different substrates, clay, cement and wood, using a hand held sprayer. The experiments were conducted at two different institutes with one using adult female Anopheles stephensi and the other adult female Anopheles gambiae. Mosquitoes were exposed to the treated substrates for one hour before being removed and their survival monitored for the next 14 days. Assays were performed at monthly intervals over a maximum seven months. RES
+FAU - Blanford, Simon
+AU  - Blanford S
+FAU - Jenkins, Nina E
+AU  - Jenkins NE
+FAU - Christian, Riann
+AU  - Christian R
+FAU - Chan, Brian H K
+AU  - Chan BH
+FAU - Nardini, Luisa
+AU  - Nardini L
+FAU - Osae, Michael
+AU  - Osae M
+FAU - Koekemoer, Lizette
+AU  - Koekemoer L
+FAU - Coetzee, Maureen
+AU  - Coetzee M
+FAU - Read, Andrew F
+AU  - Read AF
+FAU - Thomas, Matthew B
+AU  - Thomas MB
+LA  - eng
+GR  - AI088094-01/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121025
+PL  - England
+TA  - Malar J
+JT  - Malaria journal
+JID - 101139802
+RN  - 0 (Insecticides)
+SB  - IM
+MH  - Animals
+MH  - Anopheles/*microbiology/physiology
+MH  - Beauveria/*pathogenicity/*physiology
+MH  - Desiccation/methods
+MH  - Drug Storage/methods
+MH  - Female
+MH  - Insecticides/*pharmacology
+MH  - *Microbial Viability
+MH  - Pest Control, Biological/*methods
+MH  - Spores, Fungal/pathogenicity/physiology
+MH  - Survival Analysis
+MH  - Time Factors
+PMC - PMC3506477
+EDAT- 2012/10/27 06:00
+MHDA- 2013/04/30 06:00
+PMCR- 2012/10/25
+CRDT- 2012/10/27 06:00
+PHST- 2012/08/24 00:00 [received]
+PHST- 2012/10/18 00:00 [accepted]
+PHST- 2012/10/27 06:00 [entrez]
+PHST- 2012/10/27 06:00 [pubmed]
+PHST- 2013/04/30 06:00 [medline]
+PHST- 2012/10/25 00:00 [pmc-release]
+AID - 1475-2875-11-354 [pii]
+AID - 10.1186/1475-2875-11-354 [doi]
+PST - epublish
+SO  - Malar J. 2012 Oct 25;11:354. doi: 10.1186/1475-2875-11-354.
+
+PMID- 37194223
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230904
+LR  - 20230904
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+VI  - 79
+IP  - 10
+DP  - 2023 Oct
+TI  - Evaluation of a guardian plant system to suppress Frankliniella occidentalis (Thysanoptera: Thripidae) in greenhouse ornamentals.
+PG  - 3559-3569
+LID - 10.1002/ps.7556 [doi]
+AB  - BACKGROUND: Western flower thrips (WFT), Franklinella occidentalis (Pergande), is an economically damaging pest of greenhouse ornamentals. A 'guardian plant system' (GPS) that targeted WFT was evaluated under controlled and commercial greenhouse conditions. This system used mycotized millet grains with the entomopathogenic fungus Beauveria bassiana (Balsamo-Crivelli) Vuillemin applied to soil of potted marigolds, Tagetes patula (L.), combined with the foliar-dwelling predatory mite Neoseiulus (=Amblyseius) cucumeris (Oudemans) in slow-release sachets under controlled greenhouse conditions, and with the addition of a pheromone lure under commercial settings. RESULTS: Significantly fewer WFT and less foliar damage on GPS was observed over the 10 and 12 weeks experimental periods compared to the untreated controls. Predatory mites were maintained up to 10 weeks with one release under controlled greenhouse conditions and 12 weeks with two releases in commercial greenhouses. In commercial greenhouses, greater numbers of WFT were found on marigolds than on crop plants within 1 m of the system. Fungal granules persisted for 12 weeks up to 2.5 10(5) CFU g(-1) in the GPS soil. CONCLUSION: The use of biological control agents to suppress WFT within a GPS could be a useful IPM strategy for greenhouse production. The marigold GPS attracted WFT which were suppressed primarily through predation by foliar-dwelling predatory mites and to a lesser extent, infection from conidia produced b
+CI  - 2023 Society of Chemical Industry.
+FAU - Sullivan, Cheryl Frank
+AU  - Sullivan CF
+AUID- ORCID: 0000-0002-0742-9702
+FAU - Davari, Agrin
+AU  - Davari A
+AUID- ORCID: 0000-0003-0042-4033
+FAU - Kim, Jae Su
+AU  - Kim JS
+AUID- ORCID: 0000-0003-0128-0684
+FAU - Parker, Bruce L
+AU  - Parker BL
+AUID- ORCID: 0000-0002-1395-6138
+FAU - Skinner, Margaret
+AU  - Skinner M
+AUID- ORCID: 0000-0002-4578-8474
+LA  - eng
+GR  - Agricultural Research Service/
+GR  - American Floral Endowment/
+GR  - U.S. Department of Agriculture/
+PT  - Journal Article
+DEP - 20230602
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+RN  - 0 (Soil)
+SB  - IM
+MH  - Animals
+MH  - *Thysanoptera
+MH  - Pest Control, Biological
+MH  - Plants
+MH  - *Mites
+MH  - Soil
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Neoseiulus cucumeris
+OT  - biological control
+OT  - biopesticide
+OT  - integrated pest management
+OT  - trap crop
+OT  - western flower thrips
+EDAT- 2023/05/17 06:42
+MHDA- 2023/09/04 06:42
+CRDT- 2023/05/17 01:23
+PHST- 2023/02/27 00:00 [revised]
+PHST- 2022/07/15 00:00 [received]
+PHST- 2023/05/16 00:00 [accepted]
+PHST- 2023/09/04 06:42 [medline]
+PHST- 2023/05/17 06:42 [pubmed]
+PHST- 2023/05/17 01:23 [entrez]
+AID - 10.1002/ps.7556 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2023 Oct;79(10):3559-3569. doi: 10.1002/ps.7556. Epub 2023 Jun 2.
+
+PMID- 41148935
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20251028
+LR  - 20251030
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 16
+IP  - 10
+DP  - 2025 Oct 19
+TI  - Synergistic Effects of Beauveria bassiana and Insecticides for Integrated Management of Bactrocera dorsalis (Hendel) (Diptera: Tephritidae).
+LID - 10.3390/insects16101067 [doi]
+LID - 1067
+AB  - Bactrocera dorsalis (Hendel) (Diptera: Tephritidae) is a significant agricultural pest that causes substantial economic losses globally. While chemical insecticides are commonly used for its management, increasing resistance and environmental concerns underscore the need for alternative control strategies. This study evaluated the potential of integrating the entomopathogenic fungus Beauveria bassiana strain Bb-33 (Hypocreales: Clavicipitaceae) with reduced doses of chemical insecticides for sustainable B. dorsalis management. The compatibility of B. bassiana Bb-33 with six commonly used insecticides-spinosad, emamectin benzoate, avermectin, thiamethoxam, beta-cypermethrin, and imidacloprid-was assessed. Among them, emamectin benzoate exhibited the least inhibitory effects on spore germination, mycelial growth, and sporulation of B. bassiana. Laboratory bioassays demonstrated synergistic interactions between B. bassiana Bb-33 and emamectin benzoate, particularly when the ratio of emamectin benzoate to B. bassiana exceeded 4:1, as indicated by co-toxicity coefficients greater than 100. However, greenhouse trials revealed that the combined formulation had lower efficacy in reducing B. dorsalis adult populations and pupal emergence rates compared to emamectin benzoate alone, though it was more effective than B. bassiana Bb-33 applied independently. Importantly, this composite formula reduces pesticide usage, which highlights its potential to mitigate environmental impacts. This
+FAU - Wang, Xiaole
+AU  - Wang X
+FAU - Li, Yunfei
+AU  - Li Y
+FAU - Zha, Yuping
+AU  - Zha Y
+AUID- ORCID: 0000-0002-0849-6077
+FAU - Tian, Yubin
+AU  - Tian Y
+FAU - Wang, Jing
+AU  - Wang J
+FAU - Li, Hanbing
+AU  - Li H
+FAU - Zhu, Zhihui
+AU  - Zhu Z
+FAU - Cai, Wanlun
+AU  - Cai W
+LA  - eng
+GR  - 31872290/National Natural Science Foundation of China/
+GR  - 2019YFD1002100/National Key R&D Program of China/
+PT  - Journal Article
+DEP - 20251019
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC12564208
+OTO - NOTNLM
+OT  - biocompatibility
+OT  - entomopathogen
+OT  - integrated pest management
+OT  - oriental fruit fly
+OT  - pesticides
+OT  - synergy
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/10/28 18:27
+MHDA- 2025/10/28 18:28
+PMCR- 2025/10/19
+CRDT- 2025/10/28 12:34
+PHST- 2025/07/18 00:00 [received]
+PHST- 2025/09/09 00:00 [revised]
+PHST- 2025/09/17 00:00 [accepted]
+PHST- 2025/10/28 18:28 [medline]
+PHST- 2025/10/28 18:27 [pubmed]
+PHST- 2025/10/28 12:34 [entrez]
+PHST- 2025/10/19 00:00 [pmc-release]
+AID - insects16101067 [pii]
+AID - insects-16-01067 [pii]
+AID - 10.3390/insects16101067 [doi]
+PST - epublish
+SO  - Insects. 2025 Oct 19;16(10):1067. doi: 10.3390/insects16101067.
+
+PMID- 40488650
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260627
+LR  - 20260627
+IS  - 1556-7125 (Electronic)
+IS  - 1535-3141 (Linking)
+VI  - 23
+IP  - 8
+DP  - 2026 Aug
+TI  - Potential of Entomopathogenic Fungi for the Biocontrol of Tick Populations.
+PG  - 561-567
+LID - 10.1089/fpd.2025.0057 [doi]
+AB  - BACKGROUND: Ticks are significant vectors of various pathogens affecting humans and livestock, necessitating effective control strategies. The widespread use of chemical acaricides has led to resistance development and environmental concerns, highlighting the need for sustainable alternatives. Entomopathogenic fungi (EPF), particularly Metarhizium anisopliae and Beauveria bassiana, have emerged as promising biocontrol agents due to their pathogenicity against arthropods. This study evaluates the efficacy of these fungi in controlling tick populations under laboratory and field conditions. METHODS: Fungal isolates of M. anisopliae and B. bassiana were cultured and applied to adult and nymphal ticks using direct immersion and topical application methods. Tick mortality was monitored over 14 days, and lethal time 50% (LT(50)) and lethal concentration 50% (LC(50)) values were determined using probit analysis. Environmental stability assays assessed conidial viability under different temperature and ultraviolet (UV) exposure conditions. A field trial was conducted to evaluate fungal efficacy in reducing tick populations in a natural setting. RESULTS: Both M. anisopliae and B. bassiana induced significant mortality in ticks, with M. anisopliae exhibiting slightly higher virulence. LT(50) values were 5.8 0.4 days for M. anisopliae and 6.9 0.5 days for B. bassiana. Conidial viability declined under high temperatures and prolonged UV exposure, but fungal application in shaded are
+FAU - Abbasi, Ebrahim
+AU  - Abbasi E
+AUID- ORCID: 0000-0003-1861-5321
+LA  - eng
+PT  - Journal Article
+DEP - 20250609
+PL  - United States
+TA  - Foodborne Pathog Dis
+JT  - Foodborne pathogens and disease
+JID - 101120121
+SB  - IM
+MH  - Animals
+MH  - *Beauveria/physiology/pathogenicity
+MH  - *Metarhizium/physiology/pathogenicity
+MH  - *Pest Control, Biological/methods
+MH  - *Tick Control/methods
+MH  - Nymph/microbiology
+MH  - *Ticks/microbiology
+MH  - Ultraviolet Rays
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Metarhizium anisopliae
+OT  - acaricide resistance
+OT  - biological control
+OT  - entomopathogenic fungi
+OT  - integrated pest management
+OT  - tick control
+COIS- Author Disclosure StatementThe authors declare no competing interests.
+EDAT- 2025/06/09 12:30
+MHDA- 2026/06/28 00:37
+CRDT- 2025/06/09 10:13
+PHST- 2026/06/28 00:37 [medline]
+PHST- 2025/06/09 12:30 [pubmed]
+PHST- 2025/06/09 10:13 [entrez]
+AID - 10.1089/fpd.2025.0057 [doi]
+PST - ppublish
+SO  - Foodborne Pathog Dis. 2026 Aug;23(8):561-567. doi: 10.1089/fpd.2025.0057. Epub  2025 Jun 9.
+
+PMID- 38277960
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240214
+LR  - 20240214
+IS  - 1873-2682 (Electronic)
+IS  - 1011-1344 (Linking)
+VI  - 251
+DP  - 2024 Feb
+TI  - High photoreactivation activities of Rad2 and Rad14 in recovering insecticidal Beauveria bassiana from solar UV damage.
+PG  - 112849
+LID - S1011-1344(24)00009-5 [pii]
+LID - 10.1016/j.jphotobiol.2024.112849 [doi]
+AB  - Anti-ultraviolet (UV) roles of Rad2 and Rad14 depend on nucleotide excision repair (NER) of UV-induced DNA lesions in budding yeast but remain unexplored yet in filamentous fungi. Here, nucleus-specific Rad2 and Rad14 orthologs are shown to recover Beauveria bassiana, a main source of wide-spectrum mycoinsecticides, from solar UV damage through photorepair-depending photoreactivation. As a photorepair index, photoreactivation (germination) rates of lethal UVB dose-irradiated conidia via a 3- or 5-h light plus 9- or 7-h dark incubation at 25 C were drastically reduced in the rad2 and rad14 mutants versus a wild-type strain. As an NER index, nighttime-mimicking 12-h dark reactivation rates of low UVB dose-impaired conidia decreased sharply compared to the corresponding photoreactivation rates in the presence or absence of either ortholog, indicating that its extant NER activity was limited to recovering light UVB damage in the field. The high photoreactivation activity of either Rad2 or Rad14 was derived from its tight link to a large protein complex formed by photolyase regulators and other anti-UV proteins through multiple protein-protein interactions revealed by yeast two-hybrid assays. Therefore, Rad2 and Rad14 recover B. bassiana from solar UV damage through photoreactiovation in vivo that depends primarily on photorepair, although they contribute little to the fungal lifecycle-related phenotypes. These findings unveil a novel scenario distinguished from the NER-depend
+CI  - Copyright 2024 Elsevier B.V. All rights reserved.
+FAU - Yu, Lei
+AU  - Yu L
+FAU - Xu, Si-Yuan
+AU  - Xu SY
+FAU - Luo, Xin-Cheng
+AU  - Luo XC
+FAU - Ying, Sheng-Hua
+AU  - Ying SH
+FAU - Feng, Ming-Guang
+AU  - Feng MG
+LA  - eng
+PT  - Journal Article
+DEP - 20240123
+PL  - Switzerland
+TA  - J Photochem Photobiol B
+JT  - Journal of photochemistry and photobiology. B, Biology
+JID - 8804966
+RN  - 0 (Insecticides)
+SB  - IM
+MH  - DNA Repair
+MH  - *Beauveria/genetics
+MH  - *Insecticides
+MH  - Ultraviolet Rays
+MH  - Sunlight
+MH  - Saccharomyces cerevisiae/metabolism
+OTO - NOTNLM
+OT  - Anti-UV proteins
+OT  - Dark reactivation
+OT  - Fungal insecticides
+OT  - Photoreactivation
+OT  - Solar UV damage
+COIS- Declaration of competing interest All authors declare that the study was  conducted without any commercial or financial relationships that could be construed as a potential conflict of interest.
+EDAT- 2024/01/27 12:42
+MHDA- 2024/02/10 10:52
+CRDT- 2024/01/26 18:12
+PHST- 2023/11/02 00:00 [received]
+PHST- 2023/12/28 00:00 [revised]
+PHST- 2024/01/21 00:00 [accepted]
+PHST- 2024/02/10 10:52 [medline]
+PHST- 2024/01/27 12:42 [pubmed]
+PHST- 2024/01/26 18:12 [entrez]
+AID - S1011-1344(24)00009-5 [pii]
+AID - 10.1016/j.jphotobiol.2024.112849 [doi]
+PST - ppublish
+SO  - J Photochem Photobiol B. 2024 Feb;251:112849. doi:  10.1016/j.jphotobiol.2024.112849. Epub 2024 Jan 23.
+
+PMID- 21342492
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111025
+LR  - 20211020
+IS  - 1756-3305 (Electronic)
+IS  - 1756-3305 (Linking)
+VI  - 4
+DP  - 2011 Feb 22
+TI  - Development of Metarhizium anisopliae and Beauveria bassiana formulations for control of malaria mosquito larvae.
+PG  - 23
+LID - 10.1186/1756-3305-4-23 [doi]
+AB  - BACKGROUND: The entomopathogenic fungi Metarhizium anisopliae and Beauveria bassiana have demonstrated effectiveness against anopheline larvae in the laboratory. However, utilising these fungi for the control of anopheline larvae under field conditions, relies on development of effective means of application as well as reducing their sensitivity to UV radiation, high temperatures and the inevitable contact with water. This study was conducted to develop formulations that facilitate the application of Metarhizium anisopliae and Beauveria bassiana spores for the control of anopheline larvae, and also improve their persistence under field conditions. METHODS: Laboratory bioassays were conducted to test the ability of aqueous (0.1% Tween 80), dry (organic and inorganic) and oil (mineral and synthetic) formulations to facilitate the spread of fungal spores over the water surface and improve the efficacy of formulated spores against anopheline larvae as well as improve spore survival after application. Field bioassays were then carried out to test the efficacy of the most promising formulation under field conditions in western Kenya. RESULTS: When formulated in a synthetic oil (ShellSol T), fungal spores of both Metarhizium anisopliae and Beauveria bassiana were easy to mix and apply to the water surface. This formulation was more effective against anopheline larvae than 0.1% Tween 80, dry powders or mineral oil formulations. ShellSol T also improved the persistence of fungal spor
+FAU - Bukhari, Tullu
+AU  - Bukhari T
+FAU - Takken, Willem
+AU  - Takken W
+FAU - Koenraadt, Constantianus J M
+AU  - Koenraadt CJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110222
+PL  - England
+TA  - Parasit Vectors
+JT  - Parasites & vectors
+JID - 101462774
+RN  - 0 (Drug Carriers)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/growth & development/*pathogenicity
+MH  - Chemistry, Pharmaceutical
+MH  - Culicidae/*microbiology/*physiology
+MH  - *Disease Vectors
+MH  - Drug Carriers
+MH  - Female
+MH  - Kenya
+MH  - Larva/microbiology/physiology
+MH  - Metarhizium/growth & development/*pathogenicity
+MH  - Mosquito Control/*methods
+MH  - Pest Control, Biological/*methods
+PMC - PMC3051916
+EDAT- 2011/02/24 06:00
+MHDA- 2011/10/26 06:00
+PMCR- 2011/02/22
+CRDT- 2011/02/24 06:00
+PHST- 2010/11/25 00:00 [received]
+PHST- 2011/02/22 00:00 [accepted]
+PHST- 2011/02/24 06:00 [entrez]
+PHST- 2011/02/24 06:00 [pubmed]
+PHST- 2011/10/26 06:00 [medline]
+PHST- 2011/02/22 00:00 [pmc-release]
+AID - 1756-3305-4-23 [pii]
+AID - 10.1186/1756-3305-4-23 [doi]
+PST - epublish
+SO  - Parasit Vectors. 2011 Feb 22;4:23. doi: 10.1186/1756-3305-4-23.
+
+PMID- 29175530
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191104
+LR  - 20191104
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 151
+DP  - 2018 Jan
+TI  - Increased tolerance of Beauveria bassiana and Metarhizium anisopliae conidia to high temperature provided by oil-based formulations.
+PG  - 151-157
+LID - S0022-2011(16)30150-1 [pii]
+LID - 10.1016/j.jip.2017.11.012 [doi]
+AB  - The influence of the temperature of aqueous conidial sprays on conidial viability and virulence against Diatraea saccharalis was evaluated for pure conidia, rice + fungus (technical concentrates) and oil-based formulations of Beauveria bassiana s.s. and Metarhizium anisopliae s.s. under laboratory conditions. The fungal preparations were suspended in water and maintained at 26 C, 36 C and 46 C for one, four and six hours. Conidial viability was determined by plating aliquots of each suspension onto PDA medium followed by incubation for 20-22 h and observing for viable conidia (germ tubes longer than diameter of conidia). Fungal virulence was determined by spraying suspensions onto third-instar larvae of D. saccharalis. In general, germination and virulence, particularly for unformulated conidia, were negatively affected by increases in water temperature and exposure time in suspension. However, the decrease in conidial viability in the oil-in-water emulsion was less than 7% for both species after 6 h of exposure at 36 C, in contrast to reductions of 7-21% and 28-60% for the oil-free suspensions of B. bassiana and M. anisopliae, respectively. For the sprays of conidia in an oil-in-water emulsion previously exposed to elevated water temperatures for longer periods, the levels of insect mortality were higher than those of pure conidia or technical concentrates under identical conditions. Our results indicate that emulsifiable oil-based formulations can protect the conidia o
+CI  - Copyright 2017 Elsevier Inc. All rights reserved.
+FAU - Oliveira, Daian Guilherme Pinto de
+AU  - Oliveira DGP
+FAU - Lopes, Rogerio Biaggioni
+AU  - Lopes RB
+FAU - Rezende, Janayne Maria
+AU  - Rezende JM
+FAU - Delalibera, Italo Jr
+AU  - Delalibera I Jr
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20171122
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+RN  - 0 (Emulsions)
+RN  - 0 (Oils)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*pathogenicity
+MH  - Emulsions
+MH  - Hot Temperature
+MH  - Metarhizium/*pathogenicity
+MH  - Moths/parasitology
+MH  - Oils
+MH  - Pest Control, Biological/*methods
+MH  - Spores, Fungal/*pathogenicity
+MH  - Thermotolerance/*physiology
+MH  - Virulence/*physiology
+OTO - NOTNLM
+OT  - Entomopathogenic fungi
+OT  - Formulation
+OT  - Germination
+OT  - Microbial control
+OT  - Oil-in-water emulsion
+EDAT- 2017/11/28 06:00
+MHDA- 2019/11/05 06:00
+CRDT- 2017/11/28 06:00
+PHST- 2017/02/13 00:00 [received]
+PHST- 2017/11/11 00:00 [revised]
+PHST- 2017/11/21 00:00 [accepted]
+PHST- 2017/11/28 06:00 [pubmed]
+PHST- 2019/11/05 06:00 [medline]
+PHST- 2017/11/28 06:00 [entrez]
+AID - S0022-2011(16)30150-1 [pii]
+AID - 10.1016/j.jip.2017.11.012 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2018 Jan;151:151-157. doi: 10.1016/j.jip.2017.11.012. Epub  2017 Nov 22.
+
+PMID- 30707750
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191104
+LR  - 20240714
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 14
+IP  - 2
+DP  - 2019
+TI  - Thermotolerant isolates of Beauveria bassiana as potential control agent of insect pest in subtropical climates.
+PG  - e0211457
+LID - 10.1371/journal.pone.0211457 [doi]
+LID - e0211457
+AB  - The use of Beauveria bassiana in biological control of agricultural pests is mainly hampered by environmental factors, such as elevated temperatures and low humidity. These limitations, further amplified in a global warming scenario, could nullify biological control strategies based on this fungus. The identification of thermotolerant B. bassiana isolates represents a possible strategy to overcome this problem. In this study, in order to maximize the probability in the isolation of thermotolerant B. bassiana, soil samples and infected insects were collected in warm areas of Syria. The obtained fungal isolates were tested for different biological parameters (i.e., growth rate, sporulation and spore germination) at growing temperatures ranging from 20C to 35C. Among these isolates (eight from insects and 11 from soil samples), the five with the highest growth rate, spore production and germination at 30C were tested for their entomopathogenicity through in vivo assays on Ephestia kuehniella larvae. Insect mortality induced by the five isolates ranged from 31% to 100%. Two isolates, one from Phyllognathus excavatus and one from soil, caused 50% of the larval mortality in less than four days, reaching values exceeding 92% in ten days. These two isolates were molecularly identified as B. bassiana sensu stricto by using three markers (i.e., ITS, Bloc and EF1-). Considering these promising results, further studies are ongoing, testing their efficiency in field conditions as con
+FAU - Alali, Sumer
+AU  - Alali S
+AUID- ORCID: 0000-0002-5191-8298
+FAU - Mereghetti, Valeria
+AU  - Mereghetti V
+FAU - Faoro, Franco
+AU  - Faoro F
+FAU - Bocchi, Stefano
+AU  - Bocchi S
+FAU - Al Azmeh, Fawaz
+AU  - Al Azmeh F
+FAU - Montagna, Matteo
+AU  - Montagna M
+AUID- ORCID: 0000-0003-4465-7146
+LA  - eng
+PT  - Journal Article
+DEP - 20190201
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Fungal Proteins)
+RN  - 0 (Peptide Elongation Factor 1)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/classification/genetics/isolation & purification/*physiology
+MH  - Fungal Proteins/genetics
+MH  - Insecta/growth & development/*microbiology
+MH  - Larva/microbiology
+MH  - Peptide Elongation Factor 1/genetics
+MH  - Pest Control, Biological/*methods
+MH  - Phylogeny
+MH  - Soil Microbiology
+MH  - Syria
+MH  - Thermotolerance
+MH  - Tropical Climate
+PMC - PMC6358154
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2019/02/02 06:00
+MHDA- 2019/11/05 06:00
+PMCR- 2019/02/01
+CRDT- 2019/02/02 06:00
+PHST- 2018/05/24 00:00 [received]
+PHST- 2019/01/15 00:00 [accepted]
+PHST- 2019/02/02 06:00 [entrez]
+PHST- 2019/02/02 06:00 [pubmed]
+PHST- 2019/11/05 06:00 [medline]
+PHST- 2019/02/01 00:00 [pmc-release]
+AID - PONE-D-18-15615 [pii]
+AID - 10.1371/journal.pone.0211457 [doi]
+PST - epublish
+SO  - PLoS One. 2019 Feb 1;14(2):e0211457. doi: 10.1371/journal.pone.0211457.  eCollection 2019.
+
+PMID- 29427377
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181012
+LR  - 20201209
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+VI  - 74
+IP  - 8
+DP  - 2018 Aug
+TI  - Development of an attract-and-infect system to control Rhynchophorus ferrugineus with the entomopathogenic fungus Beauveria bassiana.
+PG  - 1861-1869
+LID - 10.1002/ps.4888 [doi]
+AB  - BACKGROUND: A new Beauveria bassiana-based attract and infect device (AID) to control Rhynchophorus ferrugineus Olivier (Coleoptera: Curculionidae) was developed. The virulence and persistence of the fungal formulation used in the AID were evaluated in the laboratory. Semi-field and field trials were carried out to validate the results and establish the potential of this device as a control tool. RESULTS: In laboratory conditions, a 50% lethal time (LT(50) ) of 4.33 days was obtained when adults (7-10 days old) were exposed to the inoculation tunnel (IT) containing 1 10(10) conidia g(-1) in an oil-based fungal formulation. This formulation maintained conidium viability at 50% for up to 2 months. Moreover, when adults were exposed to 2.5-month field-aged ITs, mortality still reached 50% 40 days after exposure. In addition, no differences were observed between ITs aged in early spring and those aged in summer, suggesting that the fungal formulation is not strongly affected by environmental factors in Mediterranean basin conditions. Semi-field assays showed that the device allowed an easy transit of weevils through the IT, which were effectively attracted and infected. Using the AIDs in 4-ha plot field trials, a reduction of 50% in the percentage of infested sentinel palms was obtained. CONCLUSION: Based on the results obtained in terms of the efficacy and persistence of this new AID in the field and its potential in reducing R. ferrugineus populations and palm infestation,
+CI  - 2018 Society of Chemical Industry.
+FAU - Dembilio, Oscar
+AU  - Dembilio O
+FAU - Moya, Pilar
+AU  - Moya P
+FAU - Vacas, Sandra
+AU  - Vacas S
+AUID- ORCID: 0000-0001-6911-1647
+FAU - Ortega-Garcia, Lola
+AU  - Ortega-Garcia L
+FAU - Quesada-Moraga, Enrique
+AU  - Quesada-Moraga E
+FAU - Jaques, Josep A
+AU  - Jaques JA
+AUID- ORCID: 0000-0003-1353-1727
+FAU - Navarro-Llopis, Vicente
+AU  - Navarro-Llopis V
+AUID- ORCID: 0000-0003-3030-3304
+LA  - eng
+PT  - Journal Article
+DEP - 20180325
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*physiology
+MH  - Female
+MH  - Insect Control/methods
+MH  - Larva/growth & development/microbiology/physiology
+MH  - Male
+MH  - Pest Control, Biological/*methods
+MH  - Phoeniceae/genetics
+MH  - Pupa/growth & development/microbiology/physiology
+MH  - Spain
+MH  - Weevils/growth & development/*microbiology/*physiology
+OTO - NOTNLM
+OT  - Curculionidae
+OT  - entomopathogenic fungi
+OT  - infective device
+OT  - red palm weevil
+EDAT- 2018/02/11 06:00
+MHDA- 2018/10/13 06:00
+CRDT- 2018/02/11 06:00
+PHST- 2017/08/01 00:00 [received]
+PHST- 2018/01/29 00:00 [revised]
+PHST- 2018/02/04 00:00 [accepted]
+PHST- 2018/02/11 06:00 [pubmed]
+PHST- 2018/10/13 06:00 [medline]
+PHST- 2018/02/11 06:00 [entrez]
+AID - 10.1002/ps.4888 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2018 Aug;74(8):1861-1869. doi: 10.1002/ps.4888. Epub 2018 Mar 25.
+
+PMID- 41148913
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20251028
+LR  - 20251030
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 16
+IP  - 10
+DP  - 2025 Oct 12
+TI  - Behavioral Suppression and Rapid Lethality: Beauveria bassiana B4 Targets Adult Monochamus alternatus for Sustainable Management of Pine Wilt Disease.
+LID - 10.3390/insects16101045 [doi]
+LID - 1045
+AB  - Pine wilt disease, transmitted primarily by Monochamus alternatus (Hope, 1842) adults, causes severe ecological and economic losses globally. Conventional chemical controls face challenges of resistance and non-target toxicity. This study identified Beauveria bassiana (Bals.-Criv.) Vuill. strain B4 as a high-virulence biocontrol agent against adult M. alternatus. Laboratory bioassays compared four strains (B1-B4), with B4 exhibiting rapid lethality (LT(50) = 6.61 days at 1 10(8) spores/mL) and low median lethal concentration (LC(50) = 9.63 10(5) spores/mL). Critically, B4 infection induced significant behavioral suppression, including reduced appetite and mobility prior to death. In forest trials, pheromone-enhanced nonwoven fabric bags impregnated with B4 spores reduced trap catches by 66.4% within one month, with effects persisting for over a year without reapplication. The slow-release carrier system enabled continuous spore dissemination and sustained population suppression. These results demonstrate that B4's dual action-rapid lethality and behavioral disruption-provides an effective, eco-friendly strategy for sustainable pine wilt disease management.
+FAU - Zhang, Yaqi
+AU  - Zhang Y
+FAU - Zhang, Xuejie
+AU  - Zhang X
+FAU - An, Liudi
+AU  - An L
+FAU - Gong, Dongfeng
+AU  - Gong D
+FAU - Wang, Jinsheng
+AU  - Wang J
+FAU - Bi, Huitao
+AU  - Bi H
+FAU - Zheng, Yi
+AU  - Zheng Y
+FAU - Cao, Lei
+AU  - Cao L
+FAU - Lu, Shaohui
+AU  - Lu S
+LA  - eng
+GR  - 2025ZC136/Henan Academy of Agricultural Sciences/
+GR  - 221612414/Henan Provincial Forestry Technology Work Station/
+PT  - Journal Article
+DEP - 20251012
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC12563667
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Monochamus alternatus
+OT  - forest trials
+OT  - pathogenicity test
+OT  - slow-release technology
+OT  - sustainable forest management
+COIS- The authors declare that they have no known competing financial interests or  personal relationships that could have appeared to have influenced the work reported in this paper.
+EDAT- 2025/10/28 18:27
+MHDA- 2025/10/28 18:28
+PMCR- 2025/10/12
+CRDT- 2025/10/28 12:34
+PHST- 2025/08/23 00:00 [received]
+PHST- 2025/10/09 00:00 [revised]
+PHST- 2025/10/10 00:00 [accepted]
+PHST- 2025/10/28 18:28 [medline]
+PHST- 2025/10/28 18:27 [pubmed]
+PHST- 2025/10/28 12:34 [entrez]
+PHST- 2025/10/12 00:00 [pmc-release]
+AID - insects16101045 [pii]
+AID - insects-16-01045 [pii]
+AID - 10.3390/insects16101045 [doi]
+PST - epublish
+SO  - Insects. 2025 Oct 12;16(10):1045. doi: 10.3390/insects16101045.
+
+PMID- 40744133
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250825
+LR  - 20250825
+IS  - 1873-6254 (Electronic)
+IS  - 0001-706X (Linking)
+VI  - 269
+DP  - 2025 Sep
+TI  - Evaluation of fifteen adjuvants for compatibility with Beauveria bassiana and their synergistic efficacy against Rhipicephalus microplus Ticks.
+PG  - 107760
+LID - S0001-706X(25)00231-1 [pii]
+LID - 10.1016/j.actatropica.2025.107760 [doi]
+AB  - The compatibility of adjuvants with entomopathogenic fungi (EPFs) is a critical determinant of biopesticide efficacy. This study evaluated the effects of fifteen commercial adjuvants on the viability and virulence of Beauveria bassiana isolate Bb-41, as a potential biological control agent against the cattle tick Rhipicephalus microplus. Using three concentrations (0.025 %, 0.05 %, and 0.1 %), colony-forming unit (CFU) counts were used to assess conidial viability at two inoculum levels (103 and 104 conidiamL1). In addition larval mortality was measured at 106 conidiamL1. The results demonstrated that adjuvant effects were both concentration- and dose-dependent. Adjuvants such as Designer(R), Bond(R), Summit Super(R), Aquawet(R), and Tronic(R) significantly inhibited fungal viability across all concentrations, likely due to the presence of fungitoxic components. In contrast, non-ionic surfactants like Tween(R) 80, Ballista(R), Break-thru(R), Silwet l-77(R), and Tween(R) 20 maintained or enhanced conidial viability, particularly at 0.025 %. Virulence assays revealed that only a subset of adjuvants that promoted viability also enhanced pathogenicity. It was suggested that, Break-thru(R), Tween(R) 20, and Ballista(R) enhanced conidial adhesion and penetration, as they improved larval mortality at 0.025 %. These findings highlight the importance of comprehensive compatibility screening in EPFs formulation development and identify several promising adjuvants for field deployment against R. microplus.
+CI  - Copyright 2025. Published by Elsevier B.V.
+FAU - Zeina, Ghirmay
+AU  - Zeina G
+FAU - Laing, Mark
+AU  - Laing M
+LA  - eng
+PT  - Journal Article
+DEP - 20250729
+PL  - Netherlands
+TA  - Acta Trop
+JT  - Acta tropica
+JID - 0370374
+SB  - IM
+MH  - *Beauveria/pathogenicity/drug effects/growth & development/physiology
+MH  - Animals
+MH  - *Rhipicephalus/microbiology
+MH  - *Pest Control, Biological/methods
+MH  - Microbial Viability/drug effects
+MH  - Survival Analysis
+MH  - Larva/microbiology
+MH  - Cattle
+OTO - NOTNLM
+OT  - Adjuvants
+OT  - Beauveria bassiana
+OT  - Biocontrol
+OT  - Colony-forming units
+OT  - Compatibility
+OT  - Rhipicephalus microplus
+COIS- Declaration of competing interest The authors declare that they have no known  competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+EDAT- 2025/08/01 00:29
+MHDA- 2025/08/31 20:06
+CRDT- 2025/07/31 19:34
+PHST- 2025/06/09 00:00 [received]
+PHST- 2025/07/27 00:00 [revised]
+PHST- 2025/07/28 00:00 [accepted]
+PHST- 2025/08/31 20:06 [medline]
+PHST- 2025/08/01 00:29 [pubmed]
+PHST- 2025/07/31 19:34 [entrez]
+AID - S0001-706X(25)00231-1 [pii]
+AID - 10.1016/j.actatropica.2025.107760 [doi]
+PST - ppublish
+SO  - Acta Trop. 2025 Sep;269:107760. doi: 10.1016/j.actatropica.2025.107760. Epub 2025  Jul 29.
+
+PMID- 36899829
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230314
+LR  - 20230328
+IS  - 2073-4409 (Electronic)
+IS  - 2073-4409 (Linking)
+VI  - 12
+IP  - 5
+DP  - 2023 Feb 22
+TI  - Tandem Multimerization Can Enhance the Structural Homogeneity and Antifungal Activity of the Silkworm Protease Inhibitor BmSPI39.
+LID - 10.3390/cells12050693 [doi]
+LID - 693
+AB  - Previous studies have shown that BmSPI39, a serine protease inhibitor of silkworm, can inhibit virulence-related proteases and the conidial germination of insect pathogenic fungi, thereby enhancing the antifungal capacity of Bombyx mori. The recombinant BmSPI39 expressed in Escherichia coli has poor structural homogeneity and is prone to spontaneous multimerization, which greatly limits its development and application. To date, the effect of multimerization on the inhibitory activity and antifungal ability of BmSPI39 remains unknown. It is urgent to explore whether a BmSPI39 tandem multimer with better structural homogeneity, higher activity and a stronger antifungal ability can be obtained by protein engineering. In this study, the expression vectors of BmSPI39 homotype tandem multimers were constructed using the isocaudomer method, and the recombinant proteins of tandem multimers were obtained by prokaryotic expression. The effects of BmSPI39 multimerization on its inhibitory activity and antifungal ability were investigated by protease inhibition and fungal growth inhibition experiments. In-gel activity staining and protease inhibition assays showed that tandem multimerization could not only greatly improve the structural homogeneity of the BmSPI39 protein, but also significantly increase its inhibitory activity against subtilisin and proteinase K. The results of conidial germination assays showed that tandem multimerization could effectively enhance the inhibitory abilit
+FAU - Li, Youshan
+AU  - Li Y
+AUID- ORCID: 0000-0002-8007-803X
+FAU - Wang, Yuan
+AU  - Wang Y
+FAU - Zhu, Rui
+AU  - Zhu R
+FAU - Yang, Xi
+AU  - Yang X
+FAU - Wei, Meng
+AU  - Wei M
+FAU - Zhang, Zhaofeng
+AU  - Zhang Z
+FAU - Chen, Changqing
+AU  - Chen C
+FAU - Zhao, Ping
+AU  - Zhao P
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230222
+PL  - Switzerland
+TA  - Cells
+JT  - Cells
+JID - 101600052
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Recombinant Proteins)
+RN  - 0 (Serine Proteinase Inhibitors)
+RN  - 0 (Antiviral Agents)
+RN  - EC 3.4.- (Peptide Hydrolases)
+SB  - IM
+MH  - Animals
+MH  - *Bombyx/metabolism
+MH  - Antifungal Agents/pharmacology
+MH  - Escherichia coli/metabolism
+MH  - Recombinant Proteins/metabolism
+MH  - Serine Proteinase Inhibitors
+MH  - Candida albicans
+MH  - Saccharomyces cerevisiae/metabolism
+MH  - Antiviral Agents/metabolism
+MH  - Peptide Hydrolases/metabolism
+PMC - PMC10000547
+OTO - NOTNLM
+OT  - Bombyx mori
+OT  - antifungal activity
+OT  - conidial germination
+OT  - pathogenic fungi
+OT  - protease inhibitor
+OT  - tandem multimer
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/03/12 06:00
+MHDA- 2023/03/15 06:00
+PMCR- 2023/02/22
+CRDT- 2023/03/11 01:03
+PHST- 2022/12/23 00:00 [received]
+PHST- 2023/02/05 00:00 [revised]
+PHST- 2023/02/20 00:00 [accepted]
+PHST- 2023/03/11 01:03 [entrez]
+PHST- 2023/03/12 06:00 [pubmed]
+PHST- 2023/03/15 06:00 [medline]
+PHST- 2023/02/22 00:00 [pmc-release]
+AID - cells12050693 [pii]
+AID - cells-12-00693 [pii]
+AID - 10.3390/cells12050693 [doi]
+PST - epublish
+SO  - Cells. 2023 Feb 22;12(5):693. doi: 10.3390/cells12050693.
+
+PMID- 37877405
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231026
+LR  - 20231112
+IS  - 1872-2075 (Electronic)
+IS  - 1000-3061 (Linking)
+VI  - 39
+IP  - 10
+DP  - 2023 Oct 25
+TI  - [Expression of BmSPI38 tandem multimers in Escherichia coli and its antifungal activity].
+PG  - 4275-4294
+LID - 10.13345/j.cjb.230297 [doi]
+AB  - The aim of this study was to prepare tandem multimeric proteins of BmSPI38, a silkworm protease inhibitor, with better structural homogeneity, higher activity and stronger antifungal ability by protein engineering. The tandem multimeric proteins of BmSPI38 were prepared by prokaryotic expression technology. The effects of tandem multimerization on the structural homogeneity, inhibitory activity and antifungal ability of BmSPI38 were explored by in-gel activity staining of protease inhibitor, protease inhibition assays and fungal growth inhibition experiments. Activity staining showed that the tandem expression based on the peptide flexible linker greatly improved the structural homogeneity of BmSPI38 protein. Protease inhibition experiments showed that the tandem trimerization and tetramerization based on the linker improved the inhibitory ability of BmSPI38 to microbial proteases. Conidial germination assays showed that His(6)-SPI38L-tetramer had stronger inhibition on conidial germination of Beauveria bassiana than that of His(6)-SPI38-monomer. Fungal growth inhibition assay showed that the inhibitory ability of BmSPI38 against Saccharomyces cerevisiae and Candida albicans could be enhanced by tandem multimerization. The present study successfully achieved the heterologous active expression of the silkworm protease inhibitor BmSPI38 in Escherichia coli, and confirmed that the structural homogeneity and antifungal ability of BmSPI38 could be enhanced by tandem multimerizati
+FAU - Li, Youshan
+AU  - Li Y
+FAU - Wang, Yuan
+AU  - Wang Y
+FAU - Zhu, Rui
+AU  - Zhu R
+FAU - Yang, Xi
+AU  - Yang X
+FAU - Wei, Meng
+AU  - Wei M
+FAU - Zhang, Zhaofeng
+AU  - Zhang Z
+FAU - Chen, Changqing
+AU  - Chen C
+LA  - chi
+PT  - English Abstract
+PT  - Journal Article
+PL  - China
+TA  - Sheng Wu Gong Cheng Xue Bao
+JT  - Sheng wu gong cheng xue bao = Chinese journal of biotechnology
+JID - 9426463
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Proteins)
+RN  - 0 (Protease Inhibitors)
+RN  - EC 3.4.- (Peptide Hydrolases)
+SB  - IM
+MH  - Animals
+MH  - *Antifungal Agents/pharmacology
+MH  - Escherichia coli/genetics/metabolism
+MH  - Proteins/metabolism
+MH  - Protease Inhibitors/chemistry
+MH  - *Bombyx/chemistry
+MH  - Saccharomyces cerevisiae/metabolism
+MH  - Peptide Hydrolases
+OTO - NOTNLM
+OT  - Bombyx mori
+OT  - antifungal activity
+OT  - heterologous expression
+OT  - protease inhibitor
+OT  - structural homogeneity
+OT  - tandem multimer
+EDAT- 2023/10/25 12:42
+MHDA- 2023/10/26 06:42
+CRDT- 2023/10/25 06:50
+PHST- 2023/10/26 06:42 [medline]
+PHST- 2023/10/25 12:42 [pubmed]
+PHST- 2023/10/25 06:50 [entrez]
+AID - 10.13345/j.cjb.230297 [doi]
+PST - ppublish
+SO  - Sheng Wu Gong Cheng Xue Bao. 2023 Oct 25;39(10):4275-4294. doi:  10.13345/j.cjb.230297.
+
+PMID- 35864789
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221004
+LR  - 20221004
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+VI  - 78
+IP  - 11
+DP  - 2022 Nov
+TI  - Optional strategies for low-risk and non-risk applications of fungal pesticides to avoid solar ultraviolet damage.
+PG  - 4660-4667
+LID - 10.1002/ps.7086 [doi]
+AB  - BACKGROUND: Solar ultraviolet (UV) irradiation is harmful to formulated conidia as active ingredients of fungal pesticides and hence restrains their field application in sunny days of summer, a season requiring frequent pest controls. This conflict makes it necessary to explore optimal strategies for the application of fungal pesticides to suppress pest populations but avoid solar UV damage during summer. RESULTS: The conidia of Beauveria bassiana, a wide-spectrum fungal pesticide, were tolerable to UVB (major solar UV wavelengths) damage of 0.5 J cm(-2) . The damage of this upper limit caused a loss of conidial viability and infectivity if not photoreactivated by light exposure after irradiation. Intriguingly, the light exposure resulted in a high photoreactivation rate of UVB-inactivated conidia and an insignificant or marginal difference in insecticidal activity between normal conidia and those photoreactivated. Modeling analysis of solar UVB intensity recorded hourly over the daylight of five sunny summer days from 5:00 am to 7:00 pm at 30 17'57'' N and 1205'7'' E revealed a variation of daily accumulated UVB dose from 2.07 to 2.78 J cm(-2) , which was far beyond the upper limit. A more tolerable dose of ~0.2 J cm(-2) appeared between 3:00 pm and 5:00 pm, and no harmful dose accumulated between 5:00 pm and 7:00 pm. CONCLUSION: Fungal UVB tolerance, fungal photoreactivation capability and the daily accumulation pattern of solar UV irradiation are based to propose an op
+CI  - 2022 Society of Chemical Industry.
+FAU - Yu, Lei
+AU  - Yu L
+FAU - Xu, Si-Yuan
+AU  - Xu SY
+FAU - Tong, Sen-Miao
+AU  - Tong SM
+FAU - Ying, Sheng-Hua
+AU  - Ying SH
+FAU - Feng, Ming-Guang
+AU  - Feng MG
+AUID- ORCID: 0000-0002-2657-0293
+LA  - eng
+GR  - 31801795/National Natural Science Foundation of China/
+GR  - 31772218/National Natural Science Foundation of China/
+GR  - 2022C02058/Zhejiang Provincial R&D Program/
+PT  - Journal Article
+DEP - 20220804
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+RN  - 0 (Pesticides)
+SB  - IM
+MH  - *Beauveria/physiology
+MH  - *Pesticides
+MH  - Spores, Fungal/radiation effects
+MH  - Sunlight
+MH  - Ultraviolet Rays
+OTO - NOTNLM
+OT  - biological control
+OT  - fungal UVB tolerance
+OT  - fungal insecticides and acaricides
+OT  - fungal photoreactivation
+OT  - solar UVB accumulation pattern
+EDAT- 2022/07/23 06:00
+MHDA- 2022/10/05 06:00
+CRDT- 2022/07/22 01:55
+PHST- 2022/06/12 00:00 [revised]
+PHST- 2022/04/26 00:00 [received]
+PHST- 2022/07/21 00:00 [accepted]
+PHST- 2022/07/23 06:00 [pubmed]
+PHST- 2022/10/05 06:00 [medline]
+PHST- 2022/07/22 01:55 [entrez]
+AID - 10.1002/ps.7086 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2022 Nov;78(11):4660-4667. doi: 10.1002/ps.7086. Epub 2022 Aug 4.
+
+PMID- 35775394
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221004
+LR  - 20221004
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+VI  - 78
+IP  - 11
+DP  - 2022 Nov
+TI  - Natural occurrence of Beauveria caledonica, pathogenicity to Cosmopolites sordidus and antifungal activity against Fusarium oxysporum f. sp. cubense.
+PG  - 4458-4470
+LID - 10.1002/ps.7063 [doi]
+AB  - BACKGROUND: Entomopathogenic fungi can provide a set of ecological services, such as suppressing arthropod pests and plant pathogens. In this study, novel indigenous Beauveria caledonica (Bc) strains were isolated from naturally infected banana weevils (Cosmopolites sordidus) occurring in commercial banana plantations in Brazil. RESULTS: The prevalence of infection by Bc strains on field-caught C. sordidus ranged from 1.3% to 12.9%. Similar to the Beauveria bassiana strains tested, none of the Bc strains caused more than 50% weevil mortality at a concentration of 1 10(8) conidia ml(-1) . Bc strain CMAA1810 caused the highest mortality in C. sordidus and had enhanced insecticidal activity when formulated with an emulsifiable oil. In paired co-culture assays, this same strain showed a significant growth-inhibitory effect on the causal agent of Fusarium banana wilt (Fusarium oxysporum f. sp. cubense, Foc) of twofold magnitude compared with the control. Cell-free crude filtrates derived from the red-pigmented culture broth of Bc (CMAA1810) strongly reduced Foc conidial viability, and this inhibitory activity was inversely related to the age of the Bc culture. Crude concentrated filtrates from 4-day-old cultures exhibited the strongest antifungal activity (13-fold) compared with untreated Foc conidia. The abundant compound identified in the crude filtrate of Bc was oosporein (1,4-dibenzoquinone) present at a concentration of 0.829 0.018 mg g(-1) dry matter, and the antifungal
+CI  - 2022 Society of Chemical Industry.
+FAU - Mascarin, Gabriel Moura
+AU  - Mascarin GM
+FAU - Marinho-Prado, Jeanne Scardini
+AU  - Marinho-Prado JS
+AUID- ORCID: 0000-0002-1638-3224
+FAU - Assalin, Marcia Regina
+AU  - Assalin MR
+AUID- ORCID: 0000-0001-6417-9677
+FAU - Martins, Lucas Gelain
+AU  - Martins LG
+FAU - Braga, Erik Sobrinho
+AU  - Braga ES
+FAU - Tasic, Ljubica
+AU  - Tasic L
+FAU - Dita, Miguel
+AU  - Dita M
+FAU - Lopes, Rogerio Biaggioni
+AU  - Lopes RB
+AUID- ORCID: 0000-0003-4756-878X
+LA  - eng
+GR  - 10.20.00.058.00.00/Brazilian Agricultural Research Corporation/
+GR  - 14/50867-3/Sao Paulo State Research Foundation - FAPESP/
+GR  - 2018/22357-1/Sao Paulo State Research Foundation - FAPESP/
+GR  - 2018/22357-1/Sao Paulo State Research Foundation/
+GR  - 14/50867-3 (INCTBio)/Sao Paulo State Research Foundation/
+PT  - Journal Article
+DEP - 20220722
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Benzoquinones)
+RN  - 708AUK232A (oosporein)
+RN  - Beauveria caledonica
+RN  - Fusarium oxysporum
+SB  - IM
+MH  - Animals
+MH  - Antifungal Agents/pharmacology
+MH  - *Beauveria
+MH  - Benzoquinones
+MH  - *Fusarium
+MH  - *Musa/microbiology
+MH  - Plant Diseases/microbiology/prevention & control
+MH  - Spores, Fungal
+MH  - Virulence
+MH  - *Weevils
+OTO - NOTNLM
+OT  - Fusarium wilt
+OT  - Musa sp.
+OT  - antifungal activity
+OT  - banana weevil
+OT  - biological control
+OT  - entomopathogenic fungi
+EDAT- 2022/07/02 06:00
+MHDA- 2022/10/05 06:00
+CRDT- 2022/07/01 04:53
+PHST- 2022/06/28 00:00 [revised]
+PHST- 2021/10/19 00:00 [received]
+PHST- 2022/07/01 00:00 [accepted]
+PHST- 2022/07/02 06:00 [pubmed]
+PHST- 2022/10/05 06:00 [medline]
+PHST- 2022/07/01 04:53 [entrez]
+AID - 10.1002/ps.7063 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2022 Nov;78(11):4458-4470. doi: 10.1002/ps.7063. Epub 2022 Jul  22.
+
+PMID- 38132592
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231224
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 14
+IP  - 12
+DP  - 2023 Nov 30
+TI  - Efficacy of Entomopathogenic Fungi as Prevention against Early Life Stages of the Red Palm Weevil, Rhynchophorus ferrugineus (Coleoptera: Curculionidae) in Laboratory and Greenhouse Trials.
+LID - 10.3390/insects14120918 [doi]
+LID - 918
+AB  - The red palm weevil (RPW) Rhynchophorus ferrugineus is a highly destructive invasive pest for palms whose management is mainly by application of synthetic pesticides. As a key pest of date palm plantations, it is necessary to integrate environmentally safe measures for its management. Entomopathogenic fungi (EPF) have been primarily studied as a preventative control measure due to the horizontal transfer of conidia within the RPW population. We previously demonstrated the horizontal transmission of fungal conidia from an egg-laying surface to the female weevil and then to the eggs and larvae. Based on that strategy, this study aimed to evaluate the virulence of commercial EPF products and laboratory EPF preparations to RPW females and their progeny, and their ability to protect palms against infestation. As such, it serves as a screening platform for field experiments. Mortality rates of females and eggs depended on the applied treatment formulation and fungal strain. Velifer((R)), a Beauveria bassiana product, and Metarhizium brunneum (Mb7) resulted in 60-88% female mortality. Mb7-as a conidial suspension or powder-resulted in 18-21% egg-hatching rates, approximately 3 times less than in the non-treated control. Treating palms with Mb7 suspension or dry formulation significantly inhibits infestation signs and results in protection. These results lay the foundation for investigating the protective rate of EPF products against RPW in date plantations.
+FAU - Ment, Dana
+AU  - Ment D
+AUID- ORCID: 0000-0003-1236-7312
+FAU - Levy, Noa
+AU  - Levy N
+FAU - Allouche, Arnon
+AU  - Allouche A
+FAU - Davidovitz, Michael
+AU  - Davidovitz M
+FAU - Yaacobi, Gal
+AU  - Yaacobi G
+AUID- ORCID: 0000-0001-6216-5749
+LA  - eng
+GR  - 20-02-0091/Ministry of Agriculture and Rural Development/
+GR  - 20-02-0091/plant board/
+PT  - Journal Article
+DEP - 20231130
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC10743579
+OTO - NOTNLM
+OT  - Beauveria
+OT  - Metarhizium
+OT  - biopesticide
+OT  - microbial control
+OT  - prevention
+OT  - red palm weevil
+COIS- Author Arnon Allouche was employed by the company Biobee LTD. during the study  period. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+EDAT- 2023/12/22 12:42
+MHDA- 2023/12/22 12:43
+PMCR- 2023/11/30
+CRDT- 2023/12/22 09:10
+PHST- 2023/10/18 00:00 [received]
+PHST- 2023/11/27 00:00 [revised]
+PHST- 2023/11/28 00:00 [accepted]
+PHST- 2023/12/22 12:43 [medline]
+PHST- 2023/12/22 12:42 [pubmed]
+PHST- 2023/12/22 09:10 [entrez]
+PHST- 2023/11/30 00:00 [pmc-release]
+AID - insects14120918 [pii]
+AID - insects-14-00918 [pii]
+AID - 10.3390/insects14120918 [doi]
+PST - epublish
+SO  - Insects. 2023 Nov 30;14(12):918. doi: 10.3390/insects14120918.
+
+PMID- 34484144
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210907
+IS  - 1664-302X (Print)
+IS  - 1664-302X (Electronic)
+IS  - 1664-302X (Linking)
+VI  - 12
+DP  - 2021
+TI  - Encapsulation of B. bassiana in Biopolymers: Improving Microbiology of Insect Pest Control.
+PG  - 704812
+LID - 10.3389/fmicb.2021.704812 [doi]
+LID - 704812
+AB  - The fungus Beauveria bassiana is widely used for pest control; however, biostability and dispersion for broth pulverization are limiting factors for its application in the field. In this context, formulation techniques such as microencapsulation are viable alternatives. The aim of this work is to optimize B. bassiana formulations by spray dryer and evaluate its stability and biological activity against Spodoptera cosmioides compared to ionic gelatinization formulations. The fungus was biocompatible with all evaluated biopolymers (lignin, cellulose, starch, humic substances, and alginate). The encapsulation by spray drying was optimized by factorial design in an inlet and outlet air temperature of 120C and 68C, respectively; aspirator rate of 35 m(3)h(-1), feed flow rate of 12 mLmin(-1); and drying gas flow at 35 Lh(-1). The ionic gelation capsules were obtained using a 0.5% quantity of conidia in a 1% sodium alginate solution dropped into a 0.5 molL(-1) CaCl(2) solution using a peristaltic pump. Spray drying provided smaller microcapsules than those by ionic gelation. Both techniques produced more stable conidia when exposed to temperature and UV-radiation than non-formulated B. bassiana. The formulations prepared by spray drying showed gains at aqueous dispersion. Biological assays against Spodoptera cosmioides showed a mortality rate of up to 90%. These results demonstrate the suitability of encapsulating B. bassiana conidia stably in aqueous dispersion without loss
+CI  - Copyright 2021 Felizatti, Manzano, Rodrigues, da Silva, Fernandes and Forim.
+FAU - Felizatti, Ana Paula
+AU  - Felizatti AP
+FAU - Manzano, Roberta Maria
+AU  - Manzano RM
+FAU - Rodrigues, Inaja Marchizeli Wenzel
+AU  - Rodrigues IMW
+FAU - da Silva, Maria Fatima das Gracas Fernandes
+AU  - da Silva MFDGF
+FAU - Fernandes, Joao Batista
+AU  - Fernandes JB
+FAU - Forim, Moacir Rossi
+AU  - Forim MR
+LA  - eng
+PT  - Journal Article
+DEP - 20210816
+PL  - Switzerland
+TA  - Front Microbiol
+JT  - Frontiers in microbiology
+JID - 101548977
+PMC - PMC8415709
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Spodoptera cosmioides
+OT  - Spray-drying
+OT  - biopolymers
+OT  - microencapsulation
+COIS- The authors declare that the research was conducted in the absence of any  commercial or financial relationships that could be construed as a potential conflict of interest.
+EDAT- 2021/09/07 06:00
+MHDA- 2021/09/07 06:01
+PMCR- 2021/08/16
+CRDT- 2021/09/06 05:55
+PHST- 2021/05/03 00:00 [received]
+PHST- 2021/07/19 00:00 [accepted]
+PHST- 2021/09/06 05:55 [entrez]
+PHST- 2021/09/07 06:00 [pubmed]
+PHST- 2021/09/07 06:01 [medline]
+PHST- 2021/08/16 00:00 [pmc-release]
+AID - 10.3389/fmicb.2021.704812 [doi]
+PST - epublish
+SO  - Front Microbiol. 2021 Aug 16;12:704812. doi: 10.3389/fmicb.2021.704812.  eCollection 2021.
+
+PMID- 37235293
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230530
+IS  - 2414-6366 (Electronic)
+IS  - 2414-6366 (Linking)
+VI  - 8
+IP  - 5
+DP  - 2023 Apr 24
+TI  - Microencapsulation of a Native Strain of the Entomopathogenic Fungus Beauveria bassiana and Bioinsecticide Activity against Pyrethroid-Resistant Triatoma infestans to Vector Control of Chagas Disease in the Argentine Gran Chaco Region.
+LID - 10.3390/tropicalmed8050245 [doi]
+LID - 245
+AB  - The blood-sucking bug Triatoma infestans is the main Chagas disease vector in the Southern Cone of Latin America. Populations resistant to pyrethroid insecticides have been detected in the early 2000s and then expanded to the endemic area of northern Salta province, Argentina. In this context, the entomopathogenic fungus Beauveria bassiana has been shown to be pathogenic to pyrethroid-resistant T. infestans. In this study, both the bioinsecticidal activity and the residual effect of an alginate-based microencapsulation of a native strain of B. bassiana (Bb-C001) were tested under semi-field conditions against pyrethroid-resistant T. infestans nymphs. Fungal microencapsulated formulation caused higher nymph mortality than the unmicroencapsulated fungus and contributed to maintaining the conidial viability throughout the period evaluated under the tested conditions. These results suggest that alginate microencapsulation is an effective, simple, low-cost method that could be incorporated into the formulation of a bioinsecticide as a strategy to reduce the vector transmission of Chagas disease.
+FAU - Baldiviezo, Linda Vanesa
+AU  - Baldiviezo LV
+AUID- ORCID: 0000-0003-2764-8002
+FAU - Nieva, Lucia Beatriz
+AU  - Nieva LB
+FAU - Pedrini, Nicolas
+AU  - Pedrini N
+AUID- ORCID: 0000-0002-5383-8611
+FAU - Cardozo, Ruben Marino
+AU  - Cardozo RM
+LA  - eng
+GR  - PA CI N 2474 and 2353/0/Consejo de Investigacion de la Universidad Nacional de Salta (UNSa)/
+PT  - Journal Article
+DEP - 20230424
+PL  - Switzerland
+TA  - Trop Med Infect Dis
+JT  - Tropical medicine and infectious disease
+JID - 101709042
+PMC - PMC10224310
+OTO - NOTNLM
+OT  - Chagas disease
+OT  - bioinsecticide
+OT  - entomopathogenic fungi
+OT  - microencapsulated
+OT  - resistant triatomines
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/05/26 19:15
+MHDA- 2023/05/26 19:16
+PMCR- 2023/04/24
+CRDT- 2023/05/26 12:25
+PHST- 2023/03/28 00:00 [received]
+PHST- 2023/04/20 00:00 [revised]
+PHST- 2023/04/22 00:00 [accepted]
+PHST- 2023/05/26 19:16 [medline]
+PHST- 2023/05/26 19:15 [pubmed]
+PHST- 2023/05/26 12:25 [entrez]
+PHST- 2023/04/24 00:00 [pmc-release]
+AID - tropicalmed8050245 [pii]
+AID - tropicalmed-08-00245 [pii]
+AID - 10.3390/tropicalmed8050245 [doi]
+PST - epublish
+SO  - Trop Med Infect Dis. 2023 Apr 24;8(5):245. doi: 10.3390/tropicalmed8050245.
+
+PMID- 30361880
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190917
+LR  - 20200225
+IS  - 1874-9356 (Electronic)
+IS  - 0015-5632 (Linking)
+VI  - 64
+IP  - 3
+DP  - 2019 May
+TI  - Secretomic analysis of Beauveria bassiana related to cattle tick, Rhipicephalus microplus, infection.
+PG  - 361-372
+LID - 10.1007/s12223-018-0659-3 [doi]
+AB  - Beauveria bassiana is widely studied as an alternative to chemical acaricides in controlling the cattle tick Rhipicephalus microplus. Although its biocontrol efficiency has been proved in laboratory and field scales, there is a need to a better understanding of host interaction process at molecular level related to biocontrol activity. In this work, applying a proteomic technique multidimensional protein identification technology (MudPIT), the differential secretome of B. bassiana induced by the host R. microplus cuticle was evaluated. The use of the host cuticle in a culture medium, mimicking an infection condition, is an established experimental model that triggers the secretion of inducible enzymes. From a total of 236 proteins, 50 proteins were identified exclusively in infection condition, assigned to different aspects of infection like host adhesion, cuticle penetration and fungal defense, and stress. Other 32 proteins were considered up- or down-regulated. In order to get a meaningful global view of the secretome, several bioinformatic analyses were performed. Regarding molecular function classification, the highest number of proteins in the differential secretome was assigned in to hydrolase activity, enzyme class of all cuticle-degrading enzymes like lipases and proteases. These activities were also further validated through enzymatic assays. The results presented here reveal dozens of specific proteins and different processes potentially implicated in cattle tick i
+FAU - Santi, Lucelia
+AU  - Santi L
+FAU - Coutinho-Rodrigues, Caio J B
+AU  - Coutinho-Rodrigues CJB
+FAU - Berger, Markus
+AU  - Berger M
+FAU - Klein, Lisete A S
+AU  - Klein LAS
+FAU - De Souza, Eduardo M
+AU  - De Souza EM
+FAU - Rosa, Rafael L
+AU  - Rosa RL
+FAU - Guimaraes, Jorge A
+AU  - Guimaraes JA
+FAU - Yates, John R 3rd
+AU  - Yates JR 3rd
+FAU - Perinotto, Wendell M S
+AU  - Perinotto WMS
+FAU - Bittencourt, Vania R E P
+AU  - Bittencourt VREP
+FAU - Beys-da-Silva, Walter O
+AU  - Beys-da-Silva WO
+LA  - eng
+GR  - 26/201.445/2014/faperj/
+GR  - 26-010.002877/2014/faperj/
+GR  - P41 GM103533-22/National Institutes of Health/
+PT  - Journal Article
+DEP - 20181025
+PL  - United States
+TA  - Folia Microbiol (Praha)
+JT  - Folia microbiologica
+JID - 0376757
+RN  - 0 (Biological Control Agents)
+RN  - 0 (Fungal Proteins)
+RN  - EC 3.4.- (Peptide Hydrolases)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*enzymology/genetics
+MH  - Biological Control Agents
+MH  - Cattle/parasitology
+MH  - Cattle Diseases/parasitology
+MH  - Computational Biology
+MH  - Female
+MH  - Fungal Proteins/genetics/*isolation & purification
+MH  - Host-Pathogen Interactions
+MH  - Peptide Hydrolases/genetics/isolation & purification
+MH  - Pest Control, Biological
+MH  - Proteomics
+MH  - Rhipicephalus/*microbiology
+EDAT- 2018/10/27 06:00
+MHDA- 2019/09/19 06:00
+CRDT- 2018/10/27 06:00
+PHST- 2018/06/28 00:00 [received]
+PHST- 2018/10/12 00:00 [accepted]
+PHST- 2018/10/27 06:00 [pubmed]
+PHST- 2019/09/19 06:00 [medline]
+PHST- 2018/10/27 06:00 [entrez]
+AID - 10.1007/s12223-018-0659-3 [pii]
+AID - 10.1007/s12223-018-0659-3 [doi]
+PST - ppublish
+SO  - Folia Microbiol (Praha). 2019 May;64(3):361-372. doi: 10.1007/s12223-018-0659-3.  Epub 2018 Oct 25.
+
+PMID- 42413120
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260708
+LR  - 20260708
+IS  - 1938-2936 (Electronic)
+IS  - 0046-225X (Linking)
+VI  - 55
+IP  - 4
+DP  - 2026 Jul 2
+TI  - Persistence in bioassays and field trials of Beauveria bassiana mycoinsecticides against overwintering spotted lanternfly, Lycorma delicatula (Hemiptera: Fulgoridae), egg masses.
+LID - nvag064 [pii]
+LID - 10.1093/ee/nvag064 [doi]
+AB  - The spotted lanternfly, Lycorma delicatula (White) (Hemiptera: Fulgoridae), is an invasive planthopper and significant agricultural pest in the United States. Current management relies heavily on insecticides, with limited options for organic or biological control. This study evaluated the overwintering survivability of Beauveria bassiana (Balsamo) Vuillemin (Hypocreales: Cordycipitaceae) spores on lanternfly egg masses to assess the feasibility of winter and spring, preemergence applications during vine dormancy. Laboratory bioassays suggested treatments of commercially available B. bassiana to spotted lanternfly egg masses resulted in infection of newly eclosed neonates. The optimal timing of spray applications on egg masses was approximately 2 wk before emergence. However, infection was also observed in newly emerged nymphs when treatments were applied even 20 wk before insect hatch. Treatments 20 wk before hatch significantly reduced the viability of conidial residues with wettable powder formulations exhibiting higher germination rates than oil-based formulations. These findings highlight the influence of environmental conditions on fungal spore persistence and underscore the potential for refining formulations and application timing to enhance biological control of spotted lanternfly. Two field trials demonstrated the applicability of mycoinsecticide treatments to overwintering spotted lanternfly egg masses. Both field trials demonstrated infection of hatching nymphs a
+CI  - The Author(s) 2026. Published by Oxford University Press on behalf of Entomological Society of America. All rights reserved. For commercial re-use, please contact reprints@oup.com for reprints and translation rights for reprints. All other permissions can be obtained through our RightsLink service via the Permissions link on the article page on our site-for further information please contact journals.permissions@oup.com.
+FAU - Bielski, Jason
+AU  - Bielski J
+FAU - Pfeiffer, Douglas G
+AU  - Pfeiffer DG
+AUID- ORCID: 0000-0002-5283-7545
+FAU - Jaronski, Stefan T
+AU  - Jaronski ST
+FAU - Kuhar, Thomas P
+AU  - Kuhar TP
+AUID- ORCID: 0000-0002-2076-1494
+FAU - Salom, Scott M
+AU  - Salom SM
+AUID- ORCID: 0000-0002-8950-3442
+FAU - Leskey, Tracy C
+AU  - Leskey TC
+AUID- ORCID: 0000-0002-6299-4384
+FAU - Steffel, James C
+AU  - Steffel JC
+LA  - eng
+GR  - 2019-51181-30014/The USDA-NIFA CAP/
+GR  - PUVQHEEZ/Virginia Wine Board/
+PT  - Journal Article
+PL  - England
+TA  - Environ Entomol
+JT  - Environmental entomology
+JID - 7502320
+RN  - Lycorma delicatula
+SB  - IM
+MH  - Animals
+MH  - *Beauveria/physiology
+MH  - *Hemiptera/microbiology/growth & development
+MH  - *Pest Control, Biological/methods
+MH  - Ovum/microbiology/growth & development
+MH  - Spores, Fungal/physiology
+MH  - Seasons
+MH  - Nymph/microbiology/growth & development
+MH  - Female
+MH  - Biological Assay
+OTO - NOTNLM
+OT  - biopesticide
+OT  - entomopathogenic fungi
+OT  - integrated pest management
+OT  - non-native species
+OT  - organic
+EDAT- 2026/07/07 18:58
+MHDA- 2026/07/08 18:51
+CRDT- 2026/07/07 17:52
+PHST- 2025/12/17 00:00 [received]
+PHST- 2026/05/11 00:00 [revised]
+PHST- 2026/05/17 00:00 [accepted]
+PHST- 2026/07/08 18:51 [medline]
+PHST- 2026/07/07 18:58 [pubmed]
+PHST- 2026/07/07 17:52 [entrez]
+AID - 8726624 [pii]
+AID - 10.1093/ee/nvag064 [doi]
+PST - ppublish
+SO  - Environ Entomol. 2026 Jul 2;55(4):nvag064. doi: 10.1093/ee/nvag064.
+
+PMID- 15726566
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050914
+LR  - 20171116
+IS  - 1526-498X (Print)
+IS  - 1526-498X (Linking)
+VI  - 61
+IP  - 7
+DP  - 2005 Jul
+TI  - Techniques and parameters used in compatibility tests between Beauveria bassiana (Bals) Vuill and in vitro phytosanitary products.
+PG  - 667-74
+AB  - The objective of this work was to test and compare different techniques used in tests for compatibility between the entomopathogenic fungus Beauveria bassiana (Balsamo) Vuill and phytosanitary products, in order to develop a protocol for in vitro tests. Four modes of contact were studied between B bassiana (CG432) and the fungicides iprodione (Rovral) 500 g litre(-1) SC) and azoxystrobin (Amistar) 500 g kg(-1) WG), and the insecticide endosulfan (Thiodan) 350 g litre(-1) EC), at three rates. The techniques consisted in incorporating the products into the culture medium (IM), combining the conidia into the products mix (MP) and spraying the products before (SB) and after (SA) inoculation of the fungus on Petri dishes. The fungitoxic effect of the products was studied on the basis of parameters such as germination, colony-forming units (CFUs), vegetative growth and sporulation. The effect of azoxystrobin on conidial germination was significantly higher in the IM technique than in the other techniques. With regard to CFUs, the IM and SB techniques showed the greatest differences relative to the control. Vegetative growth and sporulation were more affected when azoxystrobin was sprayed before the fungus was applied. At the commercial rate, iprodione had a greater effect on the CFU parameter in the IM and MP techniques, and on vegetative growth in the IM technique, than the other techniques used; however, there was no significant difference occurred between the techniques at the
+CI  - Copyright 2005 Society of Chemical Industry
+FAU - Da Silva, Roberta Z
+AU  - Da Silva RZ
+FAU - Neves, Pedro M O J
+AU  - Neves PM
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+RN  - 0 (Acrylates)
+RN  - 0 (Fungicides, Industrial)
+RN  - 0 (Hydantoins)
+RN  - 0 (Insecticides)
+RN  - 0 (Methacrylates)
+RN  - 0 (Pyrimidines)
+RN  - 0 (Strobilurins)
+RN  - 360-97-4 (Aminoimidazole Carboxamide)
+RN  - NYH7Y08IPM (azoxystrobin)
+RN  - OKA6A6ZD4K (Endosulfan)
+RN  - S3AYV2A6EU (iprodione)
+SB  - IM
+MH  - Acrylates/pharmacology
+MH  - Aminoimidazole Carboxamide/analogs & derivatives/pharmacology
+MH  - Animals
+MH  - Ascomycota/*drug effects
+MH  - Endosulfan/pharmacology
+MH  - Fungicides, Industrial/*pharmacology
+MH  - Hydantoins/pharmacology
+MH  - Insecticides/*pharmacology
+MH  - Methacrylates
+MH  - Pest Control, Biological/*methods
+MH  - Pyrimidines/pharmacology
+MH  - Stem Cells/drug effects
+MH  - Strobilurins
+EDAT- 2005/02/24 09:00
+MHDA- 2005/09/15 09:00
+CRDT- 2005/02/24 09:00
+PHST- 2005/02/24 09:00 [pubmed]
+PHST- 2005/09/15 09:00 [medline]
+PHST- 2005/02/24 09:00 [entrez]
+AID - 10.1002/ps.1035 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2005 Jul;61(7):667-74. doi: 10.1002/ps.1035.
+
+PMID- 30221461
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190115
+LR  - 20240717
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Print)
+IS  - 1526-498X (Linking)
+VI  - 75
+IP  - 2
+DP  - 2019 Feb
+TI  - Efficiency of natural substances to protect Beauveria bassiana conidia from UV radiation.
+PG  - 556-563
+LID - 10.1002/ps.5209 [doi]
+AB  - BACKGROUND: Solar radiation is assumed to be a major factor limiting the efficacy of entomopathogenic fungi used as biocontrol agents in open field applications. We evaluated 12 natural UV-protective co-formulants for their effect on the survival of UV-exposed Beauveria bassiana spores on agar plates, colza leaf discs and in the field. RESULTS: Colony-forming unit (CFU) counts of unformulated conidia on agar plates and leaf discs dropped to 50% after exposure to UV radiation. The highest UV protection was achieved with humic acid, which provided 90% protection of UV-B-exposed conidia in laboratory experiments. In the field, 10% humic acid increased spore persistence up to 87% at 7 days after application. Sesame and colza oil also provided high UV protection in both assays ( 73% and 70%, respectively). CONCLUSIONS: This study shows that it is possible to increase the persistence of B. bassiana spores under exposure to UV radiation by formulation with natural UV-protective additives. UV protectants might, therefore, increase the efficacy of entomopathogenic fungi as biocontrol agents in open field applications. 2018 The Authors. Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.
+CI  - 2018 The Authors. Pest Management Science published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.
+FAU - Kaiser, Deborah
+AU  - Kaiser D
+AUID- ORCID: 0000-0003-3522-6766
+FAU - Bacher, Sven
+AU  - Bacher S
+FAU - Mene-Saffrane, Laurent
+AU  - Mene-Saffrane L
+FAU - Grabenweger, Giselher
+AU  - Grabenweger G
+LA  - eng
+GR  - Federation of Migros Cooperatives, Switzerland/
+PT  - Journal Article
+DEP - 20181025
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+RN  - 0 (Radiation-Protective Agents)
+SB  - IM
+MH  - Beauveria/*drug effects/*radiation effects
+MH  - Pest Control, Biological/*methods
+MH  - Radiation-Protective Agents/*pharmacology
+MH  - Spores, Fungal/drug effects/radiation effects
+MH  - Ultraviolet Rays/*adverse effects
+PMC - PMC6587961
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - UV protection
+OT  - biocontrol
+OT  - formulation
+OT  - humic acid
+EDAT- 2018/09/18 06:00
+MHDA- 2019/01/16 06:00
+PMCR- 2019/06/21
+CRDT- 2018/09/18 06:00
+PHST- 2018/06/25 00:00 [received]
+PHST- 2018/09/04 00:00 [revised]
+PHST- 2018/09/12 00:00 [accepted]
+PHST- 2018/09/18 06:00 [pubmed]
+PHST- 2019/01/16 06:00 [medline]
+PHST- 2018/09/18 06:00 [entrez]
+PHST- 2019/06/21 00:00 [pmc-release]
+AID - PS5209 [pii]
+AID - 10.1002/ps.5209 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2019 Feb;75(2):556-563. doi: 10.1002/ps.5209. Epub 2018 Oct 25.
+
+PMID- 19886439
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100106
+LR  - 20190513
+IS  - 0022-0493 (Print)
+IS  - 0022-0493 (Linking)
+VI  - 102
+IP  - 5
+DP  - 2009 Oct
+TI  - Evaluation of soyscreen in an oil-based formulation for UV protection of Beauveria bassiana conidia.
+PG  - 1759-66
+AB  - Soyscreen oil was studied as a formulation ingredient to protect Beauveria bassiana (Balsamo) Vuillemin conidia from UV degradation. Feruloylated soy glycerides, referred to as Soyscreen oil, are biobased UV-absorbing molecules made by combining molecules of soybean oil with ferulic acid. Conidia stored in Soyscreen oil for 28 wk at 25, 30, and 35 degrees C retained viability as well as conidia stored in sunflower oil, demonstrating that Soyscreen did not adversely affect viability with prolonged storage. For samples applied to glass and exposed to simulated sunlight (xenon light), conidia in sunflower oil with or without sunscreens (Soyscreen or oxyl methoxycinnimate) had similar conidia viability after exposure. These oil formulations retained conidia viability better than conidia applied as an aqueous treatment. However, the 10% Soyscreen oil formulation applied to field grown cabbage (Brassica oleracea L.) and bean (Phaseolus vulgaris L.) plants, did not improve residual insecticidal activity compared with aqueous applications of unformulated conidia or two commercial formulations when assayed against Trichoplusia ni (Hubner) larvae. Our results suggest that the oil applications lose UV protection because the oil was absorbed by the leaf. This conclusion was supported in subsequent laboratory exposures of conidia in oil-based formulations with UV screens applied to cabbage leaves or balsa wood, which lost protection as measured by decreased viability of conidia when expo
+FAU - Behle, Robert W
+AU  - Behle RW
+FAU - Compton, David L
+AU  - Compton DL
+FAU - Laszlo, Joseph A
+AU  - Laszlo JA
+FAU - Shapiro-Ilan, David I
+AU  - Shapiro-Ilan DI
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - England
+TA  - J Econ Entomol
+JT  - Journal of economic entomology
+JID - 2985127R
+RN  - 0 (Oils)
+RN  - 0 (Plant Oils)
+RN  - 0 (Sunflower Oil)
+SB  - IM
+MH  - Beauveria/drug effects/growth & development/*radiation effects
+MH  - Oils/pharmacology
+MH  - Plant Oils/*pharmacology
+MH  - Sunflower Oil
+MH  - Sunlight
+MH  - *Ultraviolet Rays
+EDAT- 2009/11/06 06:00
+MHDA- 2010/01/07 06:00
+CRDT- 2009/11/06 06:00
+PHST- 2009/11/06 06:00 [entrez]
+PHST- 2009/11/06 06:00 [pubmed]
+PHST- 2010/01/07 06:00 [medline]
+AID - 10.1603/029.102.0505 [doi]
+PST - ppublish
+SO  - J Econ Entomol. 2009 Oct;102(5):1759-66. doi: 10.1603/029.102.0505.
+
+PMID- 23861009
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140428
+LR  - 20211021
+IS  - 1432-1955 (Electronic)
+IS  - 0932-0113 (Linking)
+VI  - 112
+IP  - 10
+DP  - 2013 Oct
+TI  - Preparation, characterization, and insecticidal activity evaluation of three different formulations of Beauveria bassiana against Musca domestica.
+PG  - 3485-95
+LID - 10.1007/s00436-013-3529-6 [doi]
+AB  - Three formulations; bait, encapsulation, and emulsion of Beauveria bassiana were prepared and evaluated for their insecticidal activity in simulated field settings. Tea waste-based bait formulation of B. bassiana showed 100% mortality (within 72 h) in lab assay against adult houseflies. In field assay using traps, 65% relative entrapment and 100 % mortality (within 60 h) of entrapped flies was observed. Although the bait formulation was low cost and easy to prepare and transport, its storage ability was limited. Hence, more advanced formulations in form of encapsulation and emulsion was attempted. Encapsulated B. bassiana conidia (using skimmed milk powder, polyvinyl pyrrolidone K-90 and glucose as additives) showed 100% conidial germination and retained 78% conidial viability, even after storage for 12 months at 30 C. Encapsulated product showed 54.8% (freshly prepared) and 30.6 % (after 12-months storage) mortality of housefly larvae in a simulated field condition. Emulsion formulation was prepared by using Tween 20 as surfactant with seven vegetable oils: soybean, rapeseed, sunflower, olive, castor, til, and linseed. Emulsion with linseed oil showing maximum conidial germination (94%) was evaluated for shelf life and pathogenecity against housefly larvae. Shelf life analysis of emulsion revealed 28% conidial germination and 19.9% housefly larval mortality after 12 months of storage as opposed to 94% conidial germination and 51.7% of larval mortality with fresh product. S
+FAU - Mishra, Sapna
+AU  - Mishra S
+FAU - Kumar, Peeyush
+AU  - Kumar P
+FAU - Malik, Anushree
+AU  - Malik A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130717
+PL  - Germany
+TA  - Parasitol Res
+JT  - Parasitology research
+JID - 8703571
+RN  - 0 (Emulsions)
+RN  - 0 (Plant Oils)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*physiology
+MH  - Biological Assay
+MH  - Emulsions
+MH  - Houseflies/*microbiology
+MH  - Insect Control/instrumentation/*methods
+MH  - Larva/microbiology
+MH  - Microscopy, Electron, Scanning
+MH  - Pest Control, Biological/*methods
+MH  - Plant Oils
+MH  - Time Factors
+EDAT- 2013/07/19 06:00
+MHDA- 2014/04/29 06:00
+CRDT- 2013/07/18 06:00
+PHST- 2013/06/20 00:00 [received]
+PHST- 2013/06/28 00:00 [accepted]
+PHST- 2013/07/18 06:00 [entrez]
+PHST- 2013/07/19 06:00 [pubmed]
+PHST- 2014/04/29 06:00 [medline]
+AID - 10.1007/s00436-013-3529-6 [doi]
+PST - ppublish
+SO  - Parasitol Res. 2013 Oct;112(10):3485-95. doi: 10.1007/s00436-013-3529-6. Epub  2013 Jul 17.
+
+PMID- 32096312
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200908
+LR  - 20200908
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+VI  - 76
+IP  - 8
+DP  - 2020 Aug
+TI  - Colony heating protects honey bee populations from a risk of contact with wide-spectrum Beauveria bassiana insecticides applied in the field.
+PG  - 2627-2634
+LID - 10.1002/ps.5803 [doi]
+AB  - BACKGROUND: The safety of fungal insecticides to apiculture is a public concern but remains poorly understood. This study seeks to evaluate whether, how and why wide-spectrum Beauveria bassiana insecticides are safe to honey bees in a novel assessment system. RESULTS: Mesonotum dipping with a 10(8) conidia ml(-1) suspension and body contact with conidial suspension in sucrose solution caused high mortalities of adult forager bees at 25 C optimal for conidial germination and hyphal invasion. Intriguingly, colony sizes in the hives contaminated by the forager bees contacting viable and inactivated conidia at two sites (1.2 km in distance), respectively, showed similar increase percentages (31.7% versus 29.2%) during a 4-week summer period of exposure to environment. No sign of fungal infection was found within each of the monitored colonies. Neither was fungal outgrowth observed on surfaces of bee cadavers cleaned from each hive at either site. Hourly counts of cleaned cadavers from videotapes presented no significant difference in colony-cleaning behavior between the two sites. During the period, in-hive temperatures at both sites were persistently stabilized at approximately 35 C, which abolished conidial germination and were far above the out-hive temperature range. CONCLUSION: It is colony heating that protects honey bee populations from a risk of forager bees' contact with formulated conidia applied for arthropod pest control. No role was detected for colony self-cleani
+CI  - 2020 Society of Chemical Industry.
+FAU - Peng, Guoxiong
+AU  - Peng G
+AUID- ORCID: 0000-0003-2443-8691
+FAU - Tong, Sen-Miao
+AU  - Tong SM
+FAU - Zeng, Deyu
+AU  - Zeng D
+FAU - Xia, Yuxian
+AU  - Xia Y
+AUID- ORCID: 0000-0002-8344-7195
+FAU - Feng, Ming-Guang
+AU  - Feng MG
+AUID- ORCID: 0000-0002-2657-0293
+LA  - eng
+GR  - 2019M652068/Postdoctoral Research Foundation of China/
+GR  - 2017YFD0201202/Ministry of Science and Technology of the People's Republic of  China/
+GR  - 2017YFD0201208/Ministry of Science and Technology of the People's Republic of  China/
+PT  - Journal Article
+DEP - 20200306
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+RN  - 0 (Insecticides)
+SB  - IM
+MH  - Animals
+MH  - *Beauveria
+MH  - Bees
+MH  - Heating
+MH  - Insecticides
+MH  - Seasons
+MH  - Spores, Fungal
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - apiculture
+OT  - entomopathogenic fungi
+OT  - fungal insecticides
+OT  - honey bee safety
+OT  - virulence
+EDAT- 2020/02/26 06:00
+MHDA- 2020/09/09 06:00
+CRDT- 2020/02/26 06:00
+PHST- 2019/11/21 00:00 [received]
+PHST- 2020/02/17 00:00 [revised]
+PHST- 2020/02/24 00:00 [accepted]
+PHST- 2020/02/26 06:00 [pubmed]
+PHST- 2020/09/09 06:00 [medline]
+PHST- 2020/02/26 06:00 [entrez]
+AID - 10.1002/ps.5803 [doi]
+PST - ppublish
+SO  - Pest Manag Sci. 2020 Aug;76(8):2627-2634. doi: 10.1002/ps.5803. Epub 2020 Mar 6.
+
+PMID- 25194143
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150626
+LR  - 20200826
+IS  - 1465-2080 (Electronic)
+IS  - 1350-0872 (Linking)
+VI  - 160
+IP  - Pt 11
+DP  - 2014 Nov
+TI  - A putative methyltransferase, mtrA, contributes to development, spore viability, protein secretion and virulence in the entomopathogenic fungus Beauveria bassiana.
+PG  - 2526-2537
+LID - 10.1099/mic.0.078469-0 [doi]
+AB  - The filamentous fungus, Beauveria bassiana, is a ubiquitously distributed insect pathogen, currently used as an alternative to chemical pesticides for pest control. Conidiospores are the means by which the fungus disseminates in the environment, and these cells also represent the infectious agent most commonly used in field applications. Little, however, is known concerning the molecular basis for maintenance of spore viability, a critical feature for survival and persistence. Here, we report on the role of a putative methyltransferase, BbmtrA, in conidial viability, normal fungal growth and development, and virulence, via characterization of a targeted gene knockout strain. Loss of BbmtrA resulted in pleiotropic effects including reduced germination, growth and conidiation, with growing mycelia displaying greater branching than the WT parent. Conidial viability dramatically decreased over time, with 80 % of the WT. Reduced production of extracellular proteins was also observed for the BbmtrA mutant, including protease/peptidases, glycoside hydrolases and the hyd1 hydrophobin. The latter was further confirmed by hyd1 gene expression analysis. Insect bioassays using the greater wax moth, Galleria mellonella, further revealed that the BbmtrA strain was attenuated in virulence and failed to sporulate on host cadavers. These data support a global role for mtrA in fungal physiological processes.
+CI  - 2014 The Authors.
+FAU - Qin, Yuqi
+AU  - Qin Y
+FAU - Ortiz-Urquiza, Almudena
+AU  - Ortiz-Urquiza A
+FAU - Keyhani, Nemat O
+AU  - Keyhani NO
+LA  - eng
+SI  - GENBANK/EJP69472
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20140906
+PL  - England
+TA  - Microbiology (Reading)
+JT  - Microbiology (Reading, England)
+JID - 9430468
+RN  - 0 (Fungal Proteins)
+RN  - EC 2.1.1.- (Methyltransferases)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*enzymology/genetics/growth & development/pathogenicity
+MH  - Fungal Proteins/genetics/*metabolism
+MH  - Methyltransferases/genetics/*metabolism
+MH  - Molecular Sequence Data
+MH  - Moths/*microbiology
+MH  - Spores, Fungal/enzymology/genetics/*growth & development/pathogenicity
+MH  - Virulence
+EDAT- 2014/09/07 06:00
+MHDA- 2015/06/27 06:00
+CRDT- 2014/09/07 06:00
+PHST- 2014/09/07 06:00 [entrez]
+PHST- 2014/09/07 06:00 [pubmed]
+PHST- 2015/06/27 06:00 [medline]
+AID - 10.1099/mic.0.078469-0 [doi]
+PST - ppublish
+SO  - Microbiology (Reading). 2014 Nov;160(Pt 11):2526-2537. doi:  10.1099/mic.0.078469-0. Epub 2014 Sep 6.
+
+PMID- 19363067
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090615
+LR  - 20240317
+IS  - 1098-5336 (Electronic)
+IS  - 0099-2240 (Print)
+IS  - 0099-2240 (Linking)
+VI  - 75
+IP  - 11
+DP  - 2009 Jun
+TI  - Mitogen-activated protein kinase hog1 in the entomopathogenic fungus Beauveria bassiana regulates environmental stress responses and virulence to insects.
+PG  - 3787-95
+LID - 10.1128/AEM.01913-08 [doi]
+AB  - Beauveria bassiana is an economically important insect-pathogenic fungus which is widely used as a biocontrol agent to control a variety of insect pests. However, its insecticide efficacy in the field is often influenced by adverse environmental factors. Thus, understanding the genetic regulatory processes involved in the response to environmental stress would facilitate engineering and production of a more efficient biocontrol agent. Here, a mitogen-activated protein kinase (MAPK)-encoding gene, Bbhog1, was isolated from B. bassiana and shown to encode a functional homolog of yeast HIGH-OSMOLARITY GLYCEROL 1 (HOG1). A Bbhog1 null mutation was generated in B. bassiana by targeted gene replacement, and the resulting mutants were more sensitive to hyperosmotic stress, high temperature, and oxidative stress than the wild-type controls. These results demonstrate the conserved function of HOG1 MAPKs in the regulation of abiotic stress responses. Interestingly, DeltaBbhog1 mutants exhibited greatly reduced pathogenicity, most likely due to a decrease in spore viability, a reduced ability to attach to insect cuticle, and a reduction in appressorium formation. The transcript levels of two hydrophobin-encoding genes, hyd1 and hyd2, were dramatically decreased in a DeltaBbhog1 mutant, suggesting that Bbhog1 may regulate the expression of the gene associated with hydrophobicity or adherence.
+FAU - Zhang, Yongjun
+AU  - Zhang Y
+FAU - Zhao, Jianhua
+AU  - Zhao J
+FAU - Fang, Weiguo
+AU  - Fang W
+FAU - Zhang, Jianqing
+AU  - Zhang J
+FAU - Luo, Zhibing
+AU  - Luo Z
+FAU - Zhang, Mi
+AU  - Zhang M
+FAU - Fan, Yanhua
+AU  - Fan Y
+FAU - Pei, Yan
+AU  - Pei Y
+LA  - eng
+SI  - GENBANK/AY040532
+SI  - GENBANK/AY145440
+SI  - GENBANK/AY572854
+SI  - GENBANK/AY679162
+SI  - GENBANK/EF452344
+SI  - GENBANK/EF520285
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090410
+PL  - United States
+TA  - Appl Environ Microbiol
+JT  - Applied and environmental microbiology
+JID - 7605801
+RN  - 0 (DNA, Fungal)
+RN  - 0 (Fungal Proteins)
+RN  - 0 (Saccharomyces cerevisiae Proteins)
+RN  - EC 2.7.11.24 (HOG1 protein, S cerevisiae)
+RN  - EC 2.7.11.24 (Mitogen-Activated Protein Kinases)
+SB  - IM
+MH  - Animals
+MH  - Aphids/*microbiology
+MH  - Beauveria/*enzymology/genetics/*pathogenicity
+MH  - Cell Adhesion
+MH  - DNA, Fungal/chemistry/genetics
+MH  - Fungal Proteins/genetics/*physiology
+MH  - *Gene Expression Regulation, Fungal
+MH  - Gene Knockout Techniques
+MH  - Hot Temperature
+MH  - Mitogen-Activated Protein Kinases/genetics/*physiology
+MH  - Molecular Sequence Data
+MH  - Osmotic Pressure
+MH  - Oxidative Stress
+MH  - Saccharomyces cerevisiae Proteins/genetics
+MH  - Sequence Analysis, DNA
+MH  - Sequence Homology, Amino Acid
+MH  - *Stress, Physiological
+MH  - Virulence
+PMC - PMC2687298
+EDAT- 2009/04/14 09:00
+MHDA- 2009/06/16 09:00
+PMCR- 2009/12/01
+CRDT- 2009/04/14 09:00
+PHST- 2009/04/14 09:00 [entrez]
+PHST- 2009/04/14 09:00 [pubmed]
+PHST- 2009/06/16 09:00 [medline]
+PHST- 2009/12/01 00:00 [pmc-release]
+AID - AEM.01913-08 [pii]
+AID - 1913-08 [pii]
+AID - 10.1128/AEM.01913-08 [doi]
+PST - ppublish
+SO  - Appl Environ Microbiol. 2009 Jun;75(11):3787-95. doi: 10.1128/AEM.01913-08. Epub  2009 Apr 10.
+
+PMID- 40186278
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250515
+LR  - 20250515
+IS  - 1477-3155 (Electronic)
+IS  - 1477-3155 (Linking)
+VI  - 23
+IP  - 1
+DP  - 2025 Apr 4
+TI  - Nanocarrier-mediated transdermal delivery of Lmidgf4 dsRNA expedites biological control of locusts by Beauveria bassiana.
+PG  - 272
+LID - 10.1186/s12951-025-03347-5 [doi]
+LID - 272
+AB  - Locusts have been a major global agricultural pest that poses a serious threat to crop and livestock production. Entomopathogenic fungi (EPF) provide an eco-friendly control method; however, their efficacy usually takes slow and is unstable. To achieve an enhancement of the biocontrol efficacy of Beauveria bassiana (B. bassiana) against locusts, we developed a new strategy by which B. bassiana and nanocarrier-mediated dsRNA are co-applied across the locust cuticle. The nanocarrier star polycation (SPc) effectively delivers Lmidgf4 dsRNA (dsLmidgf4) into the locust, which targets Locusta migratoria imaginal disc growth factor 4 (Lmidgf4). SPc protects dsLmidgf4 from degradation by the hemolymph and enables efficient gene silencing. Furthermore, SPc has no adverse effects on B. bassiana spore germination and growth. Lmidgf4 interference leads to a thinner layer of endocuticle, thus facilitates infection of B. bassiana, and finally reduces the median lethal time of locusts infected with B. bassiana. In conclusion, the combination of B. bassiana and dsRNA/SPc complex overcomes the slow action of fungi, providing a novel strategy for field control of locusts.
+CI  - 2025. The Author(s).
+FAU - Kong, Xue
+AU  - Kong X
+AUID- ORCID: 0009-0007-6787-6591
+FAU - Tan, Shuqian
+AU  - Tan S
+FAU - Guan, Mei
+AU  - Guan M
+FAU - Lin, Xiaoxin
+AU  - Lin X
+FAU - Shen, Jie
+AU  - Shen J
+AUID- ORCID: 0000-0002-6021-7151
+FAU - Shi, Wangpeng
+AU  - Shi W
+FAU - Wang, Dan
+AU  - Wang D
+AUID- ORCID: 0000-0003-2881-2273
+LA  - eng
+GR  - 2023YFD1700304/National Key Research and Development Program of China/
+GR  - 2022YFD1400500/National Key Research and Development Program of China/
+GR  - 32030012/National Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20250404
+PL  - England
+TA  - J Nanobiotechnology
+JT  - Journal of nanobiotechnology
+JID - 101152208
+RN  - 0 (RNA, Double-Stranded)
+RN  - 0 (Insect Proteins)
+SB  - IM
+MH  - *Beauveria
+MH  - Animals
+MH  - *RNA, Double-Stranded/administration & dosage/genetics/pharmacology/chemistry
+MH  - *Pest Control, Biological/methods
+MH  - *Grasshoppers/microbiology
+MH  - Administration, Cutaneous
+MH  - *Insect Proteins/genetics/metabolism
+MH  - *Locusta migratoria/microbiology
+MH  - *Nanoparticles/chemistry
+PMC - PMC11969711
+OTO - NOTNLM
+OT  - DsRNA
+OT  - Fungi
+OT  - Imaginal disc growth factor 4
+OT  - Locust
+OT  - Nanocarrier
+OT  - Transdermal delivery
+COIS- Declarations. Ethics approval and consent to participate: Not applicable.  Competing interests: All authors have seen and agreed with the contents of the manuscript. The authors declare no conflict of financial and competing interests.
+EDAT- 2025/04/05 15:57
+MHDA- 2025/04/05 15:58
+PMCR- 2025/04/04
+CRDT- 2025/04/04 23:40
+PHST- 2025/01/26 00:00 [received]
+PHST- 2025/03/23 00:00 [accepted]
+PHST- 2025/04/05 15:58 [medline]
+PHST- 2025/04/05 15:57 [pubmed]
+PHST- 2025/04/04 23:40 [entrez]
+PHST- 2025/04/04 00:00 [pmc-release]
+AID - 10.1186/s12951-025-03347-5 [pii]
+AID - 3347 [pii]
+AID - 10.1186/s12951-025-03347-5 [doi]
+PST - epublish
+SO  - J Nanobiotechnology. 2025 Apr 4;23(1):272. doi: 10.1186/s12951-025-03347-5.
+
+PMID- 17459503
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070719
+LR  - 20191210
+IS  - 0167-7012 (Print)
+IS  - 0167-7012 (Linking)
+VI  - 69
+IP  - 3
+DP  - 2007 Jun
+TI  - Enhanced frequency of Beauveria bassiana blastospore transformation by restriction enzyme-mediated integration and electroporation.
+PG  - 512-7
+AB  - The techniques of restriction enzyme-mediated integration (REMI) and electroporation (EP) were applied for the first time to improving the blastospore transformation of fungal biocontrol agent Beauveria bassiana for higher frequency. The blastospores from or =24 h incubation in glucose-mineral medium after shaking conidia for 48 h in Subouraud dextrose broth were found most competent for integrating 1 microg plasmid DNA vectoring the phosphinothricin (PPT) resistance gene bar in 360 microL reaction system containing 100 U HindIII or XbaI. Such blastospores were also most suitable for EP transformation at the optimized field strength of 10 kV cm(-1). The optimized REMI and EP generated averagely 39 and 53 transformants microg(-1) plasmid DNA whereas polyethylene glycol (PEG) integration yielded only 22. All transformants grew well on Czapek's agar containing 400 microg PPT mL(-1) after three rounds of cultivation on the same agar excluding PPT but their parental strain showed no resistance. The target gene inserted into the genomes of 10 transformants randomly taken from REMI or EP transformation was consistently detected by both PCR and Southern blotting. Compared to the PEG integration, REMI and EP enhanced the frequency of the blastospore transformation by 73 and 137%, respectively.
+FAU - Jiang, Qiong
+AU  - Jiang Q
+FAU - Ying, Sheng-Hua
+AU  - Ying SH
+FAU - Feng, Ming-Guang
+AU  - Feng MG
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070324
+PL  - Netherlands
+TA  - J Microbiol Methods
+JT  - Journal of microbiological methods
+JID - 8306883
+RN  - 0 (Aminobutyrates)
+RN  - 0 (Antifungal Agents)
+RN  - 0 (Fungal Proteins)
+RN  - 51276-47-2 (phosphinothricin)
+RN  - EC 3.1.21.- (Deoxyribonuclease HindIII)
+RN  - EC 3.1.21.- (endodeoxyribonuclease XBAI)
+RN  - EC 3.1.21.4 (Deoxyribonucleases, Type II Site-Specific)
+SB  - IM
+MH  - Aminobutyrates/pharmacology
+MH  - Antifungal Agents/pharmacology
+MH  - Beauveria/drug effects/*genetics/physiology
+MH  - Deoxyribonuclease HindIII/*metabolism
+MH  - Deoxyribonucleases, Type II Site-Specific/*metabolism
+MH  - Drug Resistance, Fungal/genetics
+MH  - Electroporation/*methods
+MH  - Fungal Proteins/genetics
+MH  - Gene Transfer Techniques
+MH  - Polymerase Chain Reaction/methods
+MH  - Spores, Fungal/*genetics
+MH  - *Transformation, Genetic
+EDAT- 2007/04/27 09:00
+MHDA- 2007/07/20 09:00
+CRDT- 2007/04/27 09:00
+PHST- 2007/03/06 00:00 [received]
+PHST- 2007/03/15 00:00 [accepted]
+PHST- 2007/04/27 09:00 [pubmed]
+PHST- 2007/07/20 09:00 [medline]
+PHST- 2007/04/27 09:00 [entrez]
+AID - S0167-7012(07)00091-7 [pii]
+AID - 10.1016/j.mimet.2007.03.005 [doi]
+PST - ppublish
+SO  - J Microbiol Methods. 2007 Jun;69(3):512-7. doi: 10.1016/j.mimet.2007.03.005. Epub  2007 Mar 24.
+
+PMID- 29590351
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181102
+LR  - 20181102
+IS  - 1938-2936 (Electronic)
+IS  - 0046-225X (Linking)
+VI  - 47
+IP  - 3
+DP  - 2018 Jun 6
+TI  - Laboratory and Field Evaluation of the Entomopathogenic Fungus Beauveria bassiana (Deuteromycotina: Hyphomycetes) for Population Management of Spruce Beetle, Dendroctonus rufipennis (Coleoptera: Scolytinae), in Felled Trees and Factors Limiting Pathogen Success.
+PG  - 594-602
+LID - 10.1093/ee/nvy036 [doi]
+AB  - An isolate of the entomopathogenic fungus Beauveria bassiana (Bals.) Vuill. (Deuteromycotina: Hyphomycetes) was tested for its ability to reduce survival and reproduction of spruce beetle, Dendroctonus rufipennis (Kirby) (Coleoptera: Scolytinae), under laboratory and field conditions. Conidial suspension applied directly to adults or to filter papers that adults contacted had a median survival time of 3-4 d in laboratory assays and beetles died more rapidly when exposed to conidial suspension than when treated with surfactant solution only. In the field, conidial suspension was applied to the surface of felled and pheromone-baited Engelmann spruce (Picea engelmannii) trees using a backpack sprayer. Mortality of colonizing parent beetles (F0), reproduction (abundance of F1 offspring in logs), and emergence of F1 beetles from logs was compared between treated and nontreated logs. Application of spore suspension increased mortality of F0 adults by 36% on average. Total F1 reproduction was reduced by 17% and emergence from logs was reduced by 13% in treated logs, but considerable variability in reproduction and emergence was observed. Viable spores were re-isolated from treated logs up to 90 d after application, indicating that spores are capable of long-term persistence on the tree bole microhabitat. Subsequent in vitro tests revealed that temperatures below 15C and exposure to spruce monoterpenes likely limit performance of B. bassiana under field conditions, but exposure to
+FAU - Davis, Thomas Seth
+AU  - Davis TS
+FAU - Mann, Andrew J
+AU  - Mann AJ
+FAU - Malesky, Danielle
+AU  - Malesky D
+FAU - Jankowski, Egan
+AU  - Jankowski E
+FAU - Bradley, Clifford
+AU  - Bradley C
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - England
+TA  - Environ Entomol
+JT  - Environmental entomology
+JID - 7502320
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*physiology
+MH  - Food Chain
+MH  - Herbivory
+MH  - *Pest Control, Biological
+MH  - *Picea/growth & development
+MH  - *Pinus/growth & development
+MH  - Weevils/*microbiology
+EDAT- 2018/03/29 06:00
+MHDA- 2018/11/06 06:00
+CRDT- 2018/03/29 06:00
+PHST- 2017/11/07 00:00 [received]
+PHST- 2018/03/29 06:00 [pubmed]
+PHST- 2018/11/06 06:00 [medline]
+PHST- 2018/03/29 06:00 [entrez]
+AID - 4953401 [pii]
+AID - 10.1093/ee/nvy036 [doi]
+PST - ppublish
+SO  - Environ Entomol. 2018 Jun 6;47(3):594-602. doi: 10.1093/ee/nvy036.
+
+PMID- 32456112
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 11
+IP  - 5
+DP  - 2020 May 22
+TI  - Preventative Approach to Microbial Control of Capnodis tenebrionis by Soil Application of Metarhizium brunneum and Beauveria bassiana.
+LID - 10.3390/insects11050319 [doi]
+LID - 319
+AB  - Management of the Mediterranean flat-headed root-borer, Capnodis tenebrionis, is critical due to the larvae's root localization. Neonate larvae can be exposed to natural enemies before penetrating the roots. Application of Metarhizium brunneum strain Mb7 and Beauveria bassiana strain GHA formulations on rice granules was investigated for their efficacy against C. tenebrionis larvae. Mb7 application, evaluated on apricot twigs, significantly and dose-dependently reduced colonization rates of neonates, with highest mortality at 10(8) conidia/g soil. Neonate susceptibility to Mb7 and GHA was evaluated on potted rootstocks (GF677 almond peach, 2729 plum) planted in entomopathogenic fungi (EPF)-premixed soil (1.3-1.6 10(5) conidia/cm(3) soil) or in EPF-free soil surface-treated with 5 g Mb7 fungal granules (1.25 10(9) conidia). Larval colonization rates were reduced 7.4-fold in 2729 by both fungi; only Mb7 completely prevented colonization of GF677 by larvae. Larvae inside plant galleries exhibited mycosis with EPF-treated soils and both fungi proliferated on larval frass. Mb7 conidia germinated in the rhizosphere of GF677, and conidia of both fungi remained viable throughout the trial. Galleria baiting technique was used on EPF-treated soil to evaluate EPF infectivity over time; Mb7 and GHA persisted 180 and 90 days post inoculation, respectively. The formulation (fungus-covered rice grains), delivery method (mixing with soil) and persistence (3-6 months) of Mb7 and GHA ar
+FAU - Ment, Dana
+AU  - Ment D
+FAU - Kokici, Hysen
+AU  - Kokici H
+FAU - de Lillo, Enrico
+AU  - de Lillo E
+LA  - eng
+GR  - 20-13-0027/Israeli Ministry of Agriculture/
+PT  - Journal Article
+DEP - 20200522
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC7291278
+OTO - NOTNLM
+OT  - Mediterranean flat-headed root-borer
+OT  - entomopathogenic fungi
+OT  - fungal efficacy
+OT  - fungal survival
+OT  - microbiological control
+OT  - soil application
+COIS- The authors declare no conflict of interest.
+EDAT- 2020/05/28 06:00
+MHDA- 2020/05/28 06:01
+PMCR- 2020/05/22
+CRDT- 2020/05/28 06:00
+PHST- 2020/04/28 00:00 [received]
+PHST- 2020/05/21 00:00 [revised]
+PHST- 2020/05/22 00:00 [accepted]
+PHST- 2020/05/28 06:00 [entrez]
+PHST- 2020/05/28 06:00 [pubmed]
+PHST- 2020/05/28 06:01 [medline]
+PHST- 2020/05/22 00:00 [pmc-release]
+AID - insects11050319 [pii]
+AID - insects-11-00319 [pii]
+AID - 10.3390/insects11050319 [doi]
+PST - epublish
+SO  - Insects. 2020 May 22;11(5):319. doi: 10.3390/insects11050319.
+
+PMID- 32409941
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200921
+LR  - 20201210
+IS  - 1573-0972 (Electronic)
+IS  - 0959-3993 (Linking)
+VI  - 36
+IP  - 5
+DP  - 2020 May 15
+TI  - Novel formulations of Bacillus thuringiensis var. kurstaki: an eco-friendly approach for management of lepidopteran pests.
+PG  - 78
+LID - 10.1007/s11274-020-02849-8 [doi]
+AB  - Bacillus thuringiensis (Bt) and entomopathogenic fungi (EPF) are in use for management of insect pests. Continuous use of Bt can lead to problem of resistance development in insect pests. Hence use of combination formulations (CF) of microbials with diverse modes of action has been attempted to slow down the process of resistance development. Suspension concentrate (SC) formulations of a local strain of Bt var. kurstaki DOR Bt-127 were developed singly and in combination with conidia of the EPF Nomuraea rileyi (Nr) and Beauveria bassiana (Bb). Electron microscopy of Bt + Bb CF treated larvae of Helicoverpa armigera revealed simultaneous infection by both microbials indicating their compatibility. Endotoxin contents in Bt-SC, Bt + Bb and Bt + Nr CFs were 5.0, 4.7 and 4.7%, respectively. These formulations were effective against larvae of Spodoptera litura, H. armigera and Achaea janata coupled with a lowering of the effective requirement of Bt and EPF. In multi-location field trials, Bt-SC and Bt + Nr CF were highly effective against S. litura and A. janata on castor as well as H. armigera and Thysanoplusia orichalcea on sunflower. However, Bt + Bb CF was highly effective only on sunflower against H. armigera and T. orichalcea. All formulations had 24 months shelf-life at room temperature. DOR Bt-127 based SC formulations developed singly and in combination with Nr and Bb were effective against major lepidopteran pests of castor and sunflower and did not lose viability under
+FAU - Vimala Devi, P S
+AU  - Vimala Devi PS
+AUID- ORCID: 0000-0002-3213-7197
+FAU - Duraimurugan, P
+AU  - Duraimurugan P
+FAU - Poorna Chandrika, K S V
+AU  - Poorna Chandrika KSV
+FAU - Vineela, V
+AU  - Vineela V
+FAU - Hari, P P
+AU  - Hari PP
+LA  - eng
+PT  - Journal Article
+DEP - 20200515
+PL  - Germany
+TA  - World J Microbiol Biotechnol
+JT  - World journal of microbiology & biotechnology
+JID - 9012472
+RN  - 0 (Bacillus thuringiensis Toxins)
+RN  - 0 (Bacterial Proteins)
+RN  - 0 (Endotoxins)
+RN  - 0 (Hemolysin Proteins)
+RN  - 0 (insecticidal crystal protein, Bacillus Thuringiensis)
+SB  - IM
+MH  - Animals
+MH  - Bacillus thuringiensis/*physiology
+MH  - Bacillus thuringiensis Toxins
+MH  - Bacterial Proteins/pharmacology
+MH  - Beauveria/physiology
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Compounding
+MH  - Endotoxins/*pharmacology
+MH  - Hemolysin Proteins/pharmacology
+MH  - Insecta/*drug effects
+MH  - Larva/*drug effects
+MH  - Metarhizium/physiology
+MH  - Moths/*drug effects
+MH  - Pest Control, Biological/*methods
+MH  - Spores, Fungal
+OTO - NOTNLM
+OT  - Bacillus thuringiensis var. kurstaki
+OT  - Combination formulations
+OT  - Entomopathogenic fungi
+OT  - Helicoverpa armigera
+OT  - Spodoptera litura
+OT  - Suspension concentrate
+EDAT- 2020/05/16 06:00
+MHDA- 2020/09/22 06:00
+CRDT- 2020/05/16 06:00
+PHST- 2019/10/31 00:00 [received]
+PHST- 2020/05/04 00:00 [accepted]
+PHST- 2020/05/16 06:00 [entrez]
+PHST- 2020/05/16 06:00 [pubmed]
+PHST- 2020/09/22 06:00 [medline]
+AID - 10.1007/s11274-020-02849-8 [pii]
+AID - 10.1007/s11274-020-02849-8 [doi]
+PST - epublish
+SO  - World J Microbiol Biotechnol. 2020 May 15;36(5):78. doi:  10.1007/s11274-020-02849-8.
+
+PMID- 32691932
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210512
+LR  - 20210512
+IS  - 1462-2920 (Electronic)
+IS  - 1462-2912 (Linking)
+VI  - 23
+IP  - 2
+DP  - 2021 Feb
+TI  - The secondary metabolite regulator, BbSmr1, is a central regulator of conidiation via the BrlA-AbaA-WetA pathway in Beauveria bassiana.
+PG  - 810-825
+LID - 10.1111/1462-2920.15155 [doi]
+AB  - The filamentous fungus Beauveria bassiana, an insect fungal pathogen, is widely used for pest biocontrol. Aerial conidia are infectious propagules, and their yield and viability greatly affect the field application of this fungus; however, little is known about the molecular regulatory mechanism of the triggered conidiation. In the present study, we find that the secondary metabolite regulator BbSmr1 is involved in the regulation of asexual conidiation development and stress response in B. bassiana. A deficiency in Bbsmr1 results in a prominent fluffy-like phenotype on solid medium, decreased conidial yield, accelerated conidial germination, as well as increased tolerance to H(2) O(2) stress and cell wall inhibitors. The deletion of Bbsmr1 also leads to thickened conidial cell walls and changed cell epitopes. Overexpressing either BbbrlA or BbabaA in the Bbsmr1 strain can rescue the phenotypes of conidial development and stress response. BbSmr1 activates BbbrlA transcription by directly binding to the A4GA3 sequence of the BbbrlA promoter. BbBrlA in turn binds to the promoter of Bbsmr1 and negatively regulates the expression of Bbsmr1. These results indicate that BbSmr1 positively regulates conidial development in B. bassiana by activating the central development pathway BrlA-AbaA-WetA and provides insights into the developmental regulatory mechanism of entomopathogenic fungi.
+CI  - 2020 Society for Applied Microbiology and John Wiley & Sons Ltd.
+FAU - Chen, Jin-Feng
+AU  - Chen JF
+AUID- ORCID: 0000-0001-7867-7554
+FAU - Liu, Yu
+AU  - Liu Y
+FAU - Tang, Gui-Rong
+AU  - Tang GR
+FAU - Jin, Dan
+AU  - Jin D
+FAU - Chen, Xi
+AU  - Chen X
+FAU - Pei, Yan
+AU  - Pei Y
+FAU - Fan, Yan-Hua
+AU  - Fan YH
+AUID- ORCID: 0000-0002-8973-2384
+LA  - eng
+GR  - cstc2019jcyj-msxmX0388/Chongqing Research Program of Basic Research and Frontier  Technology/
+GR  - XDJK2018AA006/Fundamental Research Funds for the Central Universities/
+GR  - 31570137/National Natural Science Foundation of China/
+GR  - 31770158/National Natural Science Foundation of China/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200823
+PL  - England
+TA  - Environ Microbiol
+JT  - Environmental microbiology
+JID - 100883692
+RN  - 0 (Biological Control Agents)
+RN  - 0 (Fungal Proteins)
+RN  - BBX060AN9V (Hydrogen Peroxide)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*genetics
+MH  - Biological Control Agents/metabolism
+MH  - Cell Wall/*metabolism
+MH  - Fungal Proteins/genetics
+MH  - Gene Expression Regulation, Fungal/*genetics
+MH  - Hydrogen Peroxide/metabolism
+MH  - Insecta/microbiology
+MH  - Promoter Regions, Genetic/genetics
+MH  - Reproduction, Asexual/physiology
+MH  - Spores, Fungal/*cytology/*metabolism
+MH  - Transcription, Genetic/genetics
+EDAT- 2020/07/22 06:00
+MHDA- 2021/05/13 06:00
+CRDT- 2020/07/22 06:00
+PHST- 2020/05/12 00:00 [received]
+PHST- 2020/06/27 00:00 [revised]
+PHST- 2020/07/04 00:00 [accepted]
+PHST- 2020/07/22 06:00 [pubmed]
+PHST- 2021/05/13 06:00 [medline]
+PHST- 2020/07/22 06:00 [entrez]
+AID - 10.1111/1462-2920.15155 [doi]
+PST - ppublish
+SO  - Environ Microbiol. 2021 Feb;23(2):810-825. doi: 10.1111/1462-2920.15155. Epub  2020 Aug 23.
+
+PMID- 27522925
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170118
+LR  - 20260127
+IS  - 1678-4405 (Electronic)
+IS  - 1517-8382 (Print)
+IS  - 1517-8382 (Linking)
+VI  - 47
+IP  - 4
+DP  - 2016 Oct-Dec
+TI  - Infectivity of housefly, Musca domestica (Diptera: Muscidae) to different entomopathogenic fungi.
+PG  - 807-816
+LID - S1517-8382(16)30530-5 [pii]
+LID - 10.1016/j.bjm.2016.06.002 [doi]
+AB  - The housefly Musca domestica is a worldwide insect pest that acts as a vector for many pathogenic diseases in both people and animals. The present study was conducted to evaluate the virulence of different local isolates of Beauveria bassiana, Metarhizium anisopliae and Isaria fumosorosea on M. domestica using two bioassay techniques: (1) adult immersion and (2) a bait method applied to both larvae and adults. The results showed evidence of a broad range of responses by both stages (larvae and adults) to the tested isolates of B. bassiana, M. anisopliae and I. fumosorosea. These responses were concentration-dependent, with mortality percentages ranging from 53.00% to 96.00%. Because it resulted in lower LC(50) values and a shorter lethal time, B. bassiana (Bb-01) proved to be the most virulent isolate against both housefly larvae and adults. Sublethal doses of the tested isolates were also assessed to evaluate their effect on M. domestica fecundity and longevity. The fungal infections reduced housefly survival regardless of their sex and also decreased egg production in females.
+CI  - Copyright 2016 Sociedade Brasileira de Microbiologia. Published by Elsevier Editora Ltda. All rights reserved.
+FAU - Farooq, Muzammil
+AU  - Farooq M
+FAU - Freed, Shoaib
+AU  - Freed S
+LA  - eng
+PT  - Journal Article
+DEP - 20160704
+PL  - Brazil
+TA  - Braz J Microbiol
+JT  - Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]
+JID - 101095924
+SB  - IM
+MH  - Animals
+MH  - Female
+MH  - Fungi/isolation & purification/*physiology
+MH  - Houseflies/*microbiology
+MH  - Larva/microbiology
+MH  - Male
+MH  - Microbial Viability
+MH  - Pakistan
+PMC - PMC5052330
+OTO - NOTNLM
+OT  - Entomopathogenic fungi
+OT  - Fecundity
+OT  - Housefly
+OT  - Infectivity
+OT  - Pathogen
+OT  - Vector
+EDAT- 2016/08/16 06:00
+MHDA- 2017/01/19 06:00
+PMCR- 2016/07/04
+CRDT- 2016/08/16 06:00
+PHST- 2014/02/26 00:00 [received]
+PHST- 2016/03/04 00:00 [accepted]
+PHST- 2016/08/16 06:00 [pubmed]
+PHST- 2017/01/19 06:00 [medline]
+PHST- 2016/08/16 06:00 [entrez]
+PHST- 2016/07/04 00:00 [pmc-release]
+AID - S1517-8382(16)30530-5 [pii]
+AID - 10.1016/j.bjm.2016.06.002 [doi]
+PST - ppublish
+SO  - Braz J Microbiol. 2016 Oct-Dec;47(4):807-816. doi: 10.1016/j.bjm.2016.06.002.  Epub 2016 Jul 4.
+
+PMID- 42384266
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260701
+LR  - 20260715
+IS  - 1573-0972 (Electronic)
+IS  - 0959-3993 (Linking)
+VI  - 42
+IP  - 7
+DP  - 2026 Jul 1
+TI  - Effects of temperature and relative humidity on germination, vegetative growth, sporulation, and pathogenicity of native Beauveria bassiana isolates and formulations against adult desert locust (Schistocerca gregaria Forskal).
+LID - 385 [pii]
+LID - 10.1007/s11274-026-05046-1 [doi]
+AB  - Entomopathogenic fungi such as Beauveria bassiana are promising biocontrol agents against the desert locust, Schistocerca gregaria, but their performance is strongly influenced by temperature and relative humidity (RH). In this study, native B. bassiana isolates recovered from soils in Isiolo and Laikipia Counties, Kenya, were molecularly identified and evaluated under factorial combinations of temperature (20, 25, 30, and 35 C) and RH (50, 75, and 90%) to determine their effects on conidial germination, vegetative growth, sporulation, and pathogenicity against adult S. gregaria. Three native isolates and six conidial formulations were assessed, comprising oil-based, whey-based, and diatomaceous earth (DE)-based carriers. Temperature, RH, and their interaction significantly influenced all measured traits (p 0.0001). Vegetative growth and sporulation were highest at 25-30 C and 90% RH. Across environmental treatments, isolate 341 consistently showed the highest germination and vegetative growth, followed by isolate 334, whereas differences among isolates were less pronounced under optimal conditions (25-30 C) than at thermal extremes (20 C and 35 C). Among formulations, oil-based products consistently outperformed whey-based and DE-based formulations in germination, vegetative growth, sporulation, and insect mortality (p 0.05). Adult mortality at 14 days ranged from 57.8% to 100%, with the shortest median lethal time (LT50) recorded at 30 C and 90% RH. Overall, the
+CI  - 2026. The Author(s), under exclusive licence to Springer Nature B.V.
+FAU - Mwikali, Pamela C
+AU  - Mwikali PC
+FAU - Mwamburi, Lizzy A
+AU  - Mwamburi LA
+FAU - Musinguzi, Simon Peter
+AU  - Musinguzi SP
+LA  - eng
+PT  - Journal Article
+DEP - 20260701
+PL  - Germany
+TA  - World J Microbiol Biotechnol
+JT  - World journal of microbiology & biotechnology
+JID - 9012472
+SB  - IM
+MH  - Animals
+MH  - *Spores, Fungal/growth & development
+MH  - Temperature
+MH  - *Beauveria/pathogenicity/growth & development/physiology/isolation & purification/genetics
+MH  - *Grasshoppers/microbiology
+MH  - *Humidity
+MH  - *Pest Control, Biological/methods
+MH  - Soil Microbiology
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Biological control
+OT  - Biopesticide formulation
+OT  - Conidial germination
+OT  - Desert locust
+OT  - Relative humidity
+OT  - Sporulation
+OT  - Temperature interactions
+COIS- Declarations. Competing interests: The authors declare no competing interests.
+EDAT- 2026/07/01 12:47
+MHDA- 2026/07/01 18:33
+CRDT- 2026/07/01 11:16
+PHST- 2025/09/22 00:00 [received]
+PHST- 2026/05/21 00:00 [accepted]
+PHST- 2026/07/01 18:33 [medline]
+PHST- 2026/07/01 12:47 [pubmed]
+PHST- 2026/07/01 11:16 [entrez]
+AID - 10.1007/s11274-026-05046-1 [pii]
+AID - 10.1007/s11274-026-05046-1 [doi]
+PST - epublish
+SO  - World J Microbiol Biotechnol. 2026 Jul 1;42(7):385. doi:  10.1007/s11274-026-05046-1.
+
+PMID- 20094711
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100729
+LR  - 20100414
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Linking)
+VI  - 86
+IP  - 5
+DP  - 2010 May
+TI  - A new manganese superoxide dismutase identified from Beauveria bassiana enhances virulence and stress tolerance when overexpressed in the fungal pathogen.
+PG  - 1543-53
+LID - 10.1007/s00253-010-2437-2 [doi]
+AB  - A superoxide dismutase (SOD) was characterized from Beauveria bassiana, a fungal entomopathogen widely applied to insect control. This 209-aa enzyme (BbSod2) showed no more than 71% sequence identity to other fungal Mn-SODs, sharing all conserved residues with the Mn-SOD family and lacking a mitochondrial signal. The SOD activity of purified BbSod2 was significantly elevated by Mn(2+), suppressed by Cu(2+) and Zn(2+) but inhibited by Fe(3+). Overexpressing the enzyme in a BbSod2-absent B. bassiana strain enhanced its SOD activity (107.2 +/- 6.1 U mg(-1) protein) by 4-10-fold in different transformants analyzed. The best BbSod2-transformed strain with the SOD activity of 1,157.9 +/- 74.7 U mg(-1) was 93% and 61% more tolerant to superoxide-generating menadione in both colony growth (EC(50) = 2.41 +/- 0.03 versus 1.25 +/- 0.01 mM) and conidial germination (EC(50) = 0.89 +/- 0.06 versus 0.55 +/- 0.07 mM), and 23% more tolerant to UV-B irradiation (LD(50) = 0.49 +/- 0.02 versus 0.39 +/- 0.01 J cm(-2)). Its virulence to Spodoptera litura larvae was enhanced by 26% [LT(50) = 4.5 (4.2-4.8) versus 5.7 (5.2-6.4) days]. Our study highlights for the first time that the Mn(2+)-cofactored, cytosolic BbSod2 contributes significantly to the virulence and stress tolerance of B. bassiana and reveals possible means to improving field persistence and efficacy of a fungal formulation by manipulating the antioxidant enzymes of a candidate strain.
+FAU - Xie, Xue-Qin
+AU  - Xie XQ
+FAU - Wang, Jie
+AU  - Wang J
+FAU - Huang, Bao-Fu
+AU  - Huang BF
+FAU - Ying, Sheng-Hua
+AU  - Ying SH
+FAU - Feng, Ming-Guang
+AU  - Feng MG
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20100122
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - 0 (DNA, Bacterial)
+RN  - EC 1.15.1.1 (Superoxide Dismutase)
+SB  - IM
+MH  - Adaptation, Physiological
+MH  - Amino Acid Sequence
+MH  - Base Sequence
+MH  - Beauveria/*enzymology/genetics/*pathogenicity/radiation effects
+MH  - Cloning, Molecular
+MH  - Cytosol/metabolism
+MH  - DNA, Bacterial
+MH  - Mitochondria/enzymology/genetics/metabolism
+MH  - Molecular Sequence Data
+MH  - Spores, Fungal/genetics/metabolism/pathogenicity
+MH  - Superoxide Dismutase/genetics/isolation & purification/*physiology
+MH  - Ultraviolet Rays
+MH  - Virulence
+EDAT- 2010/01/23 06:00
+MHDA- 2010/07/30 06:00
+CRDT- 2010/01/23 06:00
+PHST- 2009/10/30 00:00 [received]
+PHST- 2010/01/02 00:00 [accepted]
+PHST- 2010/01/02 00:00 [revised]
+PHST- 2010/01/23 06:00 [entrez]
+PHST- 2010/01/23 06:00 [pubmed]
+PHST- 2010/07/30 06:00 [medline]
+AID - 10.1007/s00253-010-2437-2 [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2010 May;86(5):1543-53. doi:  10.1007/s00253-010-2437-2. Epub 2010 Jan 22.
+
+PMID- 22912789
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130501
+LR  - 20211021
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 7
+IP  - 8
+DP  - 2012
+TI  - Enhanced UV resistance and improved killing of malaria mosquitoes by photolyase transgenic entomopathogenic fungi.
+PG  - e43069
+LID - 10.1371/journal.pone.0043069 [doi]
+LID - e43069
+AB  - The low survival of microbial pest control agents exposed to UV is the major environmental factor limiting their effectiveness. Using gene disruption we demonstrated that the insect pathogenic fungus Metarhizium robertsii uses photolyases to remove UV-induced cyclobutane pyrimidine dimers (CPD) and pyrimidine (6-4) photoproducts [(6-4)PPs] from its DNA. However, this photorepair is insufficient to fix CPD lesions and prevent the loss of viability caused by seven hours of solar radiation. Expression of a highly efficient archaeal (Halobacterium salinarum) CPD photolyase increased photorepair 30-fold in both M. robertsii and Beauveria bassiana. Consequently, transgenic strains were much more resistant to sunlight and retained virulence against the malaria vector Anopheles gambiae. In the field this will translate into much more efficient pest control over a longer time period. Conversely, our data shows that deleting native photolyase genes will strictly contain M. robertsii to areas protected from sunlight, alleviating safety concerns that transgenic hypervirulent Metarhizium spp will spread from mosquito traps or houses. The precision and malleability of the native and transgenic photolyases allows design of multiple pathogens with different strategies based on the environments in which they will be used.
+FAU - Fang, Weiguo
+AU  - Fang W
+FAU - St Leger, Raymond J
+AU  - St Leger RJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120817
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Nuclear Localization Signals)
+RN  - 0 (Pyrimidine Dimers)
+RN  - 0 (pyrimidine-pyrimidone dimer)
+RN  - 147336-22-9 (Green Fluorescent Proteins)
+RN  - EC 4.1.99.3 (Deoxyribodipyrimidine Photo-Lyase)
+SB  - IM
+MH  - Active Transport, Cell Nucleus
+MH  - Animals
+MH  - Animals, Genetically Modified
+MH  - Anopheles/*microbiology
+MH  - Background Radiation
+MH  - Beauveria/metabolism
+MH  - Cloning, Molecular
+MH  - Deoxyribodipyrimidine Photo-Lyase/*genetics/metabolism
+MH  - Enzyme-Linked Immunosorbent Assay
+MH  - Green Fluorescent Proteins/metabolism
+MH  - Halobacterium salinarum/enzymology
+MH  - Metarhizium/*enzymology/*genetics/pathogenicity/radiation effects
+MH  - Nuclear Localization Signals
+MH  - Pest Control, Biological/*methods
+MH  - Pyrimidine Dimers/metabolism
+MH  - Spores, Fungal/radiation effects
+MH  - *Ultraviolet Rays
+MH  - Virulence
+PMC - PMC3422317
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2012/08/23 06:00
+MHDA- 2013/05/02 06:00
+PMCR- 2012/08/17
+CRDT- 2012/08/23 06:00
+PHST- 2012/05/02 00:00 [received]
+PHST- 2012/07/16 00:00 [accepted]
+PHST- 2012/08/23 06:00 [entrez]
+PHST- 2012/08/23 06:00 [pubmed]
+PHST- 2013/05/02 06:00 [medline]
+PHST- 2012/08/17 00:00 [pmc-release]
+AID - PONE-D-12-12723 [pii]
+AID - 10.1371/journal.pone.0043069 [doi]
+PST - ppublish
+SO  - PLoS One. 2012;7(8):e43069. doi: 10.1371/journal.pone.0043069. Epub 2012 Aug 17.
+
+PMID- 22507002
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121016
+LR  - 20120417
+IS  - 1938-2936 (Electronic)
+IS  - 0046-225X (Linking)
+VI  - 41
+IP  - 2
+DP  - 2012 Apr
+TI  - Cumulative impact of a clover cover crop on the persistence and efficacy of Beauveria bassiana in suppressing the pecan weevil (Coleoptera: Curculionidae).
+PG  - 298-307
+LID - 10.1603/EN11229 [doi]
+AB  - The pecan weevil, Curculio caryae (Horn), is a key pest of pecan. Endemic levels of the entomopathogenic fungus Beauveria bassiana (Balsamo) Vuillemin can occur in pecan orchards and contribute to natural control of C. caryae. Commercial formulations of the fungus can also be applied for suppression of C. caryae. We hypothesized that a clover cover crop enhances B. bassiana efficacy and persistence (e.g., by protecting the fungus against abiotic environmental stresses). The hypothesis was tested by conducting field trials in a pecan orchard in Byron, GA, in 2009 and 2010. The study included four treatments arranged in a factorial with two levels of fungus (endemic fungus only, and application of a commercial B. bassiana product), and two levels of clover (white clover, Trifolium repens L., and no clover). Fungal persistence was measured by determining the number of CFUs per gram of soil over time (during 42 d postapplication of B. bassiana in 2009 and 29 d in 2010). Efficacy was measured by capturing naturally emerging C. caryae and subsequently determining mortality and mycosis (over 24 d in 2009 and 17 d in 2010). In 2009, greater prevalence of B. bassiana conidia was detected in plots receiving fungal applications compared with no fungus applications, and no clear effect of clover was observed in plots receiving B. bassiana applications in either year. In 2010, B. bassiana prevalence in the endemic fungus plus clover treatment was higher than fungus without clover, and wa
+FAU - Shapiro-Ilan, David I
+AU  - Shapiro-Ilan DI
+FAU - Gardner, Wayne A
+AU  - Gardner WA
+FAU - Wells, Lenny
+AU  - Wells L
+FAU - Wood, Bruce W
+AU  - Wood BW
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Environ Entomol
+JT  - Environmental entomology
+JID - 7502320
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*physiology
+MH  - *Medicago
+MH  - *Pest Control, Biological
+MH  - Weevils/*microbiology
+EDAT- 2012/04/18 06:00
+MHDA- 2012/10/17 06:00
+CRDT- 2012/04/18 06:00
+PHST- 2012/04/18 06:00 [entrez]
+PHST- 2012/04/18 06:00 [pubmed]
+PHST- 2012/10/17 06:00 [medline]
+AID - 10.1603/EN11229 [doi]
+PST - ppublish
+SO  - Environ Entomol. 2012 Apr;41(2):298-307. doi: 10.1603/EN11229.
+
+PMID- 17044504
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070223
+LR  - 20201209
+IS  - 1001-9332 (Print)
+IS  - 1001-9332 (Linking)
+VI  - 17
+IP  - 7
+DP  - 2006 Jul
+TI  - [Compatibility of two fungal biocontrol agents conidia with commercial chemical acaricides].
+PG  - 1264-8
+AB  - In this paper, the biological compatibility of fungal biocontrol agents Beauveria bassiana and Paecilomyces fumosoroseus conidia with 10 commercial chemical acaricides were assayed, based on the conidial germination rates in nutritional liquid and on SDAY plate. The results showed that nutritional liquid was more available than SDAY plate in the assay. So far as the 24 h conidial viability concerned, there were significant differences among the test acaricides with the concentrations of recommended for field spray and 5 and 10 fold dilutions, as well as between the two fungal agents. Since acaricides azocyclotin, liuyangmycin, dicofol and avermectin had strong inhibitory effects on the 24 h germination rate of both fungal agents conidia, their combined application with fungal agents was unsuitable for mite control. However, the combined application of pyridaben, propargite, chlorpyrifos, hexythiazox or amitraz with either B. bassiana or P. fumosoroseus was practical, because of their short-term compatibility. When the mixtures of oil-based B. bassiana formulation with the three concentrations of pyridaben, propargite and chlorpyrifos were stored at 4 degrees C or at ambient temperature for 12 months, none of the three chemicals was considered to be good enough for a combined formulation due to the great variability in long-term compatibility. Nevertheless, chlorpyrifos exhibited an encouraging long-term compatibility with B. bassiana, because its low concentration in the fun
+FAU - Jiang, Yu
+AU  - Jiang Y
+FAU - Feng, Mingguang
+AU  - Feng M
+LA  - chi
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - China
+TA  - Ying Yong Sheng Tai Xue Bao
+JT  - Ying yong sheng tai xue bao = The journal of applied ecology
+JID - 9425159
+RN  - 0 (Insecticides)
+SB  - IM
+MH  - Animals
+MH  - Beauveria/metabolism/*physiology
+MH  - *Insecticides
+MH  - Mites/*physiology
+MH  - Paecilomyces/metabolism/*physiology
+MH  - *Pest Control, Biological
+MH  - Vegetables/parasitology
+EDAT- 2006/10/19 09:00
+MHDA- 2007/02/24 09:00
+CRDT- 2006/10/19 09:00
+PHST- 2006/10/19 09:00 [pubmed]
+PHST- 2007/02/24 09:00 [medline]
+PHST- 2006/10/19 09:00 [entrez]
+PST - ppublish
+SO  - Ying Yong Sheng Tai Xue Bao. 2006 Jul;17(7):1264-8.
+
+PMID- 16937663
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20061026
+LR  - 20190513
+IS  - 0022-0493 (Print)
+IS  - 0022-0493 (Linking)
+VI  - 99
+IP  - 4
+DP  - 2006 Aug
+TI  - Importance of direct spray and spray residue contact for infection of Trichoplusia ni larvae by field applications of Beauveria bassiana.
+PG  - 1120-8
+AB  - Commercial formulations and unformulated conidia of Beauveria bassiana strain GHA were applied to field-grown plants and artificially infested with Trichoplusia ni (Hubner) larvae to compare the relative insecticidal activity resulting from direct spray contact with insecticidal activity due to contact with dry spray residue. In general, applications to cabbage, Brassica oleracea L., resulted in nearly equal mortalities when comparing insects exposed to direct spray contact with those exposed by spray residue, suggesting a potential benefit by improving formulations to extend residual activity. For applications to beans, Phaseolus vulgaris L., direct spray contact provided significant insect mortality, but mortality due to residual contact was generally not different than the untreated control. In contrast to the differences observed for larvae exposed in the field, larvae exposed in laboratory bioassays to leaf disks collected from the same treated cabbage and bean plants (residual contact exposure) resulted in nearly identical mortalities. Field applications of Beauveria showed rapid loss of activity, expressed as a loss of conidia viability and loss of insecticidal activity during the first 8 h after application. Evidence of significant mortality by residual contact and the rapid loss of insecticidal activity with field exposure support additional research to improve formulations to extend the residual activity of fungal biopesticides.
+FAU - Behle, Robert W
+AU  - Behle RW
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Econ Entomol
+JT  - Journal of economic entomology
+JID - 2985127R
+RN  - 0 (Pesticide Residues)
+SB  - IM
+MH  - Animals
+MH  - Brassica/parasitology
+MH  - Hypocreales/*physiology
+MH  - Larva/*microbiology
+MH  - Moths/*microbiology
+MH  - Pest Control, Biological/*methods
+MH  - *Pesticide Residues
+MH  - Phaseolus/parasitology
+MH  - Plant Leaves/microbiology
+MH  - Spores, Fungal/physiology
+EDAT- 2006/08/30 09:00
+MHDA- 2006/10/27 09:00
+CRDT- 2006/08/30 09:00
+PHST- 2006/08/30 09:00 [pubmed]
+PHST- 2006/10/27 09:00 [medline]
+PHST- 2006/08/30 09:00 [entrez]
+AID - 10.1603/0022-0493-99.4.1120 [doi]
+PST - ppublish
+SO  - J Econ Entomol. 2006 Aug;99(4):1120-8. doi: 10.1603/0022-0493-99.4.1120.
+
+PMID- 21485366
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110602
+LR  - 20190513
+IS  - 0022-2585 (Print)
+IS  - 0022-2585 (Linking)
+VI  - 48
+IP  - 2
+DP  - 2011 Mar
+TI  - Development of fungal applications on netting substrates for malaria vector control.
+PG  - 305-13
+AB  - Mosquito resistance to chemical insecticides is considered a serious threat for the sustainable use of contemporary malaria vector control methods. Fungal entomopathogens show potential as alternative biological control agents against (insecticide-resistant) anophelines. This study was designed to test whether the fungus, Beauveria bassiana, could be delivered to mosquitoes on netting materials that might be used in house screens, such as eave curtains. Tests were conducted to determine effects of formulation, application method, netting material, and nature of mosquito contact. Beauveria had a twice as high impact on Anopheles gambiae s.s. longevity when suspended in Shellsol solvent compared with Ondina oil (HR = 2.12, 95% confidence interval = 1.83-2.60, P 90% of mosquitoes within 10 d. Results indicate that the use of fungal spores dissolved in Shellsol and sprayed on small-meshed cotton eave curtain nets would be the most promising option for field implementation. Biological control with fungus-impregnated eave curtains could provide a means t
+FAU - Farenhorst, Marit
+AU  - Farenhorst M
+FAU - Hilhorst, Anne
+AU  - Hilhorst A
+FAU - Thomas, Matthew B
+AU  - Thomas MB
+FAU - Knols, Bart G J
+AU  - Knols BG
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Med Entomol
+JT  - Journal of medical entomology
+JID - 0375400
+SB  - IM
+MH  - Animals
+MH  - Anopheles/*microbiology
+MH  - Beauveria/*physiology
+MH  - Female
+MH  - Host-Pathogen Interactions
+MH  - Insect Vectors/*microbiology
+MH  - Malaria/*transmission
+MH  - Mosquito Control/*methods
+MH  - Mosquito Nets/microbiology
+MH  - Time Factors
+EDAT- 2011/04/13 06:00
+MHDA- 2011/06/03 06:00
+CRDT- 2011/04/13 06:00
+PHST- 2011/04/13 06:00 [entrez]
+PHST- 2011/04/13 06:00 [pubmed]
+PHST- 2011/06/03 06:00 [medline]
+AID - 10.1603/me10134 [doi]
+PST - ppublish
+SO  - J Med Entomol. 2011 Mar;48(2):305-13. doi: 10.1603/me10134.
+
+PMID- 30881187
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1179-7282 (Electronic)
+IS  - 1179-7282 (Linking)
+VI  - 2
+DP  - 2011
+TI  - Contribution of the horizontal transmission of the entomopathogenic fungus Beauveria bassiana to the overall performance of a fungal powder formulation against Triatoma infestans.
+PG  - 135-140
+LID - 10.2147/RRTM.S22961 [doi]
+AB  - Control of domiciliated Triatoma infestans, the major Chagas disease vector in southern South America, is currently achieved by indoor residual spraying of infested houses with chemical insecticides. However, in recent years this strategy has been threatened by the emergence of pyrethroid-resistant bug populations. As an alternative approach, we have previously demonstrated the efficacy of the entomopathogenic fungus Beauveria bassiana to control T. infestans bugs regardless of their pyrethroid susceptibility. In this work, we tested the virulence and residual activity of a powdered fungal formulation, and studied the significance of the horizontal transmission process (autodissemination) to fungal infection of bugs. The B. bassiana-based formulation was highly virulent against all T. infestans stages, and maintained its insecticidal capability for at least 5 months under natural ambient conditions. We showed that horizontal transmission of conidia is associated to bug density, and contributes significantly to the overall population infection event.
+FAU - Forlani, Lucas
+AU  - Forlani L
+FAU - Pedrini, Nicolas
+AU  - Pedrini N
+FAU - Juarez, M Patricia
+AU  - Juarez MP
+LA  - eng
+PT  - Journal Article
+DEP - 20110929
+PL  - New Zealand
+TA  - Res Rep Trop Med
+JT  - Research and reports in tropical medicine
+JID - 101562656
+PMC - PMC6415638
+OTO - NOTNLM
+OT  - Chagas disease vectors
+OT  - autodissemination
+OT  - biocontrol
+OT  - triatomines
+COIS- Disclosure The authors report no conflicts of interest in this work.
+EDAT- 2011/09/29 00:00
+MHDA- 2011/09/29 00:01
+PMCR- 2011/09/29
+CRDT- 2019/03/19 06:00
+PHST- 2019/03/19 06:00 [entrez]
+PHST- 2011/09/29 00:00 [pubmed]
+PHST- 2011/09/29 00:01 [medline]
+PHST- 2011/09/29 00:00 [pmc-release]
+AID - rrtm-2-135 [pii]
+AID - 10.2147/RRTM.S22961 [doi]
+PST - epublish
+SO  - Res Rep Trop Med. 2011 Sep 29;2:135-140. doi: 10.2147/RRTM.S22961. eCollection  2011.
+
+PMID- 25453359
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150922
+LR  - 20150112
+IS  - 1879-0240 (Electronic)
+IS  - 0965-1748 (Linking)
+VI  - 57
+DP  - 2015 Feb
+TI  - TIL-type protease inhibitors may be used as targeted resistance factors to enhance silkworm defenses against invasive fungi.
+PG  - 11-9
+LID - S0965-1748(14)00190-8 [pii]
+LID - 10.1016/j.ibmb.2014.11.006 [doi]
+AB  - Entomopathogenic fungi penetrate the insect cuticle using their abundant hydrolases. These hydrolases, which include cuticle-degrading proteases and chitinases, are important virulence factors. Our recent findings suggest that many serine protease inhibitors, especially TIL-type protease inhibitors, are involved in insect resistance to pathogenic microorganisms. To clarify the molecular mechanism underlying this resistance to entomopathogenic fungi and identify novel genes to improve the silkworm antifungal capacity, we conducted an in-depth study of serine protease inhibitors. Here, we cloned and expressed a novel silkworm TIL-type protease inhibitor, BmSPI39. In activity assays, BmSPI39 potently inhibited the virulence protease CDEP-1 of Beauveria bassiana, suggesting that it might suppress the fungal penetration of the silkworm integument by inhibiting the cuticle-degrading proteases secreted by the fungus. Phenol oxidase activation studies showed that melanization is involved in the insect immune response to fungal invasion, and that fungus-induced excessive melanization is suppressed by BmSPI39 by inhibiting the fungal cuticle-degrading proteases. To better understand the mechanism involved in the inhibition of fungal virulence by protease inhibitors, their effects on the germination of B. bassiana conidia was examined. BmSPI38 and BmSPI39 significantly inhibited the germination of B. bassiana conidia. Survival assays showed that BmSPI38 and BmSPI39 markedly improved th
+CI  - Copyright 2014 Elsevier Ltd. All rights reserved.
+FAU - Li, Youshan
+AU  - Li Y
+FAU - Zhao, Ping
+AU  - Zhao P
+FAU - Liu, Huawei
+AU  - Liu H
+FAU - Guo, Xiaomeng
+AU  - Guo X
+FAU - He, Huawei
+AU  - He H
+FAU - Zhu, Rui
+AU  - Zhu R
+FAU - Xiang, Zhonghuai
+AU  - Xiang Z
+FAU - Xia, Qingyou
+AU  - Xia Q
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141129
+PL  - England
+TA  - Insect Biochem Mol Biol
+JT  - Insect biochemistry and molecular biology
+JID - 9207282
+RN  - 0 (Fungal Proteins)
+RN  - 0 (Insect Proteins)
+RN  - 0 (Protease Inhibitors)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Base Sequence
+MH  - Beauveria/*enzymology
+MH  - Bombyx/chemistry/genetics/*metabolism/*microbiology
+MH  - Fungal Proteins/*antagonists & inhibitors/metabolism
+MH  - Insect Proteins/genetics/*metabolism/pharmacology
+MH  - Larva/microbiology
+MH  - Molecular Sequence Data
+MH  - Protease Inhibitors/chemistry/*metabolism/pharmacology
+MH  - Protein Stability
+MH  - R Factors
+OTO - NOTNLM
+OT  - Invasive fungi
+OT  - Protease inhibitors
+OT  - Resistance factors
+OT  - Silkworm defenses
+EDAT- 2014/12/03 06:00
+MHDA- 2015/09/24 06:00
+CRDT- 2014/12/03 06:00
+PHST- 2014/07/08 00:00 [received]
+PHST- 2014/10/30 00:00 [revised]
+PHST- 2014/11/21 00:00 [accepted]
+PHST- 2014/12/03 06:00 [entrez]
+PHST- 2014/12/03 06:00 [pubmed]
+PHST- 2015/09/24 06:00 [medline]
+AID - S0965-1748(14)00190-8 [pii]
+AID - 10.1016/j.ibmb.2014.11.006 [doi]
+PST - ppublish
+SO  - Insect Biochem Mol Biol. 2015 Feb;57:11-9. doi: 10.1016/j.ibmb.2014.11.006. Epub  2014 Nov 29.
+
+PMID- 22555012
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130219
+LR  - 20191210
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 111
+IP  - 1
+DP  - 2012 Sep 15
+TI  - A preliminary evaluation of the potential of Beauveria bassiana for bed bug control.
+PG  - 82-5
+LID - 10.1016/j.jip.2012.04.009 [doi]
+AB  - Residual biopesticide treatments of Beauveria bassiana were tested against the bed bug Cimex lectularius. An oil formulation of conidia was applied to different substrates. Bed bugs were exposed for 1 h, transferred to an unsprayed environment and monitored for mortality. Separate bioassays evaluated the effect of bed bug strain, sex, life stage, and exposure substrate on mortality. Rapid mortality was observed in all bioassays, with bed bugs exposed to treated jersey knit cotton dying most rapidly. A further assay demonstrated efficient autodissemination of conidia from exposed bed bugs to unexposed bed bugs within artificial harborages.
+CI  - Copyright 2012 Elsevier Inc. All rights reserved.
+FAU - Barbarin, Alexis M
+AU  - Barbarin AM
+FAU - Jenkins, Nina E
+AU  - Jenkins NE
+FAU - Rajotte, Edwin G
+AU  - Rajotte EG
+FAU - Thomas, Matthew B
+AU  - Thomas MB
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+DEP - 20120425
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*pathogenicity
+MH  - Bedbugs/*microbiology
+MH  - Pest Control, Biological/*methods
+EDAT- 2012/05/05 06:00
+MHDA- 2013/02/21 06:00
+CRDT- 2012/05/05 06:00
+PHST- 2012/04/13 00:00 [received]
+PHST- 2012/04/16 00:00 [accepted]
+PHST- 2012/05/05 06:00 [entrez]
+PHST- 2012/05/05 06:00 [pubmed]
+PHST- 2013/02/21 06:00 [medline]
+AID - S0022-2011(12)00115-2 [pii]
+AID - 10.1016/j.jip.2012.04.009 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2012 Sep 15;111(1):82-5. doi: 10.1016/j.jip.2012.04.009. Epub  2012 Apr 25.
+
+PMID- 17953551
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080403
+LR  - 20071023
+IS  - 1364-5072 (Print)
+IS  - 1364-5072 (Linking)
+VI  - 103
+IP  - 5
+DP  - 2007 Nov
+TI  - Biocontrol of almond bark beetle (Scolytus amygdali Geurin-Meneville, Coleoptera: Scolytidae) using Beauveria bassiana (Bals.) Vuill. (Deuteromycotina: Hyphomycetes).
+PG  - 1406-14
+AB  - AIMS: To formulate the entomopathogenic fungus Beauveria bassiana in invert emulsion, then apply it against adults of almond bark beetle (Scolytus amygdali) under laboratory and field conditions. METHODS AND RESULTS: The effect of formulated B. bassiana in invert emulsion against S. amygdali adults was shown by comparing the mortality percentage of adults exposed to the formulated fungus using a Petri dish treatment method and by field applications to infested peach trees with mortality of adults exposed to the unformulated fungus or the untreated control. Results obtained from both exposure methods have indicated that treatment of S. amygdali adults with the formulated fungus resulted in a significantly higher mean mortality percentage (P 0.05) when compared with the treatment with the unformulated fungus or the untreated control. This mortality ranged from 81.2 to 100%, 10 days after treatment with the formulated fungus when compared with 6.7 to 49.6% mortality, 10 days after treatment with the control or the unformulated fungus, respectively. Viability of the fungus conidia in invert emulsion was assessed by calculating the germination percentage of the conidia over time. Results indicated a high storage stability shown by a small loss of germination percentage for the formulated conidia of both strains (5.8 to 8.4% over a 12-week period) vs a low storage stability shown by a high loss of germination percentage for the unformulated conidia of the same strains (58.9 to 6
+FAU - Batta, Y A
+AU  - Batta YA
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Appl Microbiol
+JT  - Journal of applied microbiology
+JID - 9706280
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*physiology
+MH  - Biological Assay
+MH  - Crops, Agricultural/*parasitology
+MH  - Pest Control, Biological/*methods
+MH  - Prunus/*microbiology
+MH  - Weevils/*microbiology
+EDAT- 2007/10/24 09:00
+MHDA- 2008/04/04 09:00
+CRDT- 2007/10/24 09:00
+PHST- 2007/10/24 09:00 [pubmed]
+PHST- 2008/04/04 09:00 [medline]
+PHST- 2007/10/24 09:00 [entrez]
+AID - JAM3369 [pii]
+AID - 10.1111/j.1365-2672.2007.03369.x [doi]
+PST - ppublish
+SO  - J Appl Microbiol. 2007 Nov;103(5):1406-14. doi: 10.1111/j.1365-2672.2007.03369.x.
+
+PMID- 14545678
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20031212
+LR  - 20191108
+IS  - 0734-9750 (Print)
+IS  - 0734-9750 (Linking)
+VI  - 11
+IP  - 3
+DP  - 1993
+TI  - Use of solid state fermentation to produce Beauveria bassiana for the biological control of European corn borer.
+PG  - 577-87
+AB  - The production process of a new bioinsecticide against european corn borer is described. The entomopathogenic fungus, Beauveria bassiana, is cultivated by Solid State Fermentation (SSF). The culture support chosen, clay microgranules, humidified with optimal nutritive solution, is incubated in optimal conditions during 48 hours, then dried for 5 days. The bioinsecticide can be directly used after harvesting, without formulation. This process is original for several reasons : - The granulometry (500 microm) and the bulk density (0.6) of the microgranules are compatible with the mechanical standard application of pesticides on corn. - The bioinsecticide could be produced in a pilot reactor of 1600 1 capacity, on 0.5m-thick-layer.- The biomass bound to microgranules conserves its efficiency after storage for 12 months at 4 degrees C, unlike pure cells. - Like the chemical insecticides usually used, this bioproduct has a field efficiency of 80%. Moreover, the efficiency of the product persists during 3 weeks.
+FAU - Desgranges, C
+AU  - Desgranges C
+FAU - Vergoignan, C
+AU  - Vergoignan C
+FAU - Lereec, A
+AU  - Lereec A
+FAU - Riba, G
+AU  - Riba G
+FAU - Durand, A
+AU  - Durand A
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Biotechnol Adv
+JT  - Biotechnology advances
+JID - 8403708
+EDAT- 1993/01/01 00:00
+MHDA- 2003/10/11 05:01
+CRDT- 1993/01/01 00:00
+PHST- 1993/01/01 00:00 [pubmed]
+PHST- 2003/10/11 05:01 [medline]
+PHST- 1993/01/01 00:00 [entrez]
+AID - 0734-9750(93)90026-J [pii]
+AID - 10.1016/0734-9750(93)90026-j [doi]
+PST - ppublish
+SO  - Biotechnol Adv. 1993;11(3):577-87. doi: 10.1016/0734-9750(93)90026-j.
+

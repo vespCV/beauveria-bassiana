@@ -5,7 +5,7 @@
 4. filters indien gebruikt
 5. aantal items gevonden in die database
 
-Raw exports: `search-results/raw/{subquestion}_{YYYY-MM-DD}_{database}_{run-label}.{ext}` (see [[mabb databases]]).
+Raw exports: `input-phase0/input-rayyan/{subquestion}_{YYYY-MM-DD}_{database}.{ext}` (see [[mabb databases]]).
 
 # Database-zoekstrategie-aantal items
 

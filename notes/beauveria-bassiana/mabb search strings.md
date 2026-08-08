@@ -10,3 +10,10 @@
 6. [[mabb search str 06-background-proxies]]
 
 [[mabb consensus]]
+
+|Source|Best Rayyan format|
+|---|---|
+|PubMed|New PubMed Format / nbib (even if the download is named `.txt`)|
+|Europe PMC / Dimensions / Lens / patents|RIS (Refman/RIS)|
+|Web of Science (if used later)|CIW|
+|Fallback|CSV or BibTeX|

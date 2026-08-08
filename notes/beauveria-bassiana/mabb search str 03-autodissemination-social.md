@@ -15,3 +15,8 @@ Behaviour and synonym OR-groups updated 2026-08-07 from Consensus `03` pass (aut
 ```
 "Beauveria bassiana"[Title/Abstract] AND ("horizontal transmission" OR autodissemination OR autoinoculation OR "auto-inoculation" OR autocontamination OR "auto-contamination" OR "social immunity" OR allogrooming OR necrophoresis OR trophallaxis OR "nest hygiene" OR "social insect")
 ```
+
+**PCM**
+```
+"Beauveria bassiana" AND ("horizontal transmission" OR autodissemination OR autoinoculation OR "auto-inoculation" OR autocontamination OR "auto-contamination" OR "social immunity" OR allogrooming OR necrophoresis OR trophallaxis OR "nest hygiene" OR "social insect")
+```

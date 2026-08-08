@@ -35,8 +35,9 @@ Purpose: Align searches and data extraction with the end goal—identifying B. b
 **Search documentation** (pre Phase 2 gate).
 
 - Log each planned database run: date, exact string, filters, hit counts (`notes/beauveria-bassiana/mabb literature search and setup database.md`).
-- Store raw exports under `search-results/raw/`.
-- Phase gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `search-results/screening-phase2/relevant_articles_categorized.csv`, `search-results/screening-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton (`docs/adr/0001-phase-gated-agent-workflows.md`).
+- Store raw exports under `input-phase0/input-rayyan/` (Rayyan unduplication input); CitationChaser / ResearchRabbit seeds under `input-phase0/input-cc-rr/`.
+- Deduplicated corpus for ASReview / title-abstract selection: `input-phase1/`.
+- Phase gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton (`docs/adr/0001-phase-gated-agent-workflows.md`).
 
 Search strategy authority: `notes/beauveria-bassiana/` (agents edit only when the user explicitly allows). This rule must stay aligned with those notes; on conflict, notes win. Domain terms: `CONTEXT.md`. Category ids: **Screening category** in `CONTEXT.md`.
 
@@ -62,8 +63,10 @@ Deliverables are done
 | `notes/beauveria-bassiana/` | Search strategy source. Maintained in Obsidian; human-readable without Cursor (no ADRs / `.cursor` / `@skills` / `temp/` in note text). Agents edit only when the user explicitly allows. |
 | `CONTEXT.md` | Domain glossary for this review. |
 | `docs/adr/` | Architecture / workflow decisions. |
-| `search-results/raw/` | Tracked raw database exports (RIS, XML, NBIB, CSV, etc.). |
-| `search-results/screening-phase2/` | Phase 2 gate inputs (CSV, missing-PDF list) when they exist. |
+| `input-phase0/input-rayyan/` | Tracked raw database exports for Rayyan unduplication (RIS, XML, NBIB, CSV, etc.). |
+| `input-phase0/input-cc-rr/` | CitationChaser and ResearchRabbit seed inputs. |
+| `input-phase1/` | Deduplicated articles for ASReview / title-abstract selection. |
+| `input-phase2/` | Relevant-article list and missing-PDF gate artifacts for full-text/PDF work. |
 | `pdfs/` | Full-text library by screening category `01`–`06` (and `02a`/`02b`/`02c`). Inbox for unfiled drops. |
 | `temp/research/` | Gitignored cited findings from `@research` (side questions; optional `01-existing-products` lookups). |
 | `temp/handoff/` | Gitignored session handoffs. Start here for the next session. |

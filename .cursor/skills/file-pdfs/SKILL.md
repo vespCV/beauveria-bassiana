@@ -16,8 +16,8 @@ Process new full-text PDFs from `pdfs/inbox/` into the phase 2 library and keep 
 
 Before any other step, verify all three exist on disk:
 
-1. `search-results/screening-phase2/relevant_articles_categorized.csv`
-2. `search-results/screening-phase2/pdfs_not_downloaded.md`
+1. `input-phase2/relevant_articles_categorized.csv`
+2. `input-phase2/pdfs_not_downloaded.md`
 3. `README.md` with study-selection / PRISMA skeleton
 
 If any are missing: refuse, name the missing path(s), and stop. Do not invent stubs or placeholders. See `docs/adr/0001-phase-gated-agent-workflows.md` and `docs/adr/0006-file-pdfs-hard-stop-on-phase-gate.md`.
@@ -28,8 +28,8 @@ If any are missing: refuse, name the missing path(s), and stop. Do not invent st
 | --- | --- |
 | `pdfs/inbox/` | Drop zone for new PDFs only |
 | `pdfs/{category}/` | Filed PDFs by screening category |
-| `search-results/screening-phase2/relevant_articles_categorized.csv` | Phase 2 records; `category` and DOI/title/authors/year |
-| `search-results/screening-phase2/pdfs_not_downloaded.md` | Missing PDFs, grouped by category |
+| `input-phase2/relevant_articles_categorized.csv` | Phase 2 records; `category` and DOI/title/authors/year |
+| `input-phase2/pdfs_not_downloaded.md` | Missing PDFs, grouped by category |
 | `README.md` | Phase 2 full-text inventory table, study-selection counts, PRISMA flow `E` node |
 
 Category folder names must match CSV `category` and the `## {category} (N)` headers in `pdfs_not_downloaded.md`:

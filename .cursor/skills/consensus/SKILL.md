@@ -24,7 +24,7 @@ Gap-check one Consensus.app pass against the systematic review search strategy. 
 1. Consensus results note: `notes/beauveria-bassiana/mabb NN consensus-<subquestion>.md` (user may `@`-link it).
 2. Ask used: matching block in `notes/beauveria-bassiana/mabb consensus.md`.
 3. Subquestion line: `notes/beauveria-bassiana/mabb research questions.md`.
-4. Search strings: `notes/beauveria-bassiana/mabb search str NN-*.md` (for `01`, both market catalogue and delivery-systems blocks).
+4. Search strings: `notes/beauveria-bassiana/mabb search str NN-*.md` (one string block per subquestion; `01` is the product/strain catalogue only).
 5. For `01-existing-products` only: remind the user that EPA, EU Pesticide Database, CABI, and patent registry passes remain mandatory for the market catalogue (Consensus does not replace them).
 
 ## Execution
@@ -56,8 +56,8 @@ Do not expand inclusion scope from Consensus alone. Theme gaps go to the researc
 
 For the matching `mabb search str` note:
 
-- Missing high-value strains, products, or formulation terms → recommend adding to market-catalogue OR-groups (and PubMed/Dimensions/Lens/patent variants where parity makes sense).
-- Delivery terms missing only on the delivery-systems string → recommend there, not the broad catalogue string.
+- Missing high-value strains, products, or formulation terms → recommend adding to the `01` catalogue OR-groups (and PubMed/Dimensions/Lens/patent variants where parity makes sense).
+- Delivery/device terms → recommend on `02a`, `02c`, or `03`, not by adding a second `01` string or ANDing trap/bait onto the catalogue.
 - Document the edit date and source in the string note header comment (same style as existing registry/Consensus lines).
 
 Keep diffs minimal. Prefer strain codes over long regional product names when both appear.

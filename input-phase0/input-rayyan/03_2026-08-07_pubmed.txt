@@ -1,0 +1,1926 @@
+PMID- 39665101
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20241213
+IS  - 2054-5703 (Print)
+IS  - 2054-5703 (Electronic)
+IS  - 2054-5703 (Linking)
+VI  - 11
+IP  - 12
+DP  - 2024 Dec
+TI  - Social organization of necrophoresis: insights into disease risk management in 
+      ant societies.
+PG  - 240764
+LID - 10.1098/rsos.240764 [doi]
+LID - 240764
+AB  - Insect societies, which are at a high risk of disease outbreaks, have evolved 
+      sanitary strategies that contribute to their social immunity. Here, we 
+      investigated in the red ant Myrmica rubra, how the discarding of nestmate 
+      cadavers is socially organized depending on the associated pathogenicity. We 
+      examined whether necrophoresis is carried out by a specific functional group of 
+      workers or by any nestmates that may become short-term specialists. By observing 
+      the behavioural profiles of tagged individuals, we assigned half of the colony 
+      members to functional groups (foragers, intermittent-foragers, domestics, nurses 
+      and inactives). Following the introduction of uninfected or sporulating corpses 
+      into the nest, intermittent-foragers were the functional group most involved in 
+      necrophoresis, as they touched, moved and discarded more cadavers. Interestingly, 
+      sporulating corpses induced a more generalized response in workers from all 
+      functional groups, thereby accelerating their rejection from the nest. The 
+      individuals contacting corpses were also prophylactically engaged in more 
+      grooming behaviour, suggesting the existence of hygienist workers within ant 
+      colonies. These findings raise questions about a trade-off existing between 
+      concentrating health risks on a few workers who are highly specialized in 
+      necrophoresis and exposing a larger population of nestmates who cooperate to 
+      speed up nest sanitization.
+CI  - © 2024 The Authors.
+FAU - Avanzi, Quentin
+AU  - Avanzi Q
+AUID- ORCID: 0009-0008-6422-5838
+AD  - Unit of Social Ecology, Université Libre de Bruxelles, Brussels, Belgium.
+FAU - Lisart, Léon
+AU  - Lisart L
+AD  - Unit of Social Ecology, Université Libre de Bruxelles, Brussels, Belgium.
+FAU - Detrain, Claire
+AU  - Detrain C
+AUID- ORCID: 0000-0002-3068-1877
+AD  - Unit of Social Ecology, Université Libre de Bruxelles, Brussels, Belgium.
+LA  - eng
+SI  - figshare/10.6084/m9.figshare.c.7578222
+PT  - Journal Article
+DEP - 20241211
+PL  - England
+TA  - R Soc Open Sci
+JT  - Royal Society open science
+JID - 101647528
+PMC - PMC11632371
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Myrmica rubra
+OT  - generalist entomopathogen
+OT  - social immunity
+OT  - waste management
+OT  - work organization
+COIS- We declare we have no competing interests.
+EDAT- 2024/12/12 11:29
+MHDA- 2024/12/12 11:30
+PMCR- 2024/12/11
+CRDT- 2024/12/12 05:01
+PHST- 2024/05/10 00:00 [received]
+PHST- 2024/08/13 00:00 [revised]
+PHST- 2024/10/08 00:00 [accepted]
+PHST- 2024/12/12 11:30 [medline]
+PHST- 2024/12/12 11:29 [pubmed]
+PHST- 2024/12/12 05:01 [entrez]
+PHST- 2024/12/11 00:00 [pmc-release]
+AID - rsos240764 [pii]
+AID - 10.1098/rsos.240764 [doi]
+PST - epublish
+SO  - R Soc Open Sci. 2024 Dec 11;11(12):240764. doi: 10.1098/rsos.240764. eCollection 
+      2024 Dec.
+
+PMID- 39689882
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241217
+LR  - 20260612
+IS  - 1471-2954 (Electronic)
+IS  - 0962-8452 (Print)
+IS  - 0962-8452 (Linking)
+VI  - 291
+IP  - 2037
+DP  - 2024 Dec
+TI  - Exploring immune memory traits in the social immunity of a fungus-growing ant.
+PG  - 20241097
+LID - 10.1098/rspb.2024.1097 [doi]
+LID - 20241097
+AB  - The immune system is crucial for organisms to defend against pathogens. Likewise, 
+      analogous immune features evolved against similar pressures at the superorganism 
+      scale. Upregulating hygiene to the same fungus pathogen is one assumption for 
+      convergent immune mechanisms in social insects, although more evidence of immune 
+      memory features remains to be confirmed. Here, we assess immune memory traits at 
+      the colony level in the leaf-cutting ant Atta sexdens. We exposed their fungus 
+      cultivar to both homologous and heterologous challenges with the entomopathogenic 
+      fungi Metarhizium anisopliae and Beauveria bassiana, as well as the 
+      mycoantagonistic fungi Fusarium oxysporum and Trichoderma spirale. By measuring 
+      ants' behaviours, we evaluated the capacity of A. sexdens: (i) to enhance their 
+      collective hygiene, (ii) speed their hygiene in further infections, (iii) how 
+      long this capacity lasts in the colonies and (iv) the degree of specificity to 
+      increase hygienic responses. Fungus grooming behaviour was enhanced mostly 
+      against entomopathogenic fungi, with a trend of faster reactions during 
+      homologous challenges. In general, the capacity to elicit such upregulated 
+      actions lasted for up to 30 days, but no longer than 60 days. Overall, colonies 
+      exhibited a degree of immune specificity, enhancing hygiene only in response to 
+      homologous exposures but decreasing it when infected secondarily with a different 
+      fungus, indicating flexible social immunity of A. sexdens after immune 
+      challenges.
+FAU - Goes, Aryel C
+AU  - Goes AC
+AUID- ORCID: 0000-0001-5783-9972
+AD  - Department of General and Applied Biology, São Paulo State University (UNESP), 
+      Rio Claro, Brazil.
+AD  - Department of Evolution, Ecology and Organismal Biology, The Ohio State 
+      University, Columbus, OH, USA.
+FAU - Kooij, Pepijn W
+AU  - Kooij PW
+AUID- ORCID: 0000-0002-2619-0813
+AD  - Department of General and Applied Biology, São Paulo State University (UNESP), 
+      Rio Claro, Brazil.
+FAU - Haifig, Ives
+AU  - Haifig I
+AUID- ORCID: 0000-0003-4749-8945
+AD  - Center for Natural and Human Sciences, Federal University of ABC, São Paulo, 
+      Brazil.
+FAU - Bueno, Odair C
+AU  - Bueno OC
+AUID- ORCID: 0000-0002-3586-6192
+AD  - Department of General and Applied Biology, São Paulo State University (UNESP), 
+      Rio Claro, Brazil.
+FAU - Rodrigues, Andre
+AU  - Rodrigues A
+AUID- ORCID: 0000-0002-4164-9362
+AD  - Department of General and Applied Biology, São Paulo State University (UNESP), 
+      Rio Claro, Brazil.
+LA  - eng
+GR  - Fundação de Amparo à Pesquisa do Estado de São Paulo/
+GR  - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20241218
+PL  - England
+TA  - Proc Biol Sci
+JT  - Proceedings. Biological sciences
+JID - 101245157
+SB  - IM
+MH  - Animals
+MH  - *Ants/immunology/microbiology/physiology
+MH  - *Metarhizium/physiology
+MH  - *Beauveria/physiology
+MH  - Social Behavior
+MH  - Fusarium/physiology
+MH  - Immunologic Memory
+MH  - Trichoderma/physiology/immunology
+MH  - Behavior, Animal
+PMC - PMC11651894
+OTO - NOTNLM
+OT  - attini ants
+OT  - hygienic behaviour
+OT  - immunological memory
+OT  - pathogens
+OT  - specificity
+COIS- We declare we have no competing interests.
+EDAT- 2024/12/18 00:23
+MHDA- 2024/12/18 00:24
+PMCR- 2024/12/18
+CRDT- 2024/12/17 19:33
+PHST- 2024/12/18 00:24 [medline]
+PHST- 2024/12/18 00:23 [pubmed]
+PHST- 2024/12/17 19:33 [entrez]
+PHST- 2024/12/18 00:00 [pmc-release]
+AID - rspb20241097 [pii]
+AID - 10.1098/rspb.2024.1097 [doi]
+PST - ppublish
+SO  - Proc Biol Sci. 2024 Dec;291(2037):20241097. doi: 10.1098/rspb.2024.1097. Epub 
+      2024 Dec 18.
+
+PMID- 23356056
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130215
+LR  - 20191210
+IS  - 0022-0493 (Print)
+IS  - 0022-0493 (Linking)
+VI  - 105
+IP  - 6
+DP  - 2012 Dec
+TI  - Towards the development of an autocontamination trap system to manage populations 
+      of emerald ash borer (Coleoptera: Buprestidae) with the native entomopathogenic 
+      fungus, Beauveria bassiana.
+PG  - 1929-39
+AB  - Emerald ash borer, Agrilus planipennis Fairmaire (Coleoptera: Buprestidae) is an 
+      invasive species from Asia that was discovered in North America Canada, in 2002. 
+      Herein, we describe studies to develop an autocontamination trapping system to 
+      disseminate Beauveria bassiana to control beetle populations. The standard trap 
+      for emerald ash borer in Canada is a light green prism trap covered in an insect 
+      adhesive and baited with (Z)-3-hexenol. We compared of green multifunnel traps, 
+      green intercept panel traps (both with and without fluon coating) and green prism 
+      traps for capturing emerald ash borer in a green ash plantation. The coated green 
+      multifunnel traps captured significantly more males and more females than any 
+      other trap design. We examined the efficacy of two native B. bassiana isolates, 
+      INRS-CFL and L49-1AA. In a field experiment the INRS-CFL isolate attached to 
+      multifunnel traps in autocontamination chambers retained its pathogenicity to 
+      emerald ash borer adults for up to 43 d of outdoor exposure. Conidia germination 
+      of the INRS-CFL isolate was >69% after outdoor exposure in the traps for up to 57 
+      d. The L49-1AA isolate was not pathogenic in simulated trap exposures and the 
+      germination rate was extremely low (<5.3%). Mean (+/- SEM) conidia loads on ash 
+      borer adults after being autocontaminated in the laboratory using pouches that 
+      had been exposed in traps out of doors for 29 d were 579,200 (+/- 86,181) and 
+      2,400 (+/- 681) for the INRS-CFL and the LA9-1AA isolates, respectively. We also 
+      examined the fungal dissemination process under field conditions using the 
+      L49-1AA isolate in a green ash plantation. Beetles were lured to baited green 
+      multifunnel traps with attached autocontamination chambers. Beetles acquired 
+      fungal conidia from cultures growing on pouches in the chambers and were 
+      recaptured on Pestick-coated traps. In total, 2,532 beetles were captured of 
+      which 165 (6.5%) had fungal growth that resembled B. bassiana. Of these 25 
+      beetles were positive for the L49-1AA isolate.
+FAU - Lyons, D Barry
+AU  - Lyons DB
+AD  - Natural Resources Canada, Canadian Forest Service, 1219 Queen Street East, Sault 
+      Ste. Marie, ON, P6A 2E5 Canada. barry.lyons@NRCan-RNCan.gc.ca
+FAU - Iavallée, Robert
+AU  - Iavallée R
+FAU - Kyei-Poku, George
+AU  - Kyei-Poku G
+FAU - Van Frankenhuyzen, Kees
+AU  - Van Frankenhuyzen K
+FAU - Johny, Shajahan
+AU  - Johny S
+FAU - Guertin, Claude
+AU  - Guertin C
+FAU - Francese, Joseph A
+AU  - Francese JA
+FAU - Jones, Gene C
+AU  - Jones GC
+FAU - Blais, Martine
+AU  - Blais M
+LA  - eng
+PT  - Comparative Study
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - J Econ Entomol
+JT  - Journal of economic entomology
+JID - 2985127R
+SB  - IM
+MH  - Animals
+MH  - Beauveria/*physiology
+MH  - Coleoptera/*microbiology
+MH  - Female
+MH  - *Host-Pathogen Interactions
+MH  - Male
+MH  - Pest Control, Biological/*instrumentation
+MH  - Spores, Fungal/*pathogenicity/physiology
+EDAT- 2013/01/30 06:00
+MHDA- 2013/02/16 06:00
+CRDT- 2013/01/30 06:00
+PHST- 2013/01/30 06:00 [entrez]
+PHST- 2013/01/30 06:00 [pubmed]
+PHST- 2013/02/16 06:00 [medline]
+AID - 10.1603/ec12325 [doi]
+PST - ppublish
+SO  - J Econ Entomol. 2012 Dec;105(6):1929-39. doi: 10.1603/ec12325.
+
+PMID- 40780392
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250907
+LR  - 20260622
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 213
+DP  - 2025 Nov
+TI  - Effect of entomopathogenic fungus Beauveria bassiana on behavior of termite 
+      Reticulitermes chinensis.
+PG  - 108419
+LID - S0022-2011(25)00153-3 [pii]
+LID - 10.1016/j.jip.2025.108419 [doi]
+AB  - Termites play a dual ecological role as vital decomposers and significant pests 
+      that cause economic damage globally. In China, Reticulitermes chinensis is a 
+      prevalent subterranean termite species managed primarily through chemical 
+      termiticides, which pose environmental and health risks. Entomopathogenic fungi 
+      (EPF), particularly Beauveria bassiana, offer a promising alternative due to 
+      their eco-friendly targeted approach to pest control. This study investigated the 
+      effects of B. bassiana on various behaviors (allogrooming, trophallaxis, 
+      vibration, cannibalism, burial, locomotion, and foraging) and the survival of R. 
+      chinensis. Termites exposed to higher fungal concentrations (10(8) conidia/ml) 
+      showed significantly increased allogrooming and vibration behaviors, while 
+      trophallaxis remained unaffected. Burial behavior was significantly more 
+      pronounced in response to fungus-killed termites compared to controls (cadavers 
+      killed by freezing), though cannibalism showed no significant difference between 
+      the two dead cadaver types. Locomotion analysis revealed that exposure to B. 
+      bassiana reduced distance moved and velocity, while increasing turn angle and 
+      angular velocity, as measured at 24 and 48 h after fungal exposure. Foraging 
+      activity after infection was notably disrupted, with reduced time spent and fewer 
+      visits to food zones. Mortality was dose-dependent in individually caged 
+      termites, but no significant survival differences were observed when termites 
+      were caged with nestmates, suggesting potential social buffering effects. These 
+      findings demonstrate that B. bassiana not only impacts termite survival but also 
+      alters behaviors, highlighting its potential as a biological control agent. 
+      However, termite behavioral defenses may mitigate fungal spread, necessitating 
+      further investigation into optimizing fungal pathogenicity within social insect 
+      colonies.
+CI  - Copyright © 2025 Elsevier Inc. All rights reserved.
+FAU - Hassan, Hammad
+AU  - Hassan H
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan 430062, China.
+FAU - Hassan, Ali
+AU  - Hassan A
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan 430062, China.
+FAU - Raza, Taqi
+AU  - Raza T
+AD  - Hubei Insect Resources Utilization and Sustainable Pest Management Key 
+      Laboratory, Huazhong Agricultural University, Wuhan 430070, China; Key Laboratory 
+      of Termite Control of Ministry of Water Resources, Huazhong Agricultural 
+      University, Wuhan 430070, China.
+FAU - Ding, Jinli
+AU  - Ding J
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan 430062, China.
+FAU - Ali, Arshad
+AU  - Ali A
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan 430062, China.
+FAU - Huang, Qiuying
+AU  - Huang Q
+AD  - Hubei Insect Resources Utilization and Sustainable Pest Management Key 
+      Laboratory, Huazhong Agricultural University, Wuhan 430070, China; Key Laboratory 
+      of Termite Control of Ministry of Water Resources, Huazhong Agricultural 
+      University, Wuhan 430070, China. Electronic address: 
+      qyhuang2006@mail.hzau.edu.cn.
+FAU - Lu, Min
+AU  - Lu M
+AD  - State Key Laboratory of Biocatalysis and Enzyme Engineering, School of Life 
+      Sciences, Hubei University, Wuhan 430062, China. Electronic address: 
+      lumin@hubu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20250806
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+MH  - Animals
+MH  - *Isoptera/microbiology/physiology
+MH  - *Beauveria/physiology
+MH  - *Pest Control, Biological/methods
+MH  - *Behavior, Animal
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Entomopathogenic fungi
+OT  - Reticulitermes chinensis
+OT  - Social behavior
+OT  - Termites
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2025/08/09 13:49
+MHDA- 2025/09/08 00:32
+CRDT- 2025/08/08 19:49
+PHST- 2025/04/15 00:00 [received]
+PHST- 2025/08/01 00:00 [revised]
+PHST- 2025/08/04 00:00 [accepted]
+PHST- 2025/09/08 00:32 [medline]
+PHST- 2025/08/09 13:49 [pubmed]
+PHST- 2025/08/08 19:49 [entrez]
+AID - S0022-2011(25)00153-3 [pii]
+AID - 10.1016/j.jip.2025.108419 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2025 Nov;213:108419. doi: 10.1016/j.jip.2025.108419. Epub 
+      2025 Aug 6.
+
+PMID- 38468809
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240313
+IS  - 2673-8600 (Electronic)
+IS  - 2673-8600 (Print)
+IS  - 2673-8600 (Linking)
+VI  - 2
+DP  - 2022
+TI  - Pathogen Prevalence Modulates Medication Behavior in Ant Formica fusca.
+PG  - 870971
+LID - 10.3389/finsc.2022.870971 [doi]
+LID - 870971
+AB  - Ants face unique challenges regarding pathogens, as the sociality which has 
+      allowed them to form large and complex colonies also raises the potential for 
+      transmission of disease within them. To cope with the threat of pathogens, ants 
+      have developed a variety of behavioral and physiological strategies. One of these 
+      strategies is self-medication, in which animals use biologically active compounds 
+      to combat pathogens in a way which would be harmful in the absence of infection. 
+      Formica fusca are the only ants that have previously been shown to successfully 
+      self-medicate against an active infection caused by a fungal pathogen by 
+      supplementing their diet with food containing hydrogen peroxide. Here, we build 
+      on that research by investigating how the prevalence of disease in colonies of F. 
+      fusca affects the strength of the self-medication response. We exposed either 
+      half of the workers of each colony or all of them to a fungal pathogen and 
+      offered them different combinations of diets. We see that workers of F. fusca 
+      engage in self-medication behavior even if exposed to a low lethal dose of a 
+      pathogen, and that the strength of that response is affected by the prevalence of 
+      the disease in the colonies. We also saw that the infection status of the 
+      individual foragers did not significantly affect their decision to forage on 
+      either control food or medicinal food as uninfected workers were also foraging on 
+      hydrogen peroxide food, which opens up the possibility of kin medication in 
+      partially infected colonies. Our results further affirm the ability of ants to 
+      self-medicate against fungal pathogens, shed new light on plasticity of 
+      self-medication and raise new questions to be investigated on the role 
+      self-medication has in social immunity.
+CI  - Copyright © 2022 Rissanen, Helanterä and Freitak.
+FAU - Rissanen, Jason
+AU  - Rissanen J
+AD  - Institute of Biology, University of Graz, Graz, Austria.
+AD  - Tvärminne Zoological Station, University of Helsinki, Hanko, Finland.
+FAU - Helanterä, Heikki
+AU  - Helanterä H
+AD  - Tvärminne Zoological Station, University of Helsinki, Hanko, Finland.
+AD  - Ecology and Genetics Research Unit, University of Oulu, Oulu, Finland.
+FAU - Freitak, Dalial
+AU  - Freitak D
+AD  - Institute of Biology, University of Graz, Graz, Austria.
+AD  - Tvärminne Zoological Station, University of Helsinki, Hanko, Finland.
+LA  - eng
+SI  - Dryad/10.5061/dryad.0zpc86707
+PT  - Journal Article
+DEP - 20220427
+PL  - Switzerland
+TA  - Front Insect Sci
+JT  - Frontiers in insect science
+JID - 9918487348806676
+PMC - PMC10926551
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Formica fusca
+OT  - ants
+OT  - behavior
+OT  - insect immunity
+OT  - self-medication
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2022/04/27 00:00
+MHDA- 2022/04/27 00:01
+PMCR- 2022/04/27
+CRDT- 2024/03/12 03:46
+PHST- 2022/02/07 00:00 [received]
+PHST- 2022/03/15 00:00 [accepted]
+PHST- 2022/04/27 00:01 [medline]
+PHST- 2022/04/27 00:00 [pubmed]
+PHST- 2024/03/12 03:46 [entrez]
+PHST- 2022/04/27 00:00 [pmc-release]
+AID - 10.3389/finsc.2022.870971 [doi]
+PST - epublish
+SO  - Front Insect Sci. 2022 Apr 27;2:870971. doi: 10.3389/finsc.2022.870971. 
+      eCollection 2022.
+
+PMID- 39769621
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250108
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 15
+IP  - 12
+DP  - 2024 Dec 23
+TI  - Antimicrobial Activity of Compounds Isolated from the Nest Material of 
+      Crematogaster rogenhoferi (Mayr) (Hymenoptera: Formicidae).
+LID - 10.3390/insects15121019 [doi]
+LID - 1019
+AB  - Ants as social insects live in groups, which increases the risk of contagious 
+      diseases. In response to the threat of pathogens, ants have evolved a variety of 
+      defense mechanisms, including incorporating antimicrobial chemicals into nest 
+      material for nest hygiene. Crematogaster rogenhoferi is an arboreal ant, building 
+      its nest using plant tissues. It is still unclear how C. rogenhoferi is protected 
+      against pathogens in its nest. Two main chemicals, 
+      2,2'-methylenebis[6-(1,1-dimethylethyl)-4-methyl-phenol] (MP) and 
+      lup-20(29)-en-3-one (LP), isolated from nest materials of C. rogenhoferi were 
+      used to investigate ants' anti-pathogenic activity against the entomopathogenic 
+      fungus Beauveria bassiana and the entomopathogenic bacteria Serratia marcescens. 
+      The results showed that MP and LP can inhibit the growth of B. bassiana through 
+      direct contact and fumigation. However, neither MP nor LP had any negative effect 
+      on S. marcescens growth. Subsequent analysis showed that MP was found in both the 
+      abdomen part and the head part of C. rogenhoferi workers, and LP was not detected 
+      in C. rogenhoferi workers. Since LP is a common plant secondary metabolite, it is 
+      implied that LP may originate from the plant tissue of C. rogenhoferi nest 
+      materials. Our results showed that C. rogenhoferi capitalizes on its own 
+      antimicrobial chemicals and probably the chemical defenses which have evolved in 
+      plants to protect itself against pathogens.
+FAU - Bai, Weihui
+AU  - Bai W
+AUID- ORCID: 0009-0005-9109-7278
+AD  - College of Plant Protection, South China Agricultural University, Guangzhou 
+      510642, China.
+FAU - Chen, Baihe
+AU  - Chen B
+AD  - College of Plant Protection, South China Agricultural University, Guangzhou 
+      510642, China.
+FAU - Chen, Huimei
+AU  - Chen H
+AD  - College of Plant Protection, South China Agricultural University, Guangzhou 
+      510642, China.
+FAU - Nie, Lei
+AU  - Nie L
+AUID- ORCID: 0000-0001-5385-9175
+AD  - College of Plant Protection, South China Agricultural University, Guangzhou 
+      510642, China.
+FAU - Liang, Mingrong
+AU  - Liang M
+AUID- ORCID: 0000-0003-2982-2983
+AD  - School of Biological Sciences, The University of Hong Kong, Hong Kong SAR, China.
+FAU - Xu, Yijuan
+AU  - Xu Y
+AD  - College of Plant Protection, South China Agricultural University, Guangzhou 
+      510642, China.
+FAU - Lu, Yongyue
+AU  - Lu Y
+AUID- ORCID: 0000-0002-5813-8446
+AD  - College of Plant Protection, South China Agricultural University, Guangzhou 
+      510642, China.
+FAU - Wang, Lei
+AU  - Wang L
+AD  - College of Plant Protection, South China Agricultural University, Guangzhou 
+      510642, China.
+LA  - eng
+GR  - 202405AF140082/Science and Technology Talent and Platform Project of Yunnan 
+      (Academician and Expert Work-station)/
+GR  - 2023TX07A017/Guangdong Special Support Program-Leading Talents in Science and 
+      Technology Innovation/
+PT  - Journal Article
+DEP - 20241223
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC11678100
+OTO - NOTNLM
+OT  - Crematogaster rogenhoferi
+OT  - GC-MS
+OT  - ant nest extract
+OT  - antibiosis
+OT  - immune defense
+COIS- The authors declare that they have no conflicts of interest.
+EDAT- 2025/01/08 06:20
+MHDA- 2025/01/08 06:21
+PMCR- 2024/12/23
+CRDT- 2025/01/08 01:26
+PHST- 2024/12/04 00:00 [received]
+PHST- 2024/12/20 00:00 [revised]
+PHST- 2024/12/21 00:00 [accepted]
+PHST- 2025/01/08 06:21 [medline]
+PHST- 2025/01/08 06:20 [pubmed]
+PHST- 2025/01/08 01:26 [entrez]
+PHST- 2024/12/23 00:00 [pmc-release]
+AID - insects15121019 [pii]
+AID - insects-15-01019 [pii]
+AID - 10.3390/insects15121019 [doi]
+PST - epublish
+SO  - Insects. 2024 Dec 23;15(12):1019. doi: 10.3390/insects15121019.
+
+PMID- 25143036
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150513
+LR  - 20240326
+IS  - 1471-2954 (Electronic)
+IS  - 0962-8452 (Print)
+IS  - 0962-8452 (Linking)
+VI  - 281
+IP  - 1792
+DP  - 2014 Oct 7
+TI  - Foster carers influence brood pathogen resistance in ants.
+LID - 10.1098/rspb.2014.1338 [doi]
+LID - 20141338
+AB  - Social organisms face a high risk of epidemics, and respond to this threat by 
+      combining efficient individual and collective defences against pathogens. An 
+      intriguing and little studied feature of social animals is that individual 
+      pathogen resistance may depend not only on genetic or maternal factors, but also 
+      on the social environment during development. Here, we used a cross-fostering 
+      experiment to investigate whether the pathogen resistance of individual ant 
+      workers was shaped by their own colony of origin or by the colony of origin of 
+      their carers. The origin of care-giving workers significantly influenced the 
+      ability of newly eclosed cross-fostered Formica selysi workers to resist the 
+      fungal entomopathogen Beauveria bassiana. In particular, carers that were more 
+      resistant to the fungal entomopathogen reared more resistant workers. This effect 
+      occurred in the absence of post-infection social interactions, such as 
+      trophallaxis and allogrooming. The colony of origin of eggs significantly 
+      influenced the survival of the resulting individuals in both control and pathogen 
+      treatments. There was no significant effect of the social organization (i.e. 
+      whether colonies contain a single or multiple queens) of the colony of origin of 
+      either carers or eggs. Our experiment reveals that social interactions during 
+      development play a central role in moulding the resistance of emerging workers.
+CI  - © 2014 The Author(s) Published by the Royal Society. All rights reserved.
+FAU - Purcell, Jessica
+AU  - Purcell J
+AD  - Department of Ecology and Evolution, University of Lausanne, Biophore, 
+      UNIL-Sorge, 1015 Lausanne, Switzerland jessica.purcell@unil.ch.
+FAU - Chapuisat, Michel
+AU  - Chapuisat M
+AD  - Department of Ecology and Evolution, University of Lausanne, Biophore, 
+      UNIL-Sorge, 1015 Lausanne, Switzerland.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Proc Biol Sci
+JT  - Proceedings. Biological sciences
+JID - 101245157
+SB  - IM
+MH  - Animals
+MH  - Ants/genetics/*growth & development/*microbiology
+MH  - Beauveria/*physiology
+MH  - Behavior, Animal
+MH  - Life Cycle Stages/*physiology
+MH  - *Social Behavior
+PMC - PMC4150324
+OTO - NOTNLM
+OT  - Beauveria fungi
+OT  - Formica ants
+OT  - development
+OT  - pathogen resistance
+OT  - social immunity
+OT  - social insects
+EDAT- 2014/08/22 06:00
+MHDA- 2015/05/15 06:00
+PMCR- 2015/10/07
+CRDT- 2014/08/22 06:00
+PHST- 2014/08/22 06:00 [entrez]
+PHST- 2014/08/22 06:00 [pubmed]
+PHST- 2015/05/15 06:00 [medline]
+PHST- 2015/10/07 00:00 [pmc-release]
+AID - rspb.2014.1338 [pii]
+AID - rspb20141338 [pii]
+AID - 10.1098/rspb.2014.1338 [doi]
+PST - ppublish
+SO  - Proc Biol Sci. 2014 Oct 7;281(1792):20141338. doi: 10.1098/rspb.2014.1338.
+
+PMID- 25110340
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150413
+LR  - 20201209
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 122
+DP  - 2014 Oct
+TI  - A molecular tool for detection and tracking of a potential indigenous Beauveria 
+      bassiana strain for managing emerald ash borer populations in Canada.
+PG  - 16-21
+LID - S0022-2011(14)00108-6 [pii]
+LID - 10.1016/j.jip.2014.07.005 [doi]
+AB  - Emerald ash borer is an invasive species from Asia. Beauveria bassiana strain 
+      L49-1AA is being tested for the control of emerald ash borer in Canada, using an 
+      autocontamination trapping system. We have developed a simplified allele 
+      discrimination polymerase chain reaction (PCR) assay to screen B. bassiana 
+      strain, L49-1AA from other Beauveria species by targeting the inter-strain 
+      genetic differences in 5' end of EF1-α gene of the genus Beauveria. A single 
+      nucleotide polymorphism (SNP) site, T→C was identified only in L49-1AA and was 
+      used to develop a simplified allele discrimination polymerase chain reaction 
+      (PCR) assay based on a modified allelic inhibition of displacement activity 
+      (AIDA) approach for distinguishing B. bassiana L49-1AA from all background 
+      Beauveria isolates. The SNP site was employed to design inner primers but with a 
+      deliberate mismatch introduced at the 3' antepenultimate from the mutation site 
+      in order to maximize specificity and detection efficiency. Amplification was 
+      specific to L49-1AA without cross-reaction with DNA from other Beauveria strains. 
+      In addition, the designed primers were also tested against environmental samples 
+      in L49-1AA released plots and observed to be highly efficient in detecting and 
+      discriminating the target strain, L49-1AA from both pure and crude DNA samples. 
+      This new method can potentially allow for more discriminatory tracking and 
+      monitoring of released L49-1AA in our autocontamination and dissemination 
+      projects for managing EAB populations. Additionally, the modified-AIDA format has 
+      potential as a tool for simultaneously identifying and differentiating closely 
+      related Beauveria species, strains/isolates as well as general classification of 
+      other pathogens or organisms.
+CI  - Crown Copyright © 2014. Published by Elsevier Inc. All rights reserved.
+FAU - Johny, Shajahan
+AU  - Johny S
+AD  - Canadian Forestry Service, Great Lakes Forestry Centre, Natural Resources Canada, 
+      1219 Queen Street East, Sault Ste. Marie, Ontario P6A 2E5, Canada.
+FAU - Kyei-Poku, George
+AU  - Kyei-Poku G
+AD  - Canadian Forestry Service, Great Lakes Forestry Centre, Natural Resources Canada, 
+      1219 Queen Street East, Sault Ste. Marie, Ontario P6A 2E5, Canada. Electronic 
+      address: gkyeipok@NRCan.gc.ca.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140807
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+SB  - IM
+MH  - Animals
+MH  - Beauveria/genetics/*isolation & purification
+MH  - Canada
+MH  - Coleoptera/*microbiology
+MH  - Fraxinus/microbiology
+MH  - Pest Control, Biological/*methods
+MH  - Polymerase Chain Reaction/*methods
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Biological control
+OT  - Emerald ash borer
+OT  - Molecular marker
+EDAT- 2014/08/12 06:00
+MHDA- 2015/04/14 06:00
+CRDT- 2014/08/12 06:00
+PHST- 2014/01/09 00:00 [received]
+PHST- 2014/06/30 00:00 [revised]
+PHST- 2014/07/30 00:00 [accepted]
+PHST- 2014/08/12 06:00 [entrez]
+PHST- 2014/08/12 06:00 [pubmed]
+PHST- 2015/04/14 06:00 [medline]
+AID - S0022-2011(14)00108-6 [pii]
+AID - 10.1016/j.jip.2014.07.005 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2014 Oct;122:16-21. doi: 10.1016/j.jip.2014.07.005. Epub 2014 
+      Aug 7.
+
+PMID- 31950300
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200701
+LR  - 20200701
+IS  - 1572-9702 (Electronic)
+IS  - 0168-8162 (Linking)
+VI  - 80
+IP  - 2
+DP  - 2020 Feb
+TI  - Laboratory and field evaluation of an autoinoculation device as a tool to manage 
+      poultry red mite, Dermanyssus gallinae, infestations with Beauveria bassiana.
+PG  - 151-165
+LID - 10.1007/s10493-020-00466-6 [doi]
+AB  - The poultry red mite, Dermanyssus gallinae, is a cosmopolitan ectoparasite in 
+      hens and has been considered an important threat to the egg production industry. 
+      This study evaluated an alternative to manage poultry red mite populations as a 
+      complement to conventional chemical treatments and other control strategies in 
+      poultry houses. A simple autoinoculation device prepared with corrugated 
+      cardboard (CB) or loofah sponge (LS) as inert supports to anchor Beauveria 
+      bassiana conidia was used to aggregate and infect mites from infested poultry 
+      houses. In the laboratory, mites gathered inside the traps and the average 
+      mortalities by the fungus were higher than 70% in CB and LS traps after 5 and 
+      4 days of exposure, respectively. Conidial viability was around 80% in CB and LS 
+      traps after 14 and 60 days under unrefrigerated conditions (26 °C), respectively. 
+      Both trap types tied to hen cages efficiently captured fed mites after blood 
+      meal, and fungal infection was observed in 65-90% of the mites in field tests. 
+      Between 5 and 25% of the mites recaptured in monitoring cardboard traps installed 
+      immediately after CB and LS removal were infected by B. bassiana. According to 
+      our results, the use of B. bassiana in an autoinoculation strategy is a potential 
+      alternative method for D. gallinae control.
+FAU - Nascimento, Marina Martins
+AU  - Nascimento MM
+AD  - Agricultural Biotechnology Lab., Western Paraná State University, Cascavel, PR, 
+      85814-110, Brazil.
+FAU - Alves, Luis Francisco Angeli
+AU  - Alves LFA
+AUID- ORCID: 0000-0002-3102-764X
+AD  - Agricultural Biotechnology Lab., Western Paraná State University, Cascavel, PR, 
+      85814-110, Brazil. luis.alves@unioeste.br.
+FAU - de Oliveira, Daian Guilherme Pinto
+AU  - de Oliveira DGP
+AD  - Biology Department, Federal University of Technology/UTFPR, Santa Helena, PR, 
+      85892-000, Brazil.
+FAU - Lopes, Rogerio Biaggioni
+AU  - Lopes RB
+AD  - Embrapa Genetic Resources and Biotechnology, Brazilian Agricultural Research 
+      Corporation (EMBRAPA), Brasília, DF, 70770-917, Brazil.
+FAU - Guimarães, Ana Teresa Bittencourt
+AU  - Guimarães ATB
+AD  - Agricultural Biotechnology Lab., Western Paraná State University, Cascavel, PR, 
+      85814-110, Brazil.
+LA  - eng
+GR  - 309394/2017 - 1/Brazilian National Council for Technological Development/
+PT  - Journal Article
+DEP - 20200116
+PL  - Netherlands
+TA  - Exp Appl Acarol
+JT  - Experimental & applied acarology
+JID - 8507436
+RN  - 0 (Biological Control Agents)
+SB  - IM
+MH  - Animals
+MH  - *Beauveria
+MH  - *Biological Control Agents
+MH  - Chickens/parasitology
+MH  - Female
+MH  - Mite Infestations/*prevention & control
+MH  - Mites/*microbiology
+MH  - Poultry
+MH  - Poultry Diseases/parasitology/*prevention & control
+OTO - NOTNLM
+OT  - Animal production
+OT  - Attract-and-infect
+OT  - Microbial control
+OT  - Poultry house
+EDAT- 2020/01/18 06:00
+MHDA- 2020/07/02 06:00
+CRDT- 2020/01/18 06:00
+PHST- 2019/09/11 00:00 [received]
+PHST- 2020/01/03 00:00 [accepted]
+PHST- 2020/01/18 06:00 [pubmed]
+PHST- 2020/07/02 06:00 [medline]
+PHST- 2020/01/18 06:00 [entrez]
+AID - 10.1007/s10493-020-00466-6 [pii]
+AID - 10.1007/s10493-020-00466-6 [doi]
+PST - ppublish
+SO  - Exp Appl Acarol. 2020 Feb;80(2):151-165. doi: 10.1007/s10493-020-00466-6. Epub 
+      2020 Jan 16.
+
+PMID- 24766772
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150126
+LR  - 20211021
+IS  - 1756-3305 (Electronic)
+IS  - 1756-3305 (Linking)
+VI  - 7
+DP  - 2014 Apr 25
+TI  - Development and evaluation of a novel contamination device that targets multiple 
+      life-stages of Aedes aegypti.
+PG  - 200
+LID - 10.1186/1756-3305-7-200 [doi]
+AB  - BACKGROUND: The increasing global threat of Dengue demands new and easily 
+      applicable vector control methods. Ovitraps provide a low-tech and inexpensive 
+      means to combat Dengue vectors. Here we describe the development and optimization 
+      process of a novel contamination device that targets multiple life-stages of the 
+      Aedes aegypti mosquito. Special focus is directed to the diverse array of control 
+      agents deployed in this trap, covering adulticidal, larvicidal and 
+      autodissemination impacts. METHODS: Different trap prototypes and their parts are 
+      described, including a floater to contaminate alighting gravid mosquitoes. The 
+      attractiveness of the trap, different odor lures and floater design were studied 
+      using fluorescent powder adhering to mosquito legs and via choice tests. We 
+      demonstrate the mosquitocidal impacts of the control agents: a combination of the 
+      larvicide pyriproxyfen and the adulticidal fungus Beauveria bassiana. The impact 
+      of pyriproxyfen was determined in free-flight dissemination experiments. The 
+      effect on larval development inside the trap and in surrounding breeding sites 
+      was measured, as well as survival impacts on recaptured adults. RESULTS: The 
+      developmental process resulted in a design that consists of a black 3 Liter 
+      water-filled container with a ring-shaped floater supporting vertically placed 
+      gauze dusted with the control agents. On average, 90% of the mosquitoes in the 
+      fluorescence experiments made contact with the gauze on the floater. Studies on 
+      attractants indicated that a yeast-containing tablet was the most attractive odor 
+      lure. Furthermore, the fungus Beauveria bassiana was able to significantly 
+      increase mortality of the free-flying adults compared to controls. Dissemination 
+      of pyriproxyfen led to >90% larval mortality in alternative breeding sites and 
+      100% larval mortality in the trap itself, against a control mortality of around 
+      5%. CONCLUSION: This ovitrap is a promising new tool in the battle against 
+      Dengue. It has proven to be attractive to Aedes aegypti mosquitoes and effective 
+      in contaminating these with Beauveria bassiana. Furthermore, we show that the 
+      larvicide pyriproxyfen is successfully disseminated to breeding sites close to 
+      the trap. Its low production and operating costs enable large scale deployment in 
+      Dengue-affected locations.
+FAU - Snetselaar, Janneke
+AU  - Snetselaar J
+FAU - Andriessen, Rob
+AU  - Andriessen R
+FAU - Suer, Remco A
+AU  - Suer RA
+FAU - Osinga, Anne J
+AU  - Osinga AJ
+FAU - Knols, Bart Gj
+AU  - Knols BG
+FAU - Farenhorst, Marit
+AU  - Farenhorst M
+AD  - In2Care BV, Costerweg 5, Wageningen 6702 AA, The Netherlands. marit@in2care.org.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140425
+PL  - England
+TA  - Parasit Vectors
+JT  - Parasites & vectors
+JID - 101462774
+RN  - 0 (Biological Control Agents)
+SB  - IM
+MH  - *Aedes
+MH  - Animals
+MH  - Behavior, Animal
+MH  - *Biological Control Agents
+MH  - Dengue/prevention & control/transmission
+MH  - Female
+MH  - Insect Vectors/drug effects
+MH  - Life Cycle Stages
+MH  - Mosquito Control/*instrumentation/methods
+MH  - *Odorants
+MH  - Oviposition
+PMC - PMC4005817
+EDAT- 2014/04/29 06:00
+MHDA- 2015/01/27 06:00
+PMCR- 2014/04/25
+CRDT- 2014/04/29 06:00
+PHST- 2014/02/10 00:00 [received]
+PHST- 2014/03/31 00:00 [accepted]
+PHST- 2014/04/29 06:00 [entrez]
+PHST- 2014/04/29 06:00 [pubmed]
+PHST- 2015/01/27 06:00 [medline]
+PHST- 2014/04/25 00:00 [pmc-release]
+AID - 1756-3305-7-200 [pii]
+AID - 10.1186/1756-3305-7-200 [doi]
+PST - epublish
+SO  - Parasit Vectors. 2014 Apr 25;7:200. doi: 10.1186/1756-3305-7-200.
+
+PMID- 33053399
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210730
+LR  - 20210730
+IS  - 1096-0805 (Electronic)
+IS  - 0022-2011 (Linking)
+VI  - 177
+DP  - 2020 Nov
+TI  - Combining insect pathogenic fungi and a pheromone trap for sustainable management 
+      of the fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae).
+PG  - 107477
+LID - S0022-2011(20)30183-X [pii]
+LID - 10.1016/j.jip.2020.107477 [doi]
+AB  - Fall armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae), is a key invasive 
+      pest of maize and other crops in Africa. Entomopathogenic fungi play an important 
+      role in regulating the immature stages of this invasive pest as opposed to 
+      synthetic pesticides that are hazardous to human, environment and biodiversity. 
+      To tackle the adult stage of the pest (the moth) and to improve on the 
+      application strategy of the fungal-based biopesticides, this study evaluated the 
+      effect of various entomopathogenic fungi isolates on S. frugiperda moths. 
+      Twenty-two isolates (16 Metarhizium anisopliae and 6 Beauveria bassiana) were 
+      screened in the laboratory to assess their pathogenicity and virulence against S. 
+      frugiperda moths. The compatibility of the most pathogenic isolates with S. 
+      frugiperda pheromone FALLTRACT lure, the horizontal transmission of the inoculum 
+      among S. frugiperda moths, and the effect on oviposition were also determined 
+      under laboratory conditions. All 22 fungal isolates screened were pathogenic to 
+      the moths, but the mortality varied significantly among the isolates (P < 0.0001) 
+      seven days post-treatment. Beauveria bassiana ICIPE 621 and M. anisopliae ICIPE 7 
+      outperformed all the other isolates by causing 100% mortality of the moths with 
+      the lowest LT(50) values of 3.6 ± 0.1 and 3.9 ± 0.0 days, respectively. Both 
+      isolates were also found compatible with FALLTRACT lure, as the lure had no 
+      effect on the conidial germination in the laboratory. Male and female moths were 
+      able to horizontally transmit conidia of both fungal isolates to untreated moths, 
+      causing high mortality of S. frugiperda in 'donor' and 'recipient' groups. In 
+      addition, the oviposition, hatchability of eggs and longevity of larvae were 
+      significantly affected on the fungal infected females. Although single moths 
+      still retained high conidial numbers 72 h post-inoculation, the number of conidia 
+      decreased with time. These results suggest that ICIPE 7 and ICIPE 621 could be 
+      used in combination with S. frugiperda pheromone in an autodissemination approach 
+      to suppress S. frugiperda population.
+CI  - Copyright © 2020 Elsevier Inc. All rights reserved.
+FAU - Akutse, Komivi S
+AU  - Akutse KS
+AD  - International Centre of Insect Physiology and Ecology (icipe), P.O. Box 
+      30772-00100, Nairobi, Kenya. Electronic address: kakutse@icipe.org.
+FAU - Khamis, Fathiya M
+AU  - Khamis FM
+AD  - International Centre of Insect Physiology and Ecology (icipe), P.O. Box 
+      30772-00100, Nairobi, Kenya.
+FAU - Ambele, Felicitas C
+AU  - Ambele FC
+AD  - International Centre of Insect Physiology and Ecology (icipe), P.O. Box 
+      30772-00100, Nairobi, Kenya; Food Security and Safety, Faculty of Agriculture, 
+      Science and Technology, North-West University, Mafikeng Campus, Private Bag 
+      X2046, Mmabatho 2745, South Africa.
+FAU - Kimemia, Jane W
+AU  - Kimemia JW
+AD  - International Centre of Insect Physiology and Ecology (icipe), P.O. Box 
+      30772-00100, Nairobi, Kenya.
+FAU - Ekesi, Sunday
+AU  - Ekesi S
+AD  - International Centre of Insect Physiology and Ecology (icipe), P.O. Box 
+      30772-00100, Nairobi, Kenya.
+FAU - Subramanian, Sevgan
+AU  - Subramanian S
+AD  - International Centre of Insect Physiology and Ecology (icipe), P.O. Box 
+      30772-00100, Nairobi, Kenya.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20201011
+PL  - United States
+TA  - J Invertebr Pathol
+JT  - Journal of invertebrate pathology
+JID - 0014067
+RN  - 0 (Biological Control Agents)
+RN  - 0 (Pheromones)
+RN  - 0 (insect attractants)
+SB  - IM
+MH  - Animals
+MH  - *Beauveria/pathogenicity/physiology
+MH  - Biological Control Agents/*pharmacology
+MH  - Female
+MH  - Insect Control
+MH  - Male
+MH  - *Metarhizium/pathogenicity/physiology
+MH  - *Pest Control, Biological
+MH  - Pheromones
+MH  - *Spodoptera
+MH  - Virulence
+OTO - NOTNLM
+OT  - Attract & infect
+OT  - Autodissemination
+OT  - Biopesticide
+OT  - Entomopathogenic fungi
+OT  - Life-history parameters
+OT  - Pheromone
+EDAT- 2020/10/15 06:00
+MHDA- 2021/07/31 06:00
+CRDT- 2020/10/14 20:05
+PHST- 2020/06/11 00:00 [received]
+PHST- 2020/09/14 00:00 [revised]
+PHST- 2020/09/22 00:00 [accepted]
+PHST- 2020/10/15 06:00 [pubmed]
+PHST- 2021/07/31 06:00 [medline]
+PHST- 2020/10/14 20:05 [entrez]
+AID - S0022-2011(20)30183-X [pii]
+AID - 10.1016/j.jip.2020.107477 [doi]
+PST - ppublish
+SO  - J Invertebr Pathol. 2020 Nov;177:107477. doi: 10.1016/j.jip.2020.107477. Epub 
+      2020 Oct 11.
+
+PMID- 27529548
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170731
+LR  - 20240327
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 11
+IP  - 8
+DP  - 2016
+TI  - Disease in the Society: Infectious Cadavers Result in Collapse of Ant 
+      Sub-Colonies.
+PG  - e0160820
+LID - 10.1371/journal.pone.0160820 [doi]
+LID - e0160820
+AB  - Despite the growing number of experimental studies on mechanisms of social 
+      immunity in ant societies, little is known about how social behavior relates to 
+      disease progression within the nests of ants. In fact, when empirically studying 
+      disease in ant societies, it is common to remove dead ants from experiments to 
+      confirm infection by the studied parasite. This unfortunately does not allow 
+      disease to progress within the nest as it may be assumed would happen under 
+      natural conditions. Therefore, the approach taken so far has resulted in a 
+      limited knowledge of diseases dynamics within the nest environment. Here we 
+      introduced a single infectious cadaver killed by the fungus Beauveria bassiana 
+      into small nests of the ant Camponotus castaneus. We then observed the natural 
+      progression of the disease by not removing the corpses of the ants that died 
+      following the first entry of the disease. Because some behaviors such as social 
+      isolation of sick individuals or the removal of cadavers by nestmates are 
+      considered social immune functions and thus adaptations at the colony level that 
+      reduce disease spread, we also experimentally confined some sub-colonies to one 
+      or two chamber nests to prevent the expression of such behaviors. Based on 51 
+      small nests and survival studies in 1,003 ants we found that a single introduced 
+      infectious cadaver was able to transmit within the nest, and social immunity did 
+      not prevent the collapse of the small sub-colonies here tested. This was true 
+      whether ants did or did not have the option to remove the infectious cadaver. 
+      Therefore, we found no evidence that the typically studied social immunity 
+      behaviors can reduce disease spread in the conditions here tested.
+FAU - Loreto, Raquel G
+AU  - Loreto RG
+AD  - Department of Entomology and Center for Infectious Disease Dynamics, Pennsylvania 
+      State University, University Park, 16802 Pennsylvania, United States of America.
+AD  - CAPES Foundation, Ministry of Education of Brazil, Brasília 70040-020 DF, Brazil.
+FAU - Hughes, David P
+AU  - Hughes DP
+AD  - Department of Entomology and Center for Infectious Disease Dynamics, Pennsylvania 
+      State University, University Park, 16802 Pennsylvania, United States of America.
+AD  - Department of Biology, Pennsylvania State University, University Park, 16802 
+      Pennsylvania, United States of America.
+LA  - eng
+PT  - Journal Article
+DEP - 20160816
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Animals
+MH  - Ants/growth & development/immunology/*microbiology
+MH  - Beauveria/*physiology
+MH  - Cadaver
+MH  - Disease Progression
+MH  - Disease Resistance
+MH  - Nesting Behavior
+MH  - Social Behavior
+PMC - PMC4986943
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2016/08/17 06:00
+MHDA- 2017/08/02 06:00
+PMCR- 2016/08/16
+CRDT- 2016/08/17 06:00
+PHST- 2016/03/23 00:00 [received]
+PHST- 2016/07/26 00:00 [accepted]
+PHST- 2016/08/17 06:00 [entrez]
+PHST- 2016/08/17 06:00 [pubmed]
+PHST- 2017/08/02 06:00 [medline]
+PHST- 2016/08/16 00:00 [pmc-release]
+AID - PONE-D-16-12087 [pii]
+AID - 10.1371/journal.pone.0160820 [doi]
+PST - epublish
+SO  - PLoS One. 2016 Aug 16;11(8):e0160820. doi: 10.1371/journal.pone.0160820. 
+      eCollection 2016.
+
+PMID- 31454953
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200929
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 10
+IP  - 9
+DP  - 2019 Aug 26
+TI  - Comparison of Twelve Ant Species and Their Susceptibility to Fungal Infection.
+LID - 10.3390/insects10090271 [doi]
+LID - 271
+AB  - Eusocial insects, such as ants, have access to complex disease defenses both at 
+      the individual, and at the colony level. However, different species may be 
+      exposed to different diseases, and/or deploy different methods of coping with 
+      disease. Here, we studied and compared survival after fungal exposure in 12 
+      species of ants, all of which inhabit similar habitats. We exposed the ants to 
+      two entomopathogenic fungi (Beauveria bassiana and Metarhizium brunneum), and 
+      measured how exposure to these fungi influenced survival. We furthermore recorded 
+      hygienic behaviors, such as autogrooming, allogrooming and trophallaxis, during 
+      the days after exposure. We found strong differences in autogrooming behavior 
+      between the species, but none of the study species performed extensive 
+      allogrooming or trophallaxis under the experimental conditions. Furthermore, we 
+      discuss the possible importance of the metapleural gland, and how the secondary 
+      loss of this gland in the genus Camponotus could favor a stronger behavioral 
+      response against pathogen threats.
+FAU - Bos, Nick
+AU  - Bos N
+AD  - Organismal and evolutionary biology, University of Helsinki, 00100 Helsinki, 
+      Finland. nbos@bio.ku.dk.
+AD  - Tvärminne Zoological Station, 10900 Hanko, Finland. nbos@bio.ku.dk.
+AD  - Section for Ecology & Evolution, University of Copenhagen, 2200 Copenhagen, 
+      Denmark. nbos@bio.ku.dk.
+FAU - Kankaanpää-Kukkonen, Viljami
+AU  - Kankaanpää-Kukkonen V
+AD  - Organismal and evolutionary biology, University of Helsinki, 00100 Helsinki, 
+      Finland.
+AD  - Tvärminne Zoological Station, 10900 Hanko, Finland.
+AD  - Faculty of Social Sciences, University of Helsinki, 00100 Helsinki, Finland.
+FAU - Freitak, Dalial
+AU  - Freitak D
+AD  - Organismal and evolutionary biology, University of Helsinki, 00100 Helsinki, 
+      Finland.
+AD  - Tvärminne Zoological Station, 10900 Hanko, Finland.
+AD  - Institute of Biology, University of Graz, 8010 Graz, Austria.
+FAU - Stucki, Dimitri
+AU  - Stucki D
+AD  - Organismal and evolutionary biology, University of Helsinki, 00100 Helsinki, 
+      Finland.
+AD  - Tvärminne Zoological Station, 10900 Hanko, Finland.
+FAU - Sundström, Liselotte
+AU  - Sundström L
+AD  - Organismal and evolutionary biology, University of Helsinki, 00100 Helsinki, 
+      Finland.
+AD  - Tvärminne Zoological Station, 10900 Hanko, Finland.
+LA  - eng
+GR  - #252411/Academy of Finland/
+GR  - #284666/Academy of Finland/
+GR  - #251337/Academy of Finland/
+GR  - #289731/Academy of Finland/
+PT  - Journal Article
+DEP - 20190826
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC6780858
+OTO - NOTNLM
+OT  - behavior
+OT  - exposure
+OT  - grooming
+OT  - infection
+OT  - metapleural gland
+OT  - mortality
+OT  - pathogen
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/08/29 06:00
+MHDA- 2019/08/29 06:01
+PMCR- 2019/08/26
+CRDT- 2019/08/29 06:00
+PHST- 2019/07/25 00:00 [received]
+PHST- 2019/08/18 00:00 [revised]
+PHST- 2019/08/19 00:00 [accepted]
+PHST- 2019/08/29 06:00 [entrez]
+PHST- 2019/08/29 06:00 [pubmed]
+PHST- 2019/08/29 06:01 [medline]
+PHST- 2019/08/26 00:00 [pmc-release]
+AID - insects10090271 [pii]
+AID - insects-10-00271 [pii]
+AID - 10.3390/insects10090271 [doi]
+PST - epublish
+SO  - Insects. 2019 Aug 26;10(9):271. doi: 10.3390/insects10090271.
+
+PMID- 26467352
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160407
+LR  - 20181113
+IS  - 1432-1904 (Electronic)
+IS  - 0028-1042 (Linking)
+VI  - 102
+IP  - 11-12
+DP  - 2015 Dec
+TI  - Antimicrobial properties of nest volatiles in red imported fire ants, Solenopsis 
+      invicta (Hymenoptera: Formicidae).
+PG  - 66
+LID - 10.1007/s00114-015-1316-1 [doi]
+AB  - The antimicrobial property of volatiles produced by red imported fire ants, 
+      Solenopsis invicta, against Beauveria bassiana, a common entomopathogenic fungus, 
+      was demonstrated. The germination rate of B. bassiana spores was significantly 
+      reduced after they were exposed to volatiles within an artificial ant nest. Since 
+      the air that contained the same level of O2 and CO2 as that in artificial fire 
+      ant nests did not suppress the germination rate of B. bassiana, the observed 
+      reduction of germination rate must be caused by the toxicity of nest volatiles. 
+      Nest fumigation may be an important component of the social immune system in S. 
+      invicta.
+FAU - Wang, Lei
+AU  - Wang L
+AD  - Red Imported Fire Ant Research Centre, South China Agricultural University, 483 
+      Wushan Road, Guangzhou, Guangdong, 510642, People's Republic of China.
+FAU - Elliott, Brad
+AU  - Elliott B
+AD  - National Biological Control Laboratory, Southeast Area, Agriculture Research 
+      Service, United States Department of Agriculture, 59 Lee Road, Stoneville, MS, 
+      38776, USA.
+FAU - Jin, Xixuan
+AU  - Jin X
+AD  - National Biological Control Laboratory, Southeast Area, Agriculture Research 
+      Service, United States Department of Agriculture, 59 Lee Road, Stoneville, MS, 
+      38776, USA.
+FAU - Zeng, Ling
+AU  - Zeng L
+AD  - Red Imported Fire Ant Research Centre, South China Agricultural University, 483 
+      Wushan Road, Guangzhou, Guangdong, 510642, People's Republic of China.
+FAU - Chen, Jian
+AU  - Chen J
+AD  - National Biological Control Laboratory, Southeast Area, Agriculture Research 
+      Service, United States Department of Agriculture, 59 Lee Road, Stoneville, MS, 
+      38776, USA. jian.chen@ars.usda.gov.
+LA  - eng
+PT  - Journal Article
+DEP - 20151014
+PL  - Germany
+TA  - Naturwissenschaften
+JT  - Die Naturwissenschaften
+JID - 0400767
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Volatile Organic Compounds)
+SB  - IM
+MH  - Animals
+MH  - Anti-Infective Agents/chemistry/pharmacology
+MH  - Ants/*chemistry
+MH  - Beauveria/*drug effects
+MH  - Bodily Secretions/chemistry
+MH  - Environmental Microbiology
+MH  - Exudates and Transudates/chemistry
+MH  - Volatile Organic Compounds/*pharmacology
+OTO - NOTNLM
+OT  - Antimicrobial volatiles
+OT  - Beauveria bassiana
+OT  - Germination
+OT  - Social immunity
+EDAT- 2015/10/16 06:00
+MHDA- 2016/04/08 06:00
+CRDT- 2015/10/16 06:00
+PHST- 2015/04/28 00:00 [received]
+PHST- 2015/09/30 00:00 [accepted]
+PHST- 2015/09/20 00:00 [revised]
+PHST- 2015/10/16 06:00 [entrez]
+PHST- 2015/10/16 06:00 [pubmed]
+PHST- 2016/04/08 06:00 [medline]
+AID - 10.1007/s00114-015-1316-1 [pii]
+AID - 10.1007/s00114-015-1316-1 [doi]
+PST - ppublish
+SO  - Naturwissenschaften. 2015 Dec;102(11-12):66. doi: 10.1007/s00114-015-1316-1. Epub 
+      2015 Oct 14.
+
+PMID- 22523588
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120803
+LR  - 20211021
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 7
+IP  - 4
+DP  - 2012
+TI  - No evidence for immune priming in ants exposed to a fungal pathogen.
+PG  - e35372
+LID - 10.1371/journal.pone.0035372 [doi]
+LID - e35372
+AB  - There is accumulating evidence that invertebrates can acquire long-term 
+      protection against pathogens through immune priming. However, the range of 
+      pathogens eliciting immune priming and the specificity of the response remain 
+      unclear. Here, we tested if the exposure to a natural fungal pathogen elicited 
+      immune priming in ants. We found no evidence for immune priming in Formica selysi 
+      workers exposed to Beauveria bassiana. The initial exposure of ants to the fungus 
+      did not alter their resistance in a subsequent challenge with the same fungus. 
+      There was no sign of priming when using homologous and heterologous combinations 
+      of fungal strains for exposure and subsequent challenges at two time intervals. 
+      Hence, within the range of conditions tested, the immune response of this social 
+      insect to the fungal pathogen appears to lack memory and strain-specificity. 
+      These results show that immune priming is not ubiquitous across pathogens, hosts 
+      and conditions, possibly because of immune evasion by the pathogen or efficient 
+      social defences by the host.
+FAU - Reber, Anabelle
+AU  - Reber A
+AD  - Department of Ecology and Evolution, University of Lausanne, Lausanne, 
+      Switzerland.
+FAU - Chapuisat, Michel
+AU  - Chapuisat M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120416
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Animals
+MH  - Ants/*immunology
+MH  - Beauveria/*pathogenicity
+MH  - Immunity, Innate
+MH  - *Immunologic Memory
+PMC - PMC3327680
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2012/04/24 06:00
+MHDA- 2012/08/04 06:00
+PMCR- 2012/04/16
+CRDT- 2012/04/24 06:00
+PHST- 2011/11/03 00:00 [received]
+PHST- 2012/03/16 00:00 [accepted]
+PHST- 2012/04/24 06:00 [entrez]
+PHST- 2012/04/24 06:00 [pubmed]
+PHST- 2012/08/04 06:00 [medline]
+PHST- 2012/04/16 00:00 [pmc-release]
+AID - PONE-D-11-21782 [pii]
+AID - 10.1371/journal.pone.0035372 [doi]
+PST - ppublish
+SO  - PLoS One. 2012;7(4):e35372. doi: 10.1371/journal.pone.0035372. Epub 2012 Apr 16.
+
+PMID- 41148913
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20251028
+LR  - 20251030
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 16
+IP  - 10
+DP  - 2025 Oct 12
+TI  - Behavioral Suppression and Rapid Lethality: Beauveria bassiana B4 Targets Adult 
+      Monochamus alternatus for Sustainable Management of Pine Wilt Disease.
+LID - 10.3390/insects16101045 [doi]
+LID - 1045
+AB  - Pine wilt disease, transmitted primarily by Monochamus alternatus (Hope, 1842) 
+      adults, causes severe ecological and economic losses globally. Conventional 
+      chemical controls face challenges of resistance and non-target toxicity. This 
+      study identified Beauveria bassiana (Bals.-Criv.) Vuill. strain B4 as a 
+      high-virulence biocontrol agent against adult M. alternatus. Laboratory bioassays 
+      compared four strains (B1-B4), with B4 exhibiting rapid lethality (LT(50) = 6.61 
+      days at 1 × 10(8) spores/mL) and low median lethal concentration (LC(50) = 9.63 × 
+      10(5) spores/mL). Critically, B4 infection induced significant behavioral 
+      suppression, including reduced appetite and mobility prior to death. In forest 
+      trials, pheromone-enhanced nonwoven fabric bags impregnated with B4 spores 
+      reduced trap catches by 66.4% within one month, with effects persisting for over 
+      a year without reapplication. The slow-release carrier system enabled continuous 
+      spore dissemination and sustained population suppression. These results 
+      demonstrate that B4's dual action-rapid lethality and behavioral 
+      disruption-provides an effective, eco-friendly strategy for sustainable pine wilt 
+      disease management.
+FAU - Zhang, Yaqi
+AU  - Zhang Y
+AD  - College of Forestry, Henan Agricultural University, Zhengzhou 450046, China.
+AD  - Henan Academy of Forestry, Zhengzhou 450002, China.
+FAU - Zhang, Xuejie
+AU  - Zhang X
+AD  - Xixia Forestry Development Service Center, Nanyang 474500, China.
+FAU - An, Liudi
+AU  - An L
+AD  - Henan Academy of Forestry, Zhengzhou 450002, China.
+FAU - Gong, Dongfeng
+AU  - Gong D
+AD  - Henan Academy of Forestry, Zhengzhou 450002, China.
+FAU - Wang, Jinsheng
+AU  - Wang J
+AD  - School of Plant Protection, Anhui Agricultural University, Heifei 230036, China.
+FAU - Bi, Huitao
+AU  - Bi H
+AD  - College of Forestry, Henan Agricultural University, Zhengzhou 450046, China.
+FAU - Zheng, Yi
+AU  - Zheng Y
+AD  - Puyang Forestry Technology Workstation, Puyang 457099, China.
+FAU - Cao, Lei
+AU  - Cao L
+AD  - Xixia Forestry Development Service Center, Nanyang 474500, China.
+FAU - Lu, Shaohui
+AU  - Lu S
+AD  - Henan Academy of Forestry, Zhengzhou 450002, China.
+LA  - eng
+GR  - 2025ZC136/Henan Academy of Agricultural Sciences/
+GR  - 221612414/Henan Provincial Forestry Technology Work Station/
+PT  - Journal Article
+DEP - 20251012
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC12563667
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Monochamus alternatus
+OT  - forest trials
+OT  - pathogenicity test
+OT  - slow-release technology
+OT  - sustainable forest management
+COIS- The authors declare that they have no known competing financial interests or 
+      personal relationships that could have appeared to have influenced the work 
+      reported in this paper.
+EDAT- 2025/10/28 18:27
+MHDA- 2025/10/28 18:28
+PMCR- 2025/10/12
+CRDT- 2025/10/28 12:34
+PHST- 2025/08/23 00:00 [received]
+PHST- 2025/10/09 00:00 [revised]
+PHST- 2025/10/10 00:00 [accepted]
+PHST- 2025/10/28 18:28 [medline]
+PHST- 2025/10/28 18:27 [pubmed]
+PHST- 2025/10/28 12:34 [entrez]
+PHST- 2025/10/12 00:00 [pmc-release]
+AID - insects16101045 [pii]
+AID - insects-16-01045 [pii]
+AID - 10.3390/insects16101045 [doi]
+PST - epublish
+SO  - Insects. 2025 Oct 12;16(10):1045. doi: 10.3390/insects16101045.
+
+PMID- 28854105
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180514
+LR  - 20201209
+IS  - 8756-971X (Print)
+IS  - 8756-971X (Linking)
+VI  - 33
+IP  - 3
+DP  - 2017 Sep
+TI  - Evaluating the Vector Control Potential of the In2Care® Mosquito Trap Against 
+      Aedes aegypti and Aedes albopictus Under Semifield Conditions in Manatee County, 
+      Florida.
+PG  - 193-199
+LID - 10.2987/17-6642R.1 [doi]
+AB  - Successful integrated vector management programs may need new strategies in 
+      addition to conventional larviciding and adulticiding strategies to target Aedes 
+      aegypti and Ae. albopictus, which can develop in small, often cryptic, artificial 
+      and natural containers. The In2Care® mosquito trap was recently developed to 
+      target and kill larval and adult stages of these invasive container-inhabiting 
+      Aedes mosquitoes by utilizing autodissemination. Gravid females that visit the 
+      trap pick up pyriproxyfen (PPF) that they later transfer to nearby larval 
+      habitats as well as Beauveria bassiana spores that slowly kill them. We assessed 
+      the efficacy of the In2Care mosquito trap in a semifield setting against locally 
+      sourced strains of Ae. aegypti and Ae. albopictus. We found that the In2Care 
+      mosquito trap is attractive to gravid Ae. aegypti and Ae. albopictus females and 
+      serves as an egg sink, preventing any adult emergence from the trap (P = 0.0053 
+      for both species). Adult females successfully autodisseminated PPF to surrounding 
+      water-filled containers, leading to a statistically significant reduction in new 
+      mosquito emergence (P ≤ 0.0002 for both species). Additionally, we found 
+      effective contamination with Beauveria bassiana spores, which significantly 
+      reduced the survivorship of exposed Ae. aegypti and Ae. albopictus (P ≤ 0.008 for 
+      both species in all experimental setups). In summary, the In2Care mosquito trap 
+      successfully killed multiple life stages of 2 main mosquito vector species found 
+      in Florida under semifield conditions.
+FAU - Buckner, Eva A
+AU  - Buckner EA
+AD  - Manatee County Mosquito Control District, 2317 2nd Avenue W, Palmetto, FL 34221.
+FAU - Williams, Katie F
+AU  - Williams KF
+AD  - Manatee County Mosquito Control District, 2317 2nd Avenue W, Palmetto, FL 34221.
+FAU - Marsicano, Ambyr L
+AU  - Marsicano AL
+AD  - Manatee County Mosquito Control District, 2317 2nd Avenue W, Palmetto, FL 34221.
+FAU - Latham, Mark D
+AU  - Latham MD
+AD  - Manatee County Mosquito Control District, 2317 2nd Avenue W, Palmetto, FL 34221.
+FAU - Lesser, Christopher R
+AU  - Lesser CR
+AD  - Manatee County Mosquito Control District, 2317 2nd Avenue W, Palmetto, FL 34221.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Mosq Control Assoc
+JT  - Journal of the American Mosquito Control Association
+JID - 8511299
+RN  - 0 (Pheromones)
+RN  - 0 (insect attractants)
+SB  - IM
+MH  - *Aedes/growth & development
+MH  - Animals
+MH  - Beauveria/physiology
+MH  - Female
+MH  - Florida
+MH  - Larva/growth & development
+MH  - *Mosquito Control
+MH  - *Pheromones
+MH  - Species Specificity
+MH  - Spores, Fungal/physiology
+OTO - NOTNLM
+OT  - Aedes albopictus
+OT  - Beauveria bassiana
+OT  - Zika virus
+OT  - autodissemination
+OT  - dengue virus
+OT  - pyriproxyfen
+OT  -  Aedes aegypti
+EDAT- 2017/08/31 06:00
+MHDA- 2018/05/15 06:00
+CRDT- 2017/08/31 06:00
+PHST- 2017/08/31 06:00 [entrez]
+PHST- 2017/08/31 06:00 [pubmed]
+PHST- 2018/05/15 06:00 [medline]
+AID - 10.2987/17-6642R.1 [doi]
+PST - ppublish
+SO  - J Am Mosq Control Assoc. 2017 Sep;33(3):193-199. doi: 10.2987/17-6642R.1.
+
+PMID- 33498832
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210316
+IS  - 2075-4450 (Print)
+IS  - 2075-4450 (Electronic)
+IS  - 2075-4450 (Linking)
+VI  - 12
+IP  - 2
+DP  - 2021 Jan 24
+TI  - Preventing Transmission of Lethal Disease: Removal Behaviour of Lasius 
+      fuliginosus (Hymenoptera: Formicidae) Towards Fungus Contaminated Aphids.
+LID - 10.3390/insects12020099 [doi]
+LID - 99
+AB  - The ability of ants to detect and remove conidia-contaminated aphids, aimed at 
+      limiting contacts with potentially dangerous entities, is an effective antifungal 
+      mechanism to prevent the spread of infection among both their nestmates and 
+      aphids, their main suppliers of carbohydrates. However, the spread and the scale 
+      of this quarantining behaviour among ants are still scarcely studied. Among seven 
+      ant species studied, active usage of quarantining behaviour was found only in 
+      Formica ants. The behaviour of Lasius fuliginosus (Latreille) aphid milkers 
+      towards Chaitophorus populeti (Panzer) aphids covered with conidia of Beauveria 
+      bassiana (Balsamo-Crivelli) Vuillemin was studied in the field. Most aggressive 
+      milkers quickly detected and removed conidia-contaminated aphids from the plant, 
+      carrying them down and placing them some distance away from the experimental 
+      aspen trees. In general, active usage of quarantining behaviour towards 
+      conidia-contaminated aphids was found to be not limited to the genus Formica, but 
+      typical of L. fuliginosus as well. The response of milkers of L. fuliginosus and 
+      Formica s. str. ants to living aphids covered with conidia is quite similar. 
+      Removal of most fungus-contaminated aphids from the plant enables these ants to 
+      reduce the risk of infection transmission among both their nestmates and aphids.
+FAU - Novgorodova, Tatiana
+AU  - Novgorodova T
+AUID- ORCID: 0000-0002-2795-108X
+AD  - Institute of Systematics and Ecology of Animals, Siberian Branch of the Russian 
+      Academy of Sciences, Frunze str. 11, Novosibirsk 630091, Russia.
+LA  - eng
+GR  - 18-04-00849/the Russian Foundation for Basic Research/
+GR  - АААА-А16-116121410123-1/the Federal Fundamental Scientific Research Programme/
+PT  - Journal Article
+DEP - 20210124
+PL  - Switzerland
+TA  - Insects
+JT  - Insects
+JID - 101574235
+PMC - PMC7911655
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Chaitophorus populeti
+OT  - ants
+OT  - entomopathogenic fungi
+OT  - prophylactic mechanism
+OT  - quarantining behaviour
+OT  - social immunity
+OT  - trophobiosis
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript; or in the decision to publish the results.
+EDAT- 2021/01/28 06:00
+MHDA- 2021/01/28 06:01
+PMCR- 2021/01/24
+CRDT- 2021/01/27 01:07
+PHST- 2020/12/16 00:00 [received]
+PHST- 2021/01/16 00:00 [revised]
+PHST- 2021/01/21 00:00 [accepted]
+PHST- 2021/01/27 01:07 [entrez]
+PHST- 2021/01/28 06:00 [pubmed]
+PHST- 2021/01/28 06:01 [medline]
+PHST- 2021/01/24 00:00 [pmc-release]
+AID - insects12020099 [pii]
+AID - insects-12-00099 [pii]
+AID - 10.3390/insects12020099 [doi]
+PST - epublish
+SO  - Insects. 2021 Jan 24;12(2):99. doi: 10.3390/insects12020099.
+
+PMID- 42415550
+OWN - NLM
+STAT- Publisher
+LR  - 20260708
+IS  - 1526-4998 (Electronic)
+IS  - 1526-498X (Linking)
+DP  - 2026 Jul 7
+TI  - dsRNA-mediated interference with RcβGRPs significantly reduced the resistance of 
+      Reticulitermes chinensis Snyder (Blattodea: Termitidae) to pathogens.
+LID - 10.1002/ps.71081 [doi]
+AB  - BACKGROUND: Reticulitermes chinensis Snyder (Blattodea: Termitidae) is a highly 
+      destructive social insect. In comparison with traditional chemical control, 
+      pathogen-based microbial control provides benefits, including environmental 
+      friendliness, although its application is frequently constrained by the robust 
+      immune system of termites. β-1,3-glucan recognition proteins (βGRPs), a key class 
+      of pattern recognition receptors, play a central role in initiating insect immune 
+      responses. Therefore, we investigated the functions of RcβGRPs in R. chinensis 
+      against infection by three pathogenic microbes, aiming to elucidate the molecular 
+      mechanism by which RcβGRPs mediate the immune defense of this termite against 
+      pathogen invasion. RESULTS: This study investigated the functions of RcβGRP1 and 
+      RcβGRP2 in R. chinensis regarding defense against infections caused by Bacillus 
+      thuringiensis (Bt), Serratia marcescens (SM1), and Beauveria bassiana (Bb). The 
+      results showed that pathogenic infections induced upregulation of RcβGRP1 and 
+      RcβGRP2. Following interference with these two genes, the expression of multiple 
+      immune genes downstream of the Toll pathway was variably altered. Additionally, 
+      interference with RcβGRPs resulted in a significant decrease in the frequency of 
+      mutual allogrooming behavior among termites. Furthermore, as RcβGRPs were 
+      interfered with, the resistance of R. chinensis to pathogens significantly 
+      decreased. CONCLUSION: These findings suggest that the functions of RcβGRPs may 
+      extend beyond immune signaling at the individual level and also serve as a 
+      crucial link between individual physiological immunity and collective behavioral 
+      immunity. This study demonstrates potential roles of RcβGRPs in regulating 
+      individual and group immunity in R. chinensis and provides a theoretical 
+      foundation for enhancing termite biocontrol efficacy by targeting immune genes. © 
+      2026 Society of Chemical Industry.
+CI  - © 2026 Society of Chemical Industry.
+FAU - Xiong, Yan
+AU  - Xiong Y
+AD  - Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry 
+      University, Nanjing, China.
+AD  - College of Forestry and Grassland, Nanjing Forestry University, Nanjing, China.
+FAU - Jiang, Dabao
+AU  - Jiang D
+AD  - Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry 
+      University, Nanjing, China.
+AD  - College of Forestry and Grassland, Nanjing Forestry University, Nanjing, China.
+FAU - Tang, Fang
+AU  - Tang F
+AUID- ORCID: 0000-0003-3162-6084
+AD  - Co-Innovation Center for Sustainable Forestry in Southern China, Nanjing Forestry 
+      University, Nanjing, China.
+AD  - College of Forestry and Grassland, Nanjing Forestry University, Nanjing, China.
+LA  - eng
+GR  - 20KJA220003/The Natural Science Foundation of the Jiangsu Higher Education 
+      Institutions of China/
+GR  - Priority Academic Program Development Fund of Jiangsu Higher Education 
+      Institutions/
+PT  - Journal Article
+DEP - 20260707
+PL  - England
+TA  - Pest Manag Sci
+JT  - Pest management science
+JID - 100898744
+SB  - IM
+OTO - NOTNLM
+OT  - Reticulitermes chinensis Snyder
+OT  - group immunity
+OT  - individual immunity
+OT  - pathogen
+OT  - β‐1,3‐glucan recognition protein
+EDAT- 2026/07/08 10:10
+MHDA- 2026/07/08 10:10
+CRDT- 2026/07/08 03:03
+PHST- 2026/06/08 00:00 [revised]
+PHST- 2026/03/30 00:00 [received]
+PHST- 2026/06/20 00:00 [accepted]
+PHST- 2026/07/08 10:10 [medline]
+PHST- 2026/07/08 10:10 [pubmed]
+PHST- 2026/07/08 03:03 [entrez]
+AID - 10.1002/ps.71081 [doi]
+PST - aheadofprint
+SO  - Pest Manag Sci. 2026 Jul 7. doi: 10.1002/ps.71081.
+
+PMID- 40326397
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250506
+LR  - 20250517
+IS  - 2046-6390 (Electronic)
+IS  - 2046-6390 (Linking)
+VI  - 14
+IP  - 5
+DP  - 2025 May 15
+TI  - Chronic exposure to nicotine in diet enhances the lethal effect of an 
+      entomopathogenic fungus in the ant Cardiocondyla obscurior.
+LID - 10.1242/bio.061928 [doi]
+LID - bio061928
+AB  - Nicotine is a naturally occurring alkaloid that has acute toxic effects for 
+      insects and affects their behaviour even in sublethal amounts. In addition, 
+      nicotine is shown to accumulate and pollute environments through the use of 
+      commercially produced pesticides and tobacco products. We investigated how 
+      nicotine-polluted diets in two different concentrations impacted colony fitness 
+      in the ant Cardiocondyla obscurior, compared to a nicotine-free diet. We measured 
+      brood production and development, changes in relative abundances of bacterial 
+      endosymbionts, and worker survival in combination with a fungal pathogen. Chronic 
+      exposure to nicotine caused a concentration-dependent effect in enhancing the 
+      lethality of the fungal infection, with higher concentrations causing higher 
+      mortality in infected colonies. In the absence of pathogens, nicotine had no 
+      effect on worker survival. Furthermore, nicotine did not affect brood production 
+      or development, nor clearly affect the abundances of the bacterial endosymbionts. 
+      Our results show that nicotine pollution in the environment can negatively affect 
+      ant fitness through synergistic effects in combination with a fungal pathogen. 
+      Pathogens play a significant part in the decline of insects, and the influence 
+      that nicotine pollution may have in exacerbating them should receive more 
+      attention.
+CI  - © 2025. Published by The Company of Biologists.
+FAU - Rissanen, Jason
+AU  - Rissanen J
+AUID- ORCID: 0000-0003-0941-6486
+AD  - Institute of Biology, Department of Zoology, University of Graz, Graz AT-8010, 
+      Austria.
+FAU - Freitak, Dalial
+AU  - Freitak D
+AUID- ORCID: 0000-0001-8574-0531
+AD  - Institute of Biology, Department of Zoology, University of Graz, Graz AT-8010, 
+      Austria.
+LA  - eng
+GR  - Karl-Franzens-Universitat Graz/
+PT  - Journal Article
+DEP - 20250506
+PL  - England
+TA  - Biol Open
+JT  - Biology open
+JID - 101578018
+RN  - 6M3C89ZY6R (Nicotine)
+SB  - IM
+MH  - *Nicotine/toxicity
+MH  - *Ants/microbiology/drug effects/physiology
+MH  - Animals
+MH  - *Diet
+MH  - Symbiosis
+PMC - PMC12079572
+OTO - NOTNLM
+OT  - Beauveria bassiana
+OT  - Ant colony fitness
+OT  - Nicotine
+OT  - Pollution
+OT  - Social insect
+COIS- Competing interests The authors declare no competing or financial interests. We 
+      have no financial or competing interests.
+EDAT- 2025/05/06 06:29
+MHDA- 2025/05/06 12:42
+PMCR- 2025/05/06
+CRDT- 2025/05/06 05:32
+PHST- 2025/02/11 00:00 [received]
+PHST- 2025/04/14 00:00 [accepted]
+PHST- 2025/05/06 12:42 [medline]
+PHST- 2025/05/06 06:29 [pubmed]
+PHST- 2025/05/06 05:32 [entrez]
+PHST- 2025/05/06 00:00 [pmc-release]
+AID - 367895 [pii]
+AID - bio061928 [pii]
+AID - 10.1242/bio.061928 [doi]
+PST - ppublish
+SO  - Biol Open. 2025 May 15;14(5):bio061928. doi: 10.1242/bio.061928. Epub 2025 May 6.
+
+PMID- 34817613
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220124
+LR  - 20220124
+IS  - 1943-6270 (Electronic)
+IS  - 8756-971X (Linking)
+VI  - 37
+IP  - 4
+DP  - 2021 Dec 1
+TI  - A Field Efficacy Evaluation of In2Care Mosquito Traps in Comparison with Routine 
+      Integrated Vector Management at Reducing Aedes aegypti.
+PG  - 242-249
+LID - 10.2987/21-7038 [doi]
+AB  - Aedes aegypti is the predominant vector of dengue, chikungunya, and Zika viruses. 
+      This mosquito is difficult to control with conventional methods due to its 
+      container-inhabiting behavior and resistance to insecticides. Autodissemination 
+      of pyriproxyfen (PPF), a potent larvicide, has shown promise as an additional 
+      tool to control Aedes species in small-scale field trials. However, few 
+      large-scale field evaluations have been conducted. We undertook a 6-month-long 
+      large-scale field study to compare the effectiveness and operational feasibility 
+      of using In2Care Mosquito Traps (In2Care Traps, commercially available Aedes 
+      traps with PPF and Beauveria bassiana) compared to an integrated vector 
+      management (IVM) strategy consisting of source reduction, larviciding, and 
+      adulticiding for controlling Ae. aegypti eggs, larvae, and adults. We found that 
+      while the difference between treatments was only statistically significant for 
+      eggs and larvae (P < 0.05 for eggs and larvae and P > 0.05 for adults), the use 
+      of In2Care Traps alone resulted in 60%, 57%, and 57% fewer eggs, larvae, and 
+      adults, respectively, collected from that site compared to the IVM site. However, 
+      In2Care Trap deployment and maintenance were more time consuming and labor 
+      intensive than the IVM strategy. Thus, using In2Care Traps alone as a control 
+      method for large areas (e.g., >20 ha) may be less practical for control programs 
+      with the capacity to conduct ground and aerial larviciding and adulticiding. 
+      Based on our study results, we conclude that In2Care Traps are effective at 
+      suppressing Ae. aegypti and have the most potential for use in areas without 
+      sophisticated control programs and within IVM programs to target hotspots with 
+      high population levels and/or risk of Aedes-borne pathogen transmission.
+CI  - Copyright © 2021 by The American Mosquito Control Association, Inc.
+FAU - Buckner, Eva A
+AU  - Buckner EA
+FAU - Williams, Katie F
+AU  - Williams KF
+FAU - Ramirez, Samantha
+AU  - Ramirez S
+FAU - Darrisaw, Constance
+AU  - Darrisaw C
+FAU - Carrillo, Juliana M
+AU  - Carrillo JM
+FAU - Latham, Mark D
+AU  - Latham MD
+FAU - Lesser, Christopher R
+AU  - Lesser CR
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Am Mosq Control Assoc
+JT  - Journal of the American Mosquito Control Association
+JID - 8511299
+RN  - 0 (Insecticides)
+SB  - IM
+MH  - *Aedes
+MH  - Animals
+MH  - *Insecticides
+MH  - Mosquito Control
+MH  - Mosquito Vectors
+MH  - *Zika Virus
+MH  - *Zika Virus Infection
+OTO - NOTNLM
+OT  - Aedes aegypti
+OT  - In2Care traps
+OT  - container-inhabiting mosquitoes
+OT  - field evaluation
+OT  - mosquito control
+EDAT- 2021/11/25 06:00
+MHDA- 2022/01/27 06:00
+CRDT- 2021/11/24 12:23
+PHST- 2021/11/24 12:23 [entrez]
+PHST- 2021/11/25 06:00 [pubmed]
+PHST- 2022/01/27 06:00 [medline]
+AID - 474264 [pii]
+AID - 10.2987/21-7038 [doi]
+PST - ppublish
+SO  - J Am Mosq Control Assoc. 2021 Dec 1;37(4):242-249. doi: 10.2987/21-7038.
+
+PMID- 19943017
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100223
+LR  - 20201209
+IS  - 1519-566X (Print)
+IS  - 1519-566X (Linking)
+VI  - 38
+IP  - 5
+DP  - 2009 Sep-Oct
+TI  - [Susceptibility of the parasitoid Phymastichus coffea LaSalle (Hymenoptera: 
+      Eulophidae) to Beauveria bassiana under laboratory conditions].
+PG  - 665-70
+LID - S1519-566X2009000500017 [pii]
+AB  - The coffee berry borer, Hypothenemus hampei (Ferrari) (Coleoptera: 
+      Curculionidae), is the most important coffee pest worldwide. Beauveria bassiana 
+      is a generalist entomopathogenic fungus widely used by coffee farmers to control 
+      this pest and Phymastichus coffea LaSalle (Hymenoptera: Eulophidae) is an African 
+      endoparasitoid of H. hampei adults, recently imported to several Latin American 
+      and Caribbean countries to aid in the coffee berry borer control. The objective 
+      of this study was to determine if B. bassiana is detrimental to P. coffea. The 
+      susceptibility of the parasitoid was evaluated in terms of adult survivorship, 
+      mean lethal concentration (LC50), mean lethal time (LT50), reproduction and 
+      immature mortality. The main effect of the fungus resulted in reduction of adult 
+      longevity and mortality of 100% for immature stages of this parasitoid. The LC50 
+      for adults was 0.11% equivalent to 9.53 x 10(7) conidia/ml of B. bassiana and a 
+      LT50 of 29.4h, equivalent to reduction of 22% of its normal longevity as an 
+      adult. P. coffea was capable of disseminating spores of B. bassiana to 
+      non-infected H. hampei adults, which could indirectly cause the death of its own 
+      progeny. These results could be valuable when considering the use of both 
+      organisms in the field, especially in an integrated pest management program.
+FAU - Castillo, Alfredo
+AU  - Castillo A
+AD  - Depto. de Entomología Tropical, El Colegio de la Frontera Sur, Tapachula, 
+      Chiapas, México. acastill@ecosur.mx
+FAU - Gómez, Jaime
+AU  - Gómez J
+FAU - Infante, Francisco
+AU  - Infante F
+FAU - Vega, Fernando E
+AU  - Vega FE
+LA  - spa
+PT  - Journal Article
+TT  - Susceptibilidad del parasitoide Phymastichus coffea LaSalle (Hymenoptera: 
+      Eulophidae) a Beauveria bassiana en condiciones de laboratorio.
+PL  - Netherlands
+TA  - Neotrop Entomol
+JT  - Neotropical entomology
+JID - 101189728
+SB  - IM
+MH  - Animals
+MH  - *Beauveria
+MH  - Hymenoptera/*microbiology
+MH  - Pest Control, Biological
+EDAT- 2009/11/28 06:00
+MHDA- 2010/02/24 06:00
+CRDT- 2009/11/28 06:00
+PHST- 2008/04/01 00:00 [received]
+PHST- 2009/01/31 00:00 [accepted]
+PHST- 2009/11/28 06:00 [entrez]
+PHST- 2009/11/28 06:00 [pubmed]
+PHST- 2010/02/24 06:00 [medline]
+AID - S1519-566X2009000500017 [pii]
+AID - 10.1590/s1519-566x2009000500017 [doi]
+PST - ppublish
+SO  - Neotrop Entomol. 2009 Sep-Oct;38(5):665-70. doi: 10.1590/s1519-566x2009000500017.

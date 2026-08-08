@@ -16,23 +16,21 @@ Do **not** treat Semantic Scholar as a separate logged database unless a run is 
 
 **Citation chaining:** ResearchRabbit (or equivalent) from seed papers; not a substitute for the database runs above.
 
-## Raw export filenames (locked 2026-08-06)
+## Raw export filenames (locked 2026-08-06; run-label dropped 2026-08-07)
 
-Save under `search-results/raw/`:
+One bibliographic string per subquestion per database. Save under `input-phase0/input-rayyan/`:
 
 ```
-{subquestion}_{YYYY-MM-DD}_{database}_{run-label}.{ext}
+{subquestion}_{YYYY-MM-DD}_{database}.{ext}
 ```
 
 - **subquestion:** `01`, `02a`, `02b`, `02c`, `03`, `04`, `05`, or `06`
 - **database:** `pubmed`, `europepmc`, `scholar`, `dimensions`, `lens`, `espacenet`, `googlepatents`, `epa`, `eu-ppp`, `cabi`
-- **run-label:** short kebab case (`market-catalogue`, `delivery-systems`, or `main`)
 - **ext:** `ris`, `nbib`, `xml`, `csv`, `ciw`, or `txt` as exported
 
 Examples:
 
-- `01_2026-08-07_pubmed_market-catalogue.nbib`
-- `01_2026-08-07_pubmed_delivery-systems.nbib`
-- `02a_2026-08-07_scholar_main.txt`
+- `01_2026-08-07_pubmed.nbib`
+- `02a_2026-08-07_scholar.txt`
 
 If an export cannot be downloaded, still log hit count in `mabb literature search and setup database.md` and note "no file" in the log row.

@@ -13,20 +13,11 @@ rsync -av --delete \
 2. [[mabb documentation]] timeline
 3. [[mabb PRISMA reporting standards]]
 4. [[mabb research questions]]
-	1. 01-existing-products
-	2. 02-efficacy-mechanics-delivery
-		1. 02a_efficacy
-		2. 02b_strains_traits
-		3. 02c_formulation_delivery
-	3. 03-autodissemination-social
-	4. 04-nontarget-ecotox
-	5. 05-regulatory-policy
-	6. 06-background-proxies
 5. [[mabb literature search and setup database]]
-	1. [[mabb search string]]
+	1. [[mabb search strings]]
 	2. [[mabb databases]]
 		1. [[mabb consensus]]
-	3. [[mabb references from reviews]]
+	3. [[mabb references from reviews]] 68
 	4. [[mabb duplicates removed]] with rayyan (import RIS, CSV, pubmed xml, nbib, ciw file)
 6. [[mabb screening studies]]
 	1. [[mabb duplicates removed]]

@@ -1,4 +1,4 @@
-1. The production and uses of Beauveria bassiana as a microbial insecticide
+**1**. The production and uses of Beauveria bassiana as a microbial insecticide
     
     Mascarin
     

@@ -10,7 +10,7 @@ What evidence exists for the efficacy, strain traits, formulation/delivery, hori
 
 ## Subquestions
 
-**01-existing-products** What commercial or named experimental _B. bassiana_ products, formulations, or trap/bait/autodissemination systems are registered, marketed, or reported with product codes, and which use liquid, oil, protein, granular, biopolymer, encapsulation, seed-coating, or bait-based delivery? Search as two logged strings: market catalogue (all registered/commercial products and strains) and delivery systems (trap/bait/autodissemination devices).
+**01-existing-products** What commercial or named experimental _B. bassiana_ products, formulations, or trap/bait/autodissemination systems are registered, marketed, or reported with product codes, and which use liquid, oil, protein, granular, biopolymer, encapsulation, seed-coating, or bait-based delivery? One logged bibliographic string per database (product/strain/formulation catalogue; no trap/bait AND). Trap, bait-station, and autodissemination device trials are retrieved under `02a`, `02c`, and `03`.
 
 **02-efficacy-mechanics-delivery**
 

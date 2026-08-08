@@ -19,12 +19,8 @@ Studies on non-motivation taxa kept because strain, formulation, delivery, socia
 _Avoid_: Proxy as a synonym for out-of-scope noise; background-only papers without a clear transfer path (those belong in screening category `06-background-proxies` with explicit rationale)
 
 **Market catalogue search**:
-The broad `01-existing-products` run that retrieves registered/commercial _B. bassiana_ products and strains without requiring trap or bait terms.
-_Avoid_: Single products string that ANDs trap/bait and drops registry-only hits
-
-**Delivery systems search**:
-The narrow `01-existing-products` run that retrieves trap, bait station, and autodissemination device literature for _B. bassiana_.
-_Avoid_: Using this run alone as the product/strain inventory
+The single `01-existing-products` bibliographic string that retrieves registered/commercial _B. bassiana_ products and strains without requiring trap or bait terms. One logged string per subquestion per database.
+_Avoid_: ANDing trap/bait onto the `01` string and dropping registry-only hits; a second `01` delivery-systems string (device trials belong under `02a`, `02c`, and `03`)
 
 ### Review workflow
 
@@ -41,7 +37,7 @@ Full-text screening of records sought after Phase 1, including location failures
 _Avoid_: Phase II; full-text review when screening criteria are meant
 
 **Phase gate**:
-A concrete artifact boundary: Phase 2 agent workflows (PDF filing, inventory, PRISMA E counts) run only after all three named inputs exist on disk: `search-results/screening-phase2/relevant_articles_categorized.csv`, `search-results/screening-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton. `@file-pdfs` hard-stops at start if any are missing and does not invent stubs.
+A concrete artifact boundary: Phase 2 agent workflows (PDF filing, inventory, PRISMA E counts) run only after all three named inputs exist on disk: `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_not_downloaded.md`, and a README with study-selection / PRISMA skeleton. `@file-pdfs` hard-stops at start if any are missing and does not invent stubs.
 _Avoid_: Soft "when ready"; implied progress from chat memory; gating on the CSV alone; creating placeholder gate files to unblock the skill
 
 ### Sources of truth
@@ -72,8 +68,20 @@ _Avoid_: Committing `temp/`; treating research scratch as the search strategy so
 
 ### Search artifacts
 
+**Input phase 0**:
+Search-phase inputs under `input-phase0/`: raw database exports for Rayyan unduplication in `input-phase0/input-rayyan/`, and CitationChaser / ResearchRabbit seeds in `input-phase0/input-cc-rr/`.
+_Avoid_: `search-results/raw`; mixing seed files into the Rayyan upload set without a separate folder
+
+**Input phase 1**:
+Deduplicated bibliographic records under `input-phase1/` used as input for ASReview or Cursor-assisted title/abstract selection of relevant articles.
+_Avoid_: Screening from undeduplicated raw exports; treating Phase 1 as full-text PDF work
+
+**Input phase 2**:
+Relevant-article list and related gate files under `input-phase2/` used to select and file PDFs for extraction (`relevant_articles_categorized.csv`, `pdfs_not_downloaded.md`).
+_Avoid_: `search-results/screening-phase2`; inventing gate stubs before screening is done
+
 **Raw search export**:
-A tracked file under `search-results/raw/` (optionally per database) holding a database export used for import into Rayyan or later screening (RIS, PubMed XML, NBIB, CSV, and similar).
+A tracked file under `input-phase0/input-rayyan/` (optionally with `split/` chunks) holding a database export used for import into Rayyan or later screening (RIS, PubMed XML, NBIB, CSV, and similar).
 _Avoid_: Leaving exports only outside the repo when reproducibility in-repo is required; storing raw exports under `temp/`
 
 **Consensus coverage check**:
