@@ -1,12 +1,30 @@
-m2 1:1
-```
-rsync -av --delete \
-  "/Users/md/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/400 computer vision/beauveria-bassiana" \
-  "/Users/md/Developer/beauveria-bassiana/notes/"
-```
-[[mabb notes comparison and update]]
 
+### Inbox
 [[mabb inbox]]
+
+---
+
+### Sync cursor obsidian
+[[mabb notes comparison and update]] 
+
+---
+
+## Phase2 screening results
+[[mabb phase2 01-key]]
+[[mabb phase2 02a efficacy]]
+[[mabb phase2 02b-strains-traits]]
+[[mabb phase2 02c-formulation-delivery]]
+[[mabb phase2 03-autodissemination-social]]
+[[mabb phase2 04-nontarget-ecotox]]
+[[mabb phase2 05-regulatory-policy]]
+[[mabb phase2 06-background-proxies]]
+[[mabb phase2 07-vespideae-biocontrol]]
+
+[[mabb phase2 99-excluded]]
+
+[[mabb template request pdf]]
+
+---
 # Conventional meta-analysis documentation
 
 1. [[mabb title]]
@@ -22,9 +40,10 @@ rsync -av --delete \
 6. [[mabb screening studies]]
 	1. [[mabb duplicates removed]]
 	2. [[mabb unique items for phase 1 screening]]
+		1. [[mabb asreview tags]]
 	3. [[mabb items removed during phase 1 screening]]
 	4. [[mabb items sought for phase 2 screening]] 
-		1. [[pdf download alternatives]] 
+		1. [[pdf download alternatives]]
 		2. noteer waarom item niet beschikbaar is
 	5. [[mabb items screent for phase 2 screening]]
 	6. [[mabb total number of research items]]

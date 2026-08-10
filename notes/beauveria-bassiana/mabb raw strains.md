@@ -1,4 +1,8 @@
-- [Beauveria bassiana (Bulsamo)](https://sitem.herts.ac.uk/aeru/bpdb/Reports/4140.htm) [[Open in new window](https://sitem.herts.ac.uk/aeru/bpdb/Reports/4140.htm)]
+![[mabb raw strains.png]]-
+https://www.researchgate.net/publication/356107046_Isolation_and_evaluation_of_South_African_isolates_of_Beauveria_bassiana_Hypocreales_Cordycipitaceae_on_Rhipicephalus_microplus_Acari_Ixodidae/figures
+
+
+[Beauveria bassiana (Bulsamo)](https://sitem.herts.ac.uk/aeru/bpdb/Reports/4140.htm) [[Open in new window](https://sitem.herts.ac.uk/aeru/bpdb/Reports/4140.htm)]
 - [Beauveria bassiana strain 147](https://sitem.herts.ac.uk/aeru/bpdb/Reports/2865.htm) [[Open in new window](https://sitem.herts.ac.uk/aeru/bpdb/Reports/2865.htm)]
 - [Beauveria bassiana strain 203](https://sitem.herts.ac.uk/aeru/bpdb/Reports/3179.htm) [[Open in new window](https://sitem.herts.ac.uk/aeru/bpdb/Reports/3179.htm)]
 - [Beauveria bassiana strain ATCC 74040](https://sitem.herts.ac.uk/aeru/bpdb/Reports/1394.htm) [[Open in new window](https://sitem.herts.ac.uk/aeru/bpdb/Reports/1394.htm)]
@@ -18,3 +22,5 @@ https://www.certisbio.com/hubfs/Botanigard_ES_SpLbl_20240409_82074-1_per_2024040
 MycotrolESO_white
 https://www.certisbio.com/greenhouse/products/mycotrol-eso
 ##### _Beauveria bassiana_  Strain GHA, 11.3%
+
+Eco-Bb = Bb R444 (01 vanZyl-2025)
