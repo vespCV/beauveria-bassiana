@@ -1,0 +1,33 @@
+---
+description: Forbidden automated web scraping (especially Google Scholar); allowed read-only page fetches and human-driven search handoff.
+alwaysApply: true
+---
+
+# Web access
+
+## Never automate search engines
+
+Do **not** drive Google Scholar, Google Search, Bing, DuckDuckGo, or similar search-result pages with browser automation, scripts, headless clients, or rapid repeated requests. That triggers unusual-traffic / CAPTCHA blocks on the user's network and can violate the site's terms.
+
+Also never:
+
+- Paginate or scrape Scholar (or other SERPs) via the browser MCP or CDP
+- Loop queries, open many result pages, or retry through a block
+- Use scrapers, SERP APIs, or bulk HTTP against Google Scholar as a substitute for the blocked browser path
+
+## Allowed web use
+
+- **Single-page reads:** `WebFetch` or one intentional navigation to a **specific document URL** the user named, or a first-party docs/API page needed for `@research` (not a search-results listing).
+- **WebSearch:** only for a focused lookup when a skill or the user needs a citeable URL; do not use it to reconstruct a full Scholar run or dump hundreds of hits.
+- **Human handoff for database runs:** Google Scholar, PubMed UI walks, and other logged database runs stay with the user (or exports they already placed under `input-phase0/` / `temp/`). Agent matches, triages, and files from those exports; it does not harvest the SERP itself.
+
+## If a coverage or Scholar check is requested
+
+1. Build baseline keys and output stubs under `temp/` as needed.
+2. Ask the user to run the locked strings in their normal browser and paste or drop hits (e.g. into `temp/scholar-coverage/<category>/hits.csv`).
+3. Run match/triage only on files the user provided.
+4. If the network is already blocked by Google, stop immediately; do not retry.
+
+## On block or CAPTCHA
+
+Stop. Unlock/close the automated browser tab. Mark the task blocked. Do not suggest workarounds that keep hitting Google from this environment.

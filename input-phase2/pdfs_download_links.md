@@ -1,10 +1,10 @@
 # PDF download links
 
-133 Phase 2 includes still without a filed PDF (download-link list). Each item: DOI (or article URL if no DOI), ResearchGate publication search, then DuckDuckGo title search.
+117 Phase 2 includes still without a filed PDF (download-link list). Each item: DOI (or article URL if no DOI), ResearchGate publication search, then DuckDuckGo title search.
 
 ## 00-key-papers (0)
 
-## 01-existing-products (55)
+## 01-existing-products (49)
 
 - **2000 — Mycoinsecticides for aphid management : a biorational approach** ·  · [ResearchGate](https://www.researchgate.net/search/publication?q=Mycoinsecticides+for+aphid+management+%3A+a+biorational+approach) · [DuckDuckGonotrequested---](https://duckduckgo.com/?q=Mycoinsecticides+for+aphid+management+%3A+a+biorational+approach+.pdf&ia=web) not requested - old not available via doi
 - 
@@ -53,7 +53,6 @@
 - 
 - **2015 — Laboratory bioassay of Beauveria bassiana against Tetranychus urticae (Acari: Tetranychidae) on leaf discs and potted bean plants.** · [DOI/URL](https://doi.org/10.1007/s10493-014-9871-2) · [ResearchGate](https://www.researchgate.net/search/publication?q=Laboratory+bioassay+of+Beauveria+bassiana+against+Tetranychus+urticae+%28Acari%3A+Tetranychidae%29+on+leaf+discs+and+potted+bean+plants.) · [DuckDuckGo](https://duckduckgo.com/?q=Laboratory+bioassay+of+Beauveria+bassiana+against+Tetranychus+urticae+%28Acari%3A+Tetranychidae%29+on+leaf+discs+and+potted+bean+plants.+.pdf&ia=web) not requested - not available via doi
 - 
-- **2016 — Effect of seed treatment duration on growth and colonization of Vicia faba by endophytic Beauveria bassiana and Metarhizium brunneum** · [DOI/URL](https://doi.org/10.1016/j.biocontrol.2016.09.008) · [ResearchGate](https://www.researchgate.net/search/publication?q=Effect+of+seed+treatment+duration+on+growth+and+colonization+of+Vicia+faba+by+endophytic+Beauveria+bassiana+and+Metarhizium+brunneum) · [DuckDuckGo](https://duckduckgo.com/?q=Effect+of+seed+treatment+duration+on+growth+and+colonization+of+Vicia+faba+by+endophytic+Beauveria+bassiana+and+Metarhizium+brunneum+.pdf&ia=web) not requested - not available via doi
 - 
 - **2016 — Effects of entomopathogenic fungi on Encarsia formosa Gahan. (Hymenoptera: Aphelinidae) activity and behavior** · [DOI/URL](https://doi.org/10.1016/j.biocontrol.2016.05.011) · [ResearchGate](https://www.researchgate.net/search/publication?q=Effects+of+entomopathogenic+fungi+on+Encarsia+formosa+Gahan.+%28Hymenoptera%3A+Aphelinidae%29+activity+and+behavior) · [DuckDuckGo](https://duckduckgo.com/?q=Effects+of+entomopathogenic+fungi+on+Encarsia+formosa+Gahan.+%28Hymenoptera%3A+Aphelinidae%29+activity+and+behavior+.pdf&ia=web) not requested - not available via doi
 - 
@@ -116,7 +115,7 @@
 
 
 
-## 02c_formulation_delivery (32)
+## 02c_formulation_delivery (25)
 
 - 
 
@@ -129,15 +128,12 @@
 - 
 - **2007 — Perspectives for the biological control of Cameraria ohridella.** · [DOI/URL](https://pubmed.ncbi.nlm.nih.gov/18399483/) · [ResearchGate](https://www.researchgate.net/search/publication?q=Perspectives+for+the+biological+control+of+Cameraria+ohridella.) · [DuckDuckGo](https://duckduckgo.com/?q=Perspectives+for+the+biological+control+of+Cameraria+ohridella.+.pdf&ia=web) not requested - not available via doi
 - 
-- **2007 — The use of aggregation pheromone to enhance dissemination of Beauveria bassiana for the control of the banana weevil in Uganda** · [DOI/URL](https://doi.org/10.1080/09583150600937089) · [ResearchGate](https://www.researchgate.net/search/publication?q=The+use+of+aggregation+pheromone+to+enhance+dissemination+of+Beauveria+bassiana+for+the+control+of+the+banana+weevil+in+Uganda) · [DuckDuckGo](https://duckduckgo.com/?q=The+use+of+aggregation+pheromone+to+enhance+dissemination+of+Beauveria+bassiana+for+the+control+of+the+banana+weevil+in+Uganda+.pdf&ia=web) not requested - not available via doi
-- 
 - **2008 — Occurrence and diversity of insect-associated fungi in natural soils in China** · [DOI/URL](https://doi.org/10.1016/j.apsoil.2007.12.001) · [ResearchGate](https://www.researchgate.net/search/publication?q=Occurrence+and+diversity+of+insect-associated+fungi+in+natural+soils+in+China) · [DuckDuckGo](https://duckduckgo.com/?q=Occurrence+and+diversity+of+insect-associated+fungi+in+natural+soils+in+China+.pdf&ia=web) not requested - not available via doi
 - 
 - **2010 — Field applications of Beauveria bassiana to control the European cherry fruit fly Rhagoletis cerasi** · [DOI/URL](https://doi.org/10.1111/j.1439-0418.2009.01486.x) · [ResearchGate](https://www.researchgate.net/search/publication?q=Field+applications+of+Beauveria+bassiana+to+control+the+European+cherry+fruit+fly+Rhagoletis+cerasi) · [DuckDuckGo](https://duckduckgo.com/?q=Field+applications+of+Beauveria+bassiana+to+control+the+European+cherry+fruit+fly+Rhagoletis+cerasi+.pdf&ia=web) not requested - not available via doi
 - 
 - **2011 — Efficacy of Beauveria bassiana against the red imported fire ant, Solenopsis invicta (Hymenoptera: Formicidae), in Taiwan** · [DOI/URL](https://doi.org/10.1002/ps.2192) · [ResearchGate](https://www.researchgate.net/search/publication?q=Efficacy+of+Beauveria+bassiana+against+the+red+imported+fire+ant%2C+Solenopsis+invicta+%28Hymenoptera%3A+Formicidae%29%2C+in+Taiwan) · [DuckDuckGo](https://duckduckgo.com/?q=Efficacy+of+Beauveria+bassiana+against+the+red+imported+fire+ant%2C+Solenopsis+invicta+%28Hymenoptera%3A+Formicidae%29%2C+in+Taiwan+.pdf&ia=web) not requested - not available via doi
 - 
-- **2011 — Occurrence of entomopathogenic fungi from agricultural and natural ecosystems in Saltillo, Mexico, and their virulence towards thrips and whiteflies** · [DOI/URL](https://doi.org/10.1673/031.011.0101) · [ResearchGate](https://www.researchgate.net/search/publication?q=Occurrence+of+entomopathogenic+fungi+from+agricultural+and+natural+ecosystems+in+Saltillo%2C+Mexico%2C+and+their+virulence+towards+thrips+and+whiteflies) · [DuckDuckGo](https://duckduckgo.com/?q=Occurrence+of+entomopathogenic+fungi+from+agricultural+and+natural+ecosystems+in+Saltillo%2C+Mexico%2C+and+their+virulence+towards+thrips+and+whiteflies+.pdf&ia=web) not requested - not available via doi
 - **2011 — Virulence of Beauveria bassiana, Metarhizium anisopliae and Paecilomyces lilacinus to the engorged female Hyalomma anatolicum anatolicum tick (Acari: Ixodidae)** · [DOI/URL](https://doi.org/10.1016/j.vetpar.2011.03.027) · [ResearchGate](https://www.researchgate.net/search/publication?q=Virulence+of+Beauveria+bassiana%2C+Metarhizium+anisopliae+and+Paecilomyces+lilacinus+to+the+engorged+female+Hyalomma+anatolicum+anatolicum+tick+%28Acari%3A+Ixodidae%29) · [DuckDuckGo](https://duckduckgo.com/?q=Virulence+of+Beauveria+bassiana%2C+Metarhizium+anisopliae+and+Paecilomyces+lilacinus+to+the+engorged+female+Hyalomma+anatolicum+anatolicum+tick+%28Acari%3A+Ixodidae%29+.pdf&ia=web) not requested - not available via doi
 - 
 - **2013 — Beauveria bassiana strains for biological control of Cosmopolites sordidus (Germ.) (Coleoptera: Curculionidae) in plantain** · [DOI/URL](https://doi.org/10.1155/2013/184756) · [ResearchGate](https://www.researchgate.net/search/publication?q=Beauveria+bassiana+strains+for+biological+control+of+Cosmopolites+sordidus+%28Germ.%29+%28Coleoptera%3A+Curculionidae%29+in+plantain) · [DuckDuckGo](https://duckduckgo.com/?q=Beauveria+bassiana+strains+for+biological+control+of+Cosmopolites+sordidus+%28Germ.%29+%28Coleoptera%3A+Curculionidae%29+in+plantain+.pdf&ia=web) not available via doi
@@ -153,8 +149,6 @@
 - **2018 — Pest Management Strategies Against the Coffee Berry Borer (Coleoptera: Curculionidae: Scolytinae).** · [DOI/URL](https://doi.org/10.1021/acs.jafc.7b04875) · [ResearchGate](https://www.researchgate.net/search/publication?q=Pest+Management+Strategies+Against+the+Coffee+Berry+Borer+%28Coleoptera%3A+Curculionidae%3A+Scolytinae%29.) · [DuckDuckGo](https://duckduckgo.com/?q=Pest+Management+Strategies+Against+the+Coffee+Berry+Borer+%28Coleoptera%3A+Curculionidae%3A+Scolytinae%29.+.pdf&ia=web) not requested - not available via doi
 - 
 - **2018 — Phylogenetic Relationships and Acaricidal Effects of Beauveria bassiana Obtained from Cattle Farm Soils Against Rhipicephalus microplus** · [DOI/URL](https://doi.org/10.1645/17-162) · [ResearchGate](https://www.researchgate.net/search/publication?q=Phylogenetic+Relationships+and+Acaricidal+Effects+of+Beauveria+bassiana+Obtained+from+Cattle+Farm+Soils+Against+Rhipicephalus+microplus) · [DuckDuckGo](https://duckduckgo.com/?q=Phylogenetic+Relationships+and+Acaricidal+Effects+of+Beauveria+bassiana+Obtained+from+Cattle+Farm+Soils+Against+Rhipicephalus+microplus+.pdf&ia=web) not requested - not available via doi
-- 
-- **2019 — Agroforestry coffee soils increase the insect-suppressive potential offered by entomopathogenic fungi over full-sun soils: A case proposing a 'bait survival technique'** · [DOI/URL](https://doi.org/10.1002/ece3.5598) · [ResearchGate](https://www.researchgate.net/search/publication?q=Agroforestry+coffee+soils+increase+the+insect-suppressive+potential+offered+by+entomopathogenic+fungi+over+full-sun+soils%3A+A+case+proposing+a+%27bait+survival+technique%27) · [DuckDuckGo](https://duckduckgo.com/?q=Agroforestry+coffee+soils+increase+the+insect-suppressive+potential+offered+by+entomopathogenic+fungi+over+full-sun+soils%3A+A+case+proposing+a+%27bait+survival+technique%27+.pdf&ia=web) not requested - not available via doi
 - 
 - **2019 — Effect of Bark Application With Beauveria bassiana and Permethrin Insecticide on the Walnut Twig Beetle (Coleoptera: Curculionidae) in Black Walnut Bolts** · [DOI/URL](https://doi.org/10.1093/jee/toz150) · [ResearchGate](https://www.researchgate.net/search/publication?q=Effect+of+Bark+Application+With+Beauveria+bassiana+and+Permethrin+Insecticide+on+the+Walnut+Twig+Beetle+%28Coleoptera%3A+Curculionidae%29+in+Black+Walnut+Bolts) · [DuckDuckGo](https://duckduckgo.com/?q=Effect+of+Bark+Application+With+Beauveria+bassiana+and+Permethrin+Insecticide+on+the+Walnut+Twig+Beetle+%28Coleoptera%3A+Curculionidae%29+in+Black+Walnut+Bolts+.pdf&ia=web) not requested - not available via doi
 - 
@@ -174,9 +168,7 @@
 - 
 - **2025 — Biological characteristics and pathogenicity of entomopathogenic Beauveria bassiana (Bals.-Criv.) Vuill (Hypocreales: Cordycipitaceae) isolated from soils in Northern Kenya against desert locust (Schistocerca gregaria) (Forskal) (Orthoptera: Acrididae)** · [DOI/URL](http://europepmc.org/abstract/AGR/IND608793514) · [ResearchGate](https://www.researchgate.net/search/publication?q=Biological+characteristics+and+pathogenicity+of+entomopathogenic+Beauveria+bassiana+%28Bals.-Criv.%29+Vuill+%28Hypocreales%3A+Cordycipitaceae%29+isolated+from+soils+in+Northern+Kenya+against+desert+locust+%28Schistocerca+gregaria%29+%28Forskal%29+%28Orthoptera%3A+Acrididae%29) · [DuckDuckGo](https://duckduckgo.com/?q=Biological+characteristics+and+pathogenicity+of+entomopathogenic+Beauveria+bassiana+%28Bals.-Criv.%29+Vuill+%28Hypocreales%3A+Cordycipitaceae%29+isolated+from+soils+in+Northern+Kenya+against+desert+locust+%28Schistocerca+gregaria%29+%28Forskal%29+%28Orthoptera%3A+Acrididae%29+.pdf&ia=web) not requested - not available via doi - not requested: section snippets will be sufficient (kenya)
 - 
-- **2026 — Longifolene enhances Beauveria bassiana bait by counteracting repellency in the fungus-growing termite Odontotermes formosanus.** · [DOI/URL](https://doi.org/10.1002/ps.71038) · [ResearchGate](https://www.researchgate.net/search/publication?q=Longifolene+enhances+Beauveria+bassiana+bait+by+counteracting+repellency+in+the+fungus-growing+termite+Odontotermes+formosanus.) · [DuckDuckGo](https://duckduckgo.com/?q=Longifolene+enhances+Beauveria+bassiana+bait+by+counteracting+repellency+in+the+fungus-growing+termite+Odontotermes+formosanus.+.pdf&ia=web) not requested - not available via doi - termiet die schimmels kweekt - longifolene (terpeen uit pinus) REQUESTED 2026-08-08
-
-## 03-autodissemination-social (29)
+## 03-autodissemination-social (27)
 
 - **2004 — Horizontal transmission of the entomopathogenic fungus Beauveria bassiana among the spruce bark beetle, Ips typographus (Col., Scolytidae) in the laboratory and under field conditions** · [DOI/URL](https://doi.org/10.1080/788222844) · [ResearchGate](https://www.researchgate.net/search/publication?q=Horizontal+transmission+of+the+entomopathogenic+fungus+Beauveria+bassiana+among+the+spruce+bark+beetle%2C+Ips+typographus+%28Col.%2C+Scolytidae%29+in+the+laboratory+and+under+field+conditions) · [DuckDuckGo](https://duckduckgo.com/?q=Horizontal+transmission+of+the+entomopathogenic+fungus+Beauveria+bassiana+among+the+spruce+bark+beetle%2C+Ips+typographus+%28Col.%2C+Scolytidae%29+in+the+laboratory+and+under+field+conditions&ia=web) not available via doi
 - **1995 — Dissemination of microbial agents using an autoinoculating device and several insect species as vectors** · [DOI/URL](https://doi.org/10.1006/bcon.1995.1064) · [ResearchGate](https://www.researchgate.net/search/publication?q=Dissemination+of+microbial+agents+using+an+autoinoculating+device+and+several+insect+species+as+vectors) · [DuckDuckGo](https://duckduckgo.com/?q=Dissemination+of+microbial+agents+using+an+autoinoculating+device+and+several+insect+species+as+vectors+.pdf&ia=web) not requested - not available via doi
@@ -189,10 +181,6 @@
 - 
 - **2003 — Autodissemination of Beauveria bassiana by sap beetles (Coleoptera: Nitidulidae) to overwintering sites** · [DOI/URL](https://doi.org/10.1080/0958315021000054395) · [ResearchGate](https://www.researchgate.net/search/publication?q=Autodissemination+of+Beauveria+bassiana+by+sap+beetles+%28Coleoptera%3A+Nitidulidae%29+to+overwintering+sites) · [DuckDuckGo](https://duckduckgo.com/?q=Autodissemination+of+Beauveria+bassiana+by+sap+beetles+%28Coleoptera%3A+Nitidulidae%29+to+overwintering+sites+.pdf&ia=web) not requested - not available via doi
 - 
-- 
-- **2007 — Horizontal transmission of Beauveria bassiana in Anastrepha ludens (Diptera: Tephritidae) under laboratory and field cage conditions** · [DOI/URL](https://doi.org/10.1603/0022-0493(2007)100[291:htobbi]2.0.co;2) · [ResearchGate](https://www.researchgate.net/search/publication?q=Horizontal+transmission+of+Beauveria+bassiana+in+Anastrepha+ludens+%28Diptera%3A+Tephritidae%29+under+laboratory+and+field+cage+conditions) · [DuckDuckGo](https://duckduckgo.com/?q=Horizontal+transmission+of+Beauveria+bassiana+in+Anastrepha+ludens+%28Diptera%3A+Tephritidae%29+under+laboratory+and+field+cage+conditions+.pdf&ia=web) not requested - not available via doi
-- 
-- **2010 — Pathogenicity of entomopathogenic fungi Metarhizium anisopliae and Beauveria bassiana (Hypocreales: Clavicipitaceae) isolates to the adult pea leafminer (Diptera: Agromyzidae) and prospects of an autoinoculation device for infection in the field** · [DOI/URL](https://doi.org/10.1603/en09359) · [ResearchGate](https://www.researchgate.net/search/publication?q=Pathogenicity+of+entomopathogenic+fungi+Metarhizium+anisopliae+and+Beauveria+bassiana+%28Hypocreales%3A+Clavicipitaceae%29+isolates+to+the+adult+pea+leafminer+%28Diptera%3A+Agromyzidae%29+and+prospects+of+an+autoinoculation+device+for+infection+in+the+field) · [DuckDuckGo](https://duckduckgo.com/?q=Pathogenicity+of+entomopathogenic+fungi+Metarhizium+anisopliae+and+Beauveria+bassiana+%28Hypocreales%3A+Clavicipitaceae%29+isolates+to+the+adult+pea+leafminer+%28Diptera%3A+Agromyzidae%29+and+prospects+of+an+autoinoculation+device+for+infection+in+the+field+.pdf&ia=web) not requested - not available via doi
 - 
 - **2012 — Effect of bee-vectored Beauveria bassiana on greenhouse beneficials under greenhouse cage conditions** · [DOI/URL](https://doi.org/10.1016/j.biocontrol.2012.07.008) · [ResearchGate](https://www.researchgate.net/search/publication?q=Effect+of+bee-vectored+Beauveria+bassiana+on+greenhouse+beneficials+under+greenhouse+cage+conditions) · [DuckDuckGo](https://duckduckgo.com/?q=Effect+of+bee-vectored+Beauveria+bassiana+on+greenhouse+beneficials+under+greenhouse+cage+conditions+.pdf&ia=web) not requested - not available via doi
 - **2013 — Mycosis inhibits cannibalism by Melanoplus sanguinipes, M. differentialis, Schistocerca americana, and Anabrus simplex** · [DOI/URL](https://doi.org/10.1673/031.013.12201) · [ResearchGate](https://www.researchgate.net/search/publication?q=Mycosis+inhibits+cannibalism+by+Melanoplus+sanguinipes%2C+M.+differentialis%2C+Schistocerca+americana%2C+and+Anabrus+simplex) · [DuckDuckGo](https://duckduckgo.com/?q=Mycosis+inhibits+cannibalism+by+Melanoplus+sanguinipes%2C+M.+differentialis%2C+Schistocerca+americana%2C+and+Anabrus+simplex+.pdf&ia=web) not requested - not available via doi
@@ -235,7 +223,7 @@
 
 
 
-## 04-nontarget-ecotox (13)
+## 04-nontarget-ecotox (12)
 
 - 
 - 

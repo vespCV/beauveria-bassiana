@@ -48,6 +48,7 @@ pdfs/
 05-regulatory-policy/
 06-background-proxies/
 07-vespideae-biocontrol/
+99-excluded/
 
 For `02a` / `02b` / `02c`, file under `pdfs/02-efficacy-mechanics-delivery/{subcategory}/`.
 

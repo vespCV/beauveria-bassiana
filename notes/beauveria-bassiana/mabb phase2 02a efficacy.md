@@ -1,5 +1,13 @@
 ### Summary
-Information on social wasps
+Effective: 
+- colony collaps
+- stop/reduce population from reproducing? [[princeSusceptibilityMyzusPersicae2020]]
+1. killing adult insects so that the length of their reproductive period is shortened
+2. causing pre-mortem reductions in adult reproductive rate
+3. killing juvenile stages before they reach reproductive age
+
+### Information on social wasps
+- Limited information in terms of spores per unit area or CFU's (fresh (re-cultured before use is better vs formulation))
 - effect on cuticular hydrocarbons
 	- prevented pathogen-infected individuals into the nest
 	- CHC patern did not change, no effect on social interaction
@@ -7,8 +15,11 @@ Information on social wasps
 	- altered locomotion and feeding rate
 - colony failure
 	- seldom recorded [[rosePossiblePathogensSocial1999]]
+- effects are not as rapid as those of conventional pesticides
+
 
 ---
+# Effect on vespideae
 
 **Effect on cuticular hydrocarbons**
 Alteration of CHC profile by Beauveria bassian prevented pathogen-infected individuals into the nest
@@ -50,8 +61,134 @@ Disclosure statement: The authors declare no conflict of interest.
 Funding: HealthPost Nature Trust and Department of Conservation, New Zealand. The APC was funded by P.J.L.
 [[reasonIdentityPrevalencePathogenicity2022]]
 
+**Effect of Bb (R444) and Heterorhabditis bacteriophora combination on P. dominula and V. germanica**
+- mixture best result (300IJs/50ul nematodes, 2g/L (2x10(9) spores) sprayed direct on the nest)
+- best result with open nest of P. dominula
+- 25C, relative humidity >80%
+- in situ nest only 31% of larvae 3.42% of pupae infected
+Direct mailadres of RV available
+- Conservation Ecology and Entomology, Stellenbosch University, Matieland, South Africa; 
+- South African National Biodiversity Institute, Kirstenbosch Research Centre, Claremont, South Africa
+Disclosure statement: no conflict of interest
+Funding: The South African Department of Forestry, Fisheries and the Environment (DFFE
+[[vanzylPotentialControlVespula2024]]
 
 
+---
+# Effect on non-vespideae
+
+**Diaphorina citri** 
+- ‘The strains evaluated, Bb-Rhy, Bb-Dc, Bb-18, Botanigard, and Bb-Hy, killed 58, 56, 45, 43, and 21%,’ (Cruz-Cruz, 2020, p. 609)
+[[cruz-cruzPathogenicityBeauveriaBassiana2020]]
+
+**Lycorma delicatula**
+- spotted lanternfly, grape pest
+- BoteGHA and Aprehend >90% adults after 9d
+[[cliftonApplicationsBeauveriaBassiana2020]]
+
+**Myzus persicae**
+- Botanigard ED and Naturalis L
+[[princeSusceptibilityMyzusPersicae2020]]
+
+**Atta cephaloted**
+- leafcutter ant
+- combination of B. bassiana and T. lignorum spores represent a viable alternative for the control of the leafcutter ant
+[[dazaSporesBeauveriaBassiana2019]]
+
+**Musca domestica** and **Stomoxys calcitrans**
+- house flies
+- significant increase in mortality of house flies with three of the formulations, BotaniGard® ES, Mycotrol® O, and Met52® EC, during days 4–9 in comparison with balEnceTM and the control. 
+[[weeksEffectsFourCommercial2017]]
+
+**Megacopta cribraria**
+- Kudzu bug
+- three strains of Beauveria bassiana (Balsamo), including the Mississippi Delta native strain (NI8) isolated from Lygus lineolaris (Palisot de Beauvois), the commercial strain BotaniGard® (GHA) (Victor, NY, USA), and the B. bassiana strain isolated from M. cribraria (KUDSC)
+- B. bassiana (KUDSC and NI8) are highly effective for young adults at very low doses
+[[portillaEstimationMedianLethal2016]]
+
+**Dargida diffusa**
+- wheat head armyworm
+- Entrust® WP (spinosad 80%), Mycotrol® ESO (Beauveria bassiana GHA), Aza-Direct® (azadirachtin), Met52® EC (Metarhizium brunneum F52), Xpectro® OD (Beauveria bassiana GHA + pyrethrins), and Xpulse® OD (Beauveria bassiana GHA + azadirachtin)
+[[reddyToxicityNaturalInsecticides2016]]
+
+**larvae of Polyphylla fullo**
+- June beetle
+- Beauveria bassiana (Bals.) Vuill. (Deuteromycotina: Hyphomycetes) strain PPRI 5339, BroadBand, an emulsifiable spore concentrate (EC) formulation] and Metarhizium anisopliae (Metsch.) Sorokin (Hypocreales: Clavicipitaceae) strain F52,  Met52, both EC and granular (GR) formulations]
+- The B. bassiana product was more effective than both of the formulations of the M. anisopliae product, causing mortalities up to 79.8 and 71.6% in young and older larvae, respectively. The highest mortality rates of young and older larvae caused by the M. anisopliae product were 74.1 and 67.6% for the GR formulation, 70.2 and 61.8% for the EC formulation, respectively.
+[[erlerPotentialTwoEntomopathogenic2015]]
+
+**Halyomorpha halys** 
+- Brown Marmorated Stink Bug
+- 2 formulations of Bb GHA were tested
+	- BotaniGard® 22WP (wettable powder), and
+	- BotaniGard® ES (emulsifiable suspension)
+- wettable powder formulation was slightly more efficacious
+[[parkerVirulenceBotaniGardSecond2015]]
+
+**parkerVirulenceBotaniGardSecond2015**
+- annual bluegrass weevil
+- 24h effect due to the carrier oil
+- combined with neonicotinoids
+- These data demonstrate that B. bassiana either alone or combined with a neonicotinoid, a surfactant, or both, may have potential for control of L. maculicollis in the field.
+[[clavetLaboratoryAssessmentBeauveria2013]]
+
+**Ceratitis rosa - C. capitata - Thaumatotibia leucotreta**
+- false codling moth - Mediterranean fruit fly - Natal fruit fly
+- Depending on fungal isolate, the percentage of T. leucotreta adults which emerged from fungal treated sand ranged from 5 to 60% and the percentage of pupae with visible signs of mycosis ranged from 21 to 93%
+[[gobleInvestigationNativeIsolates2011]]
+
+**larvae of diamondback moth (Plutella xylostella) (DBM), European corn borer (Ostrinia nubilalis) (ECB), corn earworm (Helicoverpa zea) (CEW), and fall armyworm (Spodoptera frugiperda) (FAW)**
+- B. bassiana was pathogenic against larvae of all Lepidoptera species tested, and numerous highly virulent isolates were identified.
+
+**lepidopteran pests of vegetable crops**
+- many species
+[[wraightComparativeVirulenceBeauveria2010]]
+
+**Tetranychus urticae**
+- spider mite
+- Naturalis-L
+- better control than expected from the lab assays
+[[chandlerLaboratoryGlasshouseEvaluation2005]]
+
+**Aculops lycopersici**
+- tomato russet mite
+- reduce trm populations
+- limited residual activity
+[[sybilskaLaboratoryEvaluationBeauveria]]
+
+**Phyllotreta cruciferae**
+- crucifer ßea beetle
+- LT50 less compared to chemical insecticide
+[[antwiComparisonsEcorationalChemical]]
+
+---
+### NO effect on non-vespideae
+
+- **Eggs of Diaphorina citri (bladvlo)**
+	- Bb-Rhy, Bb-Dc, Bb-18, Botanigard, and Bb-Hy (chorion that is a strong barrier against invasion by fungal spores.)
+[[cruz-cruzPathogenicityBeauveriaBassiana2020]]
+- cabbage aphid Brevicoryne brassicae, and currant-lettuce aphid Nasonovia ribisnigri
+[[princeSusceptibilityMyzusPersicae2020]]
+
+---
+### Efficacy influenced by
+- Fungi degrade quickly in UV light
+[[kirschLarvalMortalityOvipositional2022]]
+- Efficacy
+	- Re-cultured product (70% efficacy)
+	- As prescribed (60%)
+	- 1 year 4°C (20%)
+[[nouri-aiinBiocontrolInvasivePheretimoid2021]]
+
+**Delia radicum**
+- Cabbage root fly 
+- Beauveria bassiana ATCC 74040-based biopesticide Naturalis
+[[razingerComparisonCauliflowerInsect2017]]
+
+---
+### Efficacy NOT influenced by
+- residues of pesticides (Aprehend ([GHA](https://pmc.ncbi.nlm.nih.gov/articles/PMC5847144/))- bedbugs)
+[[shikanoEffectsChemicalInsecticide2021]] Conflicts of Interest: patent and co-founder of company that formulates Aprehend
 
 ---
 

@@ -1,0 +1,717 @@
+{
+  "comment": "Curated Neoptera scaffold plus insect taxa named in Zotero notes. Add a leaf, re-run extract_taxa.py. Roles: motivation, vespidae, nontarget, social_proxy, distant_proxy.",
+  "notes_dir": "notes/beauveria-bassiana/zotero",
+  "extra_notes_dirs": ["temp/zotero-annotations"],
+  "tree": {
+    "id": "neoptera",
+    "label": "Ancestral Neoptera Insects",
+    "kind": "clade",
+    "children": [
+      {
+        "id": "polyneoptera",
+        "label": "Polyneoptera (Incomplete Meta.)",
+        "kind": "clade",
+        "children": [
+          {
+            "id": "orthoptera",
+            "label": "Grasshoppers and locusts (Orthoptera)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "schistocerca-gregaria",
+                "scientific": "Schistocerca gregaria",
+                "common": "desert locust",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Schistocerca gregaria"]
+              }
+            ]
+          },
+          {
+            "id": "blattodea",
+            "label": "Termites (Blattodea)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "odontotermes-formosanus",
+                "scientific": "Odontotermes formosanus",
+                "common": "Formosan fungus-growing termite",
+                "kind": "taxon",
+                "role": "social_proxy",
+                "patterns": ["Odontotermes formosanus", "O. formosanus"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "paraneoptera",
+        "label": "Paraneoptera (Incomplete Meta.)",
+        "kind": "clade",
+        "children": [
+          {
+            "id": "thysanoptera",
+            "label": "Thrips (Thysanoptera)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "frankliniella-occidentalis",
+                "scientific": "Frankliniella occidentalis",
+                "common": "western flower thrips",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Frankliniella occidentalis", "F. occidentalis"]
+              }
+            ]
+          },
+          {
+            "id": "hemiptera",
+            "label": "True bugs (Hemiptera)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "aphididae",
+                "label": "Aphids (Aphididae)",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "myzus-persicae",
+                    "scientific": "Myzus persicae",
+                    "common": "green peach aphid",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Myzus persicae", "M. persicae"]
+                  },
+                  {
+                    "id": "aphis-gossypii",
+                    "scientific": "Aphis gossypii",
+                    "common": "cotton aphid",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Aphis gossypii"]
+                  },
+                  {
+                    "id": "chaetosiphon-fragaefolii",
+                    "scientific": "Chaetosiphon fragaefolii",
+                    "common": "strawberry aphid",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Chaetosiphon fragaefolii"]
+                  },
+                  {
+                    "id": "rhopalosiphum-padi",
+                    "scientific": "Rhopalosiphum padi",
+                    "common": "bird cherry-oat aphid",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Rhopalosiphum padi"]
+                  }
+                ]
+              },
+              {
+                "id": "miridae",
+                "label": "Plant bugs (Miridae)",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "lygus-lineolaris",
+                    "scientific": "Lygus lineolaris",
+                    "common": "tarnished plant bug",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Lygus lineolaris", "L. lineolaris"]
+                  }
+                ]
+              },
+              {
+                "id": "pentatomidae",
+                "label": "Shield bugs (Pentatomidae)",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "halyomorpha-halys",
+                    "scientific": "Halyomorpha halys",
+                    "common": "brown marmorated stink bug",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Halyomorpha halys"]
+                  },
+                  {
+                    "id": "nezara-viridula",
+                    "scientific": "Nezara viridula",
+                    "common": "southern green stink bug",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Nezara viridula"]
+                  }
+                ]
+              },
+              {
+                "id": "auchenorrhyncha",
+                "label": "Cicadas, lanternflies, and allies",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "lycorma-delicatula",
+                    "scientific": "Lycorma delicatula",
+                    "common": "spotted lanternfly",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Lycorma delicatula"]
+                  },
+                  {
+                    "id": "diaphorina-citri",
+                    "scientific": "Diaphorina citri",
+                    "common": "Asian citrus psyllid",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Diaphorina citri"]
+                  }
+                ]
+              },
+              {
+                "id": "other-hemiptera",
+                "label": "Other Hemiptera",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "megacopta-cribraria",
+                    "scientific": "Megacopta cribraria",
+                    "common": "kudzu bug",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Megacopta cribraria"]
+                  },
+                  {
+                    "id": "trialeurodes-vaporariorum",
+                    "scientific": "Trialeurodes vaporariorum",
+                    "common": "greenhouse whitefly",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Trialeurodes vaporariorum"]
+                  },
+                  {
+                    "id": "aleyrodes-proletella",
+                    "scientific": "Aleyrodes proletella",
+                    "common": "cabbage whitefly",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Aleyrodes proletella", "A. proletella"]
+                  },
+                  {
+                    "id": "cimex-lectularius",
+                    "scientific": "Cimex lectularius",
+                    "common": "bed bug",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Cimex lectularius"]
+                  },
+                  {
+                    "id": "triatoma-infestans",
+                    "scientific": "Triatoma infestans",
+                    "common": "kissing bug",
+                    "kind": "taxon",
+                    "role": "distant_proxy",
+                    "patterns": ["Triatoma infestans"]
+                  },
+                  {
+                    "id": "orius-insidiosus",
+                    "scientific": "Orius insidiosus",
+                    "common": "minute pirate bug",
+                    "kind": "taxon",
+                    "role": "nontarget",
+                    "patterns": ["Orius insidiosus"]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "holometabola",
+        "label": "Holometabola (Complete Meta.)",
+        "kind": "clade",
+        "children": [
+          {
+            "id": "coleoptera",
+            "label": "Beetles (Coleoptera)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "aethina-tumida",
+                "scientific": "Aethina tumida",
+                "common": "small hive beetle",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Aethina tumida"]
+              },
+              {
+                "id": "alphitobius-diaperinus",
+                "scientific": "Alphitobius diaperinus",
+                "common": "lesser mealworm",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Alphitobius diaperinus"]
+              },
+              {
+                "id": "carpophilus-lugubris",
+                "scientific": "Carpophilus lugubris",
+                "common": "dusky sap beetle",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Carpophilus lugubris"]
+              },
+              {
+                "id": "euwallacea-perbrevis",
+                "scientific": "Euwallacea perbrevis",
+                "common": "tea shot-hole borer",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Euwallacea perbrevis"]
+              },
+              {
+                "id": "phyllotreta-cruciferae",
+                "scientific": "Phyllotreta cruciferae",
+                "common": "crucifer flea beetle",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Phyllotreta cruciferae"]
+              },
+              {
+                "id": "hippodamia-convergens",
+                "scientific": "Hippodamia convergens",
+                "common": "convergent lady beetle",
+                "kind": "taxon",
+                "role": "nontarget",
+                "patterns": ["Hippodamia convergens"]
+              },
+              {
+                "id": "harmonia-axyridis",
+                "scientific": "Harmonia axyridis",
+                "common": "harlequin ladybird",
+                "kind": "taxon",
+                "role": "nontarget",
+                "patterns": ["Harmonia axyridis"]
+              },
+              {
+                "id": "coleomegilla-maculata",
+                "scientific": "Coleomegilla maculata",
+                "common": "spotted lady beetle",
+                "kind": "taxon",
+                "role": "nontarget",
+                "patterns": ["Coleomegilla maculata"]
+              },
+              {
+                "id": "monochamus-alternatus",
+                "scientific": "Monochamus alternatus",
+                "common": "Japanese pine sawyer",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Monochamus alternatus", "M. alternatus"]
+              },
+              {
+                "id": "leptinotarsa-decemlineata",
+                "scientific": "Leptinotarsa decemlineata",
+                "common": "Colorado potato beetle",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Leptinotarsa decemlineata"]
+              },
+              {
+                "id": "tenebrio-molitor",
+                "scientific": "Tenebrio molitor",
+                "common": "yellow mealworm",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Tenebrio molitor"]
+              },
+              {
+                "id": "dastarcus-helophoroides",
+                "scientific": "Dastarcus helophoroides",
+                "common": "parasitic beetle of pine sawyer",
+                "kind": "taxon",
+                "role": "nontarget",
+                "patterns": ["Dastarcus helophoroides", "D. helophoroides"]
+              }
+            ]
+          },
+          {
+            "id": "diptera",
+            "label": "Flies and mosquitoes (Diptera)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "musca-domestica",
+                "scientific": "Musca domestica",
+                "common": "house fly",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Musca domestica", "house fly", "housefly", "house flies"]
+              },
+              {
+                "id": "stomoxys-calcitrans",
+                "scientific": "Stomoxys calcitrans",
+                "common": "stable fly",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Stomoxys calcitrans"]
+              },
+              {
+                "id": "aedes-albopictus",
+                "scientific": "Aedes albopictus",
+                "common": "Asian tiger mosquito",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Aedes albopictus"]
+              },
+              {
+                "id": "aedes-aegypti",
+                "scientific": "Aedes aegypti",
+                "common": "yellow fever mosquito",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Aedes aegypti"]
+              },
+              {
+                "id": "lucilia-sericata",
+                "scientific": "Lucilia sericata",
+                "common": "green bottle blowfly",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Lucilia sericata"]
+              },
+              {
+                "id": "drosophila",
+                "scientific": "Drosophila",
+                "common": "fruit fly (immunity model)",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Drosophila"]
+              },
+              {
+                "id": "ceratitis-rosa",
+                "scientific": "Ceratitis rosa",
+                "common": "Natal fruit fly",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Ceratitis rosa"]
+              },
+              {
+                "id": "delia-radicum",
+                "scientific": "Delia radicum",
+                "common": "cabbage root fly",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Delia radicum"]
+              },
+              {
+                "id": "zeugodacus-cucurbitae",
+                "scientific": "Zeugodacus cucurbitae",
+                "common": "melon fly",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Zeugodacus cucurbitae"]
+              }
+            ]
+          },
+          {
+            "id": "lepidoptera",
+            "label": "Butterflies and moths (Lepidoptera)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "spodoptera-frugiperda",
+                "scientific": "Spodoptera frugiperda",
+                "common": "fall armyworm",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Spodoptera frugiperda"]
+              },
+              {
+                "id": "spodoptera-exigua",
+                "scientific": "Spodoptera exigua",
+                "common": "beet armyworm",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Spodoptera exigua"]
+              },
+              {
+                "id": "ostrinia-nubilalis",
+                "scientific": "Ostrinia nubilalis",
+                "common": "European corn borer",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Ostrinia nubilalis"]
+              },
+              {
+                "id": "plutella-xylostella",
+                "scientific": "Plutella xylostella",
+                "common": "diamondback moth",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Plutella xylostella"]
+              },
+              {
+                "id": "helicoverpa-zea",
+                "scientific": "Helicoverpa zea",
+                "common": "corn earworm",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Helicoverpa zea"]
+              },
+              {
+                "id": "dargida-diffusa",
+                "scientific": "Dargida diffusa",
+                "common": "wheat head armyworm",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Dargida diffusa"]
+              },
+              {
+                "id": "thaumatotibia-leucotreta",
+                "scientific": "Thaumatotibia leucotreta",
+                "common": "false codling moth",
+                "kind": "taxon",
+                "role": "distant_proxy",
+                "patterns": ["Thaumatotibia leucotreta"]
+              }
+            ]
+          },
+          {
+            "id": "hymenoptera",
+            "label": "Hymenoptera (wasps, bees, ants)",
+            "kind": "clade",
+            "children": [
+              {
+                "id": "formicidae",
+                "label": "Ants (Formicidae)",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "camponotus",
+                    "scientific": "Camponotus",
+                    "common": "carpenter ants (Bos 2019 genus note)",
+                    "kind": "taxon",
+                    "role": "social_proxy",
+                    "patterns": ["Camponotus"]
+                  },
+                  {
+                    "id": "formica-selysi",
+                    "scientific": "Formica selysi",
+                    "common": "selysi wood ant",
+                    "kind": "taxon",
+                    "role": "social_proxy",
+                    "patterns": ["Formica selysi"]
+                  },
+                  {
+                    "id": "atta-cephalotes",
+                    "scientific": "Atta cephalotes",
+                    "common": "leafcutter ant",
+                    "kind": "taxon",
+                    "role": "social_proxy",
+                    "patterns": ["Atta cephalotes", "Atta cephaloted"]
+                  },
+                  {
+                    "id": "atta-sexdens",
+                    "scientific": "Atta sexdens",
+                    "common": "leafcutter ant",
+                    "kind": "taxon",
+                    "role": "social_proxy",
+                    "patterns": ["Atta sexdens", "Attasexdens", "A.sexdens"]
+                  }
+                ]
+              },
+              {
+                "id": "vespidae",
+                "label": "Hornets and paper wasps (Vespidae)",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "vespa",
+                    "label": "Vespa (hornets)",
+                    "kind": "clade",
+                    "children": [
+                      {
+                        "id": "vespa-velutina",
+                        "scientific": "Vespa velutina",
+                        "common": "yellow-legged hornet / geelpoothoornaar",
+                        "kind": "taxon",
+                        "role": "motivation",
+                        "patterns": ["Vespa velutina", "V. velutina", "Vespa velutina nigrithorax"]
+                      },
+                      {
+                        "id": "vespa-crabro",
+                        "scientific": "Vespa crabro",
+                        "common": "European hornet",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespa crabro", "V. crabro"]
+                      },
+                      {
+                        "id": "vespa-mandarinia",
+                        "scientific": "Vespa mandarinia",
+                        "common": "Asian giant hornet",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespa mandarinia", "V. mandarinia"]
+                      },
+                      {
+                        "id": "vespa-analis",
+                        "scientific": "Vespa analis",
+                        "common": "yellow-vented hornet",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespa analis", "V. analis"]
+                      },
+                      {
+                        "id": "vespa-simillima",
+                        "scientific": "Vespa simillima",
+                        "common": "Japanese hornet",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespa simillima", "V. simillima"]
+                      },
+                      {
+                        "id": "vespa-ducalis",
+                        "scientific": "Vespa ducalis",
+                        "common": "black-tailed hornet",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespa ducalis", "V. ducalis"]
+                      },
+                      {
+                        "id": "vespa-dybowskii",
+                        "scientific": "Vespa dybowskii",
+                        "common": "Dybowski's hornet",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespa dybowskii", "V. dybowskii"]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "vespula",
+                    "label": "Vespula (yellowjackets)",
+                    "kind": "clade",
+                    "children": [
+                      {
+                        "id": "vespula-germanica",
+                        "scientific": "Vespula germanica",
+                        "common": "German wasp / Duitse wesp",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespula germanica", "V. germanica"]
+                      },
+                      {
+                        "id": "vespula-vulgaris",
+                        "scientific": "Vespula vulgaris",
+                        "common": "common wasp",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespula vulgaris", "V. vulgaris"]
+                      },
+                      {
+                        "id": "vespula-maculifrons",
+                        "scientific": "Vespula maculifrons",
+                        "common": "eastern yellowjacket",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Vespula maculifrons"]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "polistes",
+                    "label": "Polistes (paper wasps)",
+                    "kind": "clade",
+                    "children": [
+                      {
+                        "id": "polistes-dominula",
+                        "scientific": "Polistes dominula",
+                        "common": "European paper wasp",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Polistes dominula", "P. dominula"]
+                      },
+                      {
+                        "id": "polistes-chinensis",
+                        "scientific": "Polistes chinensis",
+                        "common": "Asian paper wasp",
+                        "kind": "taxon",
+                        "role": "vespidae",
+                        "patterns": ["Polistes chinensis"]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "mischocyttarus-metathoracicus",
+                    "scientific": "Mischocyttarus metathoracicus",
+                    "common": "Neotropical paper wasp",
+                    "kind": "taxon",
+                    "role": "vespidae",
+                    "patterns": ["Mischocyttarus metathoracicus", "M. metathoracicus"]
+                  },
+                  {
+                    "id": "dolichovespula",
+                    "scientific": "Dolichovespula",
+                    "common": "aerial yellowjackets (Rose 1999 genera list)",
+                    "kind": "taxon",
+                    "role": "vespidae",
+                    "patterns": ["Dolichovespula"]
+                  }
+                ]
+              },
+              {
+                "id": "apoidea",
+                "label": "Apoidea (bees and sphecoid wasps)",
+                "kind": "clade",
+                "children": [
+                  {
+                    "id": "apidae",
+                    "label": "Apidae (bees)",
+                    "kind": "clade",
+                    "children": [
+                      {
+                        "id": "apis-mellifera",
+                        "scientific": "Apis mellifera",
+                        "common": "western honey bee / honingbij",
+                        "kind": "taxon",
+                        "role": "nontarget",
+                        "patterns": ["Apis mellifera", "A. mellifera"]
+                      },
+                      {
+                        "id": "bombus-terrestris",
+                        "scientific": "Bombus terrestris",
+                        "common": "buff-tailed bumblebee / hommel",
+                        "kind": "taxon",
+                        "role": "nontarget",
+                        "patterns": ["Bombus terrestris", "B. terrestris"]
+                      },
+                      {
+                        "id": "bombus-impatiens",
+                        "scientific": "Bombus impatiens",
+                        "common": "common eastern bumblebee",
+                        "kind": "taxon",
+                        "role": "nontarget",
+                        "patterns": ["Bombus impatiens"]
+                      },
+                      {
+                        "id": "meliponula-ferruginea",
+                        "scientific": "Meliponula ferruginea",
+                        "common": "African stingless bee",
+                        "kind": "taxon",
+                        "role": "nontarget",
+                        "patterns": ["Meliponula ferruginea", "M. ferruginea"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

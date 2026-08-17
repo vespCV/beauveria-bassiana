@@ -10,17 +10,17 @@
 ---
 
 ## Phase2 screening results
-[[mabb phase2 01-key]]
-[[mabb phase2 02a efficacy]]
-[[mabb phase2 02b-strains-traits]]
-[[mabb phase2 02c-formulation-delivery]]
-[[mabb phase2 03-autodissemination-social]]
-[[mabb phase2 04-nontarget-ecotox]]
-[[mabb phase2 05-regulatory-policy]]
-[[mabb phase2 06-background-proxies]]
-[[mabb phase2 07-vespideae-biocontrol]]
+[[mabb ph2 01-key]]
+[[mabb ph2 02a efficacy]]
+[[mabb ph2 02b-strains-traits]]
+[[mabb ph2 02c-formulation-delivery]]
+[[mabb ph2 03-autodissemination-social]]
+[[mabb ph2 04-nontarget-ecotox]]
+[[mabb ph2 05-regulatory-policy]]
+[[mabb ph2 06-background-proxies]]
+[[mabb ph2 07-vespideae-biocontrol]]
 
-[[mabb phase2 99-excluded]]
+[[mabb ph2 99-excluded]]
 
 [[mabb template request pdf]]
 

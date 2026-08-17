@@ -1,6 +1,3 @@
-# temp/research and temp/handoff
-temp/*
-!temp/research/
-!temp/research/**
-!temp/handoff/
-!temp/handoff/**
+# temp
+!temp/
+!temp/**

@@ -4,44 +4,46 @@
 
 | Item | n |
 |---|---:|
-| Includes (accepted) | 254 |
+| Includes (accepted) | 206 |
+| Excluded (full-text, `99-excluded`) | 60 |
 | 00-key-papers (primary) | 5 |
-| 01-existing-products (primary) | 89 |
+| 01-existing-products (primary) | 77 |
 | 02b_strains_traits (primary) | 7 |
-| 02c_formulation_delivery (primary) | 62 |
-| 03-autodissemination-social (primary) | 56 |
-| 04-nontarget-ecotox (primary) | 31 |
+| 02c_formulation_delivery (primary) | 48 |
+| 03-autodissemination-social (primary) | 36 |
+| 04-nontarget-ecotox (primary) | 29 |
 | 05-regulatory-policy (primary) | 4 |
 | 06-background-proxies (primary) | 0 |
-| Rows co-tagged `02a_efficacy` in `screening_categories_all` | 75 |
-| Phase 2 includes with PDF on hand | 121 |
-| Listed without PDF (`pdfs_download_links.md`) | 133 |
-| Have + missing | 254 (no gap) |
+| Rows co-tagged `02a_efficacy` in `screening_categories_all` | 56 |
+| Phase 2 includes with PDF on hand | 89 |
+| Listed without PDF (`pdfs_download_links.md`) | 117 |
+| Have + missing | 206 (no gap) |
 
-### Phase 2 full-text inventory (2026-08-08)
+### Phase 2 full-text inventory (2026-08-17)
 
 | Category folder | PDF have | PDF missing (list) | Phase 2 records (primary) |
 |---|---:|---:|---:|
-| 00-key-papers | 11 | 0 | 5 |
-| 01-existing-products | 37 | 55 | 89 |
-| 02a_efficacy | 0 | 0 | 0 |
-| 02b_strains_traits | 3 | 4 | 7 |
-| 02c_formulation_delivery | 35 | 32 | 62 |
-| 03-autodissemination-social | 28 | 29 | 56 |
-| 04-nontarget-ecotox | 16 | 13 | 31 |
-| 05-regulatory-policy | 4 | 0 | 4 |
-| 06-background-proxies | 12 | 0 | 0 |
-| inbox (`pdfs/inbox/`) | 0 |  |  |
-| Total (excl. 07 supplemental) | 146 | 133 | 254 |
+| 00-key-papers | 9 | 0 | 5 |
+| 01-existing-products | 7 | 49 | 77 |
+| 02a_efficacy | 24 | 0 | 0 |
+| 02b_strains_traits | 8 | 4 | 7 |
+| 02c_formulation_delivery | 26 | 25 | 48 |
+| 03-autodissemination-social | 10 | 27 | 36 |
+| 04-nontarget-ecotox | 19 | 12 | 29 |
+| 05-regulatory-policy | 8 | 0 | 4 |
+| 06-background-proxies | 17 | 0 | 0 |
+| 99-excluded | 60 |  |  |
+| inbox (`pdfs/inbox/`) | 6 |  |  |
+| Total (excl. 07 supplemental and 99-excluded) | 128 | 117 | 206 |
 
-Note: `00-key-papers` disk count includes supplemental Vespidae PDFs beyond the 5 Phase 2 primaries. `06-background-proxies` holds non-Phase-2 PDFs filed from the drop folder. Missing counts follow `pdfs_download_links.md` section `(N)` values.
+Note: PDF folder placement follows Zotero collections (collection wins over prior disk folder). Include CSV primary category still drives overview section membership. `00-key-papers` disk count can include supplemental Vespidae PDFs beyond Phase 2 primaries. `06-background-proxies` holds non-Phase-2 PDFs. Missing counts follow `pdfs_download_links.md` section `(N)` values.
 
 Supplemental extract libraries (prior velutina project triage; not all rows are Phase 2 includes):
 
 | Lane | PDFs filed | Extract rows |
 |---|---:|---:|
-| 00-key-papers (Beauveria + Vespidae) | 11 | 11 |
-| 07-vespideae-biocontrol (non-Bb microbes + chemical bait/trap) | 17 | 18 |
+| 00-key-papers (Beauveria + Vespidae) | 9 | 11 |
+| 07-vespideae-biocontrol (non-Bb microbes + chemical bait/trap) | 11 | 18 |
 
 ## 1 existing-products
 

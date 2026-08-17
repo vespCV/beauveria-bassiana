@@ -1,11 +1,16 @@
 Pull only (Obsidian → repo / Cursor):
 ```sh
-REPO="/Users/md/Developer/beauveria-bassiana/notes/beauveria-bassiana"
+REPO="/Volumes/nvme/Developer/projects/beauveria-bassiana/notes/beauveria-bassiana"
 VAULT="$HOME/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/400 computer vision/beauveria-bassiana"
-rsync -avun "$VAULT/" "$REPO/"   # dry-run
-rsync -avu "$VAULT/" "$REPO/"    # apply
+rsync -avu "$VAULT/" "$REPO/"
 ```
 
+for a dry run: 
+```sh
+REPO="/Volumes/nvme/Developer/projects/beauveria-bassiana/notes/beauveria-bassiana"
+VAULT="$HOME/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes/400 computer vision/beauveria-bassiana"
+rsync -avun "$VAULT/" "$REPO/"
+```
 Usual full sync (pull first, then push repo edits back):
 ```sh
 rsync -avu "$VAULT/" "$REPO/"

@@ -9,6 +9,6 @@
 [[mabb raw market]]
 
 
-[[mabb raw bassiana registered products]]
+[[mabb EU-approved Beauveria bassiana strains (2026)]]
 
 [[mabb asreview notes]]

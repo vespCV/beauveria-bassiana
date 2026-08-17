@@ -1,0 +1,10 @@
+Two-way dispensers
+
+https://www.researchgate.net/publication/379842432_Apivectoring_Harnessing_pollinators_for_sustainable_crop_protection_and_pollination
+
+
+file:///Users/md/Downloads/Apivectoring_Harnessing_pollinators_for_sustainabl.pdf
+
+https://www.sciencedirect.com/science/article/pii/S2949736125001010
+
+https://www.researchgate.net/publication/277841218_Using_Insects_as_a_Novel_Application_Strategy_for_The_Delivery_of_Microbial_Agents_for_Biological_Control_of_Arthropod_Pests_in_Greenhouse_Crops

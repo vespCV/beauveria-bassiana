@@ -17,18 +17,40 @@ alwaysApply: true
 - Emphasize scenarios where B. bassiana is delivered via fluid or protein carriers designed so that primarily the target insect acquires and vectors the pathogen.
 - A systematic review with quantitative synthesis where data permit
 
+**Applied story (overview / decision lens)**
+- Motivation taxon: _Vespa velutina_ (geelpoothoornaar). Never use “Aziatische hoornaar” in Dutch prose.
+- Delivery pathway name for Dutch and overview prose: **catch-infect-release** (selectieve val; 1- of 2-weg dispenser and/or suiker-/proteïnebaait; insect takes up conidia and returns to the nest). Kill-in-trap is not the success criterion.
+- Success endpoint for synthesis: **colony weakening** (less current damage; fewer queens and drones for the next year), not assumed nest collapse. Individual mortality, sublethal behaviour change, and failed infection after immune clearance are all in-scope outcomes.
+- Technical device exclusivity (vision-gated confirmation) remains a decision-brief design option under `CONTEXT.md`; do not force that jargon into Dutch overview prose unless the user asks.
+
 **Primary question**
 - Begin by identifying relevant commercial products (category `01-existing-products`) using authoritative sources:
   - EPA Biopesticide lists
   - EU Pesticide Database
   - CABI
   - Patent databases (Espacenet, Google Patents)
+- For Netherlands-facing overview text, also state **allowed use in NL** (national product authorisation under the EU frame), not only EU active-substance approval.
 - Many products will be oil-based or wettable powders that may work for selective delivery.
 - For all searches, use both full species names and common commercial strain codes (e.g., GHA, ATCC 74040) as soon as identified.
 - When focusing on social insects, add the precise target genus/species to queries to increase the relevance of results.
 - Include grey literature (e.g., FAO reports, national plant protection organizations, conference abstracts) for trap/bait trial data often absent from peer-reviewed literature.
 
-Purpose: Align searches and data extraction with the end goal—identifying B. bassiana products and strategies for selective fluid/protein delivery to target insects—using terminology that maximizes retrieval of practical and commercial evidence.
+Purpose: Align searches and data extraction with the end goal: identifying B. bassiana products and strategies for selective fluid/protein delivery to target insects, using terminology that maximizes retrieval of practical and commercial evidence.
+
+## Dutch / reader overview processing
+
+When updating `temp/overview/` prose (including `nederlandse-samenvatting.md`) after new Zotero annotations or extracts:
+
+1. **Spine**: Keep or refresh the numbered evidence questions (commercial Bb + NL use; kill/weaken _V. velutina_; selective delivery; nestmate transfer before hygiene; nest T/RH for outgrowth; colony-level damage and reproductive castes). Map new annotations into those questions; do not reopen with taxonomy background.
+2. **Mechanism first**: Prefer a short catch-infect-release scene (val → uptake → return → contact transfer → cuticle breach / toxin / possible death or sublethal effect / possible sporulation) before product lists.
+3. **Taxon honesty**: Spray/contact LT50 on aphids, flies, mosquitoes, mites, etc. does not stand in for _V. velutina_. Label transferable proxies as proxies.
+4. **Evidence-selection bias**: Studies framed as nontarget-safety often report little Bb effect on bees/beneficials; studies framed as controlling those taxa often report mortality. State that tension when both appear. Note when bee-vector or varroa papers omit bee mortality. Flag industry funding on sparse _V. velutina_ rows when the annotation or paper states it.
+5. **Social pathway caveats**: Species differ (no avoidance vs aggression/exclusion; hygienic removal; brood compensation). A contaminated forager is not nest failure. Hairy pollinators and 1-/2-way dispensers (e.g. bumblebee vectoring) are delivery-system evidence, not Vespidae proof.
+6. **Formulation constraints**: UV inactivation, short field half-life, oil/encapsulation for RH/heat/UV, and nest microclimate (temperature, humidity) belong in the nestpad section when supported by a cite.
+7. **Language**: Use conidia (not “conoidea”); catch-infect-release / selectieve val / dispenser / bait; _V. velutina_ in Dutch as **geelpoothoornaar** (never “Aziatische hoornaar”); avoid Trojan / vision-gated unless translating a decision-brief term. Style: `.cursor/docs/wetenschapscommunicatie.md`. Domain terms: `CONTEXT.md`.
+8. **No go-ladder**: Overview drafts stay descriptive. No go / conditional-go / no-go unless the user explicitly asks for a decision brief.
+9. **Mandatory sources block**: End every overview revision with `### Bronnen voor deze tekst (project)` listing consensus/notes paths, annotation citekeys used, prior overview/handoff/research paths, and the style guide path. Prefer citekeys that match `notes/beauveria-bassiana/zotero/` when present. Do not invent DOIs or outcomes.
+10. **User text wins**: Never reverse user wording in overview drafts. Re-read the on-disk file before editing; merge only what the user asked.
 
 ## Current phase
 
@@ -61,13 +83,18 @@ Deliverables are done
 | path | role |
 |------|------|
 | `notes/beauveria-bassiana/` | Search strategy source. Maintained in Obsidian; human-readable without Cursor (no ADRs / `.cursor` / `@skills` / `temp/` in note text). Agents edit only when the user explicitly allows. |
+| `notes/beauveria-bassiana/zotero/` | Obsidian Zotero annotation exports (citekey markdown). Prefer these over regenerating annotation files. |
 | `CONTEXT.md` | Domain glossary for this review. |
 | `docs/adr/` | Architecture / workflow decisions. |
 | `input-phase0/input-rayyan/` | Tracked raw database exports for Rayyan unduplication (RIS, XML, NBIB, CSV, etc.). |
 | `input-phase0/input-cc-rr/` | CitationChaser and ResearchRabbit seed inputs. |
 | `input-phase1/` | Deduplicated articles for ASReview / title-abstract selection. |
 | `input-phase2/` | Relevant-article list and missing-PDF gate artifacts for full-text/PDF work. |
-| `pdfs/` | Full-text library by screening category `01`–`06` (and `02a`/`02b`/`02c`), plus supplemental `00-key-papers` and `07-vespideae-biocontrol`. Inbox for unfiled drops. |
+| `input-phase2/99-excluded/` | Full-text exclusion audit (`records.csv`) synced from Zotero. |
+| `pdfs/` | Full-text library by screening category `01`–`06` (and `02a`/`02b`/`02c`), plus supplemental `00-key-papers` and `07-vespideae-biocontrol`, exclusion lane `99-excluded`. Inbox for unfiled drops. |
 | `temp/research/` | Gitignored cited findings from `@research` (side questions; optional `01-existing-products` lookups). |
 | `temp/handoff/` | Gitignored session handoffs. Start here for the next session. |
+| `temp/overview/` | Gitignored literature overview draft and Dutch reader prose (`nederlandse-samenvatting.md`). Process per **Dutch / reader overview processing** above. |
+| `temp/zotero/` | Gitignored Zotero DB copies, optional `99-excluded.bib`, sync reports. |
+| `temp/zotero-annotations/` | Gitignored annotation markdown when Obsidian exports are missing. |
 | `README.md` | End-state study selection / PRISMA / inventory (required for Phase 2 gate). |
