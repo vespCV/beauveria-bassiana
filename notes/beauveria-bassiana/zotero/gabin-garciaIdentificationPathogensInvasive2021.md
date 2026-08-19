@@ -36,6 +36,13 @@ Abstract
               per year), mean that this invasive species could severely alter the native pathogen-host dynamics either by actively contributing to the dispersal of the parasites and/or by directly interacting with them, which could have unexpected long-term harmful consequences on the native entomofauna.
 
 
+### Extraction (abstract)
+
+- cite_label: GabinGarcia2021
+- evidence: abstract
+- notes: Gabín-García, 2021, o.a.; abstract-only extraction
+
+
 Parasite diversity in V. velutina is most similar to that of V. crabro" Yellow
 	Highlight [Page	](zotero://open-pdf/library/items/3XN7XU2N?page=&annotation=VG7MNGIP)
 

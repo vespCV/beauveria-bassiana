@@ -7,7 +7,14 @@ Barandika, Jesús F., Omaira De La Hera, Roberto Fañanás, e.a. “Efficacy of 
 
 ### Abstract
 
-The yellow-legged hornet (Vespa velutina nigrithorax), outside its natural range, has become a major threat to domestic bees. Several control methods have been used to ﬁght against V. velutina, but the results achieved are not satisfactory. The use of protein baits with biocides has shown to be an effective method to control invasive wasp populations, but they have not been used to control V. velutina. Thus, the efﬁcacy of protein baits containing ﬁpronil to reduce the presence of hornets in apiaries was evaluated in this study. After laboratory determination of the optimal efﬁcacy of a protein bait at a 0.01% concentration of ﬁpronil, ﬁeld trials were conducted involving 222 beekeepers. The data reported by the 90 beekeepers who completed the requested questionnaire demonstrated that in the groups of apiaries with the highest pressure of hornets (groups with 10–30 and >30 hornets), there was a signiﬁcant decrease in the presence of V. velutina, lasting at least two weeks. The reduction in the number of hornets was positively correlated with bait consumption, and bait consumption was positively correlated with the number of hornets present at the time of treatment. Although the method used has shown good efﬁcacy and the concentration of ﬁpronil used was very low; possible negative effects on the environment should also be evaluated.
+The yellow-legged hornet (Vespa velutina nigrithorax), outside its natural range, has become a major threat to domestic bees. Several control methods have been used to fight against V. velutina, but the results achieved are not satisfactory. The use of protein baits with biocides has shown to be an effective method to control invasive wasp populations, but they have not been used to control V. velutina. Thus, the efficacy of protein baits containing fipronil to reduce the presence of hornets in apiaries was evaluated in this study. After laboratory determination of the optimal efficacy of a protein bait at a 0.01% concentration of fipronil, field trials were conducted involving 222 beekeepers. The data reported by the 90 beekeepers who completed the requested questionnaire demonstrated that in the groups of apiaries with the highest pressure of hornets (groups with 10–30 and &gt;30 hornets), there was a significant decrease in the presence of V. velutina, lasting at least two weeks. The reduction in the number of hornets was positively correlated with bait consumption, and bait consumption was positively correlated with the number of hornets present at the time of treatment. Although the method used has shown good efficacy and the concentration of fipronil used was very low; possible negative effects on the environment should also be evaluated.
+
+
+### Extraction (abstract)
+
+- cite_label: Barandika2023
+- evidence: abstract
+- notes: Barandika, 2023, o.a.; abstract-only extraction
 
 
 D+S-OABE, Poligono Industrial Zabale, Parcela III, 48410 Orozko, Spain" Yellow

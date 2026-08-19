@@ -7,7 +7,20 @@ Clifton, Eric H., Ann E. Hajek, Nina E. Jenkins, Richard T. Roush, John P. Rost,
 
 ### Abstract
 
-Spotted lanternfly, Lycorma delicatula (White), is an invasive Asian insect that was initially found in Berks County, Pennsylvania, in 2014. As of early 2020, this pest had been found in five more eastern states and it is expected to continue to expand its geographical range. Lycorma delicatula is highly polyphagous but seems to prefer tree-ofheaven, Ailanthus altissima. However, grape growers in Pennsylvania have reported significant damage and loss of vines caused by L. delicatula adults. In fall 2018, two fungal entomopathogens (Beauveria bassiana and Batkoa major) drove localized collapses in L. delicatula populations in Berks County, Pennsylvania. In 2019, we tested applications of a commercialized mycoinsecticide based on B. bassiana strain GHA on L. delicatula populations in a public park in southeastern Pennsylvania. A single application of B. bassiana reduced fourth instar nymphs by 48% after 14 d. Applications of B. bassiana to L. delicatula adults in the same park resulted in 43% mortality after 14 d. Beauveria bassiana spores remained viable on foliage for 5–7 d after spraying. We also conducted semi-field bioassays with B. bassiana GHA (formulated as BoteGHA and Aprehend) and another mycoinsecticide containing Isaria fumosorosea Apopka Strain 97 against L. delicatula adults feeding on potted grapes. All the mycoinsecticides killed ≥90% of adults after 9 d using direct applications. Aprehend killed 99% of adults after 9 d with exposure to residues on sprayed grapes. These data show that fungal entomopathogens can help to suppress populations of L. delicatula in agroecosystems and natural areas.
+Abstract Spotted lanternfly, Lycorma delicatula (White), is an invasive Asian insect that was initially found in Berks County, Pennsylvania, in 2014. As of early 2020, this pest had been found in five more eastern states and it is expected to continue to expand its geographical range. Lycorma delicatula is highly polyphagous but seems to prefer tree-of-heaven, Ailanthus altissima. However, grape growers in Pennsylvania have reported significant damage and loss of vines caused by L. delicatula adults. In fall 2018, two fungal entomopathogens (Beauveria bassiana and Batkoa major) drove localized collapses in L. delicatula populations in Berks County, Pennsylvania. In 2019, we tested applications of a commercialized mycoinsecticide based on B. bassiana strain GHA on L. delicatula populations in a public park in southeastern Pennsylvania. A single application of B. bassiana reduced fourth instar nymphs by 48% after 14 d. Applications of B. bassiana to L. delicatula adults in the same park resulted in 43% mortality after 14 d. Beauveria bassiana spores remained viable on foliage for 5–7 d after spraying. We also conducted semi-field bioassays with B. bassiana GHA (formulated as BoteGHA and Aprehend) and another mycoinsecticide containing Isaria fumosorosea Apopka Strain 97 against L. delicatula adults feeding on potted grapes. All the mycoinsecticides killed ≥90% of adults after 9 d using direct applications. Aprehend killed 99% of adults after 9 d with exposure to residues on sprayed grapes. These data show that fungal entomopathogens can help to suppress populations of L. delicatula in agroecosystems and natural areas.
+
+
+### Extraction (abstract)
+
+- cite_label: Clifton2020
+- evidence: abstract
+- host_pest: [to be verified]
+- strain_product: GHA; Beauveria bassiana and Batkoa major; Beauveria bassiana spores remained viab
+- delivery_mode: foliar_spray
+- mortality: 43% mortality
+- lt_lc: [to be verified]
+- colony_nest_effects: [to be verified]
+- notes: Clifton, 2020, o.a.; abstract-only extraction
 
 
 Spotted lanternfly, Lycorma delicatula" Yellow

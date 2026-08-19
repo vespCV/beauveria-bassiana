@@ -7,7 +7,19 @@ Bos, Nick, Viljami Kankaanpää-Kukkonen, Dalial Freitak, Dimitri Stucki, en Lis
 
 ### Abstract
 
-Eusocial insects, such as ants, have access to complex disease defenses both at the individual, and at the colony level. However, diﬀerent species may be exposed to diﬀerent diseases, and/or deploy diﬀerent methods of coping with disease. Here, we studied and compared survival after fungal exposure in 12 species of ants, all of which inhabit similar habitats. We exposed the ants to two entomopathogenic fungi (Beauveria bassiana and Metarhizium brunneum), and measured how exposure to these fungi inﬂuenced survival. We furthermore recorded hygienic behaviors, such as autogrooming, allogrooming and trophallaxis, during the days after exposure. We found strong diﬀerences in autogrooming behavior between the species, but none of the study species performed extensive allogrooming or trophallaxis under the experimental conditions. Furthermore, we discuss the possible importance of the metapleural gland, and how the secondary loss of this gland in the genus Camponotus could favor a stronger behavioral response against pathogen threats.
+Eusocial insects, such as ants, have access to complex disease defenses both at the individual, and at the colony level. However, different species may be exposed to different diseases, and/or deploy different methods of coping with disease. Here, we studied and compared survival after fungal exposure in 12 species of ants, all of which inhabit similar habitats. We exposed the ants to two entomopathogenic fungi (<i>Beauveria bassiana</i> and <i>Metarhizium brunneum</i>), and measured how exposure to these fungi influenced survival. We furthermore recorded hygienic behaviors, such as autogrooming, allogrooming and trophallaxis, during the days after exposure. We found strong differences in autogrooming behavior between the species, but none of the study species performed extensive allogrooming or trophallaxis under the experimental conditions. Furthermore, we discuss the possible importance of the metapleural gland, and how the secondary loss of this gland in the genus <i>Camponotus</i> could favor a stronger behavioral response against pathogen threats.
+
+
+### Extraction (abstract)
+
+- cite_label: Bos2019
+- evidence: abstract
+- pathway: unclear
+- social_or_nest_outcome: mentioned in abstract
+- mortality: [to be verified]
+- lt_lc: [to be verified]
+- host_pest: [to be verified]
+- notes: Bos, 2019, o.a.; abstract-only extraction
 
 
 Eusocial insects, such as ants, have access to complex disease defenses both at the individual, and at the colony level." Yellow

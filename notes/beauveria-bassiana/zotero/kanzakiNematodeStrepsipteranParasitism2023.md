@@ -7,7 +7,14 @@ Kanzaki, Natsumi, Shun’ichi Makino, Hajime Kosaka, Katsuhiko Sayama, Keiko Ham
 
 ### Abstract
 
-The parasitism of two groups of host-manipulating parasites of hornets was examined in Kyoto, Japan. Vespa mandarinia (661 individuals), V. simillima (303), V. analis (457), V. ducalis (158), V. crabro (57), and V. dybowskii (4) were collected either by bait trap or hand collection with an insect net, and examined for their parasites. An endoparasitic nematode, Sphaerularia vespae was isolated from three overwintered gynes of V. mandarinia and a gyne of V. ducalis. While endoparasitic insects, Xenos spp., were recovered from 13 V. mandarinia, 77 V. analis, two V. ducalis, and three V. crabro, and those recovered from V. analis and others were molecularly identiﬁed as X. oxyodontes and X. moutoni, respectively. Comparing Xenos parasitism level and capturing methods, the parasitism level was signiﬁcantly higher in trapped hosts than in hand-collected ones, suggesting that stylopized hosts are more strongly attracted to the food source (bait trap) compared with unparasitized hosts. The genotypes of S. vespae were identical to each other, and near identical to its type population. While each of the two Xenos spp. showed four mitochondrial DNA haplotypes. A phylogenetic comparison suggested that Xenos haplotypes found in the present study are close to those previously reported from Japan and other Asian countries.
+The parasitism of two groups of host-manipulating parasites of hornets was examined in Kyoto, Japan. Vespa mandarinia (661 individuals), V. simillima (303), V. analis (457), V. ducalis (158), V. crabro (57), and V. dybowskii (4) were collected either by bait trap or hand collection with an insect net, and examined for their parasites. An endoparasitic nematode, Sphaerularia vespae was isolated from three overwintered gynes of V. mandarinia and a gyne of V. ducalis. While endoparasitic insects, Xenos spp., were recovered from 13 V. mandarinia, 77 V. analis, two V. ducalis, and three V. crabro, and those recovered from V. analis and others were molecularly identified as X. oxyodontes and X. moutoni, respectively. Comparing Xenos parasitism level and capturing methods, the parasitism level was significantly higher in trapped hosts than in hand-collected ones, suggesting that stylopized hosts are more strongly attracted to the food source (bait trap) compared with unparasitized hosts. The genotypes of S. vespae were identical to each other, and near identical to its type population. While each of the two Xenos spp. showed four mitochondrial DNA haplotypes. A phylogenetic comparison suggested that Xenos haplotypes found in the present study are close to those previously reported from Japan and other Asian countries.
+
+
+### Extraction (abstract)
+
+- cite_label: Kanzaki2023
+- evidence: abstract
+- notes: Kanzaki, 2023, o.a.; abstract-only extraction
 
 
 Parasites sometimes manipulate host behavior to effectively utilize their hosts." Yellow

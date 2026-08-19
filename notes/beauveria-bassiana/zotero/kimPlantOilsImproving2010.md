@@ -7,7 +7,14 @@ Kim, Jae Su. â€œPlant Oils for Improving Thermotolerance of Beauveria Bassianaâ€
 
 ### Abstract
 
-Conidia of Beauveria bassiana ARSEF-7060, produced in millet amended with plant oils such as sunflower, corn, or cotton seed oil, were exposed to 45oC of wet heat for 90 min. Conidia from millet+corn oil medium had the highest thermotolerance [LT50 (median survival time): 45.7 min]. The mycotized millet grains were coated with each of the same plant oils as a granular formulation and subjected to 50oC of dry heat for 8 h. Corn oil coating (LT50: 8.68 h) was superior to sunflower and cotton seed oil coatings, suggesting the feasibility of using corn oil to increase conidial thermotolerance.
+Conidia of Beauveria bassiana ARSEF-7060 produced in millet amended with plant oils such as sunflower, corn, or cotton seed oil, were exposed to 45 degrees C of wet heat for 90 min. Conidia from millet+corn oil medium had the highest thermotolerance (LT50 (median survival time): 45.7 min). The mycotized millet grains were coated with each of the same plant oils as a granular formulation and subjected to 50 degrees C of dry heat for 8 h. Corn oil coating (LT50: 8.68 h) was superior to sunflower- and cotton seed oil coatings, suggesting the feasibility of using corn oil to increase conidial thermotolerance.
+
+
+### Extraction (abstract)
+
+- cite_label: Kim2010
+- evidence: abstract
+- notes: Kim, 2010, o.a.; abstract-only extraction
 
 
 The mycotized millet grains were coated with each of the same plant oils as a granular formulation and subjected to 50oC of dry heat for 8 h. Corn oil coating (LT50: 8.68 h) was superior to sunflower and cotton seed oil coatings, suggesting the feasibility of using corn oil to increase conidial thermotolerance." Yellow

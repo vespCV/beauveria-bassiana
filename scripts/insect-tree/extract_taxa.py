@@ -5,8 +5,8 @@ Usage (from repo root):
   python3 scripts/insect-tree/extract_taxa.py
 
 Edit taxonomy.json to add taxa, then re-run. Output:
-  temp/overview/insect-tree.md
-  temp/overview/insect-tree.json
+  results/attachments/phylogenetic-tree.md
+  results/attachments/phylogenetic-tree.json
 """
 
 from __future__ import annotations
@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 TAXONOMY_PATH = Path(__file__).with_name("taxonomy.json")
-OUT_DIR = ROOT / "temp" / "overview"
+OUT_DIR = ROOT / "results" / "attachments"
 DOI_RE = re.compile(r"10\.\d{4,9}/[-._;()/:A-Z0-9]+", re.I)
 
 
@@ -52,7 +52,7 @@ def title_key(text: str) -> str | None:
 
 def is_excluded(text: str) -> bool:
     head = text[:1500]
-    return bool(re.search(r"collections:\s*.*99-excluded", head, re.I))
+    return bool(re.search(r"collections:\s*.*\b(?:99-)?excluded\b", head, re.I))
 
 
 def pub_id(path: Path, text: str) -> str:
@@ -179,16 +179,14 @@ def write_markdown(tree_lines: list[str], taxa: list[dict], hits: dict[str, list
             f"| {taxon['scientific']} ({len(hits[taxon['id']])}) | {taxon.get('common', '')} | {taxon['role']} | {notes} |"
         )
     missing_lines = "\n".join(f"- {t['scientific']}" for t in missing) or "_none_"
-    return f"""# Insect taxa in notes (PDF-backed)
+    return f"""# Phylogenetic tree of insect taxa in notes (PDF-backed)
 
-Generated {today} by `scripts/insect-tree/extract_taxa.py` from `notes/beauveria-bassiana/zotero/` and `temp/zotero-annotations/` (DOI/title-deduped; `99-excluded` skipped).
+Generated {today} by `scripts/insect-tree/extract_taxa.py` from `notes/beauveria-bassiana/zotero/` and `temp/zotero-annotations/` (DOI/title-deduped; `excluded` skipped).
 Curated map: `scripts/insect-tree/taxonomy.json`. Re-run the script after editing the map.
 
 Notes scanned: {n_notes}. Taxa with at least one note: {len(present)} of {len(taxa)}.
 
 Role counts: motivation {roles.get('motivation', 0)}; vespidae {roles.get('vespidae', 0)}; nontarget {roles.get('nontarget', 0)}; social_proxy {roles.get('social_proxy', 0)}; distant_proxy {roles.get('distant_proxy', 0)}.
-
-Spray or contact results on distant proxies do not stand in for _Vespa velutina_.
 
 ```
 {chr(10).join(tree_lines)}
@@ -234,16 +232,16 @@ def main() -> None:
             for t in taxa
         },
     }
-    (OUT_DIR / "insect-tree.json").write_text(
+    (OUT_DIR / "phylogenetic-tree.json").write_text(
         json.dumps(snapshot, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
-    (OUT_DIR / "insect-tree.md").write_text(
+    (OUT_DIR / "phylogenetic-tree.md").write_text(
         write_markdown(tree_lines, taxa, hits, n_notes), encoding="utf-8"
     )
     print("\n".join(tree_lines))
     print()
-    print(f"Wrote {OUT_DIR / 'insect-tree.md'}")
-    print(f"Wrote {OUT_DIR / 'insect-tree.json'}")
+    print(f"Wrote {OUT_DIR / 'phylogenetic-tree.md'}")
+    print(f"Wrote {OUT_DIR / 'phylogenetic-tree.json'}")
 
 
 if __name__ == "__main__":

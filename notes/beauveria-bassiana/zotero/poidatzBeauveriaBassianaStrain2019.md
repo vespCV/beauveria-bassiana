@@ -12,6 +12,13 @@ Poidatz, Juliette, Rodrigo Javier Lopez Plantey, en Denis Thiéry. “A Beauveri
 Vespa velutina is a hornet predator of bees that was accidentally introduced in Europe from China in 2004. Since its arrival, it expanded through Europe, impacting both biodiversity and beekeeping. As there are currently no biological alternatives to chemical treatment of V. velutina nests, we need more studies on the development of potential biological control methods. We present here a further description of an indigenous strain of entomopathogenic fungi, Beauveria bassiana that was discovered naturally parasitizing a foundresses of V. velutina in France. The genus was identified by its macro and micro morphological characteristics and the specie by molecular techniques. It growing preferences were described according temperature conditions, and the potential in using such entomopathogens as a biological control agent against V. velutina was also discussed here, first at least to replace currently occurring direct chemical treatments, and then potentially to be integrated in future Trojan horse strategies.
 
 
+### Extraction (abstract)
+
+- cite_label: Poidatz2019
+- evidence: abstract
+- notes: Poidatz, 2019, o.a.; abstract-only extraction
+
+
 The infected foundress found in Britain probably contaminated itself during its hibernal diapause in ground or wood, or maybe during wood pulp collection for its nest construction, such pathogen’s spores being present naturally in soil and wood for conservation (Meyling & Eilenberg 2007)." Yellow
 	Highlight [Page	4](zotero://open-pdf/library/items/DDRDXMQN?page=4&annotation=CTRD89YG)
 

@@ -10,6 +10,19 @@ Cruz-Cruz, Damaris. “Pathogenicity of Beauveria Bassiana against Immature Stag
 Asian citrus psyllid, Diaphorina citri Kuwayama (Hemiptera: Liividae), is the most important pest of citrus worldwide. It is the vector of the bacteria Liberibacter spp. responsible for Huanglongbing, a devastating disease of citrus. The pathogenicity of four Beauveria bassiana (Balsamo) Vuillemin (Hypocreales: Cordycipitaceae) strains and a commercial product were evaluated on immature stages of D. citri in laboratory bioassays. At a concentration of 1x108 conidia per milliliter, neither the strains nor commercial product of B. bassiana had any effect on D. citri eggs; 95% of the eggs hatched and nymphs continued development into adults. The strains evaluated, Bb-Rhy, Bb-Dc, Bb-18, Botanigard, and Bb-Hy, killed 58, 56, 45, 43, and 21%, respectively, of all nymphs. The shortest lethal times, 8.5 and 9.5 days, were by Bb-Rhy and Bb-Dc strains. Bb-Rhy killed significantly more I-III than IV-V stage nymphs. Median lethal concentrations of the most pathogenic strains on nymph IV-V instars were 8.34x106 conidia per milliliter by Bb-Dc and 1x107 by Bb-Rhy. The impact of the fungus on nymphal stages was discussed.
 
 
+### Extraction (abstract)
+
+- cite_label: Cruz-Cruz2020
+- evidence: abstract
+- host_pest: [to be verified]
+- strain_product: Botanigard
+- delivery_mode: unclear
+- mortality: [to be verified]
+- lt_lc: [to be verified]
+- colony_nest_effects: [to be verified]
+- notes: Cruz-Cruz, 2020, o.a.; abstract-only extraction
+
+
 The strains evaluated, Bb-Rhy, Bb-Dc, Bb-18, Botanigard, and Bb-Hy, killed 58, 56, 45, 43, and 21%," Yellow
 	Highlight [Page	](zotero://open-pdf/library/items/8DT54PY6?page=&annotation=GLWBJIZQ)
 

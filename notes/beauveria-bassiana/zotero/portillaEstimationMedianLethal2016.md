@@ -7,7 +7,20 @@ Portilla, Maribel, Walker Jones, Omaththage Perera, Nick Seiter, Jeremy Greene, 
 
 ### Abstract
 
-The kudzu bug, Megacopta cribraria (F.), is an urban nuisance and signiﬁcant agricultural pest. The median lethal concentrations of three strains of Beauveria bassiana (Balsamo), including the Mississippi Delta native strain (NI8) isolated from Lygus lineolaris (Palisot de Beauvois), the commercial strain BotaniGard® (GHA) (Victor, NY, USA), and the B. bassiana strain isolated from M. cribraria (KUDSC), were estimated on kudzu bug adults. A technique developed to evaluate B. bassiana against L. lineolaris was used. Younger adults (eight days after collection) were treated with NI8 and GHA and older adult (50 days after collection) were treated with NI8, GHA and KUDSC. Higher concentrations (n ˆ 106, n ˆ 107) of NI8 and GHA caused kudzu bug mortality two days after treatment in younger adults and similar concentrations of NI8, GHA, and KUDSC caused mortality one day after treatment in older adults. Lower concentrations (n ˆ 104, n ˆ 105) were not signiﬁcantly different in mortality between strains. LS50 values of the KUDSC were signiﬁcantly lower than NI8 and GHA values in older adults. This is the ﬁrst available information on median lethal concentration of B. bassiana on kudzu bug adults bioassayed on artiﬁcial diet. It was determined that B. bassiana (KUDSC and NI8) are highly effective for young adults at very low doses (LC50 1.98–4.98 viable spores per mm2).
+The kudzu bug, Megacopta cribraria (F.), is an urban nuisance and significant agricultural pest. The median lethal concentrations of three strains of Beauveria bassiana (Balsamo), including the Mississippi Delta native strain (NI8) isolated from Lygus lineolaris (Palisot de Beauvois), the commercial strain BotaniGard(®) (GHA) (Victor, NY, USA), and the B. bassiana strain isolated from M. cribraria (KUDSC), were estimated on kudzu bug adults. A technique developed to evaluate B. bassiana against L. lineolaris was used. Younger adults (eight days after collection) were treated with NI8 and GHA and older adult (50 days after collection) were treated with NI8, GHA and KUDSC. Higher concentrations (n × 10⁶, n × 10⁷) of NI8 and GHA caused kudzu bug mortality two days after treatment in younger adults and similar concentrations of NI8, GHA, and KUDSC caused mortality one day after treatment in older adults. Lower concentrations (n × 10⁴, n × 10⁵) were not significantly different in mortality between strains. LS50 values of the KUDSC were significantly lower than NI8 and GHA values in older adults. This is the first available information on median lethal concentration of B. bassiana on kudzu bug adults bioassayed on artificial diet. It was determined that B. bassiana (KUDSC and NI8) are highly effective for young adults at very low doses (LC50 1.98-4.98 viable spores per mm²).
+
+
+### Extraction (abstract)
+
+- cite_label: Portilla2016
+- evidence: abstract
+- host_pest: [to be verified]
+- strain_product: BotaniGard; GHA
+- delivery_mode: unclear
+- mortality: mortality mentioned (see abstract)
+- lt_lc: LC50 1.98
+- colony_nest_effects: [to be verified]
+- notes: Portilla, 2016, o.a.; abstract-only extraction
 
 
 kudzu bug, Megacopta cribraria" Yellow

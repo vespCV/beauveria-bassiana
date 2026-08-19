@@ -7,7 +7,20 @@ Weeks, E. N. I., E. T. Machtinger, S. A. Gezan, P. E. Kaufman, en C. J. Geden. �
 
 ### Abstract
 
-The house fly Musca domestica L. (Diptera: Muscidae) and stable fly Stomoxys calcitrans (L.) (Diptera: Muscidae) are major pests of livestock. Biological control is an important tool in an integrated control framework. Increased mortality in filth flies has been documented with entomopathogenic fungi, several strains of which are commercially available. Three strains of Beauveria bassiana (Balsamo-Crivelli) Vuillemin (Hypocreales: Cordycipitaceae) and one strain of Metarhizium brunneum (Petch) (Hypocreales: Clavicipitaceae) were tested in commercial formulations for pathogenicity against house flies and stable flies. There was a significant increase in mortality of house flies with three of the formulations, BotaniGard® ES, Mycotrol® O, and Met52® EC, during days 4–9 in comparison with balEnce™ and the control. In stable flies, mortality rates were highest with Met52® EC, followed by Mycotrol® O, BotaniGard® ES and, finally, balEnce™. There was a significant fungal effect on sporulation in both house flies and stable flies. Product formulation, species differences and fungal strains may be responsible for some of the differences observed. Future testing in field situations is necessary. These commercial biopesticides may represent important tools in integrated fly management programmes.
+The house fly Musca domestica L. (Diptera: Muscidae) and stable fly Stomoxys calcitrans (L.) (Diptera: Muscidae) are major pests of livestock. Biological control is an important tool in an integrated control framework. Increased mortality in filth flies has been documented with entomopathogenic fungi, several strains of which are commercially available. Three strains of Beauveria bassiana (Balsamo-Crivelli) Vuillemin (Hypocreales: Cordycipitaceae) and one strain of Metarhizium brunneum (Petch) (Hypocreales: Clavicipitaceae) were tested in commercial formulations for pathogenicity against house flies and stable flies. There was a significant increase in mortality of house flies with three of the formulations, BotaniGard<sup>®</sup> ES, Mycotrol<sup>®</sup> O, and Met52<sup>®</sup> EC, during days 4-9 in comparison with balEnce™ and the control. In stable flies, mortality rates were highest with Met52<sup>®</sup> EC, followed by Mycotrol<sup>®</sup> O, BotaniGard<sup>®</sup> ES and, finally, balEnce™. There was a significant fungal effect on sporulation in both house flies and stable flies. Product formulation, species differences and fungal strains may be responsible for some of the differences observed. Future testing in field situations is necessary. These commercial biopesticides may represent important tools in integrated fly management programmes.
+
+
+### Extraction (abstract)
+
+- cite_label: Weeks2016
+- evidence: abstract
+- host_pest: [to be verified]
+- strain_product: BotaniGard; Mycotrol
+- delivery_mode: unclear
+- mortality: mortality mentioned (see abstract)
+- lt_lc: [to be verified]
+- colony_nest_effects: [to be verified]
+- notes: WEEKS, 2016, o.a.; abstract-only extraction
 
 
 Musca domestica L. (Diptera: Muscidae) and stable fly Stomoxys calcitrans (L.) (Diptera: Muscidae)" Yellow

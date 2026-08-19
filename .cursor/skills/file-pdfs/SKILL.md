@@ -3,7 +3,7 @@ name: file-pdfs
 description: >-
   Identify PDFs in pdfs/inbox/ (or a user-pointed drop folder such as
   temp/inbox/pdf-search/), match them to phase 2 records, rename and move
-  them into the correct pdfs/ category folder, remove matched items from
+  them into pdfs/ (flat library root), remove matched items from
   pdfs_download_links.md, and refresh README.md inventory counts. Use when
   the user adds PDFs to inbox, asks to file or rename PDFs, or to update
   pdfs_download_links or the phase 2 full-text inventory in README.
@@ -29,28 +29,13 @@ If any are missing: refuse, name the missing path(s), and stop. Do not invent st
 | --- | --- |
 | `pdfs/inbox/` | Default drop zone for new PDFs |
 | User-pointed folder (e.g. `temp/inbox/pdf-search/`) | Alternate drop zone when the user names it; process that folder instead of (or in addition to) `pdfs/inbox/` |
-| `pdfs/{category}/` | Filed PDFs by screening category |
+| `pdfs/` | Filed include PDFs (flat; `{Surname}_{YYYY}.pdf`) |
+| `pdfs/excluded/` | Excluded full texts |
 | `input-phase2/relevant_articles_categorized.csv` | Phase 2 records; `screening_category`, DOI, title, authors, year |
 | `input-phase2/pdfs_download_links.md` | Missing PDFs: DOI / ResearchGate / DuckDuckGo links by category section; remove filed items and recount section `(N)` |
 | `README.md` | Study-selection PDF counts, Phase 2 full-text inventory table, PRISMA `E` if present |
 
-Category folder names must match CSV `screening_category` and the `## {section} (N)` headers in `pdfs_download_links.md`:
-
-pdfs/
-00-key-papers/
-01-existing-products/
-02-efficacy-mechanics-delivery/
-    02a_efficacy/
-    02b_strains_traits/
-    02c_formulation_delivery/
-03-autodissemination-social/
-04-nontarget-ecotox/
-05-regulatory-policy/
-06-background-proxies/
-07-vespideae-biocontrol/
-99-excluded/
-
-For `02a` / `02b` / `02c`, file under `pdfs/02-efficacy-mechanics-delivery/{subcategory}/`.
+Screening category ids (`00-key-papers` through `07-vespideae-biocontrol`, plus `02a`/`02b`/`02c`) live in the CSV and Zotero collections. On disk, include PDFs sit flat under `pdfs/`; only exclusions use `pdfs/excluded/`. Section headers in `pdfs_download_links.md` still use those category ids.
 
 ## Workflow
 
@@ -60,7 +45,7 @@ Copy this checklist and track it:
 - [ ] 1. List inbox PDFs
 - [ ] 2. Identify each PDF (title, first author, year, DOI)
 - [ ] 3. Match to CSV and pdfs_download_links
-- [ ] 4. File Phase 2 matches (rename + move); file non-matches into `pdfs/06-background-proxies/`
+- [ ] 4. File Phase 2 matches (rename + move into `pdfs/`); file non-matches into `pdfs/` too
 - [ ] 5. Update pdfs_download_links.md
 - [ ] 6. Recount and update README.md
 - [ ] 7. Report results to user
@@ -90,9 +75,9 @@ For each identified PDF, search in order:
 
 **On the list:** present in `pdfs_download_links.md` (usually also in the CSV).
 
-**On phase 2 but already filed:** CSV hit, PDF already under `pdfs/{category}/`. Do not overwrite; report collision. Still remove the matching bullet from `pdfs_download_links.md` if the list still claims it is missing.
+**On phase 2 but already filed:** CSV hit, PDF already under `pdfs/`. Do not overwrite; report collision. Still remove the matching bullet from `pdfs_download_links.md` if the list still claims it is missing.
 
-**Not on phase 2:** no CSV / download-links match. File into `pdfs/06-background-proxies/` with `{Surname}_{YYYY}.pdf` naming (same identity rules). Do not add rows to `pdfs_download_links.md` or the Phase 2 CSV. Report what was filed there.
+**Not on phase 2:** no CSV / download-links match. File into `pdfs/` with `{Surname}_{YYYY}.pdf` naming (same identity rules). Do not add rows to `pdfs_download_links.md` or the Phase 2 CSV. Report what was filed there.
 
 Duplicate list entries for the same DOI/title count as **one** paper: one PDF files both; remove **all** matching list entries.
 
@@ -102,9 +87,9 @@ Naming: `{FirstAuthorSurname}_{YYYY}.pdf`
 
 - Strip spaces and most punctuation from the surname; keep internal capitals, hyphens, and diacritics as in existing files (e.g. `Gabín-García_2021.pdf`, `deSouza_2023.pdf`, `vanZyl_2023.pdf`, `Nouri-Aiin_2021.pdf`).
 - If `{name}_{year}.pdf` already exists in that folder, ask before using a suffix (existing pattern: `Dalmon_2019-b.pdf`).
-- Destination category: CSV `screening_category` (primary).
-- Move Phase 2 matches with `mv` into the matching `pdfs/` folder.
-- Move non-Phase-2 identified PDFs into `pdfs/06-background-proxies/`.
+- Record CSV `screening_category` (primary) in the report; disk path is always `pdfs/{Surname}_{YYYY}.pdf` for includes.
+- Move Phase 2 matches with `mv` into `pdfs/`.
+- Move non-Phase-2 identified PDFs into `pdfs/`.
 - Never delete drop-folder PDFs that cannot be identified.
 
 ### 5. Update `pdfs_download_links.md`
@@ -121,7 +106,7 @@ Do not invent new link entries. Preserve notes and link formatting on remaining 
 
 Recount from disk and the download-link list (do not reuse stale chat numbers):
 
-- **PDF have:** count `*.pdf` in each category folder under `pdfs/` (exclude `inbox` from the Total have; note `07-vespideae-biocontrol` separately if the README treats it as supplemental).
+- **PDF have:** count `*.pdf` directly under `pdfs/` (exclude `inbox/` and `excluded/` from the include total).
 - **PDF missing:** section `(N)` values in `pdfs_download_links.md`.
 - **Phase 2 includes with PDF on hand:** `accepted includes − listed missing` (must equal 254 when includes = 254 and the list is complete).
 

@@ -10,7 +10,14 @@ Pedrini, Nicolás. “The Entomopathogenic Fungus Beauveria Bassiana Shows Its T
 
 ### Abstract
 
-Entomopathogenic fungi are extensively used for the control of insect pests worldwide. Among them, Beauveria bassiana (Ascomycota: Hypocreales) produce a plethora of toxic secondary metabolites that either facilitate fungal invasion or act as immunosuppressive compounds. These toxins have different chemical natures, such as nonribosomal peptides and polyketides. Even though their precise role is poorly understood, they are usually linked to virulence. These fungal secondary metabolites are produced by the expression of gene clusters encoding the various proteins needed for their biosynthesis. Each cluster includes synthetases for nonribosomal peptides (NRPS), polyketides (PKS), or hybrid NRPS–PKS genes. The aim of this review is to summarize the information available from transcriptomics and quantitative PCR studies related to the expression of B. bassiana NRPS and PKS genes inside different insects as the infection progresses; as for the host immune response, to help understand the mechanisms that these toxins trigger as virulence factors, antimicrobials, or immunosuppressives within the context of a fungus–insect interaction.
+Entomopathogenic fungi are extensively used for the control of insect pests worldwide. Among them, <i>Beauveria bassiana</i> (Ascomycota: Hypocreales) produce a plethora of toxic secondary metabolites that either facilitate fungal invasion or act as immunosuppressive compounds. These toxins have different chemical natures, such as nonribosomal peptides and polyketides. Even though their precise role is poorly understood, they are usually linked to virulence. These fungal secondary metabolites are produced by the expression of gene clusters encoding the various proteins needed for their biosynthesis. Each cluster includes synthetases for nonribosomal peptides (NRPS), polyketides (PKS), or hybrid NRPS-PKS genes. The aim of this review is to summarize the information available from transcriptomics and quantitative PCR studies related to the expression of <i>B. bassiana</i> NRPS and PKS genes inside different insects as the infection progresses; as for the host immune response, to help understand the mechanisms that these toxins trigger as virulence factors, antimicrobials, or immunosuppressives within the context of a fungus-insect interaction.
+
+
+### Extraction (abstract)
+
+- cite_label: Pedrini2022
+- evidence: abstract
+- notes: Pedrini, 2022, o.a.; abstract-only extraction
 
 
 pathogen able to infect nearly 1000 insect species" Yellow

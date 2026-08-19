@@ -30,6 +30,15 @@ Entomopathogenic fungi play a critical role in regulating insect populations, an
               fungi have evolved distinct effectors to block the dual recognition pathways of flies for immune evasion and sheds lights on the effector mechanisms mediating microbe–animal interactions.
 
 
+### Extraction (abstract)
+
+- cite_label: Tang2025
+- evidence: abstract
+- infection_process: mentioned in abstract
+- abiotic_or_formulation_limits: mentioned in abstract
+- notes: Tang, 2025, o.a.; abstract-only extraction
+
+
 Relative to the advances in understanding antifungal immune responses in Drosophila, knowledge of how fungi evade insect immune defenses remains limited" Yellow
 	Highlight [Page	](zotero://open-pdf/library/items/MK7SDGVS?page=&annotation=CRM7LVLZ)
 

@@ -7,7 +7,16 @@ Szczepańska, Anna, Dorota Kiewra, Kinga Plewa-Tutaj, Dagmara Dyczko, en Katarzy
 
 ### Abstract
 
-Entomopathogenic fungi of the genus Beauveria and Metarhizium play an important role in controlling the population of arthropods. However, the data on their effectiveness against ticks focus mainly on species that do not occur in Europe. The aim of the study was to assess the effectiveness of entomopathogenic fungi against two of the most important tick species in Europe: Ixodes ricinus and Dermacentor reticulatus. In our study, the majority of tested entomopathogenic fungi strains showed potential efficacy against both tick species; however, D. reticulatus was less susceptible in comparison to I. ricinus. The observed mortality of ticks was up to 100% by using all commercial strains as well as three out of nine of the environmental strains. Among all tested fungi, the most effective against both tick species was environmental strain Metarhizium anisopliae LO4(1) with LC50 values: 2.6 × 103 cfu/ml–5.7 × 105 cfu/ml. Botanigard proved to be more effective than MET52 with LC50 values: 6.8 × 103 cfu/ ml–3.3 × 106 cfu/ml. The conducted bioassays indicate the potential possibility of using the environmental isolates of entomopathogenic fungi, as well as commercial strains in control of local populations of I. ricinus and D. reticulatus; however, the possibility of using them in vivo requires more research.
+Entomopathogenic fungi of the genus Beauveria and Metarhizium play an important role in controlling the population of arthropods. However, the data on their effectiveness against ticks focus mainly on species that do not occur in Europe. The aim of the study was to assess the effectiveness of entomopathogenic fungi against two of the most important tick species in Europe: Ixodes ricinus and Dermacentor reticulatus. In our study, the majority of tested entomopathogenic fungi strains showed potential efficacy against both tick species; however, D. reticulatus was less susceptible in comparison to I. ricinus. The observed mortality of ticks was up to 100% by using all commercial strains as well as three out of nine of the environmental strains. Among all tested fungi, the most effective against both tick species was environmental strain Metarhizium anisopliae LO4(1) with LC<sub>50</sub> values: 2.6 × 10<sup>3</sup> cfu/ml-5.7 × 10<sup>5</sup> cfu/ml. Botanigard proved to be more effective than MET52 with LC<sub>50</sub> values: 6.8 × 10<sup>3</sup> cfu/ml-3.3 × 10<sup>6</sup> cfu/ml. The conducted bioassays indicate the potential possibility of using the environmental isolates of entomopathogenic fungi, as well as commercial strains in control of local populations of I. ricinus and D. reticulatus; however, the possibility of using them in vivo requires more research.
+
+
+### Extraction (abstract)
+
+- cite_label: Szczepaska2020
+- evidence: abstract
+- infection_process: [to be verified]
+- abiotic_or_formulation_limits: mentioned in abstract
+- notes: Szczepańska, 2020, o.a.; abstract-only extraction
 
 
 Botanigard proved to be more effective than MET52 with LC50 values: 6.8 × 103 cfu/ ml–3.3 × 106 cfu/ml." Yellow

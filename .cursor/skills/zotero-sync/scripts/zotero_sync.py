@@ -2,8 +2,8 @@
 """Zotero -> repo sync (read-only against live Zotero DB).
 
 Copies zotero.sqlite (and Better BibTeX citationkey DB) when locked, then:
-  - places PDF copies under pdfs/{collection}/ from Zotero storage
-  - syncs 99-excluded into input-phase2/99-excluded/ and strips include CSV
+  - places PDF copies under `pdfs/` (includes) or `pdfs/excluded/` from Zotero storage
+  - syncs excluded into input-phase2/excluded/ and strips include CSV
   - writes annotation markdown under temp/zotero-annotations/ when Obsidian notes absent
   - updates temp/overview/literature-overview.md exclusion stubs
 
@@ -25,19 +25,22 @@ from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
 
+EXCLUDED_COLLECTION = "excluded"
+LEGACY_EXCLUDED_COLLECTION = "99-excluded"
+
 COLLECTION_TO_PDF_DIR = {
-    "00-key-papers": "00-key-papers",
-    "01-existing-products": "01-existing-products",
-    "02-efficacy-mechanics-delivery": "02-efficacy-mechanics-delivery",
-    "02a-efficacy": "02-efficacy-mechanics-delivery/02a_efficacy",
-    "02b-strains-traits": "02-efficacy-mechanics-delivery/02b_strains_traits",
-    "02c-formulation-delivery": "02-efficacy-mechanics-delivery/02c_formulation_delivery",
-    "03-autodissemination-social": "03-autodissemination-social",
-    "04-nontarget-ecotox": "04-nontarget-ecotox",
-    "05-regulatory-policy": "05-regulatory-policy",
-    "06-background-proxies": "06-background-proxies",
-    "07-vespideae-biocontrol": "07-vespideae-biocontrol",
-    "99-excluded": "99-excluded",
+    "00-key-papers": ".",
+    "01-existing-products": ".",
+    "02-efficacy-mechanics-delivery": ".",
+    "02a-efficacy": ".",
+    "02b-strains-traits": ".",
+    "02c-formulation-delivery": ".",
+    "03-autodissemination-social": ".",
+    "04-nontarget-ecotox": ".",
+    "05-regulatory-policy": ".",
+    "06-background-proxies": ".",
+    "07-vespideae-biocontrol": ".",
+    EXCLUDED_COLLECTION: EXCLUDED_COLLECTION,
 }
 
 # Prefer child collections over parent when both present.
@@ -53,12 +56,12 @@ COLLECTION_DEPTH = {
     "05-regulatory-policy": 1,
     "06-background-proxies": 1,
     "07-vespideae-biocontrol": 1,
-    "99-excluded": 2,  # exclusion always wins for placement
+    EXCLUDED_COLLECTION: 2,  # exclusion always wins for placement
 }
 
 DEFAULT_ZOTERO_DIR = Path.home() / "Zotero"
 DEFAULT_BIB_CANDIDATES = [
-    Path("temp/zotero/99-excluded.bib"),
+    Path("temp/zotero/excluded.bib"),
     Path.home() / "Downloads" / "Mijn Bibliotheek.bib",
 ]
 
@@ -156,15 +159,22 @@ def load_citekeys(bbt_path: Path, dest: Path) -> dict:
 
 def load_collections(conn: sqlite3.Connection) -> dict[str, int]:
     rows = conn.execute("SELECT collectionID, collectionName FROM collections").fetchall()
-    wanted = set(COLLECTION_TO_PDF_DIR)
-    return {name: cid for cid, name in rows if name in wanted}
+    wanted = set(COLLECTION_TO_PDF_DIR) | {LEGACY_EXCLUDED_COLLECTION}
+    out: dict[str, int] = {}
+    for cid, name in rows:
+        if name not in wanted:
+            continue
+        canonical = EXCLUDED_COLLECTION if name == LEGACY_EXCLUDED_COLLECTION else name
+        if canonical in COLLECTION_TO_PDF_DIR:
+            out[canonical] = cid
+    return out
 
 
 def pick_placement_collection(names: list[str]) -> str | None:
     if not names:
         return None
-    if "99-excluded" in names:
-        return "99-excluded"
+    if EXCLUDED_COLLECTION in names or LEGACY_EXCLUDED_COLLECTION in names:
+        return EXCLUDED_COLLECTION
     ranked = sorted(
         names,
         key=lambda n: (COLLECTION_DEPTH.get(n, 0), n),
@@ -465,7 +475,7 @@ def update_overview_exclusions(
         f"_Generated/updated by zotero_sync on {date.today().isoformat()}. "
         f"User promotes keepers to README.md._\n\n"
     )
-    section = ["## Screened out (99-excluded)\n"]
+    section = ["## Screened out (excluded)\n"]
     for item in excluded_items:
         label = item.citekey or f"{item.surname}{item.year}"
         doi = f" ({item.doi})" if item.doi else ""
@@ -475,9 +485,9 @@ def update_overview_exclusions(
 
     if overview_path.exists():
         text = overview_path.read_text(encoding="utf-8")
-        if "## Screened out (99-excluded)" in text:
+        if re.search(r"## Screened out \((?:99-)?excluded\)", text):
             text = re.sub(
-                r"## Screened out \(99-excluded\).*?(?=\n## |\Z)",
+                r"## Screened out \((?:99-)?excluded\).*?(?=\n## |\Z)",
                 body,
                 text,
                 count=1,
@@ -502,11 +512,11 @@ def sync(
     work_dir.mkdir(parents=True, exist_ok=True)
 
     items, by_collection = load_zotero_items(zotero_dir, work_dir)
-    excluded_ids = list(dict.fromkeys(by_collection.get("99-excluded", [])))
+    excluded_ids = list(dict.fromkeys(by_collection.get(EXCLUDED_COLLECTION, [])))
     excluded_items = [items[i] for i in excluded_ids]
 
     # Exclusion source preference
-    excl_source = "sqlite:99-excluded"
+    excl_source = f"sqlite:{EXCLUDED_COLLECTION}"
     bib_entries: list[dict] = []
     candidates = []
     if bib_path:
@@ -532,9 +542,9 @@ def sync(
     include_rows, fieldnames = load_include_csv(include_csv) if include_csv.exists() else ([], [])
     notes_zotero = repo / "notes" / "beauveria-bassiana" / "zotero"
     pdfs_root = repo / "pdfs"
-    excl_dir = repo / "input-phase2" / "99-excluded"
+    excl_dir = repo / "input-phase2" / EXCLUDED_COLLECTION
     excl_dir.mkdir(parents=True, exist_ok=True)
-    (pdfs_root / "99-excluded").mkdir(parents=True, exist_ok=True)
+    (pdfs_root / EXCLUDED_COLLECTION).mkdir(parents=True, exist_ok=True)
     ann_dir = repo / "temp" / "zotero-annotations"
     ann_dir.mkdir(parents=True, exist_ok=True)
 
@@ -571,7 +581,7 @@ def sync(
 
         # Conflict: CSV primary vs Zotero placement (non-excluded)
         matched = match_include_row(include_rows, item) if include_rows else None
-        if matched and placement != "99-excluded":
+        if matched and placement != EXCLUDED_COLLECTION:
             csv_cat = matched.get("screening_category", "")
             # Map CSV ids (underscores) to collection-ish names for compare
             csv_norm = csv_cat.replace("_", "-")
@@ -649,7 +659,7 @@ def sync(
                         year=e["year"],
                         surname=e["surname"],
                         citekey=e["citekey"],
-                        collections=["99-excluded"],
+                        collections=[EXCLUDED_COLLECTION],
                     )
                 )
         excluded_items = overview_items
@@ -767,7 +777,7 @@ def main(argv: list[str] | None = None) -> int:
         "--bib",
         type=Path,
         default=None,
-        help="Optional 99-excluded-only BibTeX path",
+        help="Optional excluded-collection-only BibTeX path",
     )
     p.add_argument(
         "--apply",

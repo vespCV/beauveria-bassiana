@@ -26,6 +26,15 @@ The entomopathogenic fungus
               GHA induces SA accumulation, leading to the induction of HR-like cell death against powdery mildew and subsequent suppression of fungal penetration. Thus, Botanigard has the potential to control both insect pests and plant diseases.
 
 
+### Extraction (abstract)
+
+- cite_label: Iida
+- evidence: abstract
+- infection_process: mentioned in abstract
+- abiotic_or_formulation_limits: mentioned in abstract
+- notes: Iida, , o.a.; abstract-only extraction
+
+
 Botanigard has the potential to control both insect pests and plant diseases." Yellow
 	Highlight [Page	2](zotero://open-pdf/library/items/U8PYP9JX?page=2&annotation=TTI4SHI2)
 

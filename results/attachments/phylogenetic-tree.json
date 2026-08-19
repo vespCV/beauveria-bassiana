@@ -1,0 +1,613 @@
+{
+  "generated": "2026-08-18",
+  "notes_scanned": 202,
+  "taxa_in_map": 68,
+  "taxa_with_notes": 68,
+  "role_counts": {
+    "distant_proxy": 40,
+    "social_proxy": 5,
+    "nontarget": 9,
+    "motivation": 1,
+    "vespidae": 13
+  },
+  "tree_ascii": "── Ancestral Neoptera Insects\n   ├── Polyneoptera (Incomplete Meta.)\n   │   ├── Grasshoppers and locusts (Orthoptera)\n   │   │   └── Schistocerca gregaria (1)  desert locust\n   │   └── Termites (Blattodea)\n   │       └── Odontotermes formosanus (1)  Formosan fungus-growing termite\n   ├── Paraneoptera (Incomplete Meta.)\n   │   ├── Thrips (Thysanoptera)\n   │   │   └── Frankliniella occidentalis (2)  western flower thrips\n   │   └── True bugs (Hemiptera)\n   │       ├── Aphids (Aphididae)\n   │       │   ├── Myzus persicae (2)  green peach aphid\n   │       │   ├── Aphis gossypii (1)  cotton aphid\n   │       │   ├── Chaetosiphon fragaefolii (1)  strawberry aphid\n   │       │   └── Rhopalosiphum padi (1)  bird cherry-oat aphid\n   │       ├── Plant bugs (Miridae)\n   │       │   └── Lygus lineolaris (4)  tarnished plant bug\n   │       ├── Shield bugs (Pentatomidae)\n   │       │   ├── Halyomorpha halys (1)  brown marmorated stink bug\n   │       │   └── Nezara viridula (1)  southern green stink bug\n   │       ├── Cicadas, lanternflies, and allies\n   │       │   ├── Lycorma delicatula (2)  spotted lanternfly\n   │       │   └── Diaphorina citri (1)  Asian citrus psyllid\n   │       └── Other Hemiptera\n   │           ├── Megacopta cribraria (1)  kudzu bug\n   │           ├── Trialeurodes vaporariorum (1)  greenhouse whitefly\n   │           ├── Aleyrodes proletella (1)  cabbage whitefly\n   │           ├── Cimex lectularius (2)  bed bug\n   │           ├── Triatoma infestans (1)  kissing bug\n   │           └── Orius insidiosus (2)  minute pirate bug\n   └── Holometabola (Complete Meta.)\n       ├── Beetles (Coleoptera)\n       │   ├── Aethina tumida (1)  small hive beetle\n       │   ├── Alphitobius diaperinus (2)  lesser mealworm\n       │   ├── Carpophilus lugubris (1)  dusky sap beetle\n       │   ├── Euwallacea perbrevis (1)  tea shot-hole borer\n       │   ├── Phyllotreta cruciferae (1)  crucifer flea beetle\n       │   ├── Hippodamia convergens (1)  convergent lady beetle\n       │   ├── Harmonia axyridis (1)  harlequin ladybird\n       │   ├── Coleomegilla maculata (1)  spotted lady beetle\n       │   ├── Monochamus alternatus (2)  Japanese pine sawyer\n       │   ├── Leptinotarsa decemlineata (1)  Colorado potato beetle\n       │   ├── Tenebrio molitor (1)  yellow mealworm\n       │   └── Dastarcus helophoroides (1)  parasitic beetle of pine sawyer\n       ├── Flies and mosquitoes (Diptera)\n       │   ├── Musca domestica (2)  house fly\n       │   ├── Stomoxys calcitrans (1)  stable fly\n       │   ├── Aedes albopictus (2)  Asian tiger mosquito\n       │   ├── Aedes aegypti (1)  yellow fever mosquito\n       │   ├── Lucilia sericata (1)  green bottle blowfly\n       │   ├── Drosophila (1)  fruit fly (immunity model)\n       │   ├── Ceratitis rosa (1)  Natal fruit fly\n       │   ├── Delia radicum (1)  cabbage root fly\n       │   └── Zeugodacus cucurbitae (1)  melon fly\n       ├── Butterflies and moths (Lepidoptera)\n       │   ├── Spodoptera frugiperda (1)  fall armyworm\n       │   ├── Spodoptera exigua (1)  beet armyworm\n       │   ├── Ostrinia nubilalis (1)  European corn borer\n       │   ├── Plutella xylostella (2)  diamondback moth\n       │   ├── Helicoverpa zea (1)  corn earworm\n       │   ├── Dargida diffusa (1)  wheat head armyworm\n       │   └── Thaumatotibia leucotreta (1)  false codling moth\n       └── Hymenoptera (wasps, bees, ants)\n           ├── Ants (Formicidae)\n           │   ├── Camponotus (1)  carpenter ants (Bos 2019 genus note)\n           │   ├── Formica selysi (1)  selysi wood ant\n           │   ├── Atta cephalotes (1)  leafcutter ant\n           │   └── Atta sexdens (1)  leafcutter ant\n           ├── Hornets and paper wasps (Vespidae)\n           │   ├── Vespa (hornets)\n           │   │   ├── Vespa velutina (13)  yellow-legged hornet\n           │   │   ├── Vespa crabro (3)  European hornet\n           │   │   ├── Vespa mandarinia (1)  Asian giant hornet\n           │   │   ├── Vespa analis (3)  yellow-vented hornet\n           │   │   ├── Vespa simillima (2)  Japanese hornet\n           │   │   ├── Vespa ducalis (1)  black-tailed hornet\n           │   │   └── Vespa dybowskii (1)  Dybowski's hornet\n           │   ├── Vespula (yellowjackets)\n           │   │   ├── Vespula germanica (5)  German wasp\n           │   │   ├── Vespula vulgaris (3)  common wasp\n           │   │   └── Vespula maculifrons (2)  eastern yellowjacket\n           │   ├── Polistes (paper wasps)\n           │   │   ├── Polistes dominula (3)  European paper wasp\n           │   │   └── Polistes chinensis (1)  Asian paper wasp\n           │   ├── Mischocyttarus metathoracicus (1)  Neotropical paper wasp\n           │   └── Dolichovespula (1)  aerial yellowjackets (Rose 1999 genera list)\n           └── Apoidea (bees and sphecoid wasps)\n               └── Apidae (bees)\n                   ├── Apis mellifera (11)  western honey bee\n                   ├── Bombus terrestris (4)  buff-tailed bumblebee\n                   ├── Bombus impatiens (2)  common eastern bumblebee\n                   └── Meliponula ferruginea (1)  African stingless bee",
+  "hits": {
+    "schistocerca-gregaria": {
+      "scientific": "Schistocerca gregaria",
+      "common": "desert locust",
+      "role": "distant_proxy",
+      "notes": [
+        "mwikaliFormulationBioefficacyDifferent2024"
+      ]
+    },
+    "odontotermes-formosanus": {
+      "scientific": "Odontotermes formosanus",
+      "common": "Formosan fungus-growing termite",
+      "role": "social_proxy",
+      "notes": [
+        "linLongifoleneEnhancesBeauveria2026"
+      ]
+    },
+    "frankliniella-occidentalis": {
+      "scientific": "Frankliniella occidentalis",
+      "common": "western flower thrips",
+      "role": "distant_proxy",
+      "notes": [
+        "al-mazraawiBiologicalControlLygus2006",
+        "mantzoukasDualActionBeauveria2022"
+      ]
+    },
+    "myzus-persicae": {
+      "scientific": "Myzus persicae",
+      "common": "green peach aphid",
+      "role": "distant_proxy",
+      "notes": [
+        "dessauvagesNewIsolateBeauveria2024",
+        "princeSusceptibilityMyzusPersicae2020"
+      ]
+    },
+    "aphis-gossypii": {
+      "scientific": "Aphis gossypii",
+      "common": "cotton aphid",
+      "role": "distant_proxy",
+      "notes": [
+        "mantzoukasDualActionBeauveria2022"
+      ]
+    },
+    "chaetosiphon-fragaefolii": {
+      "scientific": "Chaetosiphon fragaefolii",
+      "common": "strawberry aphid",
+      "role": "distant_proxy",
+      "notes": [
+        "mantzoukasDualActionBeauveria2022"
+      ]
+    },
+    "rhopalosiphum-padi": {
+      "scientific": "Rhopalosiphum padi",
+      "common": "bird cherry-oat aphid",
+      "role": "distant_proxy",
+      "notes": [
+        "kapongoSustainableControlBird2025"
+      ]
+    },
+    "lygus-lineolaris": {
+      "scientific": "Lygus lineolaris",
+      "common": "tarnished plant bug",
+      "role": "distant_proxy",
+      "notes": [
+        "al-mazraawiBiologicalControlLygus2006",
+        "dumontUsingAutumnalTrap2022",
+        "portillaEstimationMedianLethal2016",
+        "portillaLethalityEntomogenousFungus2017"
+      ]
+    },
+    "halyomorpha-halys": {
+      "scientific": "Halyomorpha halys",
+      "common": "brown marmorated stink bug",
+      "role": "distant_proxy",
+      "notes": [
+        "parkerVirulenceBotaniGardSecond2015"
+      ]
+    },
+    "nezara-viridula": {
+      "scientific": "Nezara viridula",
+      "common": "southern green stink bug",
+      "role": "distant_proxy",
+      "notes": [
+        "iImpactCommercialBeauveria2026"
+      ]
+    },
+    "lycorma-delicatula": {
+      "scientific": "Lycorma delicatula",
+      "common": "spotted lanternfly",
+      "role": "distant_proxy",
+      "notes": [
+        "cliftonApplicationsBeauveriaBassiana2020",
+        "kellerEfficacyNontargetEffects2023"
+      ]
+    },
+    "diaphorina-citri": {
+      "scientific": "Diaphorina citri",
+      "common": "Asian citrus psyllid",
+      "role": "distant_proxy",
+      "notes": [
+        "cruz-cruzPathogenicityBeauveriaBassiana2020"
+      ]
+    },
+    "megacopta-cribraria": {
+      "scientific": "Megacopta cribraria",
+      "common": "kudzu bug",
+      "role": "distant_proxy",
+      "notes": [
+        "portillaEstimationMedianLethal2016"
+      ]
+    },
+    "trialeurodes-vaporariorum": {
+      "scientific": "Trialeurodes vaporariorum",
+      "common": "greenhouse whitefly",
+      "role": "distant_proxy",
+      "notes": [
+        "thomidisSustainableManagementTetranychus2024"
+      ]
+    },
+    "aleyrodes-proletella": {
+      "scientific": "Aleyrodes proletella",
+      "common": "cabbage whitefly",
+      "role": "distant_proxy",
+      "notes": [
+        "spasovaBiopolymerBasedFormulationsBeauveria2026"
+      ]
+    },
+    "cimex-lectularius": {
+      "scientific": "Cimex lectularius",
+      "common": "bed bug",
+      "role": "distant_proxy",
+      "notes": [
+        "barbarinPreliminaryEvaluationPotential2012",
+        "shikanoEffectsChemicalInsecticide2021"
+      ]
+    },
+    "triatoma-infestans": {
+      "scientific": "Triatoma infestans",
+      "common": "kissing bug",
+      "role": "distant_proxy",
+      "notes": [
+        "juarezContributionHorizontalTransmission2011"
+      ]
+    },
+    "orius-insidiosus": {
+      "scientific": "Orius insidiosus",
+      "common": "minute pirate bug",
+      "role": "nontarget",
+      "notes": [
+        "portillaLethalityEntomogenousFungus2017",
+        "zimmermannReviewSafetyEntomopathogenic2007"
+      ]
+    },
+    "aethina-tumida": {
+      "scientific": "Aethina tumida",
+      "common": "small hive beetle",
+      "role": "distant_proxy",
+      "notes": [
+        "muerrleSusceptibilityAdultAethina"
+      ]
+    },
+    "alphitobius-diaperinus": {
+      "scientific": "Alphitobius diaperinus",
+      "common": "lesser mealworm",
+      "role": "distant_proxy",
+      "notes": [
+        "item17181",
+        "nadeauPSXI4BeauveriaBassiana2020"
+      ]
+    },
+    "carpophilus-lugubris": {
+      "scientific": "Carpophilus lugubris",
+      "common": "dusky sap beetle",
+      "role": "distant_proxy",
+      "notes": [
+        "dowdAutodisseminationBeauveriaBassiana2003"
+      ]
+    },
+    "euwallacea-perbrevis": {
+      "scientific": "Euwallacea perbrevis",
+      "common": "tea shot-hole borer",
+      "role": "distant_proxy",
+      "notes": [
+        "chavezEvaluationSporeAcquisition2023"
+      ]
+    },
+    "phyllotreta-cruciferae": {
+      "scientific": "Phyllotreta cruciferae",
+      "common": "crucifer flea beetle",
+      "role": "distant_proxy",
+      "notes": [
+        "antwiComparisonsEcorationalChemical"
+      ]
+    },
+    "hippodamia-convergens": {
+      "scientific": "Hippodamia convergens",
+      "common": "convergent lady beetle",
+      "role": "nontarget",
+      "notes": [
+        "portillaLethalityEntomogenousFungus2017"
+      ]
+    },
+    "harmonia-axyridis": {
+      "scientific": "Harmonia axyridis",
+      "common": "harlequin ladybird",
+      "role": "nontarget",
+      "notes": [
+        "portillaLethalityEntomogenousFungus2017"
+      ]
+    },
+    "coleomegilla-maculata": {
+      "scientific": "Coleomegilla maculata",
+      "common": "spotted lady beetle",
+      "role": "nontarget",
+      "notes": [
+        "portillaLethalityEntomogenousFungus2017"
+      ]
+    },
+    "monochamus-alternatus": {
+      "scientific": "Monochamus alternatus",
+      "common": "Japanese pine sawyer",
+      "role": "distant_proxy",
+      "notes": [
+        "liEfficiencyEnhancementTechnology2025",
+        "zhangBehavioralSuppressionRapid2025"
+      ]
+    },
+    "leptinotarsa-decemlineata": {
+      "scientific": "Leptinotarsa decemlineata",
+      "common": "Colorado potato beetle",
+      "role": "distant_proxy",
+      "notes": [
+        "abdukerimPotentialBeauveriaSpecies2025"
+      ]
+    },
+    "tenebrio-molitor": {
+      "scientific": "Tenebrio molitor",
+      "common": "yellow mealworm",
+      "role": "distant_proxy",
+      "notes": [
+        "abdukerimPotentialBeauveriaSpecies2025"
+      ]
+    },
+    "dastarcus-helophoroides": {
+      "scientific": "Dastarcus helophoroides",
+      "common": "parasitic beetle of pine sawyer",
+      "role": "nontarget",
+      "notes": [
+        "liEfficiencyEnhancementTechnology2025"
+      ]
+    },
+    "musca-domestica": {
+      "scientific": "Musca domestica",
+      "common": "house fly",
+      "role": "distant_proxy",
+      "notes": [
+        "farooq2016",
+        "weeksEffectsFourCommercial2017"
+      ]
+    },
+    "stomoxys-calcitrans": {
+      "scientific": "Stomoxys calcitrans",
+      "common": "stable fly",
+      "role": "distant_proxy",
+      "notes": [
+        "weeksEffectsFourCommercial2017"
+      ]
+    },
+    "aedes-albopictus": {
+      "scientific": "Aedes albopictus",
+      "common": "Asian tiger mosquito",
+      "role": "distant_proxy",
+      "notes": [
+        "friuliBeauveriaBassianaAssociated2025",
+        "kirschLarvalMortalityOvipositional2022"
+      ]
+    },
+    "aedes-aegypti": {
+      "scientific": "Aedes aegypti",
+      "common": "yellow fever mosquito",
+      "role": "distant_proxy",
+      "notes": [
+        "bitencourtEncapsulationBeauveriaBassiana2024"
+      ]
+    },
+    "lucilia-sericata": {
+      "scientific": "Lucilia sericata",
+      "common": "green bottle blowfly",
+      "role": "distant_proxy",
+      "notes": [
+        "munizCarnaubaWaxEnhancesActivity2020"
+      ]
+    },
+    "drosophila": {
+      "scientific": "Drosophila",
+      "common": "fruit fly (immunity model)",
+      "role": "distant_proxy",
+      "notes": [
+        "tangFungalEvasionDrosophila2025"
+      ]
+    },
+    "ceratitis-rosa": {
+      "scientific": "Ceratitis rosa",
+      "common": "Natal fruit fly",
+      "role": "distant_proxy",
+      "notes": [
+        "gobleInvestigationNativeIsolates2011"
+      ]
+    },
+    "delia-radicum": {
+      "scientific": "Delia radicum",
+      "common": "cabbage root fly",
+      "role": "distant_proxy",
+      "notes": [
+        "razingerComparisonCauliflowerInsect2017"
+      ]
+    },
+    "zeugodacus-cucurbitae": {
+      "scientific": "Zeugodacus cucurbitae",
+      "common": "melon fly",
+      "role": "distant_proxy",
+      "notes": [
+        "fuTemperatureEffectsVirulence2026"
+      ]
+    },
+    "spodoptera-frugiperda": {
+      "scientific": "Spodoptera frugiperda",
+      "common": "fall armyworm",
+      "role": "distant_proxy",
+      "notes": [
+        "wraightComparativeVirulenceBeauveria2010"
+      ]
+    },
+    "spodoptera-exigua": {
+      "scientific": "Spodoptera exigua",
+      "common": "beet armyworm",
+      "role": "distant_proxy",
+      "notes": [
+        "wraightComparativeVirulenceBeauveria2010"
+      ]
+    },
+    "ostrinia-nubilalis": {
+      "scientific": "Ostrinia nubilalis",
+      "common": "European corn borer",
+      "role": "distant_proxy",
+      "notes": [
+        "wraightComparativeVirulenceBeauveria2010"
+      ]
+    },
+    "plutella-xylostella": {
+      "scientific": "Plutella xylostella",
+      "common": "diamondback moth",
+      "role": "distant_proxy",
+      "notes": [
+        "riazEnhancingVirulenceEntomopathogenic2026",
+        "wraightComparativeVirulenceBeauveria2010"
+      ]
+    },
+    "helicoverpa-zea": {
+      "scientific": "Helicoverpa zea",
+      "common": "corn earworm",
+      "role": "distant_proxy",
+      "notes": [
+        "wraightComparativeVirulenceBeauveria2010"
+      ]
+    },
+    "dargida-diffusa": {
+      "scientific": "Dargida diffusa",
+      "common": "wheat head armyworm",
+      "role": "distant_proxy",
+      "notes": [
+        "reddyToxicityNaturalInsecticides2016"
+      ]
+    },
+    "thaumatotibia-leucotreta": {
+      "scientific": "Thaumatotibia leucotreta",
+      "common": "false codling moth",
+      "role": "distant_proxy",
+      "notes": [
+        "gobleInvestigationNativeIsolates2011"
+      ]
+    },
+    "camponotus": {
+      "scientific": "Camponotus",
+      "common": "carpenter ants (Bos 2019 genus note)",
+      "role": "social_proxy",
+      "notes": [
+        "bosComparisonTwelveAnt2019"
+      ]
+    },
+    "formica-selysi": {
+      "scientific": "Formica selysi",
+      "common": "selysi wood ant",
+      "role": "social_proxy",
+      "notes": [
+        "purcellFosterCarersInfluence2014"
+      ]
+    },
+    "atta-cephalotes": {
+      "scientific": "Atta cephalotes",
+      "common": "leafcutter ant",
+      "role": "social_proxy",
+      "notes": [
+        "dazaSporesBeauveriaBassiana2019"
+      ]
+    },
+    "atta-sexdens": {
+      "scientific": "Atta sexdens",
+      "common": "leafcutter ant",
+      "role": "social_proxy",
+      "notes": [
+        "duarteAlginatekaoliniteBeadsIncorporated2024"
+      ]
+    },
+    "vespa-velutina": {
+      "scientific": "Vespa velutina",
+      "common": "yellow-legged hornet",
+      "role": "motivation",
+      "notes": [
+        "barandikaEfficacyProteinBaits2023",
+        "dalmonVirusesInvasiveHornet2019",
+        "feassanchezNotesNestArchitecture2019",
+        "gabin-garciaIdentificationPathogensInvasive2021",
+        "kim2025",
+        "kosaka2026",
+        "lacombradeInvasiveHornetVespa2025",
+        "liuDecipheringVenomicTranscriptome2015",
+        "poidatz2018",
+        "poidatzBeauveriaBassianaStrain2019",
+        "santosDetectionBeeassociatedPathogens2026",
+        "turchiOptionsBiologicalPhysical2018",
+        "villemantCanParasitesHalt2015"
+      ]
+    },
+    "vespa-crabro": {
+      "scientific": "Vespa crabro",
+      "common": "European hornet",
+      "role": "vespidae",
+      "notes": [
+        "gabin-garciaIdentificationPathogensInvasive2021",
+        "kanzakiNematodeStrepsipteranParasitism2023",
+        "rosePossiblePathogensSocial1999"
+      ]
+    },
+    "vespa-mandarinia": {
+      "scientific": "Vespa mandarinia",
+      "common": "Asian giant hornet",
+      "role": "vespidae",
+      "notes": [
+        "kanzakiNematodeStrepsipteranParasitism2023"
+      ]
+    },
+    "vespa-analis": {
+      "scientific": "Vespa analis",
+      "common": "yellow-vented hornet",
+      "role": "vespidae",
+      "notes": [
+        "kanzakiNematodeStrepsipteranParasitism2023",
+        "kosaka2026",
+        "yangSerratiaMarcescensAssociated2026"
+      ]
+    },
+    "vespa-simillima": {
+      "scientific": "Vespa simillima",
+      "common": "Japanese hornet",
+      "role": "vespidae",
+      "notes": [
+        "kanzakiNematodeStrepsipteranParasitism2023",
+        "kosaka2026"
+      ]
+    },
+    "vespa-ducalis": {
+      "scientific": "Vespa ducalis",
+      "common": "black-tailed hornet",
+      "role": "vespidae",
+      "notes": [
+        "kanzakiNematodeStrepsipteranParasitism2023"
+      ]
+    },
+    "vespa-dybowskii": {
+      "scientific": "Vespa dybowskii",
+      "common": "Dybowski's hornet",
+      "role": "vespidae",
+      "notes": [
+        "kanzakiNematodeStrepsipteranParasitism2023"
+      ]
+    },
+    "vespula-germanica": {
+      "scientific": "Vespula germanica",
+      "common": "German wasp",
+      "role": "vespidae",
+      "notes": [
+        "edwardsEfficacyVespexWasp2017",
+        "merinoSelectionNativeFungi2007",
+        "rosePossiblePathogensSocial1999",
+        "turchiOptionsBiologicalPhysical2018",
+        "vanzylPotentialControlVespula2024"
+      ]
+    },
+    "vespula-vulgaris": {
+      "scientific": "Vespula vulgaris",
+      "common": "common wasp",
+      "role": "vespidae",
+      "notes": [
+        "edwardsEfficacyVespexWasp2017",
+        "lacombradeInvasiveHornetVespa2025",
+        "rosePossiblePathogensSocial1999"
+      ]
+    },
+    "vespula-maculifrons": {
+      "scientific": "Vespula maculifrons",
+      "common": "eastern yellowjacket",
+      "role": "vespidae",
+      "notes": [
+        "buczkowskiCatchReleaseControlling2024 1",
+        "rosePossiblePathogensSocial1999"
+      ]
+    },
+    "polistes-dominula": {
+      "scientific": "Polistes dominula",
+      "common": "European paper wasp",
+      "role": "vespidae",
+      "notes": [
+        "cappaAdverseEffectsFungal2024",
+        "defaziBiopesticideExposureIncreases2025",
+        "vanzylPotentialControlVespula2024"
+      ]
+    },
+    "polistes-chinensis": {
+      "scientific": "Polistes chinensis",
+      "common": "Asian paper wasp",
+      "role": "vespidae",
+      "notes": [
+        "reasonIdentityPrevalencePathogenicity2022"
+      ]
+    },
+    "mischocyttarus-metathoracicus": {
+      "scientific": "Mischocyttarus metathoracicus",
+      "common": "Neotropical paper wasp",
+      "role": "vespidae",
+      "notes": [
+        "desouzaPredatorySocialWasp2023"
+      ]
+    },
+    "dolichovespula": {
+      "scientific": "Dolichovespula",
+      "common": "aerial yellowjackets (Rose 1999 genera list)",
+      "role": "vespidae",
+      "notes": [
+        "rosePossiblePathogensSocial1999"
+      ]
+    },
+    "apis-mellifera": {
+      "scientific": "Apis mellifera",
+      "common": "western honey bee",
+      "role": "nontarget",
+      "notes": [
+        "al-mazraawiDevelopmentBeauveriaBassiana2007",
+        "iImpactCommercialBeauveria2026",
+        "leiteLaboratoryRiskAssessment2022",
+        "meikleDurationSpreadEntomopathogenic",
+        "muerrleSusceptibilityAdultAethina",
+        "omuseSusceptibilityWesternHoney2022",
+        "poidatz2018",
+        "portillaLethalityEntomogenousFungus2017",
+        "romo-chaconEvaluationOreganoLippia2016",
+        "santosDetectionBeeassociatedPathogens2026",
+        "zimmermannReviewSafetyEntomopathogenic2007"
+      ]
+    },
+    "bombus-terrestris": {
+      "scientific": "Bombus terrestris",
+      "common": "buff-tailed bumblebee",
+      "role": "nontarget",
+      "notes": [
+        "kotomaleEffectBeeBorneEntomopathogenic2024",
+        "lacombradeInvasiveHornetVespa2025",
+        "leiteLaboratoryRiskAssessment2022",
+        "zimmermannReviewSafetyEntomopathogenic2007"
+      ]
+    },
+    "bombus-impatiens": {
+      "scientific": "Bombus impatiens",
+      "common": "common eastern bumblebee",
+      "role": "nontarget",
+      "notes": [
+        "al-mazraawiBiologicalControlLygus2006",
+        "kapongoSustainableControlBird2025"
+      ]
+    },
+    "meliponula-ferruginea": {
+      "scientific": "Meliponula ferruginea",
+      "common": "African stingless bee",
+      "role": "nontarget",
+      "notes": [
+        "omuseSusceptibilityWesternHoney2022"
+      ]
+    }
+  }
+}

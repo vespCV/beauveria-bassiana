@@ -7,7 +7,14 @@ Reason, Aiden, Mariana Bulgarella, en Philip J. Lester. “Identity, Prevalence,
 ![[reasonIdentityPrevalencePathogenicity2022.png]]
 ### Abstract
 
-Two species of entomogenous fungi were discovered infecting the invasive paper wasp Polistes chinensis during an ecological study on Farewell Spit, New Zealand. We sequenced two nuclear ribosomal RDNA genes, the internal transcribed spacer (ITS) and the small ribosomal subunit 18S, and one protein-coding gene, the translation elongation factor 1-alpha (ef1 α). Combining sequence information with morphological examination, we identiﬁed these species as Beauveria malawiensis and Ophiocordyceps humbertii. We estimated that these fungi produce infection in approximately 3.3% of colonies in our study population. In bioassays, we successfully infected P. chinensis individuals from healthy colonies with B. malawiensis, with signiﬁcant effects on adult mortality. This is the ﬁrst record of both B. malawiensis and O. humbertii from Polistine hosts in New Zealand, and the ﬁrst investigation into disease causality by these pathogens in P. chinensis. Our ﬁndings may contribute to the future development of biological control agents for paper wasps in New Zealand and elsewhere around the world.
+Two species of entomogenous fungi were discovered infecting the invasive paper wasp <i>Polistes chinensis</i> during an ecological study on Farewell Spit, New Zealand. We sequenced two nuclear ribosomal RDNA genes, the internal transcribed spacer (ITS) and the small ribosomal subunit 18S, and one protein-coding gene, the translation elongation factor 1-alpha (<i>ef1 α</i>). Combining sequence information with morphological examination, we identified these species as <i>Beauveria malawiensis</i> and <i>Ophiocordyceps humbertii</i>. We estimated that these fungi produce infection in approximately 3.3% of colonies in our study population. In bioassays, we successfully infected <i>P. chinensis</i> individuals from healthy colonies with <i>B. malawiensis</i>, with significant effects on adult mortality. This is the first record of both <i>B. malawiensis</i> and <i>O. humbertii</i> from Polistine hosts in New Zealand, and the first investigation into disease causality by these pathogens in <i>P. chinensis</i>. Our findings may contribute to the future development of biological control agents for paper wasps in New Zealand and elsewhere around the world.
+
+
+### Extraction (abstract)
+
+- cite_label: Reason2022
+- evidence: abstract
+- notes: Reason, 2022, o.a.; abstract-only extraction
 
 
 Beauveria malawiensis" Yellow

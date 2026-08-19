@@ -7,7 +7,17 @@ Meikle, William G., Guy Mercadier, Niels Holst, en Vincent Girod. “Impact of T
 
 ### Abstract
 
-Bee colonies in southern France were treated with conidia (asexual spores) from two strains of Beauveria bassiana, an entomopathogenic fungus. One strain was commercial (GHA) and the other had been isolated from Varroa mites in the region (Bb05002). Objectives were to evaluate treatment effect on colony weight, adult bee mass, capped brood, and on Varroa fall onto sticky boards. Treatments included conidia formulated with either carnauba or candelilla wax powder, candelilla wax powder alone, or control; in two treatment groups formulation was applied a second time after one week. Treatment did not affect colony health. Colonies treated twice with Bb05002 conidia and carnauba wax powder had signiﬁcantly higher mite fall compared to colonies treated with blank candelilla wax powder. The proportion of fallen mites that were infected in both conidia treatments was higher than controls for 18 days after the second treatment. The number of fungal propagules on the bees themselves remained elevated for about 14 days after the second treatment. These results were compared to published results from previous experiments with regard to infection duration.
+Bee colonies in southern France were treated with conidia (asexual spores) from two strains of Beauveria bassiana, an entomopathogenic fungus. One strain was commercial (GHA) and the other had been isolated from Varroa mites in the region (Bb05002). Objectives were to evaluate treatment effect on colony weight, adult bee mass, capped brood, and on Varroa fall onto sticky boards. Treatments included conidia formulated with either carnauba or candelilla wax powder, candelilla wax powder alone, or control; in two treatment groups formulation was applied a second time after one week. Treatment did not affect colony health. Colonies treated twice with Bb05002 conidia and carnauba wax powder had significantly higher mite fall compared to colonies treated with blank candelilla wax powder. The proportion of fallen mites that were infected in both conidia treatments was higher than controls for 18 days after the second treatment. The number of fungal propagules on the bees themselves remained elevated for about 14 days after the second treatment. These results were compared to published results from previous experiments with regard to infection duration.
+
+
+### Extraction (abstract)
+
+- cite_label: Meikle2008
+- evidence: abstract
+- nontarget_taxa: [to be verified]
+- exposure_route: unclear
+- effect_direction: [to be verified]
+- notes: Meikle WG, 2008, o.a.; abstract-only extraction
 
 
 One strain was commercial (GHA) and the other had been isolated from Varroa mites in the region (Bb05002)." Yellow

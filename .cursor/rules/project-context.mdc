@@ -19,9 +19,9 @@ alwaysApply: true
 
 **Applied story (overview / decision lens)**
 - Motivation taxon: _Vespa velutina_ (geelpoothoornaar). Never use “Aziatische hoornaar” in Dutch prose.
-- Delivery pathway name for Dutch and overview prose: **catch-infect-release** (selectieve val; 1- of 2-weg dispenser and/or suiker-/proteïnebaait; insect takes up conidia and returns to the nest). Kill-in-trap is not the success criterion.
-- Success endpoint for synthesis: **colony weakening** (less current damage; fewer queens and drones for the next year), not assumed nest collapse. Individual mortality, sublethal behaviour change, and failed infection after immune clearance are all in-scope outcomes.
-- Technical device exclusivity (vision-gated confirmation) remains a decision-brief design option under `CONTEXT.md`; do not force that jargon into Dutch overview prose unless the user asks.
+- Delivery pathway name for Dutch and overview prose: **catch-infect-release** (selectieve val; 1- of 2-weg dispenser and/or suiker-/proteïnebaait; insect takes up conidia and returns to the nest).
+- Success endpoint for synthesis: **colony weakening** (less current damage; fewer queens and drones for the next year). Individual mortality, sublethal behaviour change, and failed infection after immune clearance are reportable outcomes.
+- Technical device exclusivity (vision-gated confirmation) remains a decision-brief design option under `CONTEXT.md`; overview prose uses catch-infect-release unless the user asks for decision-brief vocabulary.
 
 **Primary question**
 - Begin by identifying relevant commercial products (category `01-existing-products`) using authoritative sources:
@@ -43,11 +43,11 @@ When updating `temp/overview/` prose (including `nederlandse-samenvatting.md`) a
 
 1. **Spine**: Keep or refresh the numbered evidence questions (commercial Bb + NL use; kill/weaken _V. velutina_; selective delivery; nestmate transfer before hygiene; nest T/RH for outgrowth; colony-level damage and reproductive castes). Map new annotations into those questions; do not reopen with taxonomy background.
 2. **Mechanism first**: Prefer a short catch-infect-release scene (val → uptake → return → contact transfer → cuticle breach / toxin / possible death or sublethal effect / possible sporulation) before product lists.
-3. **Taxon honesty**: Spray/contact LT50 on aphids, flies, mosquitoes, mites, etc. does not stand in for _V. velutina_. Label transferable proxies as proxies.
+3. **Taxon honesty**: Label transferable proxies as proxies (aphids, flies, mosquitoes, mites, etc.).
 4. **Evidence-selection bias**: Studies framed as nontarget-safety often report little Bb effect on bees/beneficials; studies framed as controlling those taxa often report mortality. State that tension when both appear. Note when bee-vector or varroa papers omit bee mortality. Flag industry funding on sparse _V. velutina_ rows when the annotation or paper states it.
-5. **Social pathway caveats**: Species differ (no avoidance vs aggression/exclusion; hygienic removal; brood compensation). A contaminated forager is not nest failure. Hairy pollinators and 1-/2-way dispensers (e.g. bumblebee vectoring) are delivery-system evidence, not Vespidae proof.
+5. **Social pathway caveats**: Species differ in avoidance, aggression, hygienic removal, and brood compensation. Report colony-level outcomes on their own terms. Hairy pollinators and 1-/2-way dispensers (e.g. bumblebee vectoring) are delivery-system evidence; label the taxon band.
 6. **Formulation constraints**: UV inactivation, short field half-life, oil/encapsulation for RH/heat/UV, and nest microclimate (temperature, humidity) belong in the nestpad section when supported by a cite.
-7. **Language**: Use conidia (not “conoidea”); catch-infect-release / selectieve val / dispenser / bait; _V. velutina_ in Dutch as **geelpoothoornaar** (never “Aziatische hoornaar”); avoid Trojan / vision-gated unless translating a decision-brief term. Style: `.cursor/docs/wetenschapscommunicatie.md`. Domain terms: `CONTEXT.md`.
+7. **Language**: Use conidia; catch-infect-release / selectieve val / dispenser / bait; _V. velutina_ in Dutch as **geelpoothoornaar**. Style: `.cursor/docs/wetenschapscommunicatie.md`. Domain terms: `CONTEXT.md`. Follow **No "not" prose** in `.cursor/rules/interaction-style.mdc`.
 8. **No go-ladder**: Overview drafts stay descriptive. No go / conditional-go / no-go unless the user explicitly asks for a decision brief.
 9. **Mandatory sources block**: End every overview revision with `### Bronnen voor deze tekst (project)` listing consensus/notes paths, annotation citekeys used, prior overview/handoff/research paths, and the style guide path. Prefer citekeys that match `notes/beauveria-bassiana/zotero/` when present. Do not invent DOIs or outcomes.
 10. **User text wins**: Never reverse user wording in overview drafts. Re-read the on-disk file before editing; merge only what the user asked.
@@ -90,11 +90,12 @@ Deliverables are done
 | `input-phase0/input-cc-rr/` | CitationChaser and ResearchRabbit seed inputs. |
 | `input-phase1/` | Deduplicated articles for ASReview / title-abstract selection. |
 | `input-phase2/` | Relevant-article list and missing-PDF gate artifacts for full-text/PDF work. |
-| `input-phase2/99-excluded/` | Full-text exclusion audit (`records.csv`) synced from Zotero. |
-| `pdfs/` | Full-text library by screening category `01`–`06` (and `02a`/`02b`/`02c`), plus supplemental `00-key-papers` and `07-vespideae-biocontrol`, exclusion lane `99-excluded`. Inbox for unfiled drops. |
+| `input-phase2/excluded/` | Full-text exclusion audit (`records.csv`) synced from Zotero. |
+| `pdfs/` | Full-text library: include PDFs flat at repo root of this folder; `pdfs/excluded/` for exclusions; `pdfs/inbox/` for unfiled drops. |
 | `temp/research/` | Gitignored cited findings from `@research` (side questions; optional `01-existing-products` lookups). |
 | `temp/handoff/` | Gitignored session handoffs. Start here for the next session. |
 | `temp/overview/` | Gitignored literature overview draft and Dutch reader prose (`nederlandse-samenvatting.md`). Process per **Dutch / reader overview processing** above. |
-| `temp/zotero/` | Gitignored Zotero DB copies, optional `99-excluded.bib`, sync reports. |
+| `temp/zotero/` | Gitignored Zotero DB copies, optional `excluded.bib`, sync reports. |
 | `temp/zotero-annotations/` | Gitignored annotation markdown when Obsidian exports are missing. |
-| `README.md` | End-state study selection / PRISMA / inventory (required for Phase 2 gate). |
+| `results/` | Tracked chapter pages for the six research questions plus background; `results/methods/` holds the lab journal and search log; `results/attachments/` holds supplementary reader material (phylogenetic tree and future maps). |
+| `README.md` | Easy-read summary, study selection / PRISMA, and Index links into `results/` (required for Phase 2 gate). |

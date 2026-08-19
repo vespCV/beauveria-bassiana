@@ -7,7 +7,17 @@ Cappa, Federico, Livia De Fazi, David Baracchi, en Rita Cervo. “Adverse Effect
 
 ### Abstract
 
-Biopesticides are considered eco-friendly alternatives to synthetic agrochemicals. However, their impact on nontarget organisms is still poorly understood. Social wasps, in particular, are a largely neglected group when it comes to risk assessment of plant protection products, despite the relevant ecological and economic services provided by these insects. In the present study, we evaluated the impact of a common biopesticide, the entomopathogenic fungus Beauveria bassiana, on the paper wasp Polistes dominula. We adopted a holistic approach in ecotoxicology by focusing not only on the detrimental effects on isolated individuals, but also on the whole colony. Both adult wasps belonging to different castes and immature larvae were topically exposed to a fieldrealistic concentration of fungal spores from the commercial strain of B. bassiana ATCC 74040 to assess the impact of the biopesticide on their survival, behavior and physiology. Our results showed that the fungus causes a number of adverse effects on P. dominula, that include increased mortality, altered locomotion and feeding rate, selective ejection of exposed larvae from nests, reduced oviposition rate and ovary development in foundresses, and colony failure. Our findings provide new insights on the often-neglected sublethal effects of pollutants that can jeopardize not only individual beneficial insects, but also the delicate social balance of their colonies and their valuable ecosystem services, highlighting that the natural origin of plant-protection products does not always guarantee environmental safety.
+Biopesticides are considered eco-friendly alternatives to synthetic agrochemicals. However, their impact on non-target organisms is still poorly understood. Social wasps, in particular, are a largely neglected group when it comes to risk assessment of plant protection products, despite the relevant ecological and economic services provided by these insects. In the present study, we evaluated the impact of a common biopesticide, the entomopathogenic fungus Beauveria bassiana, on the paper wasp Polistes dominula. We adopted a holistic approach in ecotoxicology by focusing not only on the detrimental effects on isolated individuals, but also on the whole colony. Both adult wasps belonging to different castes and immature larvae were topically exposed to a field-realistic concentration of fungal spores from the commercial strain of B. bassiana ATCC 74040 to assess the impact of the biopesticide on their survival, behavior and physiology. Our results showed that the fungus causes a number of adverse effects on P. dominula, that include increased mortality, altered locomotion and feeding rate, selective ejection of exposed larvae from nests, reduced oviposition rate and ovary development in foundresses, and colony failure. Our findings provide new insights on the often-neglected sublethal effects of pollutants that can jeopardize not only individual beneficial insects, but also the delicate social balance of their colonies and their valuable ecosystem services, highlighting that the natural origin of plant-protection products does not always guarantee environmental safety.
+
+
+### Extraction (abstract)
+
+- cite_label: Cappa2024
+- evidence: abstract
+- nontarget_taxa: Polistes dominula
+- exposure_route: topical
+- effect_direction: adverse_or_mortality_mentioned
+- notes: Cappa F, 2024, o.a.; abstract-only extraction
 
 
 impact on nontarget organisms" Yellow

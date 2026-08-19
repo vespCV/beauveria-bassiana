@@ -19,6 +19,16 @@ Abstract
               affects individual sucrose responsiveness, non-associative and associative olfactory learning and memory. Fungus-treated bees displayed an enhanced sucrose responsiveness, which could not be explained by metabolic alterations. Strikingly, exposed bees were twice as inconsistent as controls in response to sucrose, showing PER to lower but not to higher sucrose concentrations. Exposed bees habituated less to sucrose and had a better acquisition performance in the conditioning phase than controls. Further, neither mid- nor long-term memory were affected by the fungus. As sucrose responsiveness is the main determinant of division of foraging labour, these changes might unsettle the numerical ratio between the sub-castes of foragers leading to suboptimal foraging. Although the use of biocontrol strategies should be preferred over chemical pesticides, careful assessment of their side-effects is crucial before claiming that they are safe for pollinators.
 
 
+### Extraction (abstract)
+
+- cite_label: Carlesso2020
+- evidence: abstract
+- nontarget_taxa: [to be verified]
+- exposure_route: unclear
+- effect_direction: [to be verified]
+- notes: Carlesso, 2020, o.a.; abstract-only extraction
+
+
 Fungus-treated bees displayed an enhanced sucrose responsiveness" Yellow
 	Highlight [Page	](zotero://open-pdf/library/items/JM4WV4R5?page=&annotation=GKI35MK7)
 

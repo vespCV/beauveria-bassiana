@@ -18,3 +18,12 @@ Abstract
             Supplementary information: Supplementary data are available at Bioinformatics online.
 
 
+### Extraction (abstract)
+
+- cite_label: Venkatraman
+- evidence: abstract
+- infection_process: [to be verified]
+- abiotic_or_formulation_limits: [to be verified]
+- notes: Venkatraman, , o.a.; abstract-only extraction
+
+

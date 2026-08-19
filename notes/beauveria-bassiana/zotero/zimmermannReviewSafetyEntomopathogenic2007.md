@@ -7,7 +7,17 @@ Zimmermann, Gisbert. “Review on Safety of the Entomopathogenic Fungi _Beauveri
 
 ### Abstract
 
-The commercial use of entomopathogenic fungi and their products as mycoinsecticides necessitates their registration. Worldwide, several registration guidelines are available, however, most of them focus on similar or even the same safety issues. With respect to the two entomopathogenic fungi, Beauveria bassiana (Bals.-Criv.) Vuill. and Beauveria brongniartii (Sacc.) Petch, many commercial products have been developed, and numerous papers on different biological, environmental, toxicological and other safety aspects have been published during the past 30 40 years. The aim of the present review is to summarise these data. The following safety issues are presented: (1) identity of Beauveria spp.; (2) biological properties of Beauveria spp. (history, natural occurrence and geographical distribution, host range, mode of action, production of metabolites/toxins, effect of environmental factors); (3) analytical methods to determine and quantify residues; (4) fate and behaviour in the environment (mobility and persistence in air, water and soil); (5) effects on non-target organisms (non-target microorganisms, plants, soil organisms, aquatic organisms, predators, parasitoids, honey bees, earth worms and nontarget arthropods); (6) effects on vertebrates (fish, amphibia, reptiles and birds); and (7) effects on mammals and human health. Based on the present knowledge it is concluded that both Beauveria species are considered to be safe.
+The commercial use of entomopathogenic fungi and their products as mycoinsecticides necessitates their registration. Worldwide, several registration guidelines are available, however, most of them focus on similar or even the same safety issues. With respect to the two entomopathogenic fungi, Beauveria bassiana (Bals.-Criv.) Vuill. and Beauveria brongniartii (Sacc.) Petch, many commercial products have been developed, and numerous papers on different biological, environmental, toxicological and other safety aspects have been published during the past 30-40 years. The aim of the present review is to summarise these data. The following safety issues are presented: (1) identity of Beauveria spp.; (2) biological properties of Beauveria spp. (history, natural occurrence and geographical distribution, host range, mode of action, production of metabolites/toxins, effect of environmental factors); (3) analytical methods to determine and quantify residues; (4) fate and behaviour in the environment (mobility and persistence in air, water and soil); (5) effects on non-target organisms (non-target microorganisms, plants, soil organisms, aquatic organisms, predators, parasitoids, honey bees, earth worms and nontarget arthropods); (6) effects on vertebrates (fish, amphibia, reptiles and birds); and (7) effects on mammals and human health. Based on the present knowledge it is concluded that both Beauveria species are considered to be safe.
+
+
+### Extraction (abstract)
+
+- cite_label: Zimmermann2007
+- evidence: abstract
+- nontarget_taxa: [to be verified]
+- exposure_route: unclear
+- effect_direction: adverse_or_mortality_mentioned
+- notes: Zimmermann, 2007, o.a.; abstract-only extraction
 
 
 2007" Yellow

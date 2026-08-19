@@ -7,7 +7,14 @@ Santos, Soraia Sousa, Rossella Tiritelli, Nuno Capela, e.a. “Detection of Bee-
 
 ### Abstract
 
-The yellow-legged hornet (Vespa velutina nigrithorax) is an invasive species in Europe that has created serious environmental issues by feeding on insect pollinators, and it is a major cause of concern for beekeepers due to its predatory activity against Apis mellifera colonies. Predation can play a role in transmitting pathogens between bees and hornets, thereby contributing to the spread of diseases in the environment. This study assessed the prevalence and abundance of honey bee- and bumblebeeassociated pathogens in different developmental stages of V. v. nigrithorax individuals collected from nests in the Aveiro and Coimbra regions of Portugal.
+Abstract The yellow-legged hornet ( Vespa velutina nigrithorax ) is an invasive species in Europe that has created serious environmental issues by feeding on insect pollinators, and it is a major cause of concern for beekeepers due to its predatory activity against Apis mellifera colonies. Predation can play a role in transmitting pathogens between bees and hornets, thereby contributing to the spread of diseases in the environment. This study assessed the prevalence and abundance of honey bee- and bumblebee-associated pathogens in different developmental stages of V. v. nigrithorax individuals collected from nests in the Aveiro and Coimbra regions of Portugal. A total of 534 samples (larvae, pupae, adults, and queens) within 38 nests were analysed using qPCR for the main bee pathogens. The most prevalent and abundant pathogen was DWV (70.41%; 4.66 × 10 10 ), followed by Nosema ceranae (42.70%; 6.17 × 10 6 ), BQCV (44.76%; 1.64 × 10 5 ) and CBPV (33.90%; 2.17 × 10 9 ). DWV and other pathogens were detected across all developmental stages, indicating widespread pathogen detection and suggesting multiple exposure routes within the nest with possible vertical transmission. Pathogen loads were significantly higher in the Aveiro region, possibly due to environmental factors and nest maturity. These findings confirm that V. v. nigrithorax harbours multiple replicative bee-associated pathogens, raising concerns about interspecific transmission.
+
+
+### Extraction (abstract)
+
+- cite_label: Santos2026
+- evidence: abstract
+- notes: Santos, 2026, o.a.; abstract-only extraction
 
 
 Predation can play a role in transmitting pathogens between bees and hornets, thereby contributing to the spread of diseases in the environment." Yellow

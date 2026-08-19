@@ -1,19 +1,19 @@
-# Phase 2 exclusions (99-excluded)
+# Phase 2 exclusions (excluded)
 
 In-repo audit trail for full-text exclusions synced from Zotero.
 
 | File | Role |
 | --- | --- |
 | `records.csv` | Excluded items (citekey, doi, title, year, surname, source) |
-| `pdfs/99-excluded/` | Filed PDFs for excluded items |
+| `pdfs/excluded/` | Filed PDFs for excluded items |
 
 ## Preferred Zotero signal
 
-Export **only** Zotero collection `99-excluded` as BibTeX to:
+Export **only** Zotero collection `excluded` as BibTeX to:
 
-`temp/zotero/99-excluded.bib`
+`temp/zotero/excluded.bib`
 
-Until that export exists, `@zotero-sync` reads collection `99-excluded` from a copy of `/Users/md/Zotero/zotero.sqlite`.
+Until that export exists, `@zotero-sync` reads collection `excluded` from a copy of `/Users/md/Zotero/zotero.sqlite` (legacy collection name `99-excluded` still accepted).
 
 A full-library file such as `~/Downloads/Mijn Bibliotheek.bib` is ignored when it is clearly larger than the exclusion set.
 

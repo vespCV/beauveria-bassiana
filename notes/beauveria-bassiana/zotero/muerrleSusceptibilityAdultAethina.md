@@ -7,7 +7,17 @@ Muerrle, T. M., P. Neumann, J. F. Dames, H. R. Hepburn, en M. P. Hill. _Suscepti
 
 ### Abstract
 
-Aethina tumida Murray (Coleoptera: Nitidulidae) is an invasive parasite species in populations of honey bees, Apis mellifera L. Aiming toward substitution of chemical control, we here identiÞed a naturally occurring fungal pathogen of adult A. tumida from its endemic range in South Africa [Metarhizium anisopliae (Metschnikoff) Sorokin variety anisopliae strain FI-203]. The susceptibility of adult beetles (n 400) to this fungus and to three other generalist entomopathogenic fungal isolates [Metarhizium anisopliae, Beauveria bassiana (Balsamo) Vuillemin, and Hirsutella illustris Minter & Brady] was assessed using spore suspension bioassays. The data revealed signiÞcantly increased mortality in the B. bassiana (74.00 8.94%) and M. anisopliae variety anisopliae (28.00 16.43%) tests but not in the H. illustris (2.00 4.47%) and M. anisopliae (12.00 8.37%) groups. The results indicate a potential for entomopathogenic fungi as an alternative control of A. tumida.
+Aethina tumida Murray (Coleoptera: Nitidulidae) is an invasive parasite species in populations of honey bees, Apis mellifera L. Aiming toward substitution of chemical control, we here identified a naturally occurring fungal pathogen of adult A. tumida from its endemic range in South Africa [Metarhizium anisopliae (Metschnikoff) Sorokin variety anisopliae strain FI-203]. The susceptibility of adult beetles (n = 400) to this fungus and to three other generalist entomopathogenic fungal isolates [Metarhizium anisopliae, Beauveria bassiana (Balsamo) Vuillemin, and Hirsutella illustris Minter & Brady] was assessed using spore suspension bioassays. The data revealed significantly increased mortality in the B. bassiana (74.00 +/- 8.94%) and M. anisopliae variety anisopliae (28.00 +/- 16.43%) tests but not in the H. illustris (2.00 +/- 4.47%) and M. anisopliae (12.00 +/- 8.37%) groups. The results indicate a potential for entomopathogenic fungi as an alternative control of A. tumida.
+
+
+### Extraction (abstract)
+
+- cite_label: Muerrle2006
+- evidence: abstract
+- nontarget_taxa: Apis mellifera
+- exposure_route: unclear
+- effect_direction: adverse_or_mortality_mentioned
+- notes: Muerrle, 2006, o.a.; abstract-only extraction
 
 
 Aethina tumida Murray (Coleoptera: Nitidulidae) is an invasive parasite species in populations of honey bees, Apis mellifera L" Yellow

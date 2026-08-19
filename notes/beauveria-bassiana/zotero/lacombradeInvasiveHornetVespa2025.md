@@ -4,6 +4,17 @@
 
 Lacombrade, Mathilde, Naïs Rocher, Blandine Mahot-Castaing, Fanny Vogelweith, Mathieu Lihoreau, en Denis Thiéry. “The Invasive Hornet Vespa Velutina Nigrithorax Is More Susceptible to an Entomopathogenic Fungus than Two Other Hymenopteran Species, the Wasp Vespula Vulgaris and the Bumblebee Bombus Terrestris”. _BioControl_ 70, nr. 5 (2025): 673-81. [https://doi.org/10.1007/s10526-025-10331-3](https://doi.org/10.1007/s10526-025-10331-3).
 
+### Abstract
+
+[abstract unrecoverable]
+
+
+### Extraction (abstract)
+
+- cite_label: Lacombrade2025
+- evidence: abstract
+- notes: Lacombrade, 2025, o.a.; abstract-only extraction
+
 
 Exposure to M. robertsii spores altered the survival of all three species but at different degrees. Hornets had a consistently lower survival, even under low spore concentrations, when compared to wasps and bumblebees." Yellow
 	Highlight [Page	2](zotero://open-pdf/library/items/EF5EIP6D?page=2&annotation=GME6YTM7)

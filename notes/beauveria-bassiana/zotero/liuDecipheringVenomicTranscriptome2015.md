@@ -10,50 +10,15 @@ Liu, Zhirui, Shuanggang Chen, You Zhou, Cuihong Xie, Bifeng Zhu, Huming Zhu, Shu
 
 ### Abstract
 
-Abstract
-            
-              Wasp stings have been arising to be a severe public health problem in China in recent years. However, molecular information about lethal or toxic factors in wasp venom is extremely lacking. In this study, we used two pyrosequencing platforms to analyze the transcriptome of
-              Vespa velutina
-              , the most common wasp species native in China. Besides the substantial amount of transcripts encoding for allergens usually regarded as the major lethal factor of wasp sting, a greater abundance of hemostasis-impairing toxins and neurotoxins in the venom of
-              V. velutina
-              were identified, implying that toxic reactions and allergic effects are envenoming strategy for the dangerous outcomes. The pattern of differentially expressed genes before and after venom extraction clearly indicates that the manifestation of
-              V. velutina
-              stings depends on subtle regulations in the metabolic pathway required for toxin recruitment. This comparative analysis offers timely clues for developing clinical treatments for wasp envenoming in China and around the world.
+Abstract Wasp stings have been arising to be a severe public health problem in China in recent years. However, molecular information about lethal or toxic factors in wasp venom is extremely lacking. In this study, we used two pyrosequencing platforms to analyze the transcriptome of Vespa velutina , the most common wasp species native in China. Besides the substantial amount of transcripts encoding for allergens usually regarded as the major lethal factor of wasp sting, a greater abundance of hemostasis-impairing toxins and neurotoxins in the venom of V. velutina were identified, implying that toxic reactions and allergic effects are envenoming strategy for the dangerous outcomes. The pattern of differentially expressed genes before and after venom extraction clearly indicates that the manifestation of V. velutina stings depends on subtle regulations in the metabolic pathway required for toxin recruitment. This comparative analysis offers timely clues for developing clinical treatments for wasp envenoming in China and around the world.
 
 
+### Extraction (abstract)
+
+- cite_label: Liu
+- evidence: abstract
+- infection_process: [to be verified]
+- abiotic_or_formulation_limits: [to be verified]
+- notes: Liu, , o.a.; abstract-only extraction
 
 
-
-> Deciphering the Venomic Transcriptome of Killer-Wasp Vespa velutina
-> 
-> 
-
-
-
-> Wasp stings have been arising to be a severe public health problem in China in recent years
-> 
-> 
-
-
-
-> Vespavelutina, the most common wasp species native in China
-> 
-> 
-
-
-
-> he fear of wasp stings has been spreading throughout several provinces of China in recent years, largely due to the powerful and deadly Asian black hornet, Vespa velutina (V. velutina), the most aggressive and fearful species in China
-> 
-> 
-
-
-
-> The envenomation of V. velutina can induce severe allergic or toxic reactions, resulting in organ failure and death
-> 
-> 
-
-
-
-> The in-hospital mortality of victims was 5.1% calculated by a clinical report based on 1091 hospitalized wasp sting patients from 2009–2011 in the Hubei Province
-> 
-> 

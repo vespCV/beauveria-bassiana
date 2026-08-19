@@ -34,6 +34,13 @@ Abstract
               . Several of the pathogens listed here provide a resource from which inundative control agents might be developed, but none have potential as classical self sustaining control agents that can be transferred from generation to generation. As few studies have systematically searched for pathogens, it is likely other candidates suitable for use as control agents may be found.
 
 
+### Extraction (abstract)
+
+- cite_label: Rose1999
+- evidence: abstract
+- notes: Rose, 1999, o.a.; abstract-only extraction
+
+
 Published online: 30 Mar 2010." Red
 	Highlight [Page	](zotero://open-pdf/library/items/FC3F4TXL?page=&annotation=QUTJ5I2Y)
 

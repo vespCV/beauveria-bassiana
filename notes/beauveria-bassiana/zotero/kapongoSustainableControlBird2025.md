@@ -23,6 +23,16 @@ Rhopalosiphum padi
               population and consequently reduces the severity of barley yellow dwarf disease in oat fields.
 
 
+### Extraction (abstract)
+
+- cite_label: Kapongo2025
+- evidence: abstract
+- nontarget_taxa: Bombus impatiens
+- exposure_route: bee_vectoring|foliar_spray
+- effect_direction: [to be verified]
+- notes: Kapongo, 2025, o.a.; abstract-only extraction
+
+
 Bee Vectoring Technology (BVT) using bumblebees." Yellow
 	Highlight [Page	](zotero://open-pdf/library/items/GSXYUBEU?page=&annotation=ERKSF2WF)
 

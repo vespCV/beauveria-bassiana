@@ -30,6 +30,16 @@ Abstract
             provides effective pest control while safeguarding pollinator services and food quality, positioning it as a sustainable, ecologically safe alternative to synthetic insecticides in okra production systems.
 
 
+### Extraction (abstract)
+
+- cite_label: I2026
+- evidence: abstract
+- nontarget_taxa: Apis mellifera
+- exposure_route: foliar_spray
+- effect_direction: [to be verified]
+- notes: I, 2026, o.a.; abstract-only extraction
+
+
 Ecologically, B. bassiana treatment correlated with higher densities of the 15 pollinator Apis mellifera (5.33 vs. 1.00 in control), contrasting with the reduction observed in the 16 predatory coccinellid Cheilomenes lunata" Yellow
 	Highlight [Page	2](zotero://open-pdf/library/items/Y4T5LCVB?page=2&annotation=MERUJ5DF)
 

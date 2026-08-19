@@ -7,7 +7,17 @@ Al-mazra’awi, Mohammad S., Les Shipp, Bruce Broadbent, en Peter Kevan. “Biol
 
 ### Abstract
 
-The ability of bumble bees to disseminate conidia of Beauveria bassiana (Balsamo) Vuillemin from hive-mounted dispensers to greenhouse sweet peppers for the control of tarnished plant bug (TPB) and western Xower thrips (WFT) was investigated in greenhouse trials using large screened enclosures. Samples collected from the enclosures (four treatments) on two sampling dates showed that 97, 90, 91, and 42% of the collected bees, Xowers, leaves, and TPB, respectively, showed detectable densities of B. bassiana on the Wrst sampling date. On the second sampling date, 99, 96, 87, and 30% of collected bees, Xowers, leaves, and TPB, respectively, showed detectable densities of the fungus. Mean mortalities of TPB collected from cages treated with B. bassiana were 34 and 45% compared to 9 and 15% in the controls on the Wrst and second sampling dates, respectively. Mean infection rates of WFT were 40 and 34% compared to 3% in the controls on the Wrst and second sampling dates, respectively. These results indicate that bumble bees are an eVective means of vectoring the fungal conidia to the crop. The pollinator vector technology is a novel example of integrating agro-ecosystem processes of pollination and pest management, that reduces the reliance on insecticides and increases crop yields and quality.
+The ability of bumble bees to disseminate conidia of Beauveria bassiana (Balsamo) Vuillemin from hive-mounted dispensers to greenhouse sweet peppers for the control of tarnished plant bug (TPB) and western flower thrips (WFT) was investigated in greenhouse trials using large screened enclosures. Samples collected from the enclosures (four treatments) on two sampling dates showed that 97, 90, 91, and 42% of the collected bees, flowers, leaves, and TPB, respectively, showed detectable densities of B. bassiana on the first sampling date. On the second sampling date, 99, 96, 87, and 30% of collected bees, flowers, leaves, and TPB, respectively, showed detectable densities of the fungus. Mean mortalities of TPB collected from cages treated with B. bassiana were 34 and 45% compared to 9 and 15% in the controls on the first and second sampling dates, respectively. Mean infection rates of WFT were 40 and 34% compared to 3% in the controls on the first and second sampling dates, respectively. These results indicate that bumble bees are an effective means of vectoring the fungal conidia to the crop. The pollinator vector technology is a novel example of integrating agro-ecosystem processes of pollination and pest management, that reduces the reliance on insecticides and increases crop yields and quality.
+
+
+### Extraction (abstract)
+
+- cite_label: AlMazraawi2006
+- evidence: abstract
+- nontarget_taxa: Bombus impatiens
+- exposure_route: unclear
+- effect_direction: [to be verified]
+- notes: Al-mazra'awi, 2006, o.a.; abstract-only extraction
 
 
 bumble bees to disseminate conidia of Beauveria bassiana (Balsamo) Vuillemin from hive-mounted dispensers" Yellow

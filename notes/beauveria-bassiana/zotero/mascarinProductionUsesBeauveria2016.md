@@ -4,6 +4,17 @@
 
 Mascarin, Gabriel Moura, en Stefan T. Jaronski. “The Production and Uses of Beauveria Bassiana as a Microbial Insecticide”. _World Journal of Microbiology and Biotechnology_ 32, nr. 11 (2016): 177. [https://doi.org/10.1007/s11274-016-2131-3](https://doi.org/10.1007/s11274-016-2131-3).
 
+### Abstract
+
+Among invertebrate fungal pathogens, Beauveria bassiana has assumed a key role in management of numerous arthropod agricultural, veterinary and forestry pests. Beauveria is typically deployed in one or more inundative applications of large numbers of aerial conidia in dry or liquid formulations, in a chemical paradigm. Mass production is mainly practiced by solid-state fermentation to yield hydrophobic aerial conidia, which remain the principal active ingredient of mycoinsecticides. More robust and cost-effective fermentation and formulation downstream platforms are imperative for its overall commercialization by industry. Hence, where economics allow, submerged liquid fermentation provides alternative method to produce effective and stable propagules that can be easily formulated as dry stable preparations. Formulation also continues to be a bottleneck in the development of stable and effective commercial Beauveria-mycoinsecticides in many countries, although good commercial formulations do exist. Future research on improving fermentation and formulation technologies coupled with the selection of multi-stress tolerant and virulent strains is needed to catalyze the widespread acceptance and usefulness of this fungus as a cost-effective mycoinsecticide. The role of Beauveria as one tool among many in integrated pest management, rather than a stand-alone management approach, needs to be better developed across the range of crop systems. Here, we provide an overview of mass-production and formulation strategies, updated list of registered commercial products, major biocontrol programs and ecological aspects affecting the use of Beauveria as a mycoinsecticide.
+
+
+### Extraction (abstract)
+
+- cite_label: Mascarin2016
+- evidence: abstract
+- notes: Mascarin, 2016, o.a.; abstract-only extraction
+
 
 ![[mascarinProductionUsesBeauveria2016.png]]
 

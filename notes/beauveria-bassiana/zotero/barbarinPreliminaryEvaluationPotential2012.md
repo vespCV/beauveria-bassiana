@@ -10,3 +10,15 @@ Barbarin, Alexis M., Nina E. Jenkins, Edwin G. Rajotte, en Matthew B. Thomas. �
 Residual biopesticide treatments of Beauveria bassiana were tested against the bed bug Cimex lectularius. An oil formulation of conidia was applied to different substrates. Bed bugs were exposed for 1 h, transferred to an unsprayed environment and monitored for mortality. Separate bioassays evaluated the effect of bed bug strain, sex, life stage, and exposure substrate on mortality. Rapid mortality was observed in all bioassays, with bed bugs exposed to treated jersey knit cotton dying most rapidly. A further assay demonstrated efﬁcient autodissemination of conidia from exposed bed bugs to unexposed bed bugs within artiﬁcial harborages.
 
 
+### Extraction (abstract)
+
+- cite_label: Barbarin2012
+- evidence: abstract
+- pathway: autodissemination
+- social_or_nest_outcome: [to be verified]
+- mortality: mortality mentioned (see abstract)
+- lt_lc: [to be verified]
+- host_pest: Cimex lectularius
+- notes: Barbarin, 2012, o.a.; abstract-only extraction
+
+

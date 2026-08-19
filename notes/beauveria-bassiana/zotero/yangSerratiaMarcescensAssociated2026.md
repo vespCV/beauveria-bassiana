@@ -14,6 +14,15 @@ Yang, Xinzhou, Yanfen Ma, Gang Du, e.a. “Serratia Marcescens Is Associated wit
 Social wasps, including hornets, are increasingly recognized not only as invasive pests but also as farmed insects; however, their gut microbiota and associated diseases remain poorly characterized. In indoor rearing facilities for the hornet Vespa analis in Dehong, Yunnan, China, we observed recurrent larval disease with weakness, larvae falling from the nests, and high mortality. To identify the causative agent and its effects on the gut community, we isolated bacteria from diseased larvae, characterized them by morphology, biochemical tests, and 16S rRNA gene sequencing, and then established an oral infection model. A red-pigmented isolate, designated YR2, was identified as Serratia marcescens. Oral inoculation with YR2 reproduced disease signs and significantly increased larval mortality, and a phenotypically consistent S. marcescens isolate was reisolated from infected larval guts. Amplicon sequencing showed that healthy larvae harbored gut communities dominated by Proteobacteria, whereas infection was associated with reduced diversity and a dysbiotic shift with enrichment of Enterobacterales. Our results support S. marcescens as a strong candidate pathogen associated with larval disease and mortality in Vespa analis under indoor-rearing conditions. Our findings provide a basis for pathogen surveillance and microbiota management in indoor hornet husbandry, and support improved biosecurity and health monitoring practices.
 
 
+### Extraction (abstract)
+
+- cite_label: Yang2026
+- evidence: abstract
+- infection_process: mentioned in abstract
+- abiotic_or_formulation_limits: [to be verified]
+- notes: Yang, 2026, o.a.; abstract-only extraction
+
+
 reared for food" Yellow
 	Highlight [Page	](zotero://open-pdf/library/items/WULULBQK?page=&annotation=3DIKDQWS)
 

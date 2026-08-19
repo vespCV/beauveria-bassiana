@@ -10,6 +10,13 @@ Van Zyl, Carolien, Antoinette P. Malan, Pia Addison, en Ruan Veldtman. “Potent
 The ﬁrst recordings in South Africa of the invasive social wasps, Vespula germanica and Polistes dominula (Hymenoptera: Vespidae) were in 1974 and again in 2008. These wasps are known to represent a signiﬁcant threat to the biodiversity of ecosystems and socio-economic activities in countries they invade. Here, the susceptibility of V. germanica and P. dominula larvae to indigenous species of entomopathogenic nematodes (EPNs), namely Heterorhabditis bacteriophora, H. noenieputensis and Steinernema yirgalemense, and entomopathogenic fungus (EPF) Beauveria bassiana was tested both in laboratory bioassays and in situ wasp nests application in the Western Cape province. The bioassay results indicate that both P. dominula and V. germanica larvae are susceptible to all biocontrol agents used. All larvae of both wasp species were dead and infected after exposure to 200 IJ/insect within four days after inoculation. Similar results were obtained seven days after inoculation with B. bassiana. To test in-ﬁeld pathogenicity against P. dominula, wasp nests were treated with B. bassiana, H. bacteriophora, a mixture of the EPF and EPN species and a control of distilled water. The number of larvae and pupae infected 168 h after application were determined. In both cases, the mixture of EPF/ EPN performed best, with a mean percentage of 31.39% ± 4.75% larvae infected, and only 3.42% ± 0.68% of pupae infected. The results obtained suggest that higher concentrations of selected biologicals can be used as inundative biological control agents within an integrated management programme for the control of P. dominula and V. germanica in South Africa.
 
 
+### Extraction (abstract)
+
+- cite_label: vanZyl2023
+- evidence: abstract
+- notes: Van Zyl, 2024, o.a.; abstract-only extraction
+
+
 V. germanica and P. dominula" Yellow
 	Highlight [Page	2](zotero://open-pdf/library/items/QB8Q3C3P?page=2&annotation=V7SGGYSV)
 

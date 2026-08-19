@@ -7,9 +7,17 @@ Lin, Yongwen, Jing Huang, Jingfeng Huang, Wenjie Yu, Komivi S. Akutse, en Sheng 
 
 ### Abstract
 
-BACKGROUND: The fungus-growing termite Odontotermes formosanus is a signiﬁcant pest of hydraulic infrastructure, driving the need for targeted and environmentally sound control strategies. The entomopathogenic fungus Beauveria bassiana is a promising biocontrol candidate against O. formosanus, but its efﬁcacy in bait formulations can be reduced by termite repellence behavior induced by fungal volatiles. This study explored the potential of the plant-derived volatile longifolene to counteract this repellence or avoidance and enhance bait performance.
-RESULTS: In laboratory olfactometer assays, dry conidia of B. bassiana repelled termite workers in a dose-dependent manner, whereas longifolene at 0.2–0.4 mmol mL−1 acted as a signiﬁcant attractant. In toxic bait tests, incorporating longifolene reversed the repellency of a low conidial concentration of 1 × 107 conidia mL−1, resulting in an attractant rate > 70%. This combined bait was also proved effective in ﬁeld trials at reservoir sites, attracting signiﬁcantly more workers than control baits.
-CONCLUSION: Our ﬁndings indicate that longifolene can mitigate the olfactory repellence or avoidance of B. bassiana conidia in baits by the termites, facilitating an ‘attract-and-infect’ approach. This strategy offers a novel, sustainable option for managing O. formosanus.
+<h4>Background</h4>The fungus-growing termite Odontotermes formosanus is a significant pest of hydraulic infrastructure, driving the need for targeted and environmentally sound control strategies. The entomopathogenic fungus Beauveria bassiana is a promising biocontrol candidate against O. formosanus, but its efficacy in bait formulations can be reduced by termite repellence behavior induced by fungal volatiles. This study explored the potential of the plant-derived volatile longifolene to counteract this repellence or avoidance and enhance bait performance.<h4>Results</h4>In laboratory olfactometer assays, dry conidia of B. bassiana repelled termite workers in a dose-dependent manner, whereas longifolene at 0.2-0.4 mmol mL<sup>-1</sup> acted as a significant attractant. In toxic bait tests, incorporating longifolene reversed the repellency of a low conidial concentration of 1 × 10<sup>7</sup> conidia mL<sup>-1</sup>, resulting in an attractant rate > 70%. This combined bait was also proved effective in field trials at reservoir sites, attracting significantly more workers than control baits.<h4>Conclusion</h4>Our findings indicate that longifolene can mitigate the olfactory repellence or avoidance of B. bassiana conidia in baits by the termites, facilitating an 'attract-and-infect' approach. This strategy offers a novel, sustainable option for managing O. formosanus. © 2026 Society of Chemical Industry.
+
+
+### Extraction (abstract)
+
+- cite_label: Lin2026
+- evidence: abstract
+- carrier_types: Beauveria bassiana is a promising bioco
+- device_or_delivery: bait_station|trap|social_behaviour
+- claims: [to be verified]
+- notes: Lin Y, 2026, o.a.; abstract-only extraction
 
 
 longifolene at 0.2–0.4 mmol mL−1 acted as a significant attractant." Yellow

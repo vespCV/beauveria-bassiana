@@ -14,6 +14,18 @@ Social organisms face a high risk of epidemics, and respond to this threat by co
               . In particular, carers that were more resistant to the fungal entomopathogen reared more resistant workers. This effect occurred in the absence of post-infection social interactions, such as trophallaxis and allogrooming. The colony of origin of eggs significantly influenced the survival of the resulting individuals in both control and pathogen treatments. There was no significant effect of the social organization (i.e. whether colonies contain a single or multiple queens) of the colony of origin of either carers or eggs. Our experiment reveals that social interactions during development play a central role in moulding the resistance of emerging workers.
 
 
+### Extraction (abstract)
+
+- cite_label: Purcell2014
+- evidence: abstract
+- pathway: unclear
+- social_or_nest_outcome: mentioned in abstract
+- mortality: [to be verified]
+- lt_lc: [to be verified]
+- host_pest: [to be verified]
+- notes: Purcell, 2014, o.a.; abstract-only extraction
+
+
 cross-fostering experiment" Yellow
 	Highlight [Page	](zotero://open-pdf/library/items/RTEXZVRZ?page=&annotation=3EEFW6HJ)
 

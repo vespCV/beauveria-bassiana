@@ -7,7 +7,20 @@ Erler, F., en A. O. Ates. “Potential of Two Entomopathogenic Fungi, Beauveria 
 
 ### Abstract
 
-The aim of this study was to evaluate the effectiveness of the entomopathogenic fungi (EPF), Beauveria bassiana (Bals.) Vuill. (Deuteromycotina: Hyphomycetes) strain PPRI 5339 [BroadBand, an emulsiﬁable spore concentrate (EC) formulation] and Metarhizium anisopliae (Metsch.) Sorokin (Hypocreales: Clavicipitaceae) strain F52 [Met52, both EC and granular (GR) formulations] against the larvae of Polyphylla fullo (L.) (Coleoptera: Scarabaeidae). Larvicidal bioassays were performed in foam boxes (100 by 75 by 50 cm; length by width by height), containing moist soil medium with some humus and potato tubers as food. Although the B. bassiana product (min. 4 109 conidia/ml) was applied at 100, 150, and 200 ml/100 l water; M. anisopliae strain F52 was applied at 500, 1,000, and 1,500 g/m3 of moist soil medium for GR (9 108 cfu/g) and 75, 100, and 125 ml/100 l water for EC (5.5 109 conidia/ml) formulation. Both fungi were pathogenic to larvae of the pest; however, young larvae (1st and 2nd instars) were more susceptible to infection than older ones (3rd instar). Mortality rates of young and older larvae varied with conidial concentration of both fungi and elapsed time after application. The B. bassiana product was more effective than both of the formulations of the M. anisopliae product, causing mortalities up to 79.8 and 71.6% in young and older larvae, respectively. The highest mortality rates of young and older larvae caused by the M. anisopliae product were 74.1 and 67.6% for the GR formulation, 70.2 and 61.8% for the EC formulation, respectively. These results may suggest that both fungi have potential to be used for management of P. fullo.
+The aim of this study was to evaluate the effectiveness of the entomopathogenic fungi (EPF), Beauveria bassiana (Bals.) Vuill. (Deuteromycotina: Hyphomycetes) strain PPRI 5339 [BroadBand, an emulsifiable spore concentrate (EC) formulation] and Metarhizium anisopliae (Metsch.) Sorokin (Hypocreales: Clavicipitaceae) strain F52 [Met52, both EC and granular (GR) formulations] against the larvae of Polyphylla fullo (L.) (Coleoptera: Scarabaeidae). Larvicidal bioassays were performed in foam boxes (100 by 75 by 50 cm; length by width by height), containing moist soil medium with some humus and potato tubers as food. Although the B. bassiana product (min. 4 × 10(9) conidia/ml) was applied at 100, 150, and 200 ml/100 l water; M. anisopliae strain F52 was applied at 500, 1,000, and 1,500 g/m(3) of moist soil medium for GR (9 × 10(8) cfu/g) and 75, 100, and 125 ml/100 l water for EC (5.5 × 10(9) conidia/ml) formulation. Both fungi were pathogenic to larvae of the pest; however, young larvae (1st and 2nd instars) were more susceptible to infection than older ones (3rd instar). Mortality rates of young and older larvae varied with conidial concentration of both fungi and elapsed time after application. The B. bassiana product was more effective than both of the formulations of the M. anisopliae product, causing mortalities up to 79.8 and 71.6% in young and older larvae, respectively. The highest mortality rates of young and older larvae caused by the M. anisopliae product were 74.1 and 67.6% for the GR formulation, 70.2 and 61.8% for the EC formulation, respectively. These results may suggest that both fungi have potential to be used for management of P. fullo.
+
+
+### Extraction (abstract)
+
+- cite_label: Erler2015
+- evidence: abstract
+- host_pest: [to be verified]
+- strain_product: BroadBand
+- delivery_mode: unclear
+- mortality: mortality mentioned (see abstract)
+- lt_lc: [to be verified]
+- colony_nest_effects: [to be verified]
+- notes: Erler F, 2015, o.a.; abstract-only extraction
 
 
 Beauveria bassiana (Bals.) Vuill. (Deuteromycotina: Hyphomycetes) strain PPRI 5339 [BroadBand, an emulsifiable spore concentrate (EC) formulation] and Metarhizium anisopliae (Metsch.) Sorokin (Hypocreales: Clavicipitaceae) strain F52 [Met52, both EC and granular (GR) formulations] against the larvae of Polyphylla fullo (L.) (Coleoptera: Scarabaeidae)." Yellow

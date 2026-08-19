@@ -7,7 +7,17 @@ Omuse, Evanson R., Saliou Niassy, John M. Wagacha, e.a. “Susceptibility of the
 
 ### Abstract
 
-This study assessed the nontarget effect of entomopathogenic fungi on the Western honey bee Apis mellifera L. and the African stingless bee Meliponula ferruginea Cockrell (Hymenoptera: Apidae). Pathogenicity of five Metarhizium anisopliae (ICIPE 7, ICIPE 20, ICIPE 62, ICIPE 69, and ICIPE 78) (Metschnikoff) Sorokin (Hypocreales: Clavicipitaceae) and one of Beauveria bassiana (ICIPE 284) (Balsamo) Vuillemin (Hypocreales: Cordicipitaceae) isolates were evaluated on bees at 108 conidia/ml. Conidial acquisition was evaluated immediately after exposure. Apis mellifera acquired more conidia (2.8 × 104–1.3 × 105 conidia per bee) compared to M. ferruginea (1.1 × 104–2.3 × 104 conidia per bee). In the bioassay with A. mellifera, ICIPE 7, ICIPE 20, and ICIPE 69 moderately reduced the survival by 16.9, 17.4, 15.3%, with lethal times LT10 = 7.4, 7.6, 8.1 d and LT25 = 8.7, 10.0, 9.9 d, respectively.The three isolates caused A. mellifera mycosis of 11.6–18.5%. None of the isolates had a significant effect on M. ferruginea.The tested isolates are nontoxic to bees according to the International Organization of Biological Control (IOBC) classification. However, the effect of ICIPE 7, ICIPE 20, and ICIPE 69 merits further studies on bee colonies, especially those of A. mellifera, under field conditions.
+Abstract This study assessed the nontarget effect of entomopathogenic fungi on the Western honey bee Apis mellifera L. and the African stingless bee Meliponula ferruginea Cockrell (Hymenoptera: Apidae). Pathogenicity of five Metarhizium anisopliae (ICIPE 7, ICIPE 20, ICIPE 62, ICIPE 69, and ICIPE 78) (Metschnikoff) Sorokin (Hypocreales: Clavicipitaceae) and one of Beauveria bassiana (ICIPE 284) (Balsamo) Vuillemin (Hypocreales: Cordicipitaceae) isolates were evaluated on bees at 108 conidia/ml. Conidial acquisition was evaluated immediately after exposure. Apis mellifera acquired more conidia (2.8 × 104–1.3 × 105 conidia per bee) compared to M. ferruginea (1.1 × 104–2.3 × 104 conidia per bee). In the bioassay with A. mellifera, ICIPE 7, ICIPE 20, and ICIPE 69 moderately reduced the survival by 16.9, 17.4, 15.3%, with lethal times LT10 = 7.4, 7.6, 8.1 d and LT25 = 8.7, 10.0, 9.9 d, respectively. The three isolates caused A. mellifera mycosis of 11.6–18.5%. None of the isolates had a significant effect on M. ferruginea. The tested isolates are nontoxic to bees according to the International Organization of Biological Control (IOBC) classification. However, the effect of ICIPE 7, ICIPE 20, and ICIPE 69 merits further studies on bee colonies, especially those of A. mellifera, under field conditions.
+
+
+### Extraction (abstract)
+
+- cite_label: Omuse2022
+- evidence: abstract
+- nontarget_taxa: Apis mellifera
+- exposure_route: unclear
+- effect_direction: adverse_or_mortality_mentioned
+- notes: Omuse, 2022, o.a.; abstract-only extraction
 
 
 one of Beauveria bassiana (ICIPE 284) (Balsamo) Vuillemin (Hypocreales: Cordicipitaceae) isolate" Yellow

@@ -7,7 +7,17 @@ Spasova, Mariya, Emiliya Chervenkova, Atanaska Stoeva, Mariana Petkova, en Olya 
 
 ### Abstract
 
-Whiteflies, including Aleyrodes proletella, are major agricultural pests which cause significant yield losses through direct feeding damage and virus transmission. The entomopathogenic fungus Beauveria bassiana is a promising alternative to synthetic insecticides. However, its field performance is often constrained by environmental sensitivity and limited formulation stability. In this study, biopolymer-based suspensions incorporating B. bassiana strain 730 were developed using chitooligosaccharide (COS) and 2-hydroxyethyl cellulose (HEC) as biodegradable carriers. Rheological analysis showed increased viscosity upon fungal incorporation (from 75 to 226 cP for COS and from 250 to 354 cP for HEC), indicating effective interaction between the polymer matrices and fungal conidia. Scanning electron microscopy confirmed uniform dispersion and physical entrapment of fungal structures, while microbiological assays demonstrated preserved viability and sporulation capacity. Bioassays against eggs and nymphs of A. proletella revealed a clear time-dependent response, with limited efficacy after 24 h but substantial increases by day 3. The unformulated fungal suspension achieved 93.0% efficacy, while COS/B. bassiana and HEC/B. bassiana formulations reached 84.6% and 76.1%, respectively, comparable to the commercial product Naturalis® (87.2%). Polymer solutions applied alone exhibited significantly lower activity. These results demonstrate that biopolymer-based formulations, particularly COSbased systems, preserve fungal virulence and represent promising biodegradable delivery platforms for sustainable whitefly management.
+Whiteflies, including <i>Aleyrodes proletella</i>, are major agricultural pests which cause significant yield losses through direct feeding damage and virus transmission. The entomopathogenic fungus <i>Beauveria bassiana</i> is a promising alternative to synthetic insecticides. However, its field performance is often constrained by environmental sensitivity and limited formulation stability. In this study, biopolymer-based suspensions incorporating <i>B. bassiana</i> strain 730 were developed using chitooligosaccharide (COS) and 2-hydroxyethyl cellulose (HEC) as biodegradable carriers. Rheological analysis showed increased viscosity upon fungal incorporation (from 75 to 226 cP for COS and from 250 to 354 cP for HEC), indicating effective interaction between the polymer matrices and fungal conidia. Scanning electron microscopy confirmed uniform dispersion and physical entrapment of fungal structures, while microbiological assays demonstrated preserved viability and sporulation capacity. Bioassays against eggs and nymphs of <i>A. proletella</i> revealed a clear time-dependent response, with limited efficacy after 24 h but substantial increases by day 3. The unformulated fungal suspension achieved 93.0% efficacy, while COS/<i>B. bassiana</i> and HEC/<i>B. bassiana</i> formulations reached 84.6% and 76.1%, respectively, comparable to the commercial product Naturalis<sup>®</sup> (87.2%). Polymer solutions applied alone exhibited significantly lower activity. These results demonstrate that biopolymer-based formulations, particularly COS-based systems, preserve fungal virulence and represent promising biodegradable delivery platforms for sustainable whitefly management.
+
+
+### Extraction (abstract)
+
+- cite_label: Spasova2026
+- evidence: abstract
+- carrier_types: Naturalis
+- device_or_delivery: unclear
+- claims: [to be verified]
+- notes: Spasova M, 2026, o.a.; abstract-only extraction
 
 
 Whiteflies, including Aleyrodes proletella," Yellow

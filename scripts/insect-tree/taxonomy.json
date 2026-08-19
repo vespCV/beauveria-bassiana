@@ -535,7 +535,7 @@
                       {
                         "id": "vespa-velutina",
                         "scientific": "Vespa velutina",
-                        "common": "yellow-legged hornet / geelpoothoornaar",
+                        "common": "yellow-legged hornet",
                         "kind": "taxon",
                         "role": "motivation",
                         "patterns": ["Vespa velutina", "V. velutina", "Vespa velutina nigrithorax"]
@@ -598,7 +598,7 @@
                       {
                         "id": "vespula-germanica",
                         "scientific": "Vespula germanica",
-                        "common": "German wasp / Duitse wesp",
+                        "common": "German wasp",
                         "kind": "taxon",
                         "role": "vespidae",
                         "patterns": ["Vespula germanica", "V. germanica"]
@@ -675,7 +675,7 @@
                       {
                         "id": "apis-mellifera",
                         "scientific": "Apis mellifera",
-                        "common": "western honey bee / honingbij",
+                        "common": "western honey bee",
                         "kind": "taxon",
                         "role": "nontarget",
                         "patterns": ["Apis mellifera", "A. mellifera"]
@@ -683,7 +683,7 @@
                       {
                         "id": "bombus-terrestris",
                         "scientific": "Bombus terrestris",
-                        "common": "buff-tailed bumblebee / hommel",
+                        "common": "buff-tailed bumblebee",
                         "kind": "taxon",
                         "role": "nontarget",
                         "patterns": ["Bombus terrestris", "B. terrestris"]

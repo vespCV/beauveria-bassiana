@@ -7,7 +7,14 @@ Brodeur, Jacques. “Host Specificity in Biological Control: Insights from Oppor
 
 ### Abstract
 
-Host/prey speciﬁcity is a signiﬁcant concern in biological control. It inﬂuences the effectiveness of a natural enemy and the risks it might have on non-target organisms. Furthermore, narrow host speciﬁcity can be a limiting factor for the commercialization of natural enemies. Given the great diversity in taxonomy and mode of action of natural enemies, host speciﬁcity is a highly variable biological trait. This variability can be illustrated by opportunist fungi from the genus Lecanicillium, which have the capacity to exploit a wide range of hosts – from arthropod pests to fungi causing plant diseases – through different modes of action. Processes determining evolutionary trajectories in host speciﬁcity are closely linked to the modes of action of the natural enemy. This hypothesis is supported by advances in fungal genomics concerning the identity of genes and biological traits that are required for the evolution of life history strategies and host range. Despite the signiﬁcance of speciﬁcity, we still need to develop a conceptual framework for better understanding of the relationship between specialization and successful biological control. The emergence of opportunistic pathogens and the development of ‘omic’ technologies offer new opportunities to investigate evolutionary principles and applications of the speciﬁcity of biocontrol agents.
+Abstract Host/prey specificity is a significant concern in biological control. It influences the effectiveness of a natural enemy and the risks it might have on non‐target organisms. Furthermore, narrow host specificity can be a limiting factor for the commercialization of natural enemies. Given the great diversity in taxonomy and mode of action of natural enemies, host specificity is a highly variable biological trait. This variability can be illustrated by opportunist fungi from the genus L ecanicillium , which have the capacity to exploit a wide range of hosts – from arthropod pests to fungi causing plant diseases – through different modes of action. Processes determining evolutionary trajectories in host specificity are closely linked to the modes of action of the natural enemy. This hypothesis is supported by advances in fungal genomics concerning the identity of genes and biological traits that are required for the evolution of life history strategies and host range. Despite the significance of specificity, we still need to develop a conceptual framework for better understanding of the relationship between specialization and successful biological control. The emergence of opportunistic pathogens and the development of ‘omic’ technologies offer new opportunities to investigate evolutionary principles and applications of the specificity of biocontrol agents.
+
+
+### Extraction (abstract)
+
+- cite_label: Brodeur2012
+- evidence: abstract
+- notes: Brodeur, 2012, o.a.; abstract-only extraction
 
 
 Host/prey specificity is a significant concern in biological control" Yellow

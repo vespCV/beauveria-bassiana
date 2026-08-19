@@ -8,7 +8,20 @@ De Souza, André Rodrigues, Amanda Prato, Wilson Franca, e.a. “A Predatory Soc
 
 ### Abstract
 
-Fungus-based biopesticides have been used worldwide for crop pest control as a safer alternative to chemical pesticides such as neonicotinoids. Both agrochemicals can be lethal and may also trigger side effects on the behavioral traits of non-target social insects, which play a crucial role in providing essential biological pest control services in agroecosystems. Here, we evaluated whether a commercial formulation of the entomopathogenic fungus Beauveria bassiana or the neonicotinoid imidacloprid causes mortality in foragers of Mischocyttarus metathoracicus. These social wasps are natural enemies of caterpillars and other herbivorous insects and inhabit both urban and agricultural environments in Brazil. We also tested whether wasps discriminate between biopesticide-exposed and unexposed conspecifics. Through a combination of laboratory (survival assay) and field experiments (lure presentation), along with chemical analyses (cuticular hydrocarbon profiles), we showed that topic exposure to the label rate of each pesticide causes a lethal effect, with the biopesticide exhibiting a slower effect. Moreover, wasps do not discriminate biopesticide-exposed from unexposed conspecifics, likely because of the similarity of their cuticular chemical profiles 24 h after exposure. Overall, the delayed lethal time at the individual level, combined with the indistinctive chemical cues of exposure and the lack of discrimination by conspecifics suggests that the fungal biopesticide may ultimately pose a threat to the colony survival of this predatory wasp.
+Fungus-based biopesticides have been used worldwide for crop pest control as a safer alternative to chemical pesticides such as neonicotinoids. Both agrochemicals can be lethal and may also trigger side effects on the behavioral traits of non-target social insects, which play a crucial role in providing essential biological pest control services in agroecosystems. Here, we evaluated whether a commercial formulation of the entomopathogenic fungus Beauveria bassiana or the neonicotinoid imidacloprid causes mortality in foragers of Mischocyttarus metathoracicus. These social wasps are natural enemies of caterpillars and other herbivorous insects and inhabit both urban and agricultural environments in Brazil. We also tested whether wasps discriminate between biopesticide-exposed and unexposed conspecifics. Through a combination of laboratory (survival assay) and field experiments (lure presentation), along with chemical analyses (cuticular hydrocarbon profiles), we showed that topic exposure to the label rate of each pesticide causes a lethal effect, with the biopesticide exhibiting a slower effect. Moreover, wasps do not discriminate biopesticide-exposed from unexposed conspecifics, likely because of the similarity of their cuticular chemical profiles 24 h after exposure. Overall, the delayed lethal time at the individual level, combined with the indistinctive chemical cues of exposure and the lack of discrimination by conspecifics suggests that the fungal biopesticide may ultimately pose a threat to the colony survival of this predatory wasp.
+
+
+### Extraction (abstract)
+
+- cite_label: DeSouza2023
+- evidence: abstract
+- host_pest: Mischocyttarus metathoracicus
+- strain_product: Beauveria bassiana or the neonicotinoid
+- delivery_mode: social_behaviour
+- mortality: mortality mentioned (see abstract)
+- lt_lc: [to be verified]
+- colony_nest_effects: mentioned in abstract
+- notes: de Souza, 2023, o.a.; abstract-only extraction
 
 
 Boveril®" Yellow

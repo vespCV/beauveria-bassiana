@@ -15,8 +15,8 @@ Help a non-specialist reader understand a difficult fungus topic without drownin
 ## Audience and subject
 
 - **Audience first**: who is this for (review collaborator, decision reader, general science-curious), and what do they need now?
-- Prefer topics with a clear decision or evidence angle (efficacy, strain, formulation, horizontal spread, non-target risk, regulation). Skip insider-only detail that does not change understanding.
-- Tie abstract mechanisms to a concrete scene early: insect walks through a device, contacts oil or bait, returns to a nest, spores move or do not.
+- Prefer topics with a clear decision or evidence angle (efficacy, strain, formulation, horizontal spread, non-target risk, regulation).
+- Tie abstract mechanisms to a concrete scene early: insect walks through a device, contacts oil or bait, returns to a nest, spores may move to nestmates.
 - Do not try to explain the entire field of entomopathogenic fungi in one short piece.
 - News hooks and party anecdotes are optional for repo docs; clarity and relevance matter more than entertainment.
 
@@ -39,6 +39,7 @@ Help a non-specialist reader understand a difficult fungus topic without drownin
 
 ## Writing craft
 
+- **No "not" prose:** Write what the evidence shows and what endpoint or delivery mode applies. Do not frame sentences around negation (`not X`, `is not Y`, `does not stand in for`, `not proof`, `not filled`, out-of-scope disclaimers). State the positive claim or label proxies, endpoints, and open questions directly. Same rule as `.cursor/rules/interaction-style.mdc`.
 - Outline themes and a rough word budget before sentences (**kleurplaatmethode**).
 - Expect heavy cutting; short is the product.
 - **Afhakers**: anything that makes a tired reader stop — cut or rewrite.
@@ -124,7 +125,7 @@ List only paths and citekeys actually used. Prefer Obsidian Zotero notes under `
 4. Bekend / Beperkte informatie / Geen informatie
 5. Bronnen block
 
-Preferred terms: conidia, catch-infect-release, selectieve val, dispenser, bait. For _Vespa velutina_ in Dutch: **geelpoothoornaar** (never “Aziatische hoornaar”). Avoid Trojan and vision-gated unless the user wants decision-brief vocabulary in Dutch.
+Preferred terms: conidia, catch-infect-release, selectieve val, dispenser, bait. For _Vespa velutina_ in Dutch: **geelpoothoornaar**. Use catch-infect-release in overview prose unless the user wants decision-brief vocabulary.
 
 Never put this style guide's advice in place of citations. Facts stay tied to extracts, PDFs, or notes.
 
@@ -139,6 +140,7 @@ Never put this style guide's advice in place of citations. Facts stay tied to ex
 5. **Jargon**: Every technical term justified and glossed once (or replaced)?
 6. **Metaphors**: Do they clarify faster than they confuse?
 7. **Active voice**: Read aloud — any stumbles?
-8. **Graphs**: Honest axes, labeled, one point?
-9. **Facts**: All scientific claims tied to project sources — not to this style guide.
-10. **Dutch overview**: Catch-infect-release + colony-weakening frame; Bronnen block present; no go-ladder unless asked?
+8. **No "not" prose**: Any sentence framed as negation instead of a positive claim?
+9. **Graphs**: Honest axes, labeled, one point?
+10. **Facts**: All scientific claims tied to project sources — tied to extracts, PDFs, or notes, not this style guide.
+11. **Dutch overview**: Catch-infect-release + colony-weakening frame; Bronnen block present; no go-ladder unless asked?
