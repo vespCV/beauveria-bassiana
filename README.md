@@ -1,4 +1,4 @@
-# Beauveria bassiana systematic review
+# Beauveria bassiana review
 
 Can a fungus weaken a hornet colony from the inside? This review collects the evidence for using *Beauveria bassiana* (Bb), a naturally occurring insect-killing fungus, against *Vespa velutina* (yellow-legged hornet) delivered by contaminating hornet workers through selective traps and baits.
 
