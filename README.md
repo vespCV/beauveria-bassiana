@@ -11,6 +11,8 @@ Can a fungus weaken a hornet colony from the inside? This review collects the ev
 - A dead hornet may sporulate and generate new conidia. 
 - The ideal outcome is colony collapse. The more realistic target is colony weakening: less damage this season, fewer queens and drones for the next.
 
+
+
 ## Summary
 
 1. **EU products and NL use.** Six Bb strains hold EU active-substance approval. Whether any product is authorised in the Netherlands for trap or bait delivery is on the to-do list.
@@ -26,13 +28,17 @@ Can a fungus weaken a hornet colony from the inside? This review collects the ev
 
 Assay shorthand and jargon are expanded in the [glossary](results/attachments/glossary.md) (LD50, LC50, LT50, conidia, catch-infect-release, proxies, regulation, and nest biology). Short index:
 
-| Term | Meaning |
-|---|---|
-| **LT50** | Time until half the test insects die; README often says “half died in X days” instead. |
-| **LC50** | Spore or chemical concentration that kills half the group. |
-| **Bb** | *Beauveria bassiana*. |
-| **ao** | Citekey suffix: evidence from the abstract only; full PDF not on disk yet ([pdf request list](input-phase2/pdfs_request_list.md)). |
-| **Proxy** | Related-species evidence, labelled because hornet data are missing. |
+
+| Term      | Meaning                                                                                                                            |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **LT50**  | Time until half the test insects die; README often says “half died in X days” instead.                                             |
+| **LC50**  | Spore or chemical concentration that kills half the group.                                                                         |
+| **Bb**    | *Beauveria bassiana*.                                                                                                              |
+| **ao**    | Citekey suffix: evidence from the abstract only; full PDF not on disk yet ([pdf request list](input-phase2/pdfs_request_list.md)). |
+| **Proxy** | Related-species evidence, labelled because hornet data are missing.                                                                |
+
+
+
 
 ## Research questions
 
@@ -58,8 +64,11 @@ Each row lists two links when both exist: **first** jumps to the summary section
 - [5 Fungal growth on the Vvel](#5-fungal-growth-on-the-vvel) ([fungal-growth](results/05-fungal-growth.md))
 - [6 Effect of fungi on Vespidae nests](#6-effect-of-fungi-on-vespidae-nests) ([nest-effects](results/06-nest-effects.md))
 - [Study selection](#study-selection)
-- Methods: [lab journal](results/methods/journal.md) [search log](results/methods/search-log.md) · [commercial affiliations](results/methods/commercial-affiliations.md)
-- Attachments: [glossary](results/attachments/glossary.md) · [phylogenetic tree](results/attachments/phylogenetic-tree.md)
+- Methods: [lab journal](results/methods/journal.md) · [search log](results/methods/search-log.md) · [commercial affiliations](results/methods/commercial-affiliations.md)
+- Attachments: [glossary](results/attachments/glossary.md) · [references](results/attachments/references.md) · [phylogenetic tree](results/attachments/phylogenetic-tree.md) · [workflow](results/attachments/workflow.md)
+- Data: [input-phase0](input-phase0/) ([input-rayyan](input-phase0/input-rayyan/), [input-cc-rr](input-phase0/input-cc-rr/)) · [input-phase1](input-phase1/) · [input-phase2](input-phase2/) ([include list](input-phase2/relevant_articles_categorized.csv), [download links](input-phase2/pdfs_download_links.md), [excluded](input-phase2/excluded/)) · [pdfs](pdfs/) ([excluded](pdfs/excluded/), [inbox](pdfs/inbox/))
+
+
 
 ## Background
 
@@ -72,12 +81,14 @@ Each row lists two links when both exist: **first** jumps to the summary section
 5. The insect's immune system may fight back, sometimes clearing the infection
 6. After death, fungal threads emerge and produce new spores that can infect others
 
-![Bb infection cycle on a hornet: A) spore penetrates the cuticle and multiplies in the blood; B) after death, new spores emerge from the body](results/attachments/bb-infection-cycle-hornet.png)
-<sub>Original diagram based on Valero-Jimenez2016</sub>
+Bb infection cycle on a hornet: A) spore penetrates the cuticle and multiplies in the blood; B) after death, new spores emerge from the body
+Original diagram based on Valero-Jimenez2016
 
 Efficacy in the field depends on humidity, temperature, UV exposure, and rainfall (Mascarin2016).
 
 Bb has many strains, each with its own killing power, growth speed, and stress tolerance. Even batches of the same commercial product can differ (Moore2026), and laboratory-recultured spores can behave differently from the commercial product (Nouri-Aiin2021).
+
+Full background extract: [background](results/background.md).
 
 ## 1 EU-available products, strains and formulations
 
@@ -94,7 +105,11 @@ Six Bb strains hold EU active-substance approval under Regulation (EC) No 1107/2
 - Velifer ES (PPRI 5339) and BotaniGard ES (GHA) killed tea shot-hole borer faster (6-8 d) than wettable-powder products; cadaver sporulation was highest on Velifer ES (Chavez2023; beetle proxy).
 - Even between batches of the same commercial product (Botanigard, GHA), ethanol tolerance, pathogenicity, and spore production differed (Moore2026).
 
+
+
 ## 2 Effect on Vespa velutina, Vespidae, other Hymenoptera, other insects
+
+
 
 ### 2.1 V. velutina
 
@@ -106,6 +121,8 @@ Direct evidence on *V. velutina* and Bb is limited to one isolate (wild strain) 
 **An other entomopathogenic fungus (*Metarhizium robertsii*)**
 
 - *V. velutina*, *Vespula vulgaris*, and *Bombus terrestris*: hornets consistently the most susceptible, even at low spore concentrations (Lacombrade2025; CIFRE doctoral co-funding with M2i Biocontrol, disclosed in COI section as non-influential).
+
+
 
 ### 2.2 Vespidae
 
@@ -119,8 +136,8 @@ Bb kills other social wasps in the lab, but results vary by species and life sta
 
 *Polistes* and *Mischocyttarus* build open-comb nests where brood is directly exposed. *V. velutina* nests are enclosed in a paper envelope, so spores must travel through returning workers rather than landing directly on brood.
 
-![Open-comb Polistes nest: brood cells are directly exposed to the environment](https://rootsimple.wpengine.com/wp-content/uploads/2016/10/IMG_7454.jpg)
-<sub>Photo: Root Simple, CC BY-NC</sub>
+Open-comb Polistes nest: brood cells are directly exposed to the environment
+Photo: Root Simple, CC BY-NC
 
 ### 2.3 Other Hymenoptera
 
@@ -143,6 +160,8 @@ Bb kills other social wasps in the lab, but results vary by species and life sta
 
 - Apple sawfly (*Hoplocampa testudinea*): soil-applied BotaniGard GHA gave 49-68% lab mycosis but only 17% in field soil cages (Swiergiel2016).
 
+
+
 ### 2.4 Other insects
 
 **Broad efficacy (proxies)**
@@ -157,6 +176,8 @@ Bb kills other social wasps in the lab, but results vary by species and life sta
 **Field failure**
 
 - Three Bb applications did not reduce spotted lanternfly numbers (Keller2023, Penn State; PA Dept of Agriculture and USDA APHIS/NIFA funding). Co-author Nina Jenkins: lead author of US Patent 14/810,137 (Aprehend) and co-founder of ConidioTec LLC (disclosed in acknowledgements).
+
+Full effects extract: [effects](results/02-effects.md).
 
 ## 3 Mechanics and delivery
 
@@ -182,6 +203,8 @@ Two pickup modes sit side by side: contact on a passage surface (1- or 2-way dis
 - After simulated sunlight, spores showed a half-life of about 2 hours (Zimmermann2007).
 - An archaeal photolyase transgene raised spore survival after 4-7 h natural sunlight up to 44-fold and preserved virulence on *Anopheles gambiae* (Fang2012; engineered mosquito proxy).
 
+Full delivery extract: [mechanics-delivery](results/03-mechanics-delivery.md).
+
 ## 4 Horizontal spread in the Vespa velutina nest
 
 **Catch-infect-release design proxies (fipronil trials)**
@@ -201,6 +224,8 @@ Two pickup modes sit side by side: contact on a passage surface (1- or 2-way dis
 - qPCR survey of 38 nests in Portugal: bee- and bumblebee-associated pathogens (DWV, *Nosema ceranae*, BQCV, CBPV, and others) occurred in larvae, pupae, adults and queens at similar prevalence. Authors attribute this mainly to **predation on infected prey** (bees fed to larvae), with additional routes via flowers and direct contact. Nests **bioaccumulate** bee pathogens over the season. The concern is **interspecific transmission and spillback** (hornet harbours replicative bee pathogens). The study does not address Bb or trap-delivered inoculum on returning foragers.
 - The required load (spores per returning forager) for introducing Bb into a *V. velutina* nest remains an open question.
 
+Full horizontal-spread extract: [horizontal-spread](results/04-horizontal-spread.md).
+
 ## 5 Fungal growth on the Vespa velutina
 
 **Temperature and moisture (general Bb)**
@@ -216,6 +241,8 @@ Two pickup modes sit side by side: contact on a passage surface (1- or 2-way dis
 - Nest temperature and relative humidity of *V. velutina* are an open question.
 - Nest paper of *P. dominula* is hydrophobic (VanZyl2024).
 
+Full fungal-growth extract: [fungal-growth](results/05-fungal-growth.md).
+
 ## 6 Effect of fungi on Vespidae nests
 
 Colonies remove sick individuals, isolate the dead, and can compensate with more brood; capped cells may shelter pupae (Rose1999). [project inference] A contaminated returning forager alone is insufficient for nest collapse.
@@ -226,6 +253,8 @@ Colonies remove sick individuals, isolate the dead, and can compensate with more
 - *M. metathoracicus*: half died by day 19 with no avoidance behaviour; the authors flag a possible threat to colony survival (DeSouza2023).
 - *P. dominula* / *V. germanica* field nests: inundative spray; EPF+EPN mixture performed better than Bb alone; pupae largely spared (VanZyl2024).
 - *P. chinensis*: oral *Beauveria malawiensis* at 2.68 × 10⁶ cfu mL⁻¹ raised adult mortality across three treatment nests (Reason2022).
+
+Full nest-effects extract: [nest-effects](results/06-nest-effects.md).
 
 ## Where things stand
 
