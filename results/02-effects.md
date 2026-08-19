@@ -4,6 +4,7 @@
 - M2i search for information on there site
 - add list w english names under the tables
 
+
 Research question 2: chances that Bb can kill or weaken *V. velutina* and non-target species in the field, including inside the nest.
 
 Taxon bands: motivation (*V. velutina*), Vespidae, other Hymenoptera, then other insects as proxies. Spray or contact results on distant proxies are labelled as such.

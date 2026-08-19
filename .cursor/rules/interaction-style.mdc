@@ -38,6 +38,8 @@ alwaysApply: true
 
 Applies to `README.md`, `docs/**`, and any other file meant for public or collaborator readers on GitHub.
 
+- **Single README:** Repo navigation lives in the root `README.md` only. Do not create `README.md` in subfolders (`results/`, `results/attachments/`, `docs/`, chapter paths, etc.). Link supplementary pages (glossary, chapter `.md` files, attachments) from the root Index. Use descriptive filenames (`glossary.md`, `phylogenetic-tree.md`) instead of nested READMEs.
+- **Citekey `ao`:** Suffix **`ao`** on a citekey marks abstract-only evidence (no PDF on disk); list the paper on `input-phase2/pdfs_request_list.md` when cited in README or chapter pages.
 - **No Cursor:** Do not mention Cursor, the Cursor IDE, or Cursor-specific workflows, paths, or tooling.
 - **Neutral tooling:** Describe setup and automation in product-neutral terms, or omit local editor/agent configuration from public docs.
 - **`.cursor/` is local:** That directory may exist in the repo for local agent setup; do not surface it in public documentation unless the user explicitly asks.

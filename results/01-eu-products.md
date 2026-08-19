@@ -4,7 +4,7 @@
 - check info on there websites
 - check google for additional information
 - check NL allowed use on Ctgb
--
+
 
 Research question 1: which Bb strains are commercially available in the EU, what formulations exist, and what use is allowed in the Netherlands?
 

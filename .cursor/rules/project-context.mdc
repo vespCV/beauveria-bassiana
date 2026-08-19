@@ -97,5 +97,5 @@ Deliverables are done
 | `temp/overview/` | Gitignored literature overview draft and Dutch reader prose (`nederlandse-samenvatting.md`). Process per **Dutch / reader overview processing** above. |
 | `temp/zotero/` | Gitignored Zotero DB copies, optional `excluded.bib`, sync reports. |
 | `temp/zotero-annotations/` | Gitignored annotation markdown when Obsidian exports are missing. |
-| `results/` | Tracked chapter pages for the six research questions plus background; `results/methods/` holds the lab journal and search log; `results/attachments/` holds supplementary reader material (phylogenetic tree and future maps). |
-| `README.md` | Easy-read summary, study selection / PRISMA, and Index links into `results/` (required for Phase 2 gate). |
+| `results/` | Tracked chapter pages for the six research questions plus background; `results/methods/` holds the lab journal and search log; `results/attachments/` holds supplementary reader material (glossary, phylogenetic tree, figures). Linked from root `README.md` Index; no nested `README.md`. |
+| `README.md` | Easy-read summary, study selection / PRISMA, and Index links into `results/` (required for Phase 2 gate). Sole repo navigation README. |

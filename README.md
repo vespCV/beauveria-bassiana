@@ -11,11 +11,25 @@ A *Vespa velutina* enters a selective trap. She drinks sugar bait or takes prote
 1. **EU products and NL use.** Six Bb strains hold EU active-substance approval. Whether any product is authorised in the Netherlands for trap or bait delivery is on the to-do list.
 2. **Kill or weaken *V. velutina*.** One Bb isolate from a wild foundress killed hornets in the lab (half died in about 6 days); field efficacy on *V. velutina* colonies remains untested.
 3. **Selective delivery.** Both passage-contact dispensers and sugar/protein baits load spores onto insects in lab and field trials, but neither has been validated for *V. velutina*.
-4. **Horizontal transfer to nestmates.** Social wasps transfer spores by contact; species differ in whether nestmates detect and exclude exposed individuals. The minimum spore load a returning *V. velutina* forager must carry is unknown.
+4. **Horizontal transfer to nestmates.** Social wasps transfer spores by contact; species differ in nestmate response to exposed individuals (recognition, aggression, avoidance). The minimum spore load a returning *V. velutina* forager must carry is unknown.
 5. **Fungal growth in the nest.** Bb grows best at 23-28 °C with high humidity; nest temperature and humidity of *V. velutina* have yet to be measured.
 6. **Colony-level impact.** Bb caused colony failure in *Polistes dominula* in the lab; colony weakening or collapse from catch-infect-release in *V. velutina* is an open question.
 
-**Note:** direct data on *V. velutina* and Bb are scarce. Where hornet data are missing, this review draws on studies of related wasps, bees, beetles, and other insects as proxies, and labels them as such.
+**Note:** direct data on *V. velutina* and Bb are scarce. Where hornet data are missing, this review therefore includes studies of related wasps, bees, beetles, and other insects as proxies, and labels them as such. Tags: `ao` on a citekey (e.g. Peng2020ao) = abstract-only here, full PDF requested ([pdf request list](input-phase2/pdfs_request_list.md)); `abstract` = same evidence level when the citekey has no `ao` suffix; `[project inference]` = synthesis across sources, not a single paper quote.
+
+## Terms used in this review
+
+Assay shorthand and jargon are expanded in the [glossary](results/attachments/glossary.md) (LD50, LC50, LT50, conidia, catch-infect-release, proxies, regulation, and nest biology). Short index:
+
+| Term | Meaning |
+|---|---|
+| **LT50** | Time until half the test insects die; README often says “half died in X days” instead. |
+| **LC50** | Spore or chemical concentration that kills half the group. |
+| **Bb** | *Beauveria bassiana*. |
+| **ao** | Citekey suffix: evidence from the abstract only; full PDF not on disk yet ([pdf request list](input-phase2/pdfs_request_list.md)). |
+| **Proxy** | Related-species evidence, labelled because hornet data are missing. |
+
+Full list: [glossary](results/attachments/glossary.md). Workflow terms: [CONTEXT.md](CONTEXT.md).
 
 ## Research questions
 
@@ -30,6 +44,7 @@ Exact search strings: [search log](results/methods/search-log.md).
 
 ## Index
 
+- [Terms used in this review](#terms-used-in-this-review) · [glossary](results/attachments/glossary.md)
 - [Background](#background) · [background](results/background.md)
 - [1 EU-available products, strains and formulations](#1-eu-available-products-strains-and-formulations) · [eu-products](results/01-eu-products.md)
 - [2 Effect on Vvel, Vespidae, other Hymenoptera, other insects](#2-effect-on-vvel-vespidae-other-hymenoptera-other-insects) · [effects](results/02-effects.md)
@@ -39,7 +54,7 @@ Exact search strings: [search log](results/methods/search-log.md).
 - [6 Effect of fungi on Vespidae nests](#6-effect-of-fungi-on-vespidae-nests) · [nest-effects](results/06-nest-effects.md)
 - [Study selection](#study-selection)
 - [Methods lab journal](results/methods/journal.md) · [search log](results/methods/search-log.md) · [commercial affiliations](results/methods/commercial-affiliations.md)
-- [Attachments](results/attachments/README.md) · [phylogenetic tree](results/attachments/phylogenetic-tree.md)
+- [Attachments: glossary](results/attachments/glossary.md) · [phylogenetic tree](results/attachments/phylogenetic-tree.md)
 
 ## Background
 
@@ -63,27 +78,37 @@ Bb has many strains, each with its own killing power, growth speed, and stress t
 
 Six Bb strains hold EU active-substance approval under Regulation (EC) No 1107/2009. They are sold as sprays, wettable powders, granules, or electrostatic powder, mostly for protected crops, storage pests, and palm weevils. Whether any product label covers trap or bait-station use is an open question, and EU approval may not automatically mean a product is authorised in the Netherlands. Full strain table and product details: [eu-products](results/01-eu-products.md).
 
-Spray trials with named EU products: BotaniGard ES (strain GHA) cut chilli thrips 48-71% on roses (Aristizabal2017; abstract). Plant dips with BotaniGard gave 81-86% corrected whitefly mortality on mint (Aristizabal2018; abstract). These are conventional crop uses, not trap delivery.
+**Crop spray trials (conventional crop use)**
 
-Product quality varies: balEnce germinated poorly where BotaniGard ES and Mycotrol O killed house flies (Weeks2016). Velifer ES and BotaniGard ES killed tea shot-hole borer faster (6-8 d) than wettable-powder products; cadaver sporulation was highest on Velifer ES (Chavez2023; beetle proxy). Even between batches of the same commercial product, ethanol tolerance, pathogenicity, and spore production differed (Moore2026).
+- BotaniGard ES (strain GHA): 48-71% chilli thrips reduction on roses (Aristizabal2017; abstract).
+- BotaniGard plant dips: 81-86% corrected whitefly mortality on mint (Aristizabal2018; abstract).
+
+**Product quality and batch variation**
+
+- balEnce germinated poorly where BotaniGard ES and Mycotrol O killed house flies (Weeks2016).
+- Velifer ES and BotaniGard ES killed tea shot-hole borer faster (6-8 d) than wettable-powder products; cadaver sporulation was highest on Velifer ES (Chavez2023; beetle proxy).
+- Even between batches of the same commercial product, ethanol tolerance, pathogenicity, and spore production differed (Moore2026).
 
 ## 2 Effect on Vvel, Vespidae, other Hymenoptera, other insects
 
 ### 2.1 V. velutina
+
 Direct evidence on *V. velutina* and Bb is limited to one isolate from a single research group:
 
-- A Bb strain was isolated from a naturally infected foundress in Brittany; growth fastest at 20-28 °C, optimum about 20-22.6 °C (Poidatz2019; funded by Bayer Crop Science).
+- Bb strain from a naturally infected foundress in Brittany; growth fastest at 20-28 °C, optimum about 20-22.6 °C (Poidatz2019; funded by Bayer Crop Science).
 - Lab bioassay of that isolate on adult hornets at about 10⁷ spores/mL: half died in 6.25 ± 0.67 days; direct inoculation gave the highest mortality (Poidatz2018). Application above 20 °C recommended.
 
-Related, not Bb:
+**Related agent (*Metarhizium robertsii*)**
 
-- A comparison of *V. velutina*, *Vespula vulgaris*, and *Bombus terrestris* exposed to *Metarhizium robertsii* (not Bb) found hornets consistently the most susceptible, even at low spore concentrations (Lacombrade2025; CIFRE doctoral co-funding with M2i Biocontrol, disclosed in COI section as non-influential).
+- *V. velutina*, *Vespula vulgaris*, and *Bombus terrestris*: hornets consistently the most susceptible, even at low spore concentrations (Lacombrade2025; CIFRE doctoral co-funding with M2i Biocontrol, disclosed in COI section as non-influential).
 
 ### 2.2 Vespidae
+
 Bb kills other social wasps in the lab, but results vary by species and life stage:
 
 - *Vespula germanica*: sugar bait at 1 × 10⁸ spores mL⁻¹ killed 79-95% of workers and 66-73% of males (Merino2007; Chilean isolates, outside EU commerce; co-funded via agreement with Controladora de Plagas Forestales S.A., a pest control service company).
-- *V. germanica* and *Polistes dominula* larvae: Eco-Bb (R444) killed all tested larvae by day 7. In-nest spray infected 31% of larvae but only 3% of pupae; pupae were largely spared (VanZyl2024).
+- *V. germanica* and *Polistes dominula* larvae, lab: Eco-Bb (R444) killed all tested larvae by day 7 (VanZyl2024).
+- Same species, field in-nest spray: EPF+EPN mixture gave ~31% larval infection and ~3% pupal infection; pupae were largely spared (VanZyl2024).
 - *Mischocyttarus metathoracicus*: Boveril (ESALQ PL63), half died by day 19, slower than imidacloprid (DeSouza2023).
 - *P. dominula*: Naturalis (ATCC 74040) caused colony failure with brood ejection and reduced foundress reproduction (Cappa2024; topical dose 1 μL of 10⁶ spores/μL).
 
@@ -93,53 +118,104 @@ Bb kills other social wasps in the lab, but results vary by species and life sta
 <sub>Photo: Root Simple, CC BY-NC</sub>
 
 ### 2.3 Other Hymenoptera
-Studies framed as safety tests tend to report little Bb effect on bees (Zimmermann2007; Omuse2022; Meikle2008, USDA-ARS, GHA material supplied by S.T. Jaronski of Mycotech Corp.); studies aimed at controlling those same taxa or testing direct pathogenicity report high mortality (Portilla2017; Leite2022) and sublethal disruption of nestmate recognition and cognition (Cappa2019; Carlesso2020). Leite2022 explicitly flags this tension: hive-level varroa studies found no colony damage while individual-level lab assays on the same fungus found considerable mortalities. Both framings appear in the literature, and that asymmetry matters for interpreting bee risk.
 
-Honey bee contact mortality with ICIPE 284 reached at most 17.4% under hive-simulated conditions; stingless bee *Meliponula ferruginea* reached at most 11.0% (Omuse2022). Lab contact and ingestion of commercial Bb reduced survival of *Apis mellifera* and *Bombus terrestris* at the individual level; oral exposure can exceed topical (Leite2022). Isolate NI8 killed 98.2% of honey bees at the highest lab concentration at 10 d (Portilla2017). Hive-mounted bumblebee dispensers put detectable Bb on 97-99% of *Bombus impatiens* workers with no epizootic and no adverse colony impact (Al-Mazraawi2006; Bb provided by Emerald BioAgriculture, the predecessor to Laverlam/BotaniGard).
+**Framing asymmetry.** Safety-framed studies tend to report little Bb effect on bees (Zimmermann2007; Omuse2022; Meikle2008). Pathogenicity-framed studies report high mortality (Portilla2017; Leite2022) and sublethal disruption of nestmate recognition and cognition (Cappa2019; Carlesso2020). Leite2022 flags the tension: hive-level varroa studies found no colony damage while individual-level lab assays on the same fungus found considerable mortalities.
 
-Apple sawfly (*Hoplocampa testudinea*): soil-applied BotaniGard GHA gave 49-68% lab mycosis but only 17% in field soil cages (Swiergiel2016; hymenopteran soil proxy).
+**Selected outcomes**
+
+- Honey bee contact mortality with ICIPE 284: at most 17.4% under hive-simulated conditions (Omuse2022).
+- Stingless bee *Meliponula ferruginea*: at most 11.0% (Omuse2022).
+- Lab contact and ingestion of commercial Bb reduced survival of *Apis mellifera* and *Bombus terrestris*; oral exposure can exceed topical (Leite2022).
+- Isolate NI8: 98.2% honey bee mortality at the highest lab concentration at 10 d (Portilla2017).
+- Hive-mounted bumblebee dispensers: detectable Bb on 97-99% of *Bombus impatiens* workers, no epizootic, no adverse colony impact (Al-Mazraawi2006; Bb from Emerald BioAgriculture, predecessor to Laverlam/BotaniGard).
+- Meikle2008: GHA material supplied by S.T. Jaronski of Mycotech Corp. (USDA-ARS study).
+
+**Hymenopteran proxy**
+
+- Apple sawfly (*Hoplocampa testudinea*): soil-applied BotaniGard GHA gave 49-68% lab mycosis but only 17% in field soil cages (Swiergiel2016).
 
 ### 2.4 Other insects
-High spray or contact mortality is common in aphids, whiteflies, beetles, flies, thrips, and moths (Wraight2010, USDA-ARS, but co-author S.T. Jaronski was affiliated with Mycotech Corp., a Bb product company and predecessor to the Laverlam/BioWorks BotaniGard line; Parker2015, Univ. of Vermont, no manufacturer funding; proxies). Autodissemination (insects spreading spores to each other) is demonstrated in sap beetles, kissing bugs, and bed bugs (Dowd2003, USDA-ARS; Forlani2011, CONICET-UNLP, no conflicts; Barbarin2012, Penn State). Field failure also occurs: three Bb applications did not reduce spotted lanternfly numbers (Keller2023, Penn State, funded by PA Dept of Agriculture and USDA APHIS/NIFA; co-author Nina Jenkins is lead author of US Patent 14/810,137 (Aprehend, a Bb bed bug biopesticide) and co-founder of ConidioTec LLC, the company producing it, disclosed in the paper's acknowledgements).
+
+**Broad efficacy (proxies)**
+
+- High spray or contact mortality in aphids, whiteflies, beetles, flies, thrips, and moths (Wraight2010; Parker2015).
+- Wraight2010: co-author S.T. Jaronski affiliated with Mycotech Corp., a Bb product company and predecessor to the Laverlam/BioWorks BotaniGard line.
+
+**Autodissemination (proxies)**
+
+- Sap beetles (Dowd2003, USDA-ARS), kissing bugs (Forlani2011, CONICET-UNLP), bed bugs (Barbarin2012, Penn State).
+
+**Field failure**
+
+- Three Bb applications did not reduce spotted lanternfly numbers (Keller2023, Penn State; PA Dept of Agriculture and USDA APHIS/NIFA funding). Co-author Nina Jenkins: lead author of US Patent 14/810,137 (Aprehend) and co-founder of ConidioTec LLC (disclosed in acknowledgements).
 
 ## 3 Mechanics and delivery
 
 Two pickup modes sit side by side: contact on a passage surface (1- or 2-way dispenser) and spores mixed into sugar or protein bait. Both work for pollinators; neither is established as the better option for Vespidae.
 
-Hive-mounted 1- and 2-way dispensers move Bb onto crops via bumblebees (Al-Mazraawi2006; Kapongo2025). Maize flour carried more spores through bee dispensers than coarser meals (Al-Mazraawi2007; Bb provided by Emerald BioAgriculture). NZ protein baits with *Metarhizium* and Bb reduced *Vespula* nest traffic; infected larvae were recovered from both fungal treatments (Brownbridge2009). Red-palm-weevil pheromone traps with Broadband gave half dead by day 4 at 10⁸ spores/mL (Hajjar2015; weevil proxy).
+**Dispensers and baits**
 
-Oil formulations improve infection at low humidity, extend thermal stress tolerance, and protect against UV (Mascarin2016). HEC and alginate hydrogels kept Bb viable up to 24 d in a mosquito ovitrap assay (Friuli2025). Carnauba wax in dry powder raised virulence in a blowfly assay (Muniz2020). Corn-oil coating improved granular thermotolerance (Kim2010). Longifolene at 0.2-0.4 mmol mL⁻¹ reversed spore repellence in a termite bait (Lin2026).
+- Hive-mounted 1- and 2-way dispensers move Bb onto crops via bumblebees (Al-Mazraawi2006; Kapongo2025).
+- Maize flour carried more spores through bee dispensers than coarser meals (Al-Mazraawi2007; Bb from Emerald BioAgriculture).
+- NZ protein baits with *Metarhizium* and Bb reduced *Vespula* nest traffic; infected larvae recovered from both fungal treatments (Brownbridge2009).
+- Red-palm-weevil pheromone traps with Broadband: half dead by day 4 at 10⁸ spores/mL (Hajjar2015; weevil proxy).
 
-UV is a field constraint. After simulated sunlight, spores showed a half-life of about 2 hours (Zimmermann2007). An archaeal photolyase transgene raised spore survival after 4-7 h natural sunlight up to 44-fold and preserved virulence on *Anopheles gambiae* (Fang2012; engineered mosquito proxy).
+**Formulation**
+
+- Oil formulations improve infection at low humidity, extend thermal stress tolerance, and protect against UV (Mascarin2016).
+- HEC and alginate hydrogels kept Bb viable up to 24 d in a mosquito ovitrap assay (Friuli2025).
+- Carnauba wax in dry powder raised virulence in a blowfly assay (Muniz2020).
+- Corn-oil coating improved granular thermotolerance (Kim2010).
+- Longifolene at 0.2-0.4 mmol mL⁻¹ reversed spore repellence in a termite bait (Lin2026).
+
+**UV**
+
+- After simulated sunlight, spores showed a half-life of about 2 hours (Zimmermann2007).
+- An archaeal photolyase transgene raised spore survival after 4-7 h natural sunlight up to 44-fold and preserved virulence on *Anopheles gambiae* (Fang2012; engineered mosquito proxy).
 
 ## 4 Horizontal spread in the Vvel nest
 
-Catch-treat-release with fipronil demonstrates the social-wasp design pattern (Buczkowski2024; not Bb). Protein bait with 0.01% fipronil reduced *V. velutina* pressure at apiaries for at least two weeks in one trial (Barandika2023; not Bb; co-authors R. Fananas and E. Arroyo are employees of D+S-OABE, which partially funded the study, disclosed in the COI section).
+**Catch-infect-release design proxies (fipronil trials)**
 
-Nestmate response to Bb-exposed social wasps varies by species:
+- Catch-treat-release with fipronil demonstrates the social-wasp design pattern (Buczkowski2024).
+- Protein bait with 0.01% fipronil reduced *V. velutina* pressure at apiaries for at least two weeks in one trial (Barandika2023; co-authors R. Fananas and E. Arroyo are employees of D+S-OABE, which partially funded the study, disclosed in the COI section).
+
+**Nestmate response to Bb-exposed social insects**
 
 - *Mischocyttarus metathoracicus*: cuticular hydrocarbon (CHC) profiles similar 24 h after Boveril exposure; nestmates did not discriminate exposed from unexposed individuals (DeSouza2023).
-- *Polistes dominula*: Bb altered CHC profiles and increased aggression toward exposed nestmates, interpreted as exclusion of infected individuals from the nest (DeFazi2025).
+- *Polistes dominula*: Bb altered CHC profiles and increased aggression toward exposed nestmates (DeFazi2025).
 - Stingless bees: *Tetragonisca* guards exclude pathogen-exposed nestmates (Almeida2022ao; proxy).
 - Ants: susceptibility and autogrooming vary; concentrations about six orders of magnitude above natural levels did not give 100% mortality (Bos2019).
 
-Santos2026 found bee pathogens in all sampled *V. velutina* stages, supporting a shared nest compartment. The required load (spores per returning forager) for introducing Bb into a *V. velutina* nest remains an open question.
+**Shared nest compartment (*V. velutina*)**
+
+- Santos2026 found bee pathogens in all sampled *V. velutina* stages, supporting a shared nest compartment.
+- The required load (spores per returning forager) for introducing Bb into a *V. velutina* nest remains an open question.
 
 ## 5 Fungal growth on the Vvel
 
-Germination on the cuticle and sporulation after death both require high moisture (Zimmermann2007). Optimum temperature for Bb is about 23-28 °C; isolate-dependent minimum is about 5-10 °C, maximum about 30-38 °C (Zimmermann2007). The Poidatz foundress isolate was better adapted to intermediate temperatures (Poidatz2019). Fu2026 isolate WZS5 (melon fly proxy) remained active at 35 °C with half dead by day 5 at 1.0 × 10⁸ spores mL⁻¹.
+**Temperature and moisture (general Bb)**
 
-In honey-bee hives, in-hive temperature near 35 °C abolished germination of formulated spores while forager mortality was high at 25 °C (Peng2020ao; honey-bee nest climate, not *V. velutina*). Nest temperature and relative humidity of *V. velutina* are an open question. Nest paper of *P. dominula* is hydrophobic (VanZyl2024).
+- Germination on the cuticle and sporulation after death both require high moisture (Zimmermann2007).
+- Optimum temperature for Bb is about 23-28 °C; isolate-dependent minimum is about 5-10 °C, maximum about 30-38 °C (Zimmermann2007).
+- The Poidatz foundress isolate was better adapted to intermediate temperatures (Poidatz2019).
+- Fu2026 isolate WZS5 (melon fly proxy) remained active at 35 °C with half dead by day 5 at 1.0 × 10⁸ spores mL⁻¹.
+
+**Nest climate**
+
+- Honey-bee hives: in-hive temperature near 35 °C abolished germination of formulated spores while forager mortality was high at 25 °C (Peng2020ao; honey-bee nest climate proxy).
+- Nest temperature and relative humidity of *V. velutina* are an open question.
+- Nest paper of *P. dominula* is hydrophobic (VanZyl2024).
 
 ## 6 Effect of fungi on Vespidae nests
 
-Colonies remove sick individuals, isolate the dead, and can compensate with more brood; capped cells may shelter pupae (Rose1999). A contaminated returning forager alone is insufficient for nest collapse.
+Colonies remove sick individuals, isolate the dead, and can compensate with more brood; capped cells may shelter pupae (Rose1999). [project inference] A contaminated returning forager alone is insufficient for nest collapse.
 
-Documented colony-level Bb outcomes in social wasps:
+**Colony-level Bb outcomes in social wasps**
 
 - *P. dominula* in lab/colony boxes: colony failure after topical Naturalis, with brood ejection and reduced foundress reproduction (Cappa2024).
 - *M. metathoracicus*: half died by day 19 with no avoidance behaviour; the authors flag a possible threat to colony survival (DeSouza2023).
-- *P. dominula* / *V. germanica* field nests: inundative spray, fungal mixture performed better than Bb alone, pupae largely spared (VanZyl2024).
+- *P. dominula* / *V. germanica* field nests: inundative spray; EPF+EPN mixture performed better than Bb alone; pupae largely spared (VanZyl2024).
 - *P. chinensis*: oral *Beauveria malawiensis* at 2.68 × 10⁶ cfu mL⁻¹ raised adult mortality across three treatment nests (Reason2022).
 
 ## Where things stand
