@@ -80,4 +80,4 @@ Plain-language explanations for terms that appear in this review but sit outside
 
 ---
 
-Workflow glossary for collaborators: [CONTEXT.md](../../CONTEXT.md).
+Workflow glossary for collaborators: [workflow.md](workflow.md).

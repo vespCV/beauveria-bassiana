@@ -10,7 +10,7 @@ disable-model-invocation: true
 
 # Consensus coverage check
 
-Gap-check one Consensus.app pass against the systematic review search strategy. Consensus is **not** systematic evidence or PRISMA input. See `docs/adr/0011-consensus-coverage-check.md` and **Consensus coverage check** in `CONTEXT.md`.
+Gap-check one Consensus.app pass against the systematic review search strategy. Consensus is **not** systematic evidence or PRISMA input. See `docs/adr/0011-consensus-coverage-check.md` and **Consensus coverage check** in `results/attachments/workflow.md`.
 
 ## Scope
 

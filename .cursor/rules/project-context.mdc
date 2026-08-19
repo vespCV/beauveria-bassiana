@@ -21,7 +21,7 @@ alwaysApply: true
 - Motivation taxon: _Vespa velutina_ (geelpoothoornaar). Never use “Aziatische hoornaar” in Dutch prose.
 - Delivery pathway name for Dutch and overview prose: **catch-infect-release** (selectieve val; 1- of 2-weg dispenser and/or suiker-/proteïnebaait; insect takes up conidia and returns to the nest).
 - Success endpoint for synthesis: **colony weakening** (less current damage; fewer queens and drones for the next year). Individual mortality, sublethal behaviour change, and failed infection after immune clearance are reportable outcomes.
-- Technical device exclusivity (vision-gated confirmation) remains a decision-brief design option under `CONTEXT.md`; overview prose uses catch-infect-release unless the user asks for decision-brief vocabulary.
+- Technical device exclusivity (vision-gated confirmation) remains a decision-brief design option under `results/attachments/workflow.md`; overview prose uses catch-infect-release unless the user asks for decision-brief vocabulary.
 
 **Primary question**
 - Begin by identifying relevant commercial products (category `01-existing-products`) using authoritative sources:
@@ -47,7 +47,7 @@ When updating `temp/overview/` prose (including `nederlandse-samenvatting.md`) a
 4. **Evidence-selection bias**: Studies framed as nontarget-safety often report little Bb effect on bees/beneficials; studies framed as controlling those taxa often report mortality. State that tension when both appear. Note when bee-vector or varroa papers omit bee mortality. Flag industry funding on sparse _V. velutina_ rows when the annotation or paper states it.
 5. **Social pathway caveats**: Species differ in avoidance, aggression, hygienic removal, and brood compensation. Report colony-level outcomes on their own terms. Hairy pollinators and 1-/2-way dispensers (e.g. bumblebee vectoring) are delivery-system evidence; label the taxon band.
 6. **Formulation constraints**: UV inactivation, short field half-life, oil/encapsulation for RH/heat/UV, and nest microclimate (temperature, humidity) belong in the nestpad section when supported by a cite.
-7. **Language**: Use conidia; catch-infect-release / selectieve val / dispenser / bait; _V. velutina_ in Dutch as **geelpoothoornaar**. Style: `.cursor/docs/wetenschapscommunicatie.md`. Domain terms: `CONTEXT.md`. Follow **No "not" prose** in `.cursor/rules/interaction-style.mdc`.
+7. **Language**: Use conidia; catch-infect-release / selectieve val / dispenser / bait; _V. velutina_ in Dutch as **geelpoothoornaar**. Style: `.cursor/docs/wetenschapscommunicatie.md`. Domain terms: `results/attachments/workflow.md`. Follow **No "not" prose** in `.cursor/rules/interaction-style.mdc`.
 8. **No go-ladder**: Overview drafts stay descriptive. No go / conditional-go / no-go unless the user explicitly asks for a decision brief.
 9. **Mandatory sources block**: End every overview revision with `### Bronnen voor deze tekst (project)` listing consensus/notes paths, annotation citekeys used, prior overview/handoff/research paths, and the style guide path. Prefer citekeys that match `notes/beauveria-bassiana/zotero/` when present. Do not invent DOIs or outcomes.
 10. **User text wins**: Never reverse user wording in overview drafts. Re-read the on-disk file before editing; merge only what the user asked.
@@ -61,7 +61,7 @@ When updating `temp/overview/` prose (including `nederlandse-samenvatting.md`) a
 - Deduplicated corpus for ASReview / title-abstract selection: `input-phase1/`.
 - Phase gate (all required before `@file-pdfs` / inventory / PRISMA E updates): `input-phase2/relevant_articles_categorized.csv`, `input-phase2/pdfs_download_links.md`, and a README with study-selection / PRISMA skeleton (`docs/adr/0001-phase-gated-agent-workflows.md`).
 
-Search strategy authority: `notes/beauveria-bassiana/` (agents edit only when the user explicitly allows). This rule must stay aligned with those notes; on conflict, notes win. Domain terms: `CONTEXT.md`. Category ids: **Screening category** in `CONTEXT.md`.
+Search strategy authority: `notes/beauveria-bassiana/` (agents edit only when the user explicitly allows). This rule must stay aligned with those notes; on conflict, notes win. Domain terms: `results/attachments/workflow.md`. Category ids: **Screening category** in `results/attachments/workflow.md`.
 
 ## Done when
 Deliverables are done
@@ -84,7 +84,7 @@ Deliverables are done
 |------|------|
 | `notes/beauveria-bassiana/` | Search strategy source. Maintained in Obsidian; human-readable without Cursor (no ADRs / `.cursor` / `@skills` / `temp/` in note text). Agents edit only when the user explicitly allows. |
 | `notes/beauveria-bassiana/zotero/` | Obsidian Zotero annotation exports (citekey markdown). Prefer these over regenerating annotation files. |
-| `CONTEXT.md` | Domain glossary for this review. |
+| `results/attachments/workflow.md` | Domain glossary for this review. |
 | `docs/adr/` | Architecture / workflow decisions. |
 | `input-phase0/input-rayyan/` | Tracked raw database exports for Rayyan unduplication (RIS, XML, NBIB, CSV, etc.). |
 | `input-phase0/input-cc-rr/` | CitationChaser and ResearchRabbit seed inputs. |

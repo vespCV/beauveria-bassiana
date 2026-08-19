@@ -16,8 +16,8 @@ alwaysApply: true
 
 Treat as fact only:
 
-- Paths and ids that exist on disk, or that are named in `project-context.mdc` (Layout / Current phase), `CONTEXT.md`, or `docs/adr/`.
-- Screening category ids defined under **Screening category** in `CONTEXT.md`.
+- Paths and ids that exist on disk, or that are named in `project-context.mdc` (Layout / Current phase), `results/attachments/workflow.md`, or `docs/adr/`.
+- Screening category ids defined under **Screening category** in `results/attachments/workflow.md`.
 - Phase gate artifacts named under **Current phase** in `project-context.mdc` (all required before `@file-pdfs` / inventory / PRISMA E updates).
 - Claims cited to a concrete `(path)` or URL you opened.
 

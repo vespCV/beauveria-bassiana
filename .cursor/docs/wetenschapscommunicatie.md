@@ -76,7 +76,7 @@ Help a non-specialist reader understand a difficult fungus topic without drownin
 - Formulas and statistics: only if they earn space; translate what the number *means* for delivery or risk.
 - **Simplify, don't distort**: shorten framing; never invent mortality, transfer, or regulatory facts.
 
-Domain terms and avoid-lists live in `CONTEXT.md`. Match that language when a term is already defined there.
+Domain terms and avoid-lists live in `results/attachments/workflow.md`. Match that language when a term is already defined there.
 
 ---
 

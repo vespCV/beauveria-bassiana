@@ -14,13 +14,13 @@ Can a fungus weaken a hornet colony from the inside? This review collects the ev
 ## Summary
 
 1. **EU products and NL use.** Six Bb strains hold EU active-substance approval. Whether any product is authorised in the Netherlands for trap or bait delivery is on the to-do list.
-2. **Kill or weaken *V. velutina*.** One Bb isolate from a wild foundress killed hornets in the lab (half died in about 6 days); field efficacy on *V. velutina* colonies remains untested.
-3. **Selective delivery.** Both passage-contact dispensers and sugar/protein baits load spores onto insects in lab and field trials, but neither has been validated for *V. velutina*.
+2. **Kill or weaken *V. velutina*.** One Bb isolate from a wild foundress killed hornets in the lab (half died in about 6 days); field efficacy of commercial available Bb and on *V. velutina* colonies remains untested.
+3. **Selective delivery.** Both passage-contact dispensers and sugar/protein baits load spores onto insects in lab and field trials. Protein baits has been validated for *V. velutina* and 0.01% fipronil (Barandika2023). No studies with fungi.
 4. **Horizontal transfer to nestmates.** Social wasps transfer spores by contact; species differ in nestmate response to exposed individuals (recognition, aggression, avoidance). The minimum spore load a returning *V. velutina* forager must carry is unknown.
 5. **Fungal growth in the nest.** Bb grows best at 23-28 °C with high humidity; nest temperature and humidity of *V. velutina* have yet to be measured.
 6. **Colony-level impact.** Bb caused colony failure in *Polistes dominula* in the lab; colony weakening or collapse from catch-infect-release in *V. velutina* is an open question.
 
-**Note:** Direct data on *V. velutina* and Bb are scarce. Where hornet data are missing, studies were collected from related wasps, bees, and beetles. These were supplemented with other, less related insects (see [phylogenetic tree](results/attachments/phylogenetic-tree.md)) as `proxies`, and labeled as such. Tags: `ao` on a citekey (e.g. Peng2020ao) = abstract-only here, full PDF requested ([pdf request list](input-phase2/pdfs_request_list.md)); `abstract` = same evidence level when the citekey has no `ao` suffix; `[project inference]` = synthesis across sources, not a single paper quote.
+**Note:** Direct research on *Vespa velutina* and *Beauveria bassiana* (Bb) is scarce. To fill this gap, evidence from related insects—such as other wasps, bees, and ants—has been included. Data from more distantly related species, which are often the focus of commercial Bb products, are labelled as `proxies` (see the [phylogenetic tree](results/attachments/phylogenetic-tree.md)). Workflow can be found in [workflow.md](results/attachments/workflow.md).
 
 ## Terms used in this review
 
@@ -33,8 +33,6 @@ Assay shorthand and jargon are expanded in the [glossary](results/attachments/gl
 | **Bb** | *Beauveria bassiana*. |
 | **ao** | Citekey suffix: evidence from the abstract only; full PDF not on disk yet ([pdf request list](input-phase2/pdfs_request_list.md)). |
 | **Proxy** | Related-species evidence, labelled because hornet data are missing. |
-
-Full list: [glossary](results/attachments/glossary.md). Workflow terms: [CONTEXT.md](CONTEXT.md).
 
 ## Research questions
 
@@ -52,16 +50,16 @@ Exact search strings: [search log](results/methods/search-log.md).
 Each row lists two links when both exist: **first** jumps to the summary section in this README, **second** opens the full literature extract in `results/`.
 
 - [Terms used in this review](#terms-used-in-this-review) · [glossary](results/attachments/glossary.md)
-- [Background](#background) · [background](results/background.md)
-- [1 EU-available products, strains and formulations](#1-eu-available-products-strains-and-formulations) · [eu-products](results/01-eu-products.md)
-- [2 Effect on Vvel, Vespidae, other Hymenoptera, other insects](#2-effect-on-vvel-vespidae-other-hymenoptera-other-insects) · [effects](results/02-effects.md)
-- [3 Mechanics and delivery](#3-mechanics-and-delivery) · [mechanics-delivery](results/03-mechanics-delivery.md)
-- [4 Horizontal spread in the Vvel nest](#4-horizontal-spread-in-the-vvel-nest) · [horizontal-spread](results/04-horizontal-spread.md)
-- [5 Fungal growth on the Vvel](#5-fungal-growth-on-the-vvel) · [fungal-growth](results/05-fungal-growth.md)
-- [6 Effect of fungi on Vespidae nests](#6-effect-of-fungi-on-vespidae-nests) · [nest-effects](results/06-nest-effects.md)
+- [Background](#background) ([background](results/background.md))
+- [1 EU-available products, strains and formulations](#1-eu-available-products-strains-and-formulations) ([eu-products](results/01-eu-products.md))
+- [2 Effect on Vvel, Vespidae, other Hymenoptera, other insects](#2-effect-on-vvel-vespidae-other-hymenoptera-other-insects) ([effects](results/02-effects.md))
+- [3 Mechanics and delivery](#3-mechanics-and-delivery) ([mechanics-delivery](results/03-mechanics-delivery.md))
+- [4 Horizontal spread in the Vvel nest](#4-horizontal-spread-in-the-vvel-nest) ([horizontal-spread](results/04-horizontal-spread.md))
+- [5 Fungal growth on the Vvel](#5-fungal-growth-on-the-vvel) ([fungal-growth](results/05-fungal-growth.md))
+- [6 Effect of fungi on Vespidae nests](#6-effect-of-fungi-on-vespidae-nests) ([nest-effects](results/06-nest-effects.md))
 - [Study selection](#study-selection)
-- [Methods lab journal](results/methods/journal.md) · [search log](results/methods/search-log.md) · [commercial affiliations](results/methods/commercial-affiliations.md)
-- [Attachments: glossary](results/attachments/glossary.md) · [phylogenetic tree](results/attachments/phylogenetic-tree.md)
+- Methods: [lab journal](results/methods/journal.md) [search log](results/methods/search-log.md) · [commercial affiliations](results/methods/commercial-affiliations.md)
+- Attachments: [glossary](results/attachments/glossary.md) · [phylogenetic tree](results/attachments/phylogenetic-tree.md)
 
 ## Background
 
@@ -87,20 +85,20 @@ Six Bb strains hold EU active-substance approval under Regulation (EC) No 1107/2
 
 **Crop spray trials (conventional crop use)**
 
-- BotaniGard ES (strain GHA): 48-71% chilli thrips reduction on roses (Aristizabal2017; abstract).
-- BotaniGard plant dips: 81-86% corrected whitefly mortality on mint (Aristizabal2018; abstract).
+- BotaniGard ES (GHA): 48-71% chilli thrips reduction on roses (Aristizabal2017; abstract).
+- BotaniGard (GHA) plant dips: 81-86% corrected whitefly mortality on mint (Aristizabal2018; abstract).
 
 **Product quality and batch variation**
 
-- balEnce germinated poorly where BotaniGard ES and Mycotrol O killed house flies (Weeks2016).
-- Velifer ES and BotaniGard ES killed tea shot-hole borer faster (6-8 d) than wettable-powder products; cadaver sporulation was highest on Velifer ES (Chavez2023; beetle proxy).
-- Even between batches of the same commercial product (Botanigard), ethanol tolerance, pathogenicity, and spore production differed (Moore2026).
+- balEnce (HF23) germinated poorly where BotaniGard ES (GHA) and Mycotrol O (GHA) killed house flies (Weeks2016).
+- Velifer ES (PPRI 5339) and BotaniGard ES (GHA) killed tea shot-hole borer faster (6-8 d) than wettable-powder products; cadaver sporulation was highest on Velifer ES (Chavez2023; beetle proxy).
+- Even between batches of the same commercial product (Botanigard, GHA), ethanol tolerance, pathogenicity, and spore production differed (Moore2026).
 
-## 2 Effect on Vvel, Vespidae, other Hymenoptera, other insects
+## 2 Effect on Vespa velutina, Vespidae, other Hymenoptera, other insects
 
 ### 2.1 V. velutina
 
-Direct evidence on *V. velutina* and Bb is limited to one isolate from a single research group:
+Direct evidence on *V. velutina* and Bb is limited to one isolate (wild strain) from a single research group:
 
 - Bb strain from a naturally infected foundress in Brittany; growth fastest at 20-28 °C, optimum about 20-22.6 °C (Poidatz2019; funded by Bayer Crop Science).
 - Lab bioassay of that isolate on adult hornets at about 10⁷ spores/mL: half died in 6.25 ± 0.67 days; direct inoculation gave the highest mortality (Poidatz2018). Application above 20 °C recommended.
@@ -126,7 +124,7 @@ Bb kills other social wasps in the lab, but results vary by species and life sta
 
 ### 2.3 Other Hymenoptera
 
-**Framing asymmetry.** 
+**Framing asymmetry** 
 
 - Safety-framed studies tend to report little Bb effect on bees (Zimmermann2007; Omuse2022; Meikle2008). 
 - Pathogenicity-framed studies report high mortality (Portilla2017; Leite2022) and sublethal disruption of nestmate recognition and cognition (Cappa2019; Carlesso2020). 
@@ -136,10 +134,10 @@ Bb kills other social wasps in the lab, but results vary by species and life sta
 
 - Honey bee contact mortality with ICIPE 284: at most 17.4% under hive-simulated conditions (Omuse2022).
 - Stingless bee *Meliponula ferruginea*: at most 11.0% (Omuse2022).
-- Lab contact and ingestion of commercial Bb reduced survival of *Apis mellifera* and *Bombus terrestris*; oral exposure can exceed topical (Leite2022).
+- Direct application and ingestion of commercial Bb reduced survival of *Apis mellifera* and *Bombus terrestris*; oral exposure can exceed topical (Leite2022).
 - Isolate NI8: 98.2% honey bee mortality at the highest lab concentration at 10 d (Portilla2017).
 - Hive-mounted bumblebee dispensers: detectable Bb on 97-99% of *Bombus impatiens* workers, no epizootic, no adverse colony impact (Al-Mazraawi2006; Bb from Emerald BioAgriculture, predecessor to Laverlam/BotaniGard).
-- Meikle2008: GHA material supplied by S.T. Jaronski of Mycotech Corp. (USDA-ARS study).
+- Meikle2008: mite fall increased with Bb05002 + carnauba wax carrier, but colony weight, adult mass, and brood were similar to controls. GHA material supplied by S.T. Jaronski of Mycotech Corp. (USDA-ARS study).
 
 **Hymenopteran proxy**
 
@@ -184,7 +182,7 @@ Two pickup modes sit side by side: contact on a passage surface (1- or 2-way dis
 - After simulated sunlight, spores showed a half-life of about 2 hours (Zimmermann2007).
 - An archaeal photolyase transgene raised spore survival after 4-7 h natural sunlight up to 44-fold and preserved virulence on *Anopheles gambiae* (Fang2012; engineered mosquito proxy).
 
-## 4 Horizontal spread in the Vvel nest
+## 4 Horizontal spread in the Vespa velutina nest
 
 **Catch-infect-release design proxies (fipronil trials)**
 
@@ -203,7 +201,7 @@ Two pickup modes sit side by side: contact on a passage surface (1- or 2-way dis
 - qPCR survey of 38 nests in Portugal: bee- and bumblebee-associated pathogens (DWV, *Nosema ceranae*, BQCV, CBPV, and others) occurred in larvae, pupae, adults and queens at similar prevalence. Authors attribute this mainly to **predation on infected prey** (bees fed to larvae), with additional routes via flowers and direct contact. Nests **bioaccumulate** bee pathogens over the season. The concern is **interspecific transmission and spillback** (hornet harbours replicative bee pathogens). The study does not address Bb or trap-delivered inoculum on returning foragers.
 - The required load (spores per returning forager) for introducing Bb into a *V. velutina* nest remains an open question.
 
-## 5 Fungal growth on the Vvel
+## 5 Fungal growth on the Vespa velutina
 
 **Temperature and moisture (general Bb)**
 
