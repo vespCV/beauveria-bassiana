@@ -48,7 +48,7 @@ Brownbridge2009: protein bait with wasp-active *Metarhizium* and *B. bassiana* i
 
 ## Shared nest compartment in *V. velutina*
 
-Santos2026: 38 nests in Portugal; honey-bee pathogens (DWV, CBPV, ABPV, BQCV, SBV, *Nosema ceranae*, *Lotmaria passim*) and bumblebee pathogens (*Apicystis bombi*, *Crithidia bombi*) across larvae, pupae, adults and queens; prevalence similar across stages. That is pathogen sharing in the nest. CFU of Bb on returning foragers and gate-keeping of Bb-exposed hornets: **[to be verified]**.
+Santos2026: 38 nests in Portugal; qPCR for honey-bee pathogens (DWV, CBPV, ABPV, BQCV, SBV, *Nosema ceranae*, *Lotmaria passim*) and bumblebee pathogens (*Apicystis bombi*, *Crithidia bombi*) in larvae, pupae, adults and queens; prevalence similar across stages. Primary route: predation on infected bees (prey fed to larvae); nests bioaccumulate bee pathogens seasonally. Concern: interspecific transmission and spillback (hornet as reservoir). Does not address Bb or trap-delivered worker inoculum. CFU of Bb on returning foragers and gate-keeping of Bb-exposed hornets: **[to be verified]**.
 
 Cappa2019: Bb-exposed honey bees had altered CHC and higher acceptance into foreign colonies.
 

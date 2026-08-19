@@ -4,7 +4,12 @@ Can a fungus weaken a hornet colony from the inside? This review collects the ev
 
 ## The idea story
 
-A *Vespa velutina* enters a selective trap. She drinks sugar bait or takes protein bait carrying *Beauveria bassiana* spores (conidia), or picks them up from the trap surface as she passes. She flies back to the nest. Nestmates pick up spores by contact. The spores grow through the cuticle into the body cavity. That can kill the hornet, alter her behaviour, or be cleared by her immune system. A dead hornet may sporulate and generate new conidia. The ideal outcome is colony collapse; the more realistic target is colony weakening: less damage this season, fewer queens and drones for the next.
+- A *Vespa velutina* enters a selective trap. 
+- She drinks sugar bait or takes protein bait carrying *Beauveria bassiana* spores (conidia), or picks them up from the trap surface as she passes. She flies back to the nest. 
+- Nestmates pick up spores by contact.
+- The spores grow through the cuticle into the body cavity. That can kill the hornet, alter her behaviour, or be cleared by her immune system. 
+- A dead hornet may sporulate and generate new conidia. 
+- The ideal outcome is colony collapse. The more realistic target is colony weakening: less damage this season, fewer queens and drones for the next.
 
 ## Summary
 
@@ -15,7 +20,7 @@ A *Vespa velutina* enters a selective trap. She drinks sugar bait or takes prote
 5. **Fungal growth in the nest.** Bb grows best at 23-28 °C with high humidity; nest temperature and humidity of *V. velutina* have yet to be measured.
 6. **Colony-level impact.** Bb caused colony failure in *Polistes dominula* in the lab; colony weakening or collapse from catch-infect-release in *V. velutina* is an open question.
 
-**Note:** direct data on *V. velutina* and Bb are scarce. Where hornet data are missing, this review therefore includes studies of related wasps, bees, beetles, and other insects as proxies, and labels them as such. Tags: `ao` on a citekey (e.g. Peng2020ao) = abstract-only here, full PDF requested ([pdf request list](input-phase2/pdfs_request_list.md)); `abstract` = same evidence level when the citekey has no `ao` suffix; `[project inference]` = synthesis across sources, not a single paper quote.
+**Note:** Direct data on *V. velutina* and Bb are scarce. Where hornet data are missing, studies were collected from related wasps, bees, and beetles. These were supplemented with other, less related insects (see [phylogenetic tree](results/attachments/phylogenetic-tree.md)) as `proxies`, and labeled as such. Tags: `ao` on a citekey (e.g. Peng2020ao) = abstract-only here, full PDF requested ([pdf request list](input-phase2/pdfs_request_list.md)); `abstract` = same evidence level when the citekey has no `ao` suffix; `[project inference]` = synthesis across sources, not a single paper quote.
 
 ## Terms used in this review
 
@@ -43,6 +48,8 @@ Full list: [glossary](results/attachments/glossary.md). Workflow terms: [CONTEXT
 Exact search strings: [search log](results/methods/search-log.md).
 
 ## Index
+
+Each row lists two links when both exist: **first** jumps to the summary section in this README, **second** opens the full literature extract in `results/`.
 
 - [Terms used in this review](#terms-used-in-this-review) · [glossary](results/attachments/glossary.md)
 - [Background](#background) · [background](results/background.md)
@@ -87,7 +94,7 @@ Six Bb strains hold EU active-substance approval under Regulation (EC) No 1107/2
 
 - balEnce germinated poorly where BotaniGard ES and Mycotrol O killed house flies (Weeks2016).
 - Velifer ES and BotaniGard ES killed tea shot-hole borer faster (6-8 d) than wettable-powder products; cadaver sporulation was highest on Velifer ES (Chavez2023; beetle proxy).
-- Even between batches of the same commercial product, ethanol tolerance, pathogenicity, and spore production differed (Moore2026).
+- Even between batches of the same commercial product (Botanigard), ethanol tolerance, pathogenicity, and spore production differed (Moore2026).
 
 ## 2 Effect on Vvel, Vespidae, other Hymenoptera, other insects
 
@@ -98,7 +105,7 @@ Direct evidence on *V. velutina* and Bb is limited to one isolate from a single 
 - Bb strain from a naturally infected foundress in Brittany; growth fastest at 20-28 °C, optimum about 20-22.6 °C (Poidatz2019; funded by Bayer Crop Science).
 - Lab bioassay of that isolate on adult hornets at about 10⁷ spores/mL: half died in 6.25 ± 0.67 days; direct inoculation gave the highest mortality (Poidatz2018). Application above 20 °C recommended.
 
-**Related agent (*Metarhizium robertsii*)**
+**An other entomopathogenic fungus (*Metarhizium robertsii*)**
 
 - *V. velutina*, *Vespula vulgaris*, and *Bombus terrestris*: hornets consistently the most susceptible, even at low spore concentrations (Lacombrade2025; CIFRE doctoral co-funding with M2i Biocontrol, disclosed in COI section as non-influential).
 
@@ -119,7 +126,11 @@ Bb kills other social wasps in the lab, but results vary by species and life sta
 
 ### 2.3 Other Hymenoptera
 
-**Framing asymmetry.** Safety-framed studies tend to report little Bb effect on bees (Zimmermann2007; Omuse2022; Meikle2008). Pathogenicity-framed studies report high mortality (Portilla2017; Leite2022) and sublethal disruption of nestmate recognition and cognition (Cappa2019; Carlesso2020). Leite2022 flags the tension: hive-level varroa studies found no colony damage while individual-level lab assays on the same fungus found considerable mortalities.
+**Framing asymmetry.** 
+
+- Safety-framed studies tend to report little Bb effect on bees (Zimmermann2007; Omuse2022; Meikle2008). 
+- Pathogenicity-framed studies report high mortality (Portilla2017; Leite2022) and sublethal disruption of nestmate recognition and cognition (Cappa2019; Carlesso2020). 
+- Leite2022 flags the tension: hive-level varroa studies found no colony damage while individual-level lab assays on the same fungus found considerable mortalities.
 
 **Selected outcomes**
 
@@ -187,9 +198,9 @@ Two pickup modes sit side by side: contact on a passage surface (1- or 2-way dis
 - Stingless bees: *Tetragonisca* guards exclude pathogen-exposed nestmates (Almeida2022ao; proxy).
 - Ants: susceptibility and autogrooming vary; concentrations about six orders of magnitude above natural levels did not give 100% mortality (Bos2019).
 
-**Shared nest compartment (*V. velutina*)**
+**Bee pathogen carriage in *V. velutina* nests (Santos2026)**
 
-- Santos2026 found bee pathogens in all sampled *V. velutina* stages, supporting a shared nest compartment.
+- qPCR survey of 38 nests in Portugal: bee- and bumblebee-associated pathogens (DWV, *Nosema ceranae*, BQCV, CBPV, and others) occurred in larvae, pupae, adults and queens at similar prevalence. Authors attribute this mainly to **predation on infected prey** (bees fed to larvae), with additional routes via flowers and direct contact. Nests **bioaccumulate** bee pathogens over the season. The concern is **interspecific transmission and spillback** (hornet harbours replicative bee pathogens). The study does not address Bb or trap-delivered inoculum on returning foragers.
 - The required load (spores per returning forager) for introducing Bb into a *V. velutina* nest remains an open question.
 
 ## 5 Fungal growth on the Vvel

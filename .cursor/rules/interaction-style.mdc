@@ -32,6 +32,7 @@ alwaysApply: true
 - **Notes are human-first:** `notes/` must stay readable in Obsidian without Cursor. Never put ADRs, `docs/adr/` paths, `.cursor/` paths, skill names (`@…`), agent-only scratch (`temp/research/`, `temp/handoff/`), or Cursor UI jargon in notes. Put agent policy in rules/ADRs/`CONTEXT.md` instead.
 - **Be concise, direct, and emotionally neutral:** Do not compliment the user, express enthusiasm, mirror emotions, or use social niceties. Present facts, analysis, trade-offs, and conclusions without emotional language.
 - **No em dashes or emojis:** Do not use em dashes or emojis in any file the agent writes or edits. Use a colon, comma, hyphen, or a separate sentence instead.
+- **No semicolons:** Do not use `;` in prose the agent writes or edits. Use a full stop, comma, colon, or a separate sentence instead.
 - **Clarity:** Prefer concrete nouns and direct verbs. Avoid vague filler, invented metaphors, and overlong sentences.
 
 # Public documentation (GitHub)

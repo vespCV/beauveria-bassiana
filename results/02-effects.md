@@ -26,7 +26,7 @@ LT50 across isolates 5.8 ± 0.44 d; isolate B 6.25 ± 0.67 d (Poidatz2018). LC50
 
 Lacombrade2025 compared *V. velutina*, *Vespula vulgaris* and *Bombus terrestris* after *Metarhizium robertsii* exposure: hornets had lower survival even at low spore concentrations. Funding ADEME/ANRT CIFRE; M2i Biocontrol stated as non-influential on analysis (Lacombrade2025). Agent: *M. robertsii*.
 
-Santos2026: bee and bumblebee pathogens in 38 *V. velutina* nests across larvae, pupae, adults and queens (shared nest compartment). Turchi2018 reviews control options; poisoned baits scored high efficiency for *Vespula*, unknown for *V. velutina*. Barandika2023, Edwards2017, Buczkowski2024 are chemical-bait or catch-treat-release designs (chapter 04).
+Santos2026: bee and bumblebee pathogens in 38 *V. velutina* nests across larvae, pupae, adults and queens; predation on infected prey as main acquisition route, nests as seasonal bioaccumulators, spillback concern. Turchi2018 reviews control options; poisoned baits scored high efficiency for *Vespula*, unknown for *V. velutina*. Barandika2023, Edwards2017, Buczkowski2024 are chemical-bait or catch-treat-release designs (chapter 04).
 
 ## Vespidae
 

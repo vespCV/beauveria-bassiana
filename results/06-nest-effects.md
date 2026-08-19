@@ -32,7 +32,7 @@ FeasSanchez2019 winter nests in Galicia:
 
 Small numbers of gynes are enough to found next year (FeasSanchez2019).
 
-Santos2026: bee pathogens present in queens as well as workers, larvae and pupae (possible vertical path). Villemant2015: mermithid nematodes in French *V. velutina*. Kim2025: *Xenos* strepsipterans on *V. velutina* workers in South Korea. Kosaka2026: *Sphaerularia vespae* sterilizes overwintered queen hornets in native *Vespa* spp. Felden2020: mite-associated fungi and viruses in diseased *Vespula* nests. Yang2026: *Serratia* associated with *Vespa analis* larval death.
+Santos2026: bee pathogens in queens, workers, larvae and pupae; predation-fed larvae and possible vertical transmission within the hornet nest; spillback reservoir concern, separate from Bb catch-infect-release. Villemant2015: mermithid nematodes in French *V. velutina*. Kim2025: *Xenos* strepsipterans on *V. velutina* workers in South Korea. Kosaka2026: *Sphaerularia vespae* sterilizes overwintered queen hornets in native *Vespa* spp. Felden2020: mite-associated fungi and viruses in diseased *Vespula* nests. Yang2026: *Serratia* associated with *Vespa analis* larval death.
 
 ## Catch-infect-release endpoint still open
 
